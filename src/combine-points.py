@@ -1,12 +1,9 @@
-import os
-import sys
-import hashlib
 import pandas as pd
 
-START_YEAR = 2021
+START_YEAR = 2011
 
 # 2011 - 2021 -> 10 years, ignore 2022 because only Wimbledon data is out
-for year in range(2):
+for year in range(11):
     current_year = START_YEAR + year
     print(current_year)
     filename = f"{current_year}-combined-points.csv"

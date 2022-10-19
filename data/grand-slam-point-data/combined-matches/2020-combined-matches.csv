@@ -1,0 +1,1010 @@
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2
+0,2020-ausopen-1101,2020,ausopen,1101,R. Nadal,H. Dellien,,,,,,,,,ESP,BOL
+1,2020-ausopen-1102,2020,ausopen,1102,F. Delbonis,J. Sousa,,,,,,,,,ARG,POR
+2,2020-ausopen-1103,2020,ausopen,1103,C. Eubanks,P. Gojowczyk,,,,,,,,,USA,GER
+3,2020-ausopen-1104,2020,ausopen,1104,J. Kovalik,P. Carreno Busta,,,,,,,,,SVK,ESP
+4,2020-ausopen-1105,2020,ausopen,1105,N. Kyrgios,L. Sonego,,,,,,,,,AUS,ITA
+5,2020-ausopen-1106,2020,ausopen,1106,P. Cuevas,G. Simon,,,,,,,,,URU,FRA
+6,2020-ausopen-1107,2020,ausopen,1107,Y. Uchiyama,M. Ymer,,,,,,,,,JPN,SWE
+7,2020-ausopen-1108,2020,ausopen,1108,M. Vilella Martinez,K. Khachanov,,,,,,,,,ESP,RUS
+8,2020-ausopen-1109,2020,ausopen,1109,G. Monfils,Y. Lu,,,,,,,,,FRA,TPE
+9,2020-ausopen-1110,2020,ausopen,1110,I. Karlovic,V. Pospisil,,,,,,,,,CRO,CAN
+10,2020-ausopen-1111,2020,ausopen,1111,J. Duckworth,A. Bedene,,,,,,,,,AUS,SLO
+11,2020-ausopen-1112,2020,ausopen,1112,E. Gulbis,F. Auger-Aliassime,,,,,,,,,LAT,CAN
+12,2020-ausopen-1113,2020,ausopen,1113,T. Fritz,T. Griekspoor,,,,,,,,,USA,NED
+13,2020-ausopen-1114,2020,ausopen,1114,I. Ivashka,K. Anderson,,,,,,,,,BLR,RSA
+14,2020-ausopen-1115,2020,ausopen,1115,A. Bolt,A. Ramos-Vinolas,,,,,,,,,AUS,ESP
+15,2020-ausopen-1116,2020,ausopen,1116,A. Mannarino,D. Thiem,,,,,,,,,FRA,AUT
+16,2020-ausopen-1117,2020,ausopen,1117,D. Medvedev,F. Tiafoe,,,,,,,,,RUS,USA
+17,2020-ausopen-1118,2020,ausopen,1118,D. Koepfer,P. Martinez,,,,,,,,,GER,ESP
+18,2020-ausopen-1119,2020,ausopen,1119,H. Gaston,J. Munar,,,,,,,,,FRA,ESP
+19,2020-ausopen-1120,2020,ausopen,1120,A. Popyrin,J. Tsonga,,,,,,,,,AUS,FRA
+20,2020-ausopen-1121,2020,ausopen,1121,J. Isner,T. Monteiro,,,,,,,,,USA,BRA
+21,2020-ausopen-1122,2020,ausopen,1122,A. Tabilo,D. Galan,,,,,,,,,CHI,COL
+22,2020-ausopen-1123,2020,ausopen,1123,M. Kecmanovic,A. Seppi,,,,,,,,,SRB,ITA
+23,2020-ausopen-1124,2020,ausopen,1124,D. Dzumhur,S. Wawrinka,,,,,,,,,BIH,SUI
+24,2020-ausopen-1125,2020,ausopen,1125,D. Goffin,J. Chardy,,,,,,,,,BEL,FRA
+25,2020-ausopen-1126,2020,ausopen,1126,P. Herbert,C. Norrie,,,,,,,,,FRA,GBR
+26,2020-ausopen-1127,2020,ausopen,1127,Y. Sugita,E. Benchetrit,,,,,,,,,JPN,FRA
+27,2020-ausopen-1128,2020,ausopen,1128,C. O'Connell,A. Rublev,,,,,,,,,AUS,RUS
+28,2020-ausopen-1129,2020,ausopen,1129,N. Basilashvili,S. Kwon,,,,,,,,,GEO,KOR
+29,2020-ausopen-1130,2020,ausopen,1130,F. Verdasco,E. Donskoy,,,,,,,,,ESP,RUS
+30,2020-ausopen-1131,2020,ausopen,1131,C. Ruud,E. Gerasimov,,,,,,,,,NOR,BLR
+31,2020-ausopen-1132,2020,ausopen,1132,M. Cecchinato,A. Zverev,,,,,,,,,ITA,GER
+32,2020-ausopen-1133,2020,ausopen,1133,M. Berrettini,A. Harris,,,,,,,,,ITA,AUS
+33,2020-ausopen-1134,2020,ausopen,1134,T. Sandgren,M. Trungelliti,,,,,,,,,USA,ARG
+34,2020-ausopen-1135,2020,ausopen,1135,R. Carballes Baena,R. Berankis,,,,,,,,,ESP,LTU
+35,2020-ausopen-1136,2020,ausopen,1136,S. Querrey,B. Coric,,,,,,,,,USA,CRO
+36,2020-ausopen-1137,2020,ausopen,1137,G. Pella,J. Smith,,,,,,,,,ARG,AUS
+37,2020-ausopen-1138,2020,ausopen,1138,M. Safwat,G. Barrere,,,,,,,,,EGY,FRA
+38,2020-ausopen-1139,2020,ausopen,1139,J. Thompson,A. Bublik,,,,,,,,,AUS,KAZ
+39,2020-ausopen-1140,2020,ausopen,1140,R. Opelka,F. Fognini,,,,,,,,,USA,ITA
+40,2020-ausopen-1141,2020,ausopen,1141,D. Shapovalov,M. Fucsovics,,,,,,,,,CAN,HUN
+41,2020-ausopen-1142,2020,ausopen,1142,J. Sinner,M. Purcell,,,,,,,,,ITA,AUS
+42,2020-ausopen-1143,2020,ausopen,1143,L. Mayer,T. Paul,,,,,,,,,ARG,USA
+43,2020-ausopen-1144,2020,ausopen,1144,J. Londero,G. Dimitrov,,,,,,,,,ARG,BUL
+44,2020-ausopen-1145,2020,ausopen,1145,H. Hurkacz,D. Novak,,,,,,,,,POL,AUT
+45,2020-ausopen-1146,2020,ausopen,1146,J. Millman,U. Humbert,,,,,,,,,AUS,FRA
+46,2020-ausopen-1147,2020,ausopen,1147,Q. Halys,F. Krajinovic,,,,,,,,,FRA,SRB
+47,2020-ausopen-1148,2020,ausopen,1148,S. Johnson,R. Federer,,,,,,,,,USA,SUI
+48,2020-ausopen-1149,2020,ausopen,1149,S. Tsitsipas,S. Caruso,,,,,,,,,GRE,ITA
+49,2020-ausopen-1150,2020,ausopen,1150,P. Kohlschreiber,M. Giron,,,,,,,,,GER,USA
+50,2020-ausopen-1151,2020,ausopen,1151,C. Garin,S. Travaglia,,,,,,,,,CHI,ITA
+51,2020-ausopen-1152,2020,ausopen,1152,L. Giustino,M. Raonic,,,,,,,,,ITA,CAN
+52,2020-ausopen-1153,2020,ausopen,1153,B. Paire,C. Stebe,,,,,,,,,FRA,GER
+53,2020-ausopen-1154,2020,ausopen,1154,M. Cilic,C. Moutet,,,,,,,,,CRO,FRA
+54,2020-ausopen-1155,2020,ausopen,1155,P. Andujar,M. Mmoh,,,,,,,,,ESP,USA
+55,2020-ausopen-1156,2020,ausopen,1156,F. Lopez,R. Bautista Agut,,,,,,,,,ESP,ESP
+56,2020-ausopen-1157,2020,ausopen,1157,D. Schwartzman,L. Harris,,,,,,,,,ARG,RSA
+57,2020-ausopen-1158,2020,ausopen,1158,A. Davidovich Fokina,N. Gombos,,,,,,,,,ESP,SVK
+58,2020-ausopen-1159,2020,ausopen,1159,M. Polmans,M. Kukushkin,,,,,,,,,AUS,KAZ
+59,2020-ausopen-1160,2020,ausopen,1160,K. Edmund,D. Lajovic,,,,,,,,,GBR,SRB
+60,2020-ausopen-1161,2020,ausopen,1161,D. Evans,M. McDonald,,,,,,,,,GBR,USA
+61,2020-ausopen-1162,2020,ausopen,1162,Y. Nishioka,L. Djere,,,,,,,,,JPN,SRB
+62,2020-ausopen-1163,2020,ausopen,1163,T. Ito,P. Gunneswaran,,,,,,,,,JPN,IND
+63,2020-ausopen-1164,2020,ausopen,1164,J. Struff,N. Djokovic,,,,,,,,,GER,SRB
+64,2020-ausopen-1201,2020,ausopen,1201,R. Nadal,F. Delbonis,,,,,,,,,ESP,ARG
+65,2020-ausopen-1202,2020,ausopen,1202,P. Gojowczyk,P. Carreno Busta,,,,,,,,,GER,ESP
+66,2020-ausopen-1203,2020,ausopen,1203,N. Kyrgios,G. Simon,,,,,,,,,AUS,FRA
+67,2020-ausopen-1204,2020,ausopen,1204,M. Ymer,K. Khachanov,,,,,,,,,SWE,RUS
+68,2020-ausopen-1205,2020,ausopen,1205,G. Monfils,I. Karlovic,,,,,,,,,FRA,CRO
+69,2020-ausopen-1206,2020,ausopen,1206,A. Bedene,E. Gulbis,,,,,,,,,SLO,LAT
+70,2020-ausopen-1207,2020,ausopen,1207,T. Fritz,K. Anderson,,,,,,,,,USA,RSA
+71,2020-ausopen-1208,2020,ausopen,1208,A. Bolt,D. Thiem,,,,,,,,,AUS,AUT
+72,2020-ausopen-1209,2020,ausopen,1209,D. Medvedev,P. Martinez,,,,,,,,,RUS,ESP
+73,2020-ausopen-1210,2020,ausopen,1210,J. Munar,A. Popyrin,,,,,,,,,ESP,AUS
+74,2020-ausopen-1211,2020,ausopen,1211,J. Isner,A. Tabilo,,,,,,,,,USA,CHI
+75,2020-ausopen-1212,2020,ausopen,1212,A. Seppi,S. Wawrinka,,,,,,,,,ITA,SUI
+76,2020-ausopen-1213,2020,ausopen,1213,D. Goffin,P. Herbert,,,,,,,,,BEL,FRA
+77,2020-ausopen-1214,2020,ausopen,1214,Y. Sugita,A. Rublev,,,,,,,,,JPN,RUS
+78,2020-ausopen-1215,2020,ausopen,1215,N. Basilashvili,F. Verdasco,,,,,,,,,GEO,ESP
+79,2020-ausopen-1216,2020,ausopen,1216,E. Gerasimov,A. Zverev,,,,,,,,,BLR,GER
+80,2020-ausopen-1217,2020,ausopen,1217,M. Berrettini,T. Sandgren,,,,,,,,,ITA,USA
+81,2020-ausopen-1218,2020,ausopen,1218,R. Berankis,S. Querrey,,,,,,,,,LTU,USA
+82,2020-ausopen-1219,2020,ausopen,1219,G. Pella,G. Barrere,,,,,,,,,ARG,FRA
+83,2020-ausopen-1220,2020,ausopen,1220,J. Thompson,F. Fognini,,,,,,,,,AUS,ITA
+84,2020-ausopen-1221,2020,ausopen,1221,M. Fucsovics,J. Sinner,,,,,,,,,HUN,ITA
+85,2020-ausopen-1222,2020,ausopen,1222,T. Paul,G. Dimitrov,,,,,,,,,USA,BUL
+86,2020-ausopen-1223,2020,ausopen,1223,H. Hurkacz,J. Millman,,,,,,,,,POL,AUS
+87,2020-ausopen-1224,2020,ausopen,1224,F. Krajinovic,R. Federer,,,,,,,,,SRB,SUI
+88,2020-ausopen-1226,2020,ausopen,1226,C. Garin,M. Raonic,,,,,,,,,CHI,CAN
+89,2020-ausopen-1227,2020,ausopen,1227,B. Paire,M. Cilic,,,,,,,,,FRA,CRO
+90,2020-ausopen-1228,2020,ausopen,1228,M. Mmoh,R. Bautista Agut,,,,,,,,,USA,ESP
+91,2020-ausopen-1229,2020,ausopen,1229,D. Schwartzman,A. Davidovich Fokina,,,,,,,,,ARG,ESP
+92,2020-ausopen-1230,2020,ausopen,1230,M. Polmans,D. Lajovic,,,,,,,,,AUS,SRB
+93,2020-ausopen-1231,2020,ausopen,1231,D. Evans,Y. Nishioka,,,,,,,,,GBR,JPN
+94,2020-ausopen-1232,2020,ausopen,1232,T. Ito,N. Djokovic,,,,,,,,,JPN,SRB
+95,2020-ausopen-1301,2020,ausopen,1301,R. Nadal,P. Carreno Busta,,,,,,,,,ESP,ESP
+96,2020-ausopen-1302,2020,ausopen,1302,N. Kyrgios,K. Khachanov,,,,,,,,,AUS,RUS
+97,2020-ausopen-1303,2020,ausopen,1303,G. Monfils,E. Gulbis,,,,,,,,,FRA,LAT
+98,2020-ausopen-1304,2020,ausopen,1304,T. Fritz,D. Thiem,,,,,,,,,USA,AUT
+99,2020-ausopen-1305,2020,ausopen,1305,D. Medvedev,A. Popyrin,,,,,,,,,RUS,AUS
+100,2020-ausopen-1306,2020,ausopen,1306,J. Isner,S. Wawrinka,,,,,,,,,USA,SUI
+101,2020-ausopen-1307,2020,ausopen,1307,D. Goffin,A. Rublev,,,,,,,,,BEL,RUS
+102,2020-ausopen-1308,2020,ausopen,1308,F. Verdasco,A. Zverev,,,,,,,,,ESP,GER
+103,2020-ausopen-1309,2020,ausopen,1309,T. Sandgren,S. Querrey,,,,,,,,,USA,USA
+104,2020-ausopen-1310,2020,ausopen,1310,G. Pella,F. Fognini,,,,,,,,,ARG,ITA
+105,2020-ausopen-1311,2020,ausopen,1311,M. Fucsovics,T. Paul,,,,,,,,,HUN,USA
+106,2020-ausopen-1312,2020,ausopen,1312,J. Millman,R. Federer,,,,,,,,,AUS,SUI
+107,2020-ausopen-1313,2020,ausopen,1313,S. Tsitsipas,M. Raonic,,,,,,,,,GRE,CAN
+108,2020-ausopen-1314,2020,ausopen,1314,M. Cilic,R. Bautista Agut,,,,,,,,,CRO,ESP
+109,2020-ausopen-1315,2020,ausopen,1315,D. Schwartzman,D. Lajovic,,,,,,,,,ARG,SRB
+110,2020-ausopen-1316,2020,ausopen,1316,Y. Nishioka,N. Djokovic,,,,,,,,,JPN,SRB
+111,2020-ausopen-1401,2020,ausopen,1401,R. Nadal,N. Kyrgios,,,,,,,,,ESP,AUS
+112,2020-ausopen-1402,2020,ausopen,1402,G. Monfils,D. Thiem,,,,,,,,,FRA,AUT
+113,2020-ausopen-1403,2020,ausopen,1403,D. Medvedev,S. Wawrinka,,,,,,,,,RUS,SUI
+114,2020-ausopen-1404,2020,ausopen,1404,A. Rublev,A. Zverev,,,,,,,,,RUS,GER
+115,2020-ausopen-1405,2020,ausopen,1405,T. Sandgren,F. Fognini,,,,,,,,,USA,ITA
+116,2020-ausopen-1406,2020,ausopen,1406,M. Fucsovics,R. Federer,,,,,,,,,HUN,SUI
+117,2020-ausopen-1407,2020,ausopen,1407,M. Raonic,M. Cilic,,,,,,,,,CAN,CRO
+118,2020-ausopen-1408,2020,ausopen,1408,D. Schwartzman,N. Djokovic,,,,,,,,,ARG,SRB
+119,2020-ausopen-1501,2020,ausopen,1501,R. Nadal,D. Thiem,,,,,,,,,ESP,AUT
+120,2020-ausopen-1502,2020,ausopen,1502,S. Wawrinka,A. Zverev,,,,,,,,,SUI,GER
+121,2020-ausopen-1503,2020,ausopen,1503,T. Sandgren,R. Federer,,,,,,,,,USA,SUI
+122,2020-ausopen-1504,2020,ausopen,1504,M. Raonic,N. Djokovic,,,,,,,,,CAN,SRB
+123,2020-ausopen-1601,2020,ausopen,1601,D. Thiem,A. Zverev,,,,,,,,,AUT,GER
+124,2020-ausopen-1602,2020,ausopen,1602,R. Federer,N. Djokovic,,,,,,,,,SUI,SRB
+125,2020-ausopen-1701,2020,ausopen,1701,D. Thiem,N. Djokovic,,,,,,,,,AUT,SRB
+126,2020-ausopen-2101,2020,ausopen,2101,A. Barty,L. Tsurenko,,,,,,,,,AUS,UKR
+127,2020-ausopen-2102,2020,ausopen,2102,P. Hercog,R. Peterson,,,,,,,,,SLO,SWE
+128,2020-ausopen-2103,2020,ausopen,2103,A. Sasnovich,G. Minnen,,,,,,,,,BLR,BEL
+129,2020-ausopen-2104,2020,ausopen,2104,B. Pera,E. Rybakina,,,,,,,,,USA,KAZ
+130,2020-ausopen-2105,2020,ausopen,2105,A. Riske,Y. Wang,,,,,,,,,USA,CHN
+131,2020-ausopen-2106,2020,ausopen,2106,V. Golubic,L. Zhu,,,,,,,,,SUI,CHN
+132,2020-ausopen-2107,2020,ausopen,2107,J. Goerges,V. Kuzmova,,,,,,,,,GER,SVK
+133,2020-ausopen-2108,2020,ausopen,2108,C. McHale,P. Martic,,,,,,,,,USA,CRO
+134,2020-ausopen-2109,2020,ausopen,2109,M. Keys,D. Kasatkina,,,,,,,,,USA,RUS
+135,2020-ausopen-2110,2020,ausopen,2110,M. Linette,A. Rus,,,,,,,,,POL,NED
+136,2020-ausopen-2111,2020,ausopen,2111,N. Hibino,S. Peng,,,,,,,,,JPN,CHN
+137,2020-ausopen-2112,2020,ausopen,2112,M. Gasparyan,M. Sakkari,,,,,,,,,RUS,GRE
+138,2020-ausopen-2113,2020,ausopen,2113,E. Alexandrova,J. Teichmann,,,,,,,,,RUS,SUI
+139,2020-ausopen-2114,2020,ausopen,2114,K. Kanepi,B. Krejcikova,,,,,,,,,EST,CZE
+140,2020-ausopen-2115,2020,ausopen,2115,P. Badosa,J. Larsson,,,,,,,,,ESP,SWE
+141,2020-ausopen-2116,2020,ausopen,2116,K. Siniakova,P. Kvitova,,,,,,,,,CZE,CZE
+142,2020-ausopen-2117,2020,ausopen,2117,N. Osaka,M. Bouzkova,,,,,,,,,JPN,CZE
+143,2020-ausopen-2118,2020,ausopen,2118,S. Zheng,A. Kalinskaya,,,,,,,,,CHN,RUS
+144,2020-ausopen-2119,2020,ausopen,2119,V. Williams,C. Gauff,,,,,,,,,USA,USA
+145,2020-ausopen-2120,2020,ausopen,2120,S. Cirstea,B. Strycova,,,,,,,,,ROU,CZE
+146,2020-ausopen-2121,2020,ausopen,2121,S. Stephens,S. Zhang,,,,,,,,,USA,CHN
+147,2020-ausopen-2122,2020,ausopen,2122,S. Stosur,C. McNally,,,,,,,,,AUS,USA
+148,2020-ausopen-2123,2020,ausopen,2123,A. Li,L. Cabrera,,,,,,,,,USA,AUS
+149,2020-ausopen-2124,2020,ausopen,2124,M. Trevisan,S. Kenin,,,,,,,,,ITA,USA
+150,2020-ausopen-2125,2020,ausopen,2125,J. Konta,O. Jabeur,,,,,,,,,GBR,TUN
+151,2020-ausopen-2126,2020,ausopen,2126,M. Brengle,C. Garcia,,,,,,,,,USA,FRA
+152,2020-ausopen-2127,2020,ausopen,2127,K. Ahn,C. Wozniacki,,,,,,,,,USA,DEN
+153,2020-ausopen-2128,2020,ausopen,2128,K. Juvan,D. Yastremska,,,,,,,,,SLO,UKR
+154,2020-ausopen-2129,2020,ausopen,2129,Q. Wang,P. Parmentier,,,,,,,,,CHN,FRA
+155,2020-ausopen-2130,2020,ausopen,2130,F. Ferro,A. Van Uytvanck,,,,,,,,,FRA,BEL
+156,2020-ausopen-2131,2020,ausopen,2131,T. Zidansek,N. Han,,,,,,,,,SLO,KOR
+157,2020-ausopen-2132,2020,ausopen,2132,A. Potapova,S. Williams,,,,,,,,,RUS,USA
+158,2020-ausopen-2133,2020,ausopen,2133,B. Bencic,A. Schmiedlova,,,,,,,,,SUI,SVK
+159,2020-ausopen-2134,2020,ausopen,2134,L. Samsonova,J. Ostapenko,,,,,,,,,RUS,LAT
+160,2020-ausopen-2135,2020,ausopen,2135,S. Sorribes Tormo,V. Kudermetova,,,,,,,,,ESP,RUS
+161,2020-ausopen-2136,2020,ausopen,2136,A. Sharma,A. Kontaveit,,,,,,,,,AUS,EST
+162,2020-ausopen-2137,2020,ausopen,2137,D. Vekic,M. Sharapova,,,,,,,,,CRO,RUS
+163,2020-ausopen-2138,2020,ausopen,2138,A. Cornet,M. Niculescu,,,,,,,,,FRA,ROU
+164,2020-ausopen-2139,2020,ausopen,2139,I. Swiatek,T. Babos,,,,,,,,,POL,HUN
+165,2020-ausopen-2140,2020,ausopen,2140,C. Suárez Navarro,A. Sabalenka,,,,,,,,,ESP,BLR
+166,2020-ausopen-2141,2020,ausopen,2141,E. Mertens,D. Kovinic,,,,,,,,,BEL,MNE
+167,2020-ausopen-2142,2020,ausopen,2142,Kr. Pliskova,H. Watson,,,,,,,,,CZE,GBR
+168,2020-ausopen-2143,2020,ausopen,2143,C. Bellis,T. Maria,,,,,,,,,USA,GER
+169,2020-ausopen-2144,2020,ausopen,2144,K. Flipkens,K. Muchova,,,,,,,,,BEL,CZE
+170,2020-ausopen-2145,2020,ausopen,2145,D. Collins,V. Diatchenko,,,,,,,,,USA,RUS
+171,2020-ausopen-2146,2020,ausopen,2146,Y. Putintseva,S. Hsieh,,,,,,,,,KAZ,TPE
+172,2020-ausopen-2147,2020,ausopen,2147,H. Dart,M. Doi,,,,,,,,,GBR,JPN
+173,2020-ausopen-2148,2020,ausopen,2148,J. Brady,S. Halep,,,,,,,,,USA,ROU
+174,2020-ausopen-2149,2020,ausopen,2149,E. Svitolina,K. Boulter,,,,,,,,,UKR,GBR
+175,2020-ausopen-2150,2020,ausopen,2150,L. Davis,L. Fernandez,,,,,,,,,USA,CAN
+176,2020-ausopen-2151,2020,ausopen,2151,G. Muguruza,S. Rogers,,,,,,,,,ESP,USA
+177,2020-ausopen-2152,2020,ausopen,2152,A. Tomljanovic,A. Sevastova,,,,,,,,,AUS,LAT
+178,2020-ausopen-2153,2020,ausopen,2153,A. Anisimova,Z. Diyas,,,,,,,,,USA,KAZ
+179,2020-ausopen-2154,2020,ausopen,2154,J. Paolini,A. Blinkova,,,,,,,,,ITA,RUS
+180,2020-ausopen-2155,2020,ausopen,2155,K. Bondarenko,A. Rodionova,,,,,,,,,UKR,AUS
+181,2020-ausopen-2156,2020,ausopen,2156,I. Begu,K. Bertens,,,,,,,,,ROU,NED
+182,2020-ausopen-2157,2020,ausopen,2157,M. Vondrousova,S. Kuznetsova,,,,,,,,,CZE,RUS
+183,2020-ausopen-2158,2020,ausopen,2158,A. Lottner,C. Giorgi,,,,,,,,,GER,ITA
+184,2020-ausopen-2159,2020,ausopen,2159,K. Kozlova,P. Hon,,,,,,,,,UKR,AUS
+185,2020-ausopen-2160,2020,ausopen,2160,E. Cocciaretto,A. Kerber,,,,,,,,,ITA,GER
+186,2020-ausopen-2161,2020,ausopen,2161,A. Pavlyuchenkova,N. Stojanovic,,,,,,,,,RUS,SRB
+187,2020-ausopen-2162,2020,ausopen,2162,T. Townsend,J. Pegula,,,,,,,,,USA,USA
+188,2020-ausopen-2163,2020,ausopen,2163,L. Siegemund,C. Vandeweghe,,,,,,,,,GER,USA
+189,2020-ausopen-2164,2020,ausopen,2164,K. Mladenovic,Ka. Pliskova,,,,,,,,,FRA,CZE
+190,2020-ausopen-2201,2020,ausopen,2201,A. Barty,P. Hercog,,,,,,,,,AUS,SLO
+191,2020-ausopen-2202,2020,ausopen,2202,G. Minnen,E. Rybakina,,,,,,,,,BEL,KAZ
+192,2020-ausopen-2203,2020,ausopen,2203,A. Riske,L. Zhu,,,,,,,,,USA,CHN
+193,2020-ausopen-2204,2020,ausopen,2204,J. Goerges,P. Martic,,,,,,,,,GER,CRO
+194,2020-ausopen-2205,2020,ausopen,2205,M. Keys,A. Rus,,,,,,,,,USA,NED
+195,2020-ausopen-2206,2020,ausopen,2206,N. Hibino,M. Sakkari,,,,,,,,,JPN,GRE
+196,2020-ausopen-2207,2020,ausopen,2207,E. Alexandrova,B. Krejcikova,,,,,,,,,RUS,CZE
+197,2020-ausopen-2208,2020,ausopen,2208,P. Badosa,P. Kvitova,,,,,,,,,ESP,CZE
+198,2020-ausopen-2209,2020,ausopen,2209,N. Osaka,S. Zheng,,,,,,,,,JPN,CHN
+199,2020-ausopen-2210,2020,ausopen,2210,C. Gauff,S. Cirstea,,,,,,,,,USA,ROU
+200,2020-ausopen-2211,2020,ausopen,2211,S. Zhang,C. McNally,,,,,,,,,CHN,USA
+201,2020-ausopen-2212,2020,ausopen,2212,A. Li,S. Kenin,,,,,,,,,USA,USA
+202,2020-ausopen-2213,2020,ausopen,2213,O. Jabeur,C. Garcia,,,,,,,,,TUN,FRA
+203,2020-ausopen-2214,2020,ausopen,2214,C. Wozniacki,D. Yastremska,,,,,,,,,DEN,UKR
+204,2020-ausopen-2215,2020,ausopen,2215,Q. Wang,F. Ferro,,,,,,,,,CHN,FRA
+205,2020-ausopen-2216,2020,ausopen,2216,T. Zidansek,S. Williams,,,,,,,,,SLO,USA
+206,2020-ausopen-2217,2020,ausopen,2217,B. Bencic,J. Ostapenko,,,,,,,,,SUI,LAT
+207,2020-ausopen-2218,2020,ausopen,2218,S. Sorribes Tormo,A. Kontaveit,,,,,,,,,ESP,EST
+208,2020-ausopen-2219,2020,ausopen,2219,D. Vekic,A. Cornet,,,,,,,,,CRO,FRA
+209,2020-ausopen-2220,2020,ausopen,2220,I. Swiatek,C. Suárez Navarro,,,,,,,,,POL,ESP
+210,2020-ausopen-2221,2020,ausopen,2221,E. Mertens,H. Watson,,,,,,,,,BEL,GBR
+211,2020-ausopen-2222,2020,ausopen,2222,C. Bellis,K. Muchova,,,,,,,,,USA,CZE
+212,2020-ausopen-2223,2020,ausopen,2223,D. Collins,Y. Putintseva,,,,,,,,,USA,KAZ
+213,2020-ausopen-2224,2020,ausopen,2224,H. Dart,S. Halep,,,,,,,,,GBR,ROU
+214,2020-ausopen-2225,2020,ausopen,2225,E. Svitolina,L. Davis,,,,,,,,,UKR,USA
+215,2020-ausopen-2226,2020,ausopen,2226,G. Muguruza,A. Tomljanovic,,,,,,,,,ESP,AUS
+216,2020-ausopen-2227,2020,ausopen,2227,Z. Diyas,A. Blinkova,,,,,,,,,KAZ,RUS
+217,2020-ausopen-2228,2020,ausopen,2228,A. Rodionova,K. Bertens,,,,,,,,,AUS,NED
+218,2020-ausopen-2229,2020,ausopen,2229,S. Kuznetsova,C. Giorgi,,,,,,,,,RUS,ITA
+219,2020-ausopen-2230,2020,ausopen,2230,P. Hon,A. Kerber,,,,,,,,,AUS,GER
+220,2020-ausopen-2231,2020,ausopen,2231,A. Pavlyuchenkova,T. Townsend,,,,,,,,,RUS,USA
+221,2020-ausopen-2232,2020,ausopen,2232,L. Siegemund,Ka. Pliskova,,,,,,,,,GER,CZE
+222,2020-ausopen-2301,2020,ausopen,2301,A. Barty,E. Rybakina,,,,,,,,,AUS,KAZ
+223,2020-ausopen-2302,2020,ausopen,2302,A. Riske,J. Goerges,,,,,,,,,USA,GER
+224,2020-ausopen-2303,2020,ausopen,2303,M. Keys,M. Sakkari,,,,,,,,,USA,GRE
+225,2020-ausopen-2304,2020,ausopen,2304,E. Alexandrova,P. Kvitova,,,,,,,,,RUS,CZE
+226,2020-ausopen-2305,2020,ausopen,2305,N. Osaka,C. Gauff,,,,,,,,,JPN,USA
+227,2020-ausopen-2306,2020,ausopen,2306,S. Zhang,S. Kenin,,,,,,,,,CHN,USA
+228,2020-ausopen-2307,2020,ausopen,2307,O. Jabeur,C. Wozniacki,,,,,,,,,TUN,DEN
+229,2020-ausopen-2308,2020,ausopen,2308,Q. Wang,S. Williams,,,,,,,,,CHN,USA
+230,2020-ausopen-2309,2020,ausopen,2309,B. Bencic,A. Kontaveit,,,,,,,,,SUI,EST
+231,2020-ausopen-2310,2020,ausopen,2310,D. Vekic,I. Swiatek,,,,,,,,,CRO,POL
+232,2020-ausopen-2311,2020,ausopen,2311,E. Mertens,C. Bellis,,,,,,,,,BEL,USA
+233,2020-ausopen-2312,2020,ausopen,2312,Y. Putintseva,S. Halep,,,,,,,,,KAZ,ROU
+234,2020-ausopen-2313,2020,ausopen,2313,E. Svitolina,G. Muguruza,,,,,,,,,UKR,ESP
+235,2020-ausopen-2314,2020,ausopen,2314,Z. Diyas,K. Bertens,,,,,,,,,KAZ,NED
+236,2020-ausopen-2315,2020,ausopen,2315,C. Giorgi,A. Kerber,,,,,,,,,ITA,GER
+237,2020-ausopen-2316,2020,ausopen,2316,A. Pavlyuchenkova,Ka. Pliskova,,,,,,,,,RUS,CZE
+238,2020-ausopen-2401,2020,ausopen,2401,A. Barty,A. Riske,,,,,,,,,AUS,USA
+239,2020-ausopen-2402,2020,ausopen,2402,M. Sakkari,P. Kvitova,,,,,,,,,GRE,CZE
+240,2020-ausopen-2403,2020,ausopen,2403,C. Gauff,S. Kenin,,,,,,,,,USA,USA
+241,2020-ausopen-2404,2020,ausopen,2404,O. Jabeur,Q. Wang,,,,,,,,,TUN,CHN
+242,2020-ausopen-2405,2020,ausopen,2405,A. Kontaveit,I. Swiatek,,,,,,,,,EST,POL
+243,2020-ausopen-2406,2020,ausopen,2406,E. Mertens,S. Halep,,,,,,,,,BEL,ROU
+244,2020-ausopen-2407,2020,ausopen,2407,G. Muguruza,K. Bertens,,,,,,,,,ESP,NED
+245,2020-ausopen-2408,2020,ausopen,2408,A. Kerber,A. Pavlyuchenkova,,,,,,,,,GER,RUS
+246,2020-ausopen-2501,2020,ausopen,2501,A. Barty,P. Kvitova,,,,,,,,,AUS,CZE
+247,2020-ausopen-2502,2020,ausopen,2502,S. Kenin,O. Jabeur,,,,,,,,,USA,TUN
+248,2020-ausopen-2503,2020,ausopen,2503,A. Kontaveit,S. Halep,,,,,,,,,EST,ROU
+249,2020-ausopen-2504,2020,ausopen,2504,G. Muguruza,A. Pavlyuchenkova,,,,,,,,,ESP,RUS
+250,2020-ausopen-2601,2020,ausopen,2601,A. Barty,S. Kenin,,,,,,,,,AUS,USA
+251,2020-ausopen-2602,2020,ausopen,2602,S. Halep,G. Muguruza,,,,,,,,,ROU,ESP
+252,2020-ausopen-2701,2020,ausopen,2701,S. Kenin,G. Muguruza,,,,,,,,,USA,ESP
+0,2020-frenchopen-1101,2020,frenchopen,1101,N Djokovic,M Ymer,,,,,,,,,,
+1,2020-frenchopen-1102,2020,frenchopen,1102,H Dellien,R Berankis,,,,,,,,,,
+2,2020-frenchopen-1103,2020,frenchopen,1103,De Galan,C Norrie,,,,,,,,,,
+3,2020-frenchopen-1104,2020,frenchopen,1104,T Sandgren,H Hurkacz,,,,,,,,,,
+4,2020-frenchopen-1105,2020,frenchopen,1105,C Garin,P Kohlschreiber,,,,,,,,,,
+5,2020-frenchopen-1106,2020,frenchopen,1106,U Humbert,M Polmans,,,,,,,,,,
+6,2020-frenchopen-1107,2020,frenchopen,1107,J Vesely,L Broady,,,,,,,,,,
+7,2020-frenchopen-1108,2020,frenchopen,1108,K Majchrzak,K Khachanov,,,,,,,,,,
+8,2020-frenchopen-1109,2020,frenchopen,1109,R Bautista Agut,R Gasquet,,,,,,,,,,
+9,2020-frenchopen-1110,2020,frenchopen,1110,Y Uchiyama,A Balazs,,,,,,,,,,
+10,2020-frenchopen-1111,2020,frenchopen,1111,G Pella,S Caruso,,,,,,,,,,
+11,2020-frenchopen-1112,2020,frenchopen,1112,J Millman,P Carreno Busta,,,,,,,,,,
+12,2020-frenchopen-1113,2020,frenchopen,1113,Jl Struff,F Tiafoe,,,,,,,,,,
+13,2020-frenchopen-1114,2020,frenchopen,1114,D Altmaier,F Lopez,,,,,,,,,,
+14,2020-frenchopen-1115,2020,frenchopen,1115,L Harris,A Popyrin,,,,,,,,,,
+15,2020-frenchopen-1116,2020,frenchopen,1116,V Pospisil,M Berrettini,,,,,,,,,,
+16,2020-frenchopen-1117,2020,frenchopen,1117,D Medvedev,M Fucsovics,,,,,,,,,,
+17,2020-frenchopen-1118,2020,frenchopen,1118,A Mannarino,A Ramos-Vinolas,,,,,,,,,,
+18,2020-frenchopen-1119,2020,frenchopen,1119,Q Halys,M Giron,,,,,,,,,,
+19,2020-frenchopen-1120,2020,frenchopen,1120,T Monteiro,N Basilashvili,,,,,,,,,,
+20,2020-frenchopen-1121,2020,frenchopen,1121,D Lajovic,G Mager,,,,,,,,,,
+21,2020-frenchopen-1122,2020,frenchopen,1122,L Djere,K Anderson,,,,,,,,,,
+22,2020-frenchopen-1123,2020,frenchopen,1123,H Mayot,A Davidovich Fokina,,,,,,,,,,
+23,2020-frenchopen-1124,2020,frenchopen,1124,S Querrey,A Rublev,,,,,,,,,,
+24,2020-frenchopen-1125,2020,frenchopen,1125,D Shapovalov,G Simon,,,,,,,,,,
+25,2020-frenchopen-1126,2020,frenchopen,1126,S Johnson,R Carballes Baena,,,,,,,,,,
+26,2020-frenchopen-1127,2020,frenchopen,1127,A Martin,J Sousa,,,,,,,,,,
+27,2020-frenchopen-1128,2020,frenchopen,1128,G Barrere,G Dimitrov,,,,,,,,,,
+28,2020-frenchopen-1129,2020,frenchopen,1129,F Krajinovic,N Milojevic,,,,,,,,,,
+29,2020-frenchopen-1130,2020,frenchopen,1130,A Bedene,A Rinderknech,,,,,,,,,,
+30,2020-frenchopen-1131,2020,frenchopen,1131,H Laaksonen,P Cuevas,,,,,,,,,,
+31,2020-frenchopen-1132,2020,frenchopen,1132,J Munar,S Tsitsipas,,,,,,,,,,
+32,2020-frenchopen-1133,2020,frenchopen,1133,G Monfils,A Bublik,,,,,,,,,,
+33,2020-frenchopen-1134,2020,frenchopen,1134,E Gomez,L Sonego,,,,,,,,,,
+34,2020-frenchopen-1135,2020,frenchopen,1135,J Thompson,R Albot,,,,,,,,,,
+35,2020-frenchopen-1136,2020,frenchopen,1136,T Machac,T Fritz,,,,,,,,,,
+36,2020-frenchopen-1137,2020,frenchopen,1137,B Coric,N Gombos,,,,,,,,,,
+37,2020-frenchopen-1138,2020,frenchopen,1138,J Rodionov,J Chardy,,,,,,,,,,
+38,2020-frenchopen-1139,2020,frenchopen,1139,C Moutet,L Giustino,,,,,,,,,,
+39,2020-frenchopen-1140,2020,frenchopen,1140,M Kecmanovic,D Schwartzman,,,,,,,,,,
+40,2020-frenchopen-1141,2020,frenchopen,1141,S Wawrinka,A Murray,,,,,,,,,,
+41,2020-frenchopen-1142,2020,frenchopen,1142,D Koepfer,A Hoang,,,,,,,,,,
+42,2020-frenchopen-1143,2020,frenchopen,1143,H Gaston,M Janvier,,,,,,,,,,
+43,2020-frenchopen-1144,2020,frenchopen,1144,Y Nishioka,F Auger-Aliassime,,,,,,,,,,
+44,2020-frenchopen-1145,2020,frenchopen,1145,C Ruud,Y Sugita,,,,,,,,,,
+45,2020-frenchopen-1146,2020,frenchopen,1146,T Paul,J Duckworth,,,,,,,,,,
+46,2020-frenchopen-1147,2020,frenchopen,1147,R Opelka,J Sock,,,,,,,,,,
+47,2020-frenchopen-1148,2020,frenchopen,1148,M Cilic,D Thiem,,,,,,,,,,
+48,2020-frenchopen-1149,2020,frenchopen,1149,A Zverev,D Novak,,,,,,,,,,
+49,2020-frenchopen-1150,2020,frenchopen,1150,M Mmoh,Ph Herbert,,,,,,,,,,
+50,2020-frenchopen-1151,2020,frenchopen,1151,F Delbonis,Ji Londero,,,,,,,,,,
+51,2020-frenchopen-1152,2020,frenchopen,1152,M Cecchinato,A De Minaur,,,,,,,,,,
+52,2020-frenchopen-1153,2020,frenchopen,1153,B Paire,S Kwon,,,,,,,,,,
+53,2020-frenchopen-1154,2020,frenchopen,1154,F Coria,J Jung,,,,,,,,,,
+54,2020-frenchopen-1155,2020,frenchopen,1155,B Bonzi,E Ruusuvuori,,,,,,,,,,
+55,2020-frenchopen-1156,2020,frenchopen,1156,J Sinner,D Goffin,,,,,,,,,,
+56,2020-frenchopen-1157,2020,frenchopen,1157,F Fognini,M Kukushkin,,,,,,,,,,
+57,2020-frenchopen-1158,2020,frenchopen,1158,P Martinez,A Vukic,,,,,,,,,,
+58,2020-frenchopen-1159,2020,frenchopen,1159,S Korda,A Seppi,,,,,,,,,,
+59,2020-frenchopen-1160,2020,frenchopen,1160,E Benchetrit,J Isner,,,,,,,,,,
+60,2020-frenchopen-1161,2020,frenchopen,1161,D Evans,K Nishikori,,,,,,,,,,
+61,2020-frenchopen-1162,2020,frenchopen,1162,P Andujar,S Travaglia,,,,,,,,,,
+62,2020-frenchopen-1163,2020,frenchopen,1163,S Diez,M Mcdonald,,,,,,,,,,
+63,2020-frenchopen-1164,2020,frenchopen,1164,E Gerasimov,R Nadal,,,,,,,,,,
+64,2020-frenchopen-1201,2020,frenchopen,1201,N Djokovic,R Berankis,,,,,,,,,,
+65,2020-frenchopen-1202,2020,frenchopen,1202,De Galan,T Sandgren,,,,,,,,,,
+66,2020-frenchopen-1203,2020,frenchopen,1203,C Garin,M Polmans,,,,,,,,,,
+67,2020-frenchopen-1204,2020,frenchopen,1204,J Vesely,K Khachanov,,,,,,,,,,
+68,2020-frenchopen-1205,2020,frenchopen,1205,R Bautista Agut,A Balazs,,,,,,,,,,
+69,2020-frenchopen-1206,2020,frenchopen,1206,G Pella,P Carreno Busta,,,,,,,,,,
+70,2020-frenchopen-1207,2020,frenchopen,1207,Jl Struff,D Altmaier,,,,,,,,,,
+71,2020-frenchopen-1208,2020,frenchopen,1208,L Harris,M Berrettini,,,,,,,,,,
+72,2020-frenchopen-1209,2020,frenchopen,1209,M Fucsovics,A Ramos-Vinolas,,,,,,,,,,
+73,2020-frenchopen-1210,2020,frenchopen,1210,M Giron,T Monteiro,,,,,,,,,,
+74,2020-frenchopen-1211,2020,frenchopen,1211,D Lajovic,K Anderson,,,,,,,,,,
+75,2020-frenchopen-1212,2020,frenchopen,1212,A Davidovich Fokina,A Rublev,,,,,,,,,,
+76,2020-frenchopen-1213,2020,frenchopen,1213,D Shapovalov,R Carballes Baena,,,,,,,,,,
+77,2020-frenchopen-1214,2020,frenchopen,1214,A Martin,G Dimitrov,,,,,,,,,,
+78,2020-frenchopen-1215,2020,frenchopen,1215,N Milojevic,A Bedene,,,,,,,,,,
+79,2020-frenchopen-1216,2020,frenchopen,1216,P Cuevas,S Tsitsipas,,,,,,,,,,
+80,2020-frenchopen-1217,2020,frenchopen,1217,A Bublik,L Sonego,,,,,,,,,,
+81,2020-frenchopen-1218,2020,frenchopen,1218,R Albot,T Fritz,,,,,,,,,,
+82,2020-frenchopen-1219,2020,frenchopen,1219,N Gombos,J Rodionov,,,,,,,,,,
+83,2020-frenchopen-1220,2020,frenchopen,1220,L Giustino,D Schwartzman,,,,,,,,,,
+84,2020-frenchopen-1221,2020,frenchopen,1221,S Wawrinka,D Koepfer,,,,,,,,,,
+85,2020-frenchopen-1222,2020,frenchopen,1222,H Gaston,Y Nishioka,,,,,,,,,,
+86,2020-frenchopen-1223,2020,frenchopen,1223,C Ruud,T Paul,,,,,,,,,,
+87,2020-frenchopen-1224,2020,frenchopen,1224,J Sock,D Thiem,,,,,,,,,,
+88,2020-frenchopen-1225,2020,frenchopen,1225,A Zverev,Ph Herbert,,,,,,,,,,
+89,2020-frenchopen-1226,2020,frenchopen,1226,Ji Londero,M Cecchinato,,,,,,,,,,
+90,2020-frenchopen-1227,2020,frenchopen,1227,B Paire,F Coria,,,,,,,,,,
+91,2020-frenchopen-1228,2020,frenchopen,1228,B Bonzi,J Sinner,,,,,,,,,,
+92,2020-frenchopen-1229,2020,frenchopen,1229,M Kukushkin,P Martinez,,,,,,,,,,
+93,2020-frenchopen-1230,2020,frenchopen,1230,S Korda,J Isner,,,,,,,,,,
+94,2020-frenchopen-1231,2020,frenchopen,1231,K Nishikori,S Travaglia,,,,,,,,,,
+95,2020-frenchopen-1232,2020,frenchopen,1232,M Mcdonald,R Nadal,,,,,,,,,,
+96,2020-frenchopen-1301,2020,frenchopen,1301,N Djokovic,De Galan,,,,,,,,,,
+97,2020-frenchopen-1302,2020,frenchopen,1302,C Garin,K Khachanov,,,,,,,,,,
+98,2020-frenchopen-1303,2020,frenchopen,1303,R Bautista Agut,P Carreno Busta,,,,,,,,,,
+99,2020-frenchopen-1304,2020,frenchopen,1304,D Altmaier,M Berrettini,,,,,,,,,,
+100,2020-frenchopen-1305,2020,frenchopen,1305,M Fucsovics,T Monteiro,,,,,,,,,,
+101,2020-frenchopen-1306,2020,frenchopen,1306,K Anderson,A Rublev,,,,,,,,,,
+102,2020-frenchopen-1307,2020,frenchopen,1307,R Carballes Baena,G Dimitrov,,,,,,,,,,
+103,2020-frenchopen-1308,2020,frenchopen,1308,A Bedene,S Tsitsipas,,,,,,,,,,
+104,2020-frenchopen-1309,2020,frenchopen,1309,L Sonego,T Fritz,,,,,,,,,,
+105,2020-frenchopen-1310,2020,frenchopen,1310,N Gombos,D Schwartzman,,,,,,,,,,
+106,2020-frenchopen-1311,2020,frenchopen,1311,S Wawrinka,H Gaston,,,,,,,,,,
+107,2020-frenchopen-1312,2020,frenchopen,1312,C Ruud,D Thiem,,,,,,,,,,
+108,2020-frenchopen-1313,2020,frenchopen,1313,A Zverev,M Cecchinato,,,,,,,,,,
+109,2020-frenchopen-1314,2020,frenchopen,1314,F Coria,J Sinner,,,,,,,,,,
+110,2020-frenchopen-1315,2020,frenchopen,1315,P Martinez,S Korda,,,,,,,,,,
+111,2020-frenchopen-1316,2020,frenchopen,1316,S Travaglia,R Nadal,,,,,,,,,,
+112,2020-frenchopen-1401,2020,frenchopen,1401,N Djokovic,K Khachanov,,,,,,,,,,
+113,2020-frenchopen-1402,2020,frenchopen,1402,P Carreno Busta,D Altmaier,,,,,,,,,,
+114,2020-frenchopen-1403,2020,frenchopen,1403,M Fucsovics,A Rublev,,,,,,,,,,
+115,2020-frenchopen-1404,2020,frenchopen,1404,G Dimitrov,S Tsitsipas,,,,,,,,,,
+116,2020-frenchopen-1405,2020,frenchopen,1405,L Sonego,D Schwartzman,,,,,,,,,,
+117,2020-frenchopen-1406,2020,frenchopen,1406,H Gaston,D Thiem,,,,,,,,,,
+118,2020-frenchopen-1407,2020,frenchopen,1407,A Zverev,J Sinner,,,,,,,,,,
+119,2020-frenchopen-1408,2020,frenchopen,1408,S Korda,R Nadal,,,,,,,,,,
+120,2020-frenchopen-1501,2020,frenchopen,1501,N Djokovic,P Carreno Busta,,,,,,,,,,
+121,2020-frenchopen-1502,2020,frenchopen,1502,A Rublev,S Tsitsipas,,,,,,,,,,
+122,2020-frenchopen-1503,2020,frenchopen,1503,D Schwartzman,D Thiem,,,,,,,,,,
+123,2020-frenchopen-1504,2020,frenchopen,1504,J Sinner,R Nadal,,,,,,,,,,
+124,2020-frenchopen-1601,2020,frenchopen,1601,N Djokovic,S Tsitsipas,,,,,,,,,,
+125,2020-frenchopen-1602,2020,frenchopen,1602,D Schwartzman,R Nadal,,,,,,,,,,
+126,2020-frenchopen-1701,2020,frenchopen,1701,N Djokovic,R Nadal,,,,,,,,,,
+127,2020-frenchopen-2101,2020,frenchopen,2101,S Halep,S Sorribes Tormo,,,,,,,,,,
+128,2020-frenchopen-2102,2020,frenchopen,2102,I Begu,J Teichmann,,,,,,,,,,
+129,2020-frenchopen-2103,2020,frenchopen,2103,C Bellis,B Pera,,,,,,,,,,
+130,2020-frenchopen-2104,2020,frenchopen,2104,T Korpatsch,A Anisimova,,,,,,,,,,
+131,2020-frenchopen-2105,2020,frenchopen,2105,D Yastremska,D Gavrilova,,,,,,,,,,
+132,2020-frenchopen-2106,2020,frenchopen,2106,A Kalinskaya,E Bouchard,,,,,,,,,,
+133,2020-frenchopen-2107,2020,frenchopen,2107,B Haas,Sw Hsieh,,,,,,,,,,
+134,2020-frenchopen-2108,2020,frenchopen,2108,I Swiatek,M Vondrousova,,,,,,,,,,
+135,2020-frenchopen-2109,2020,frenchopen,2109,J Konta,C Gauff,,,,,,,,,,
+136,2020-frenchopen-2110,2020,frenchopen,2110,C Giorgi,M Trevisan,,,,,,,,,,
+137,2020-frenchopen-2111,2020,frenchopen,2111,K Rakhimova,S Rogers,,,,,,,,,,
+138,2020-frenchopen-2112,2020,frenchopen,2112,A Tomljanovic,M Sakkari,,,,,,,,,,
+139,2020-frenchopen-2113,2020,frenchopen,2113,S Kuznetsova,A Pavlyuchenkova,,,,,,,,,,
+140,2020-frenchopen-2114,2020,frenchopen,2114,K Siniakova,L Davis,,,,,,,,,,
+141,2020-frenchopen-2115,2020,frenchopen,2115,M Puig,S Errani,,,,,,,,,,
+142,2020-frenchopen-2116,2020,frenchopen,2116,K Zavatska,K Bertens,,,,,,,,,,
+143,2020-frenchopen-2117,2020,frenchopen,2117,E Svitolina,V Gracheva,,,,,,,,,,
+144,2020-frenchopen-2118,2020,frenchopen,2118,R Zarazua,E Jacquemot,,,,,,,,,,
+145,2020-frenchopen-2119,2020,frenchopen,2119,A Blinkova,A Sharma,,,,,,,,,,
+146,2020-frenchopen-2120,2020,frenchopen,2120,M Inglis,E Alexandrova,,,,,,,,,,
+147,2020-frenchopen-2121,2020,frenchopen,2121,A Kontaveit,C Garcia,,,,,,,,,,
+148,2020-frenchopen-2122,2020,frenchopen,2122,A Sasnovich,Al Friedsam,,,,,,,,,,
+149,2020-frenchopen-2123,2020,frenchopen,2123,M Bouzkova,K Kanepi,,,,,,,,,,
+150,2020-frenchopen-2124,2020,frenchopen,2124,M Gasparyan,E Mertens,,,,,,,,,,
+151,2020-frenchopen-2125,2020,frenchopen,2125,V Azarenka,D Kovinic,,,,,,,,,,
+152,2020-frenchopen-2126,2020,frenchopen,2126,Ak Schmiedlova,V Williams,,,,,,,,,,
+153,2020-frenchopen-2127,2020,frenchopen,2127,G Minnen,N Podoroska,,,,,,,,,,
+154,2020-frenchopen-2128,2020,frenchopen,2128,K Flipkens,Y Putintseva,,,,,,,,,,
+155,2020-frenchopen-2129,2020,frenchopen,2129,B Strycova,V Lepchenko,,,,,,,,,,
+156,2020-frenchopen-2130,2020,frenchopen,2130,N Stojanovic,B Krejcikova,,,,,,,,,,
+157,2020-frenchopen-2131,2020,frenchopen,2131,T Pironkova,A Petkovic,,,,,,,,,,
+158,2020-frenchopen-2132,2020,frenchopen,2132,K Ahn,S Williams,,,,,,,,,,
+159,2020-frenchopen-2133,2020,frenchopen,2133,A Sabalenka,J Pegula,,,,,,,,,,
+160,2020-frenchopen-2134,2020,frenchopen,2134,D Kasatkina,H Tan,,,,,,,,,,
+161,2020-frenchopen-2135,2020,frenchopen,2135,N Hibino,M Kostyuk,,,,,,,,,,
+162,2020-frenchopen-2136,2020,frenchopen,2136,Z Diyas,O Jabeur,,,,,,,,,,
+163,2020-frenchopen-2137,2020,frenchopen,2137,J Brady,C Tauson,,,,,,,,,,
+164,2020-frenchopen-2138,2020,frenchopen,2138,M Niculescu,D Collins,,,,,,,,,,
+165,2020-frenchopen-2139,2020,frenchopen,2139,V Kuzmova,Kr Pliskova,,,,,,,,,,
+166,2020-frenchopen-2140,2020,frenchopen,2140,T Zidansek,G Muguruza,,,,,,,,,,
+167,2020-frenchopen-2141,2020,frenchopen,2141,E Rybakina,S Cirstea,,,,,,,,,,
+168,2020-frenchopen-2142,2020,frenchopen,2142,F Ferro,H Watson,,,,,,,,,,
+169,2020-frenchopen-2143,2020,frenchopen,2143,S Voegele,Pm Tig,,,,,,,,,,
+170,2020-frenchopen-2144,2020,frenchopen,2144,C Mchale,K Muchova,,,,,,,,,,
+171,2020-frenchopen-2145,2020,frenchopen,2145,D Vekic,I Bara,,,,,,,,,,
+172,2020-frenchopen-2146,2020,frenchopen,2146,A Van Uytvanck,R Peterson,,,,,,,,,,
+173,2020-frenchopen-2147,2020,frenchopen,2147,T Babos,A Bogdan,,,,,,,,,,
+174,2020-frenchopen-2148,2020,frenchopen,2148,L Samsonova,S Kenin,,,,,,,,,,
+175,2020-frenchopen-2149,2020,frenchopen,2149,P Kvitova,O Dodin,,,,,,,,,,
+176,2020-frenchopen-2150,2020,frenchopen,2150,A Bolsova,J Paolini,,,,,,,,,,
+177,2020-frenchopen-2151,2020,frenchopen,2151,D Parry,P Hercog,,,,,,,,,,
+178,2020-frenchopen-2152,2020,frenchopen,2152,L Fernandez,M Linette,,,,,,,,,,
+179,2020-frenchopen-2153,2020,frenchopen,2153,A Kerber,K Juvan,,,,,,,,,,
+180,2020-frenchopen-2154,2020,frenchopen,2154,A Rus,C Burel,,,,,,,,,,
+181,2020-frenchopen-2155,2020,frenchopen,2155,C Paquet,A Cornet,,,,,,,,,,
+182,2020-frenchopen-2156,2020,frenchopen,2156,S Zhang,M Keys,,,,,,,,,,
+183,2020-frenchopen-2157,2020,frenchopen,2157,P Martic,M Doi,,,,,,,,,,
+184,2020-frenchopen-2158,2020,frenchopen,2158,P Parmentier,V Kudermetova,,,,,,,,,,
+185,2020-frenchopen-2159,2020,frenchopen,2159,L Siegemund,K Mladenovic,,,,,,,,,,
+186,2020-frenchopen-2160,2020,frenchopen,2160,J Goerges,A Riske,,,,,,,,,,
+187,2020-frenchopen-2161,2020,frenchopen,2161,S Stephens,V Diatchenko,,,,,,,,,,
+188,2020-frenchopen-2162,2020,frenchopen,2162,K Kozlova,P Badosa,,,,,,,,,,
+189,2020-frenchopen-2163,2020,frenchopen,2163,J Ostapenko,M Brengle,,,,,,,,,,
+190,2020-frenchopen-2164,2020,frenchopen,2164,M Sherif,Ka Pliskova,,,,,,,,,,
+191,2020-frenchopen-2201,2020,frenchopen,2201,S Halep,I Begu,,,,,,,,,,
+192,2020-frenchopen-2202,2020,frenchopen,2202,B Pera,A Anisimova,,,,,,,,,,
+193,2020-frenchopen-2203,2020,frenchopen,2203,D Gavrilova,E Bouchard,,,,,,,,,,
+194,2020-frenchopen-2204,2020,frenchopen,2204,Sw Hsieh,I Swiatek,,,,,,,,,,
+195,2020-frenchopen-2205,2020,frenchopen,2205,C Gauff,M Trevisan,,,,,,,,,,
+196,2020-frenchopen-2206,2020,frenchopen,2206,K Rakhimova,M Sakkari,,,,,,,,,,
+197,2020-frenchopen-2207,2020,frenchopen,2207,A Pavlyuchenkova,K Siniakova,,,,,,,,,,
+198,2020-frenchopen-2208,2020,frenchopen,2208,S Errani,K Bertens,,,,,,,,,,
+199,2020-frenchopen-2209,2020,frenchopen,2209,E Svitolina,R Zarazua,,,,,,,,,,
+200,2020-frenchopen-2210,2020,frenchopen,2210,A Sharma,E Alexandrova,,,,,,,,,,
+201,2020-frenchopen-2211,2020,frenchopen,2211,C Garcia,A Sasnovich,,,,,,,,,,
+202,2020-frenchopen-2212,2020,frenchopen,2212,K Kanepi,E Mertens,,,,,,,,,,
+203,2020-frenchopen-2213,2020,frenchopen,2213,V Azarenka,Ak Schmiedlova,,,,,,,,,,
+204,2020-frenchopen-2214,2020,frenchopen,2214,N Podoroska,Y Putintseva,,,,,,,,,,
+205,2020-frenchopen-2215,2020,frenchopen,2215,B Strycova,B Krejcikova,,,,,,,,,,
+206,2020-frenchopen-2216,2020,frenchopen,2216,T Pironkova,S Williams,,,,,,,,,,
+207,2020-frenchopen-2217,2020,frenchopen,2217,A Sabalenka,D Kasatkina,,,,,,,,,,
+208,2020-frenchopen-2218,2020,frenchopen,2218,N Hibino,O Jabeur,,,,,,,,,,
+209,2020-frenchopen-2219,2020,frenchopen,2219,C Tauson,D Collins,,,,,,,,,,
+210,2020-frenchopen-2220,2020,frenchopen,2220,Kr Pliskova,G Muguruza,,,,,,,,,,
+211,2020-frenchopen-2221,2020,frenchopen,2221,E Rybakina,F Ferro,,,,,,,,,,
+212,2020-frenchopen-2222,2020,frenchopen,2222,Pm Tig,C Mchale,,,,,,,,,,
+213,2020-frenchopen-2223,2020,frenchopen,2223,I Bara,A Van Uytvanck,,,,,,,,,,
+214,2020-frenchopen-2224,2020,frenchopen,2224,A Bogdan,S Kenin,,,,,,,,,,
+215,2020-frenchopen-2225,2020,frenchopen,2225,P Kvitova,J Paolini,,,,,,,,,,
+216,2020-frenchopen-2226,2020,frenchopen,2226,P Hercog,L Fernandez,,,,,,,,,,
+217,2020-frenchopen-2227,2020,frenchopen,2227,K Juvan,C Burel,,,,,,,,,,
+218,2020-frenchopen-2228,2020,frenchopen,2228,A Cornet,S Zhang,,,,,,,,,,
+219,2020-frenchopen-2229,2020,frenchopen,2229,P Martic,V Kudermetova,,,,,,,,,,
+220,2020-frenchopen-2230,2020,frenchopen,2230,L Siegemund,J Goerges,,,,,,,,,,
+221,2020-frenchopen-2231,2020,frenchopen,2231,S Stephens,P Badosa,,,,,,,,,,
+222,2020-frenchopen-2232,2020,frenchopen,2232,J Ostapenko,Ka Pliskova,,,,,,,,,,
+223,2020-frenchopen-2301,2020,frenchopen,2301,S Halep,A Anisimova,,,,,,,,,,
+224,2020-frenchopen-2302,2020,frenchopen,2302,E Bouchard,I Swiatek,,,,,,,,,,
+225,2020-frenchopen-2303,2020,frenchopen,2303,M Trevisan,M Sakkari,,,,,,,,,,
+226,2020-frenchopen-2304,2020,frenchopen,2304,K Siniakova,K Bertens,,,,,,,,,,
+227,2020-frenchopen-2305,2020,frenchopen,2305,E Svitolina,E Alexandrova,,,,,,,,,,
+228,2020-frenchopen-2306,2020,frenchopen,2306,C Garcia,E Mertens,,,,,,,,,,
+229,2020-frenchopen-2307,2020,frenchopen,2307,Ak Schmiedlova,N Podoroska,,,,,,,,,,
+230,2020-frenchopen-2308,2020,frenchopen,2308,B Krejcikova,T Pironkova,,,,,,,,,,
+231,2020-frenchopen-2309,2020,frenchopen,2309,A Sabalenka,O Jabeur,,,,,,,,,,
+232,2020-frenchopen-2310,2020,frenchopen,2310,D Collins,G Muguruza,,,,,,,,,,
+233,2020-frenchopen-2311,2020,frenchopen,2311,F Ferro,Pm Tig,,,,,,,,,,
+234,2020-frenchopen-2312,2020,frenchopen,2312,I Bara,S Kenin,,,,,,,,,,
+235,2020-frenchopen-2313,2020,frenchopen,2313,P Kvitova,L Fernandez,,,,,,,,,,
+236,2020-frenchopen-2314,2020,frenchopen,2314,C Burel,S Zhang,,,,,,,,,,
+237,2020-frenchopen-2315,2020,frenchopen,2315,P Martic,L Siegemund,,,,,,,,,,
+238,2020-frenchopen-2316,2020,frenchopen,2316,P Badosa,J Ostapenko,,,,,,,,,,
+239,2020-frenchopen-2401,2020,frenchopen,2401,S Halep,I Swiatek,,,,,,,,,,
+240,2020-frenchopen-2402,2020,frenchopen,2402,M Trevisan,K Bertens,,,,,,,,,,
+241,2020-frenchopen-2403,2020,frenchopen,2403,E Svitolina,C Garcia,,,,,,,,,,
+242,2020-frenchopen-2404,2020,frenchopen,2404,N Podoroska,B Krejcikova,,,,,,,,,,
+243,2020-frenchopen-2405,2020,frenchopen,2405,O Jabeur,D Collins,,,,,,,,,,
+244,2020-frenchopen-2406,2020,frenchopen,2406,F Ferro,S Kenin,,,,,,,,,,
+245,2020-frenchopen-2407,2020,frenchopen,2407,P Kvitova,S Zhang,,,,,,,,,,
+246,2020-frenchopen-2408,2020,frenchopen,2408,L Siegemund,P Badosa,,,,,,,,,,
+247,2020-frenchopen-2501,2020,frenchopen,2501,I Swiatek,M Trevisan,,,,,,,,,,
+248,2020-frenchopen-2502,2020,frenchopen,2502,E Svitolina,N Podoroska,,,,,,,,,,
+249,2020-frenchopen-2503,2020,frenchopen,2503,D Collins,S Kenin,,,,,,,,,,
+250,2020-frenchopen-2504,2020,frenchopen,2504,P Kvitova,L Siegemund,,,,,,,,,,
+251,2020-frenchopen-2601,2020,frenchopen,2601,I Swiatek,N Podoroska,,,,,,,,,,
+252,2020-frenchopen-2602,2020,frenchopen,2602,S Kenin,P Kvitova,,,,,,,,,,
+253,2020-frenchopen-2701,2020,frenchopen,2701,I Swiatek,S Kenin,,,,,,,,,,
+0,2020-usopen-1101,2020,usopen,1101,Novak Djokovic,Damir Dzumhur,,,,,,,,,,
+1,2020-usopen-1102,2020,usopen,1102,Kyle Edmund,Alexander Bublik,,,,,,,,,,
+2,2020-usopen-1103,2020,usopen,1103,Joao Sousa,Michael Mmoh,,,,,,,,,,
+3,2020-usopen-1104,2020,usopen,1104,Pedro Martinez,Jan Lennard Struff,,,,,,,,,,
+4,2020-usopen-1105,2020,usopen,1105,Pablo Carreno Busta,Yasutaka Uchiyama,,,,,,,,,,
+5,2020-usopen-1106,2020,usopen,1106,Mitchell Krueger,Pedro Sousa,,,,,,,,,,
+6,2020-usopen-1107,2020,usopen,1107,Federico Gaio,Ricardas Berankis,,,,,,,,,,
+7,2020-usopen-1108,2020,usopen,1108,Steve Johnson,John Isner,,,,,,,,,,
+8,2020-usopen-1109,2020,usopen,1109,Denis Shapovalov,Sebastian Korda,,,,,,,,,,
+9,2020-usopen-1110,2020,usopen,1110,Thai Son Kwiatkowski,Soonwoo Kwon,,,,,,,,,,
+10,2020-usopen-1111,2020,usopen,1111,Mohamed Safwat,Gilles Simon,,,,,,,,,,
+11,2020-usopen-1112,2020,usopen,1112,Dominik Koepfer,Taylor Fritz,,,,,,,,,,
+12,2020-usopen-1113,2020,usopen,1113,Filip Krajinovic,Mikael Ymer,,,,,,,,,,
+13,2020-usopen-1114,2020,usopen,1114,Marcos Giron,Marc Polmans,,,,,,,,,,
+14,2020-usopen-1115,2020,usopen,1115,Lloyd Harris,Marco Cecchinato,,,,,,,,,,
+15,2020-usopen-1116,2020,usopen,1116,Reilly Opelka,David Goffin,,,,,,,,,,
+16,2020-usopen-1117,2020,usopen,1117,Stefanos Tsitsipas,Albert Ramos Vinolas,,,,,,,,,,
+17,2020-usopen-1118,2020,usopen,1118,Maxime Cressy,Jozef Kovalik,,,,,,,,,,
+18,2020-usopen-1119,2020,usopen,1119,Juan Ignacio Londero,Evgeny Donskoy,,,,,,,,,,
+19,2020-usopen-1120,2020,usopen,1120,Pablo Andujar,Borna Coric,,,,,,,,,,
+20,2020-usopen-1121,2020,usopen,1121,Dusan Lajovic,Egor Gerasimov,,,,,,,,,,
+21,2020-usopen-1122,2020,usopen,1122,Stefano Travaglia,Jordan Thompson,,,,,,,,,,
+22,2020-usopen-1123,2020,usopen,1123,Attila Balazs,Mikhail Kukushkin,,,,,,,,,,
+23,2020-usopen-1124,2020,usopen,1124,Ulises Blanch,Cristian Garin,,,,,,,,,,
+24,2020-usopen-1125,2020,usopen,1125,Diego Schwartzman,Cameron Norrie,,,,,,,,,,
+25,2020-usopen-1126,2020,usopen,1126,Jason Jung,Federico Coria,,,,,,,,,,
+26,2020-usopen-1127,2020,usopen,1127,Alejandro Davidovich Fokina,Dennis Novak,,,,,,,,,,
+27,2020-usopen-1128,2020,usopen,1128,Peter Gojowczyk,Hubert Hurkacz,,,,,,,,,,
+28,2020-usopen-1129,2020,usopen,1129,Adrian Mannarino,Lorenzo Sonego,,,,,,,,,,
+29,2020-usopen-1130,2020,usopen,1130,Jack Sock,Pablo Cuevas,,,,,,,,,,
+30,2020-usopen-1131,2020,usopen,1131,Paolo Lorenzi,Brandon Nakashima,,,,,,,,,,
+31,2020-usopen-1132,2020,usopen,1132,Kevin Anderson,Alexander Zverev,,,,,,,,,,
+32,2020-usopen-1133,2020,usopen,1133,Matteo Berrettini,Go Soeda,,,,,,,,,,
+33,2020-usopen-1134,2020,usopen,1134,Yuichi Sugita,Ugo Humbert,,,,,,,,,,
+34,2020-usopen-1135,2020,usopen,1135,Emil Ruusuvuori,Aljaz Bedene,,,,,,,,,,
+35,2020-usopen-1136,2020,usopen,1136,Mackenzie McDonald,Casper Ruud,,,,,,,,,,
+36,2020-usopen-1137,2020,usopen,1137,Ernesto Escobedo,Kamil Majchrzak,,,,,,,,,,
+37,2020-usopen-1138,2020,usopen,1138,Salvatore Caruso,James Duckworth,,,,,,,,,,
+38,2020-usopen-1139,2020,usopen,1139,Taro Daniel,Gregoire Barrere,,,,,,,,,,
+39,2020-usopen-1140,2020,usopen,1140,Jeremy Chardy,Andrey Rublev,,,,,,,,,,
+40,2020-usopen-1141,2020,usopen,1141,Grigor Dimitrov,Tommy Paul,,,,,,,,,,
+41,2020-usopen-1142,2020,usopen,1142,Marton Fucsovics,Hugo Dellien,,,,,,,,,,
+42,2020-usopen-1143,2020,usopen,1143,Frances Tiafoe,Andreas Seppi,,,,,,,,,,
+43,2020-usopen-1144,2020,usopen,1144,John Millman,Nikoloz Basilashvili,,,,,,,,,,
+44,2020-usopen-1145,2020,usopen,1145,Guido Pella,J.J. Wolf,,,,,,,,,,
+45,2020-usopen-1146,2020,usopen,1146,Feliciano Lopez,Roberto Carballes Baena,,,,,,,,,,
+46,2020-usopen-1147,2020,usopen,1147,Christopher O'Connell,Laslo Djere,,,,,,,,,,
+47,2020-usopen-1148,2020,usopen,1148,Federico Delbonis,Daniil Medvedev,,,,,,,,,,
+48,2020-usopen-1149,2020,usopen,1149,Roberto Bautista Agut,Tennys Sandgren,,,,,,,,,,
+49,2020-usopen-1151,2020,usopen,1151,Vasek Pospisil,Philipp Kohlschreiber,,,,,,,,,,
+50,2020-usopen-1152,2020,usopen,1152,Leonardo Mayer,Milos Raonic,,,,,,,,,,
+51,2020-usopen-1153,2020,usopen,1153,Alex de Minaur,Andrej Martin,,,,,,,,,,
+52,2020-usopen-1154,2020,usopen,1154,Ivo Karlovic,Richard Gasquet,,,,,,,,,,
+53,2020-usopen-1155,2020,usopen,1155,Andrey Kuznetsov,Sam Querrey,,,,,,,,,,
+54,2020-usopen-1156,2020,usopen,1156,Jannik Sinner,Karen Khachanov,,,,,,,,,,
+55,2020-usopen-1157,2020,usopen,1157,Felix Auger Aliassime,Thiago Monteiro,,,,,,,,,,
+56,2020-usopen-1158,2020,usopen,1158,Andy Murray,Yoshihito Nishioka,,,,,,,,,,
+57,2020-usopen-1159,2020,usopen,1159,Corentin Moutet,Jiri Vesely,,,,,,,,,,
+58,2020-usopen-1160,2020,usopen,1160,Thiago Seyboth Wild,Daniel Evans,,,,,,,,,,
+59,2020-usopen-1161,2020,usopen,1161,Marin Cilic,Denis Kudla,,,,,,,,,,
+60,2020-usopen-1162,2020,usopen,1162,Norbert Gombos,Radu Albot,,,,,,,,,,
+61,2020-usopen-1163,2020,usopen,1163,Sumit Nagal,Bradley Klahn,,,,,,,,,,
+62,2020-usopen-1164,2020,usopen,1164,Jaume Munar,Dominic Thiem,,,,,,,,,,
+63,2020-usopen-1201,2020,usopen,1201,Novak Djokovic,Kyle Edmund,,,,,,,,,,
+64,2020-usopen-1202,2020,usopen,1202,Michael Mmoh,Jan Lennard Struff,,,,,,,,,,
+65,2020-usopen-1203,2020,usopen,1203,Pablo Carreno Busta,Mitchell Krueger,,,,,,,,,,
+66,2020-usopen-1204,2020,usopen,1204,Ricardas Berankis,Steve Johnson,,,,,,,,,,
+67,2020-usopen-1205,2020,usopen,1205,Denis Shapovalov,Soonwoo Kwon,,,,,,,,,,
+68,2020-usopen-1206,2020,usopen,1206,Gilles Simon,Taylor Fritz,,,,,,,,,,
+69,2020-usopen-1207,2020,usopen,1207,Filip Krajinovic,Marcos Giron,,,,,,,,,,
+70,2020-usopen-1208,2020,usopen,1208,Lloyd Harris,David Goffin,,,,,,,,,,
+71,2020-usopen-1209,2020,usopen,1209,Stefanos Tsitsipas,Maxime Cressy,,,,,,,,,,
+72,2020-usopen-1211,2020,usopen,1211,Egor Gerasimov,Jordan Thompson,,,,,,,,,,
+73,2020-usopen-1212,2020,usopen,1212,Mikhail Kukushkin,Cristian Garin,,,,,,,,,,
+74,2020-usopen-1213,2020,usopen,1213,Cameron Norrie,Federico Coria,,,,,,,,,,
+75,2020-usopen-1215,2020,usopen,1215,Adrian Mannarino,Jack Sock,,,,,,,,,,
+76,2020-usopen-1216,2020,usopen,1216,Brandon Nakashima,Alexander Zverev,,,,,,,,,,
+77,2020-usopen-1217,2020,usopen,1217,Matteo Berrettini,Ugo Humbert,,,,,,,,,,
+78,2020-usopen-1218,2020,usopen,1218,Emil Ruusuvuori,Casper Ruud,,,,,,,,,,
+79,2020-usopen-1219,2020,usopen,1219,Ernesto Escobedo,Salvatore Caruso,,,,,,,,,,
+80,2020-usopen-1220,2020,usopen,1220,Gregoire Barrere,Andrey Rublev,,,,,,,,,,
+81,2020-usopen-1221,2020,usopen,1221,Grigor Dimitrov,Marton Fucsovics,,,,,,,,,,
+82,2020-usopen-1222,2020,usopen,1222,Frances Tiafoe,John Millman,,,,,,,,,,
+83,2020-usopen-1223,2020,usopen,1223,J.J. Wolf,Roberto Carballes Baena,,,,,,,,,,
+84,2020-usopen-1224,2020,usopen,1224,Christopher O'Connell,Daniil Medvedev,,,,,,,,,,
+85,2020-usopen-1225,2020,usopen,1225,Roberto Bautista Agut,Miomir Kecmanovic,,,,,,,,,,
+86,2020-usopen-1226,2020,usopen,1226,Vasek Pospisil,Milos Raonic,,,,,,,,,,
+87,2020-usopen-1227,2020,usopen,1227,Alex de Minaur,Richard Gasquet,,,,,,,,,,
+88,2020-usopen-1228,2020,usopen,1228,Andrey Kuznetsov,Karen Khachanov,,,,,,,,,,
+89,2020-usopen-1229,2020,usopen,1229,Felix Auger Aliassime,Andy Murray,,,,,,,,,,
+90,2020-usopen-1230,2020,usopen,1230,Corentin Moutet,Daniel Evans,,,,,,,,,,
+91,2020-usopen-1231,2020,usopen,1231,Marin Cilic,Norbert Gombos,,,,,,,,,,
+92,2020-usopen-1232,2020,usopen,1232,Sumit Nagal,Dominic Thiem,,,,,,,,,,
+93,2020-usopen-1301,2020,usopen,1301,Novak Djokovic,Jan Lennard Struff,,,,,,,,,,
+94,2020-usopen-1302,2020,usopen,1302,Pablo Carreno Busta,Ricardas Berankis,,,,,,,,,,
+95,2020-usopen-1303,2020,usopen,1303,Denis Shapovalov,Taylor Fritz,,,,,,,,,,
+96,2020-usopen-1304,2020,usopen,1304,Filip Krajinovic,David Goffin,,,,,,,,,,
+97,2020-usopen-1305,2020,usopen,1305,Stefanos Tsitsipas,Borna Coric,,,,,,,,,,
+98,2020-usopen-1306,2020,usopen,1306,Jordan Thompson,Mikhail Kukushkin,,,,,,,,,,
+99,2020-usopen-1307,2020,usopen,1307,Cameron Norrie,Alejandro Davidovich Fokina,,,,,,,,,,
+100,2020-usopen-1308,2020,usopen,1308,Adrian Mannarino,Alexander Zverev,,,,,,,,,,
+101,2020-usopen-1309,2020,usopen,1309,Matteo Berrettini,Casper Ruud,,,,,,,,,,
+102,2020-usopen-1310,2020,usopen,1310,Salvatore Caruso,Andrey Rublev,,,,,,,,,,
+103,2020-usopen-1311,2020,usopen,1311,Marton Fucsovics,Frances Tiafoe,,,,,,,,,,
+104,2020-usopen-1312,2020,usopen,1312,J.J. Wolf,Daniil Medvedev,,,,,,,,,,
+105,2020-usopen-1313,2020,usopen,1313,Roberto Bautista Agut,Vasek Pospisil,,,,,,,,,,
+106,2020-usopen-1314,2020,usopen,1314,Alex de Minaur,Karen Khachanov,,,,,,,,,,
+107,2020-usopen-1315,2020,usopen,1315,Felix Auger Aliassime,Corentin Moutet,,,,,,,,,,
+108,2020-usopen-1316,2020,usopen,1316,Marin Cilic,Dominic Thiem,,,,,,,,,,
+109,2020-usopen-1401,2020,usopen,1401,Novak Djokovic,Pablo Carreno Busta,,,,,,,,,,
+110,2020-usopen-1402,2020,usopen,1402,Denis Shapovalov,David Goffin,,,,,,,,,,
+111,2020-usopen-1403,2020,usopen,1403,Borna Coric,Jordan Thompson,,,,,,,,,,
+112,2020-usopen-1404,2020,usopen,1404,Alejandro Davidovich Fokina,Alexander Zverev,,,,,,,,,,
+113,2020-usopen-1405,2020,usopen,1405,Matteo Berrettini,Andrey Rublev,,,,,,,,,,
+114,2020-usopen-1406,2020,usopen,1406,Frances Tiafoe,Daniil Medvedev,,,,,,,,,,
+115,2020-usopen-1407,2020,usopen,1407,Vasek Pospisil,Alex de Minaur,,,,,,,,,,
+116,2020-usopen-1408,2020,usopen,1408,Felix Auger Aliassime,Dominic Thiem,,,,,,,,,,
+117,2020-usopen-1501,2020,usopen,1501,Pablo Carreno Busta,Denis Shapovalov,,,,,,,,,,
+118,2020-usopen-1502,2020,usopen,1502,Borna Coric,Alexander Zverev,,,,,,,,,,
+119,2020-usopen-1503,2020,usopen,1503,Andrey Rublev,Daniil Medvedev,,,,,,,,,,
+120,2020-usopen-1504,2020,usopen,1504,Alex de Minaur,Dominic Thiem,,,,,,,,,,
+121,2020-usopen-1601,2020,usopen,1601,Pablo Carreno Busta,Alexander Zverev,,,,,,,,,,
+122,2020-usopen-1602,2020,usopen,1602,Daniil Medvedev,Dominic Thiem,,,,,,,,,,
+123,2020-usopen-1701,2020,usopen,1701,Alexander Zverev,Dominic Thiem,,,,,,,,,,
+124,2020-usopen-2101,2020,usopen,2101,Karolina Pliskova,Anhelina Kalinina,,,,,,,,,,
+125,2020-usopen-2102,2020,usopen,2102,Jasmine Paolini,Caroline Garcia,,,,,,,,,,
+126,2020-usopen-2103,2020,usopen,2103,Catherine Bellis,Tamara Korpatsch,,,,,,,,,,
+127,2020-usopen-2104,2020,usopen,2104,Anna Blinkova,Jennifer Brady,,,,,,,,,,
+128,2020-usopen-2105,2020,usopen,2105,Angelique Kerber,Ajla Tomljanovic,,,,,,,,,,
+129,2020-usopen-2106,2020,usopen,2106,Caroline Dolehide,Anna Lena Friedsam,,,,,,,,,,
+130,2020-usopen-2107,2020,usopen,2107,Ann Li,Arantxa Rus,,,,,,,,,,
+131,2020-usopen-2108,2020,usopen,2108,Tatjana Maria,Alison Riske,,,,,,,,,,
+132,2020-usopen-2109,2020,usopen,2109,Marketa Vondrousova,Greet Minnen,,,,,,,,,,
+133,2020-usopen-2110,2020,usopen,2110,Francesca Di Lorenzo,Aliaksandra Sasnovich,,,,,,,,,,
+134,2020-usopen-2111,2020,usopen,2111,Viktorija Golubic,Vera Lapko,,,,,,,,,,
+135,2020-usopen-2112,2020,usopen,2112,Robin Montgomery,Yulia Putintseva,,,,,,,,,,
+136,2020-usopen-2113,2020,usopen,2113,Kristina Mladenovic,Hailey Baptiste,,,,,,,,,,
+137,2020-usopen-2114,2020,usopen,2114,Varvara Gracheva,Paula Badosa,,,,,,,,,,
+138,2020-usopen-2115,2020,usopen,2115,Kateryna Bondarenko,Allie Kiick,,,,,,,,,,
+139,2020-usopen-2116,2020,usopen,2116,Tereza Martincova,Petra Martic,,,,,,,,,,
+140,2020-usopen-2117,2020,usopen,2117,Naomi Osaka,Misaki Doi,,,,,,,,,,
+141,2020-usopen-2118,2020,usopen,2118,Camila Giorgi,Alison Van Uytvanck,,,,,,,,,,
+142,2020-usopen-2119,2020,usopen,2119,Marta Kostyuk,Daria Kasatkina,,,,,,,,,,
+143,2020-usopen-2120,2020,usopen,2120,Cori Gauff,Anastasija Sevastova,,,,,,,,,,
+144,2020-usopen-2121,2020,usopen,2121,Magda Linette,Maddison Inglis,,,,,,,,,,
+145,2020-usopen-2122,2020,usopen,2122,Danka Kovinic,Lizette Cabrera,,,,,,,,,,
+146,2020-usopen-2123,2020,usopen,2123,Usue Maitane Arconada,Kaja Juvan,,,,,,,,,,
+147,2020-usopen-2124,2020,usopen,2124,Danielle Collins,Anett Kontaveit,,,,,,,,,,
+148,2020-usopen-2125,2020,usopen,2125,Elena Rybakina,Katarina Zavatska,,,,,,,,,,
+149,2020-usopen-2126,2020,usopen,2126,Irina Khromacheva,Shelby Rogers,,,,,,,,,,
+150,2020-usopen-2128,2020,usopen,2128,Astra Sharma,Dayana Yastremska,,,,,,,,,,
+151,2020-usopen-2129,2020,usopen,2129,Rebecca Peterson,Kirsten Flipkens,,,,,,,,,,
+152,2020-usopen-2130,2020,usopen,2130,Marie Bouzkova,Jessica Pegula,,,,,,,,,,
+153,2020-usopen-2131,2020,usopen,2131,Kateryna Kozlova,Whitney Osuigwe,,,,,,,,,,
+154,2020-usopen-2132,2020,usopen,2132,Irina Camelia Begu,Petra Kvitova,,,,,,,,,,
+155,2020-usopen-2133,2020,usopen,2133,Madison Keys,Timea Babos,,,,,,,,,,
+156,2020-usopen-2134,2020,usopen,2134,Jil Teichmann,Aliona Bolsova,,,,,,,,,,
+157,2020-usopen-2135,2020,usopen,2135,Lauren Davis,Alizé Cornet,,,,,,,,,,
+158,2020-usopen-2136,2020,usopen,2136,Ysaline Bonaventure,Shuai Zhang,,,,,,,,,,
+159,2020-usopen-2137,2020,usopen,2137,Donna Vekic,Kristyna Pliskova,,,,,,,,,,
+160,2020-usopen-2138,2020,usopen,2138,Patricia Maria Tig,Kurumi Nara,,,,,,,,,,
+161,2020-usopen-2139,2020,usopen,2139,Tsvetana Pironkova,Liudmila Samsonova,,,,,,,,,,
+162,2020-usopen-2140,2020,usopen,2140,Nao Hibino,Garbiñe Muguruza,,,,,,,,,,
+163,2020-usopen-2141,2020,usopen,2141,Maria Sakkari,Stefanie Voegele,,,,,,,,,,
+164,2020-usopen-2142,2020,usopen,2142,Bernarda Pera,Zarina Diyas,,,,,,,,,,
+165,2020-usopen-2143,2020,usopen,2143,Natalia Vikhlyantseva,Katrina Scott,,,,,,,,,,
+166,2020-usopen-2144,2020,usopen,2144,Viktoriya Tomova,Amanda Anisimova,,,,,,,,,,
+167,2020-usopen-2145,2020,usopen,2145,Sloane Stephens,Mihaela Buzarnescu,,,,,,,,,,
+168,2020-usopen-2147,2020,usopen,2147,Margarita Gasparyan,Monica Puig,,,,,,,,,,
+169,2020-usopen-2148,2020,usopen,2148,Kristie Ahn,Serena Williams,,,,,,,,,,
+170,2020-usopen-2149,2020,usopen,2149,Aryna Sabalenka,Oceane Dodin,,,,,,,,,,
+171,2020-usopen-2150,2020,usopen,2150,Victoria Azarenka,Barbara Haas,,,,,,,,,,
+172,2020-usopen-2152,2020,usopen,2152,Iga Swiatek,Veronika Kudermetova,,,,,,,,,,
+173,2020-usopen-2153,2020,usopen,2153,Karolina Muchova,Venus Williams,,,,,,,,,,
+174,2020-usopen-2154,2020,usopen,2154,Anna Kalinskaya,Nina Stojanovic,,,,,,,,,,
+175,2020-usopen-2155,2020,usopen,2155,Sorana Cirstea,Christina McHale,,,,,,,,,,
+176,2020-usopen-2156,2020,usopen,2156,Heather Watson,Johanna Konta,,,,,,,,,,
+177,2020-usopen-2157,2020,usopen,2157,Elise Mertens,Laura Siegemund,,,,,,,,,,
+178,2020-usopen-2158,2020,usopen,2158,Claire Liu,Sara Sorribes Tormo,,,,,,,,,,
+179,2020-usopen-2159,2020,usopen,2159,Viktoria Kuzmova,Catherine McNally,,,,,,,,,,
+180,2020-usopen-2160,2020,usopen,2160,Kim Clijsters,Ekaterina Alexandrova,,,,,,,,,,
+181,2020-usopen-2161,2020,usopen,2161,Ons Jabeur,Katarzyna Kawa,,,,,,,,,,
+182,2020-usopen-2162,2020,usopen,2162,Katerina Siniakova,Kaia Kanepi,,,,,,,,,,
+183,2020-usopen-2163,2020,usopen,2163,Vera Zvonareva,Leylah Fernandez,,,,,,,,,,
+184,2020-usopen-2164,2020,usopen,2164,Yanina Wickmayer,Sofia Kenin,,,,,,,,,,
+185,2020-usopen-2201,2020,usopen,2201,Karolina Pliskova,Caroline Garcia,,,,,,,,,,
+186,2020-usopen-2202,2020,usopen,2202,Catherine Bellis,Jennifer Brady,,,,,,,,,,
+187,2020-usopen-2203,2020,usopen,2203,Angelique Kerber,Anna Lena Friedsam,,,,,,,,,,
+188,2020-usopen-2204,2020,usopen,2204,Ann Li,Alison Riske,,,,,,,,,,
+189,2020-usopen-2205,2020,usopen,2205,Marketa Vondrousova,Aliaksandra Sasnovich,,,,,,,,,,
+190,2020-usopen-2206,2020,usopen,2206,Vera Lapko,Yulia Putintseva,,,,,,,,,,
+191,2020-usopen-2207,2020,usopen,2207,Kristina Mladenovic,Varvara Gracheva,,,,,,,,,,
+192,2020-usopen-2208,2020,usopen,2208,Kateryna Bondarenko,Petra Martic,,,,,,,,,,
+193,2020-usopen-2209,2020,usopen,2209,Naomi Osaka,Camila Giorgi,,,,,,,,,,
+194,2020-usopen-2210,2020,usopen,2210,Marta Kostyuk,Anastasija Sevastova,,,,,,,,,,
+195,2020-usopen-2211,2020,usopen,2211,Magda Linette,Danka Kovinic,,,,,,,,,,
+196,2020-usopen-2212,2020,usopen,2212,Kaja Juvan,Anett Kontaveit,,,,,,,,,,
+197,2020-usopen-2213,2020,usopen,2213,Elena Rybakina,Shelby Rogers,,,,,,,,,,
+198,2020-usopen-2214,2020,usopen,2214,Madison Brengle,Dayana Yastremska,,,,,,,,,,
+199,2020-usopen-2215,2020,usopen,2215,Kirsten Flipkens,Jessica Pegula,,,,,,,,,,
+200,2020-usopen-2216,2020,usopen,2216,Kateryna Kozlova,Petra Kvitova,,,,,,,,,,
+201,2020-usopen-2217,2020,usopen,2217,Madison Keys,Aliona Bolsova,,,,,,,,,,
+202,2020-usopen-2218,2020,usopen,2218,Alizé Cornet,Ysaline Bonaventure,,,,,,,,,,
+203,2020-usopen-2219,2020,usopen,2219,Donna Vekic,Patricia Maria Tig,,,,,,,,,,
+204,2020-usopen-2220,2020,usopen,2220,Tsvetana Pironkova,Garbiñe Muguruza,,,,,,,,,,
+205,2020-usopen-2221,2020,usopen,2221,Maria Sakkari,Bernarda Pera,,,,,,,,,,
+206,2020-usopen-2222,2020,usopen,2222,Katrina Scott,Amanda Anisimova,,,,,,,,,,
+207,2020-usopen-2223,2020,usopen,2223,Sloane Stephens,Olga Govortsova,,,,,,,,,,
+208,2020-usopen-2224,2020,usopen,2224,Margarita Gasparyan,Serena Williams,,,,,,,,,,
+209,2020-usopen-2225,2020,usopen,2225,Aryna Sabalenka,Victoria Azarenka,,,,,,,,,,
+210,2020-usopen-2226,2020,usopen,2226,Sachia Vickery,Iga Swiatek,,,,,,,,,,
+211,2020-usopen-2227,2020,usopen,2227,Karolina Muchova,Anna Kalinskaya,,,,,,,,,,
+212,2020-usopen-2228,2020,usopen,2228,Sorana Cirstea,Johanna Konta,,,,,,,,,,
+213,2020-usopen-2229,2020,usopen,2229,Elise Mertens,Sara Sorribes Tormo,,,,,,,,,,
+214,2020-usopen-2230,2020,usopen,2230,Catherine McNally,Ekaterina Alexandrova,,,,,,,,,,
+215,2020-usopen-2231,2020,usopen,2231,Ons Jabeur,Kaia Kanepi,,,,,,,,,,
+216,2020-usopen-2232,2020,usopen,2232,Leylah Fernandez,Sofia Kenin,,,,,,,,,,
+217,2020-usopen-2301,2020,usopen,2301,Caroline Garcia,Jennifer Brady,,,,,,,,,,
+218,2020-usopen-2302,2020,usopen,2302,Angelique Kerber,Ann Li,,,,,,,,,,
+219,2020-usopen-2303,2020,usopen,2303,Aliaksandra Sasnovich,Yulia Putintseva,,,,,,,,,,
+220,2020-usopen-2304,2020,usopen,2304,Varvara Gracheva,Petra Martic,,,,,,,,,,
+221,2020-usopen-2305,2020,usopen,2305,Naomi Osaka,Marta Kostyuk,,,,,,,,,,
+222,2020-usopen-2306,2020,usopen,2306,Magda Linette,Anett Kontaveit,,,,,,,,,,
+223,2020-usopen-2307,2020,usopen,2307,Shelby Rogers,Madison Brengle,,,,,,,,,,
+224,2020-usopen-2308,2020,usopen,2308,Jessica Pegula,Petra Kvitova,,,,,,,,,,
+225,2020-usopen-2309,2020,usopen,2309,Madison Keys,Alizé Cornet,,,,,,,,,,
+226,2020-usopen-2310,2020,usopen,2310,Donna Vekic,Tsvetana Pironkova,,,,,,,,,,
+227,2020-usopen-2311,2020,usopen,2311,Maria Sakkari,Amanda Anisimova,,,,,,,,,,
+228,2020-usopen-2312,2020,usopen,2312,Sloane Stephens,Serena Williams,,,,,,,,,,
+229,2020-usopen-2313,2020,usopen,2313,Victoria Azarenka,Iga Swiatek,,,,,,,,,,
+230,2020-usopen-2314,2020,usopen,2314,Karolina Muchova,Sorana Cirstea,,,,,,,,,,
+231,2020-usopen-2315,2020,usopen,2315,Elise Mertens,Catherine McNally,,,,,,,,,,
+232,2020-usopen-2316,2020,usopen,2316,Ons Jabeur,Sofia Kenin,,,,,,,,,,
+233,2020-usopen-2401,2020,usopen,2401,Jennifer Brady,Angelique Kerber,,,,,,,,,,
+234,2020-usopen-2402,2020,usopen,2402,Yulia Putintseva,Petra Martic,,,,,,,,,,
+235,2020-usopen-2403,2020,usopen,2403,Naomi Osaka,Anett Kontaveit,,,,,,,,,,
+236,2020-usopen-2404,2020,usopen,2404,Shelby Rogers,Petra Kvitova,,,,,,,,,,
+237,2020-usopen-2405,2020,usopen,2405,Alizé Cornet,Tsvetana Pironkova,,,,,,,,,,
+238,2020-usopen-2406,2020,usopen,2406,Maria Sakkari,Serena Williams,,,,,,,,,,
+239,2020-usopen-2407,2020,usopen,2407,Victoria Azarenka,Karolina Muchova,,,,,,,,,,
+240,2020-usopen-2408,2020,usopen,2408,Elise Mertens,Sofia Kenin,,,,,,,,,,
+241,2020-usopen-2501,2020,usopen,2501,Jennifer Brady,Yulia Putintseva,,,,,,,,,,
+242,2020-usopen-2502,2020,usopen,2502,Naomi Osaka,Shelby Rogers,,,,,,,,,,
+243,2020-usopen-2503,2020,usopen,2503,Tsvetana Pironkova,Serena Williams,,,,,,,,,,
+244,2020-usopen-2504,2020,usopen,2504,Victoria Azarenka,Elise Mertens,,,,,,,,,,
+245,2020-usopen-2601,2020,usopen,2601,Jennifer Brady,Naomi Osaka,,,,,,,,,,
+246,2020-usopen-2602,2020,usopen,2602,Serena Williams,Victoria Azarenka,,,,,,,,,,
+247,2020-usopen-2701,2020,usopen,2701,Naomi Osaka,Victoria Azarenka,,,,,,,,,,
+0,2019-wimbledon-1101,2019,wimbledon,1101,Novak Djokovic,Philipp Kohlschreiber,,,,,,,,,,
+1,2019-wimbledon-1102,2019,wimbledon,1102,Denis Kudla,Malek Jaziri,,,,,,,,,,
+2,2019-wimbledon-1103,2019,wimbledon,1103,Ernests Gulbis,Leonardo Mayer,,,,,,,,,,
+3,2019-wimbledon-1104,2019,wimbledon,1104,Hubert Hurkacz,Dusan Lajovic,,,,,,,,,,
+4,2019-wimbledon-1105,2019,wimbledon,1105,Felix Auger Aliassime,Vasek Pospisil,,,,,,,,,,
+5,2019-wimbledon-1106,2019,wimbledon,1106,Grigor Dimitrov,Corentin Moutet,,,,,,,,,,
+6,2019-wimbledon-1107,2019,wimbledon,1107,Lorenzo Sonego,Marcel Granollers,,,,,,,,,,
+7,2019-wimbledon-1108,2019,wimbledon,1108,Ugo Humbert,Gael Monfils,,,,,,,,,,
+8,2019-wimbledon-1109,2019,wimbledon,1109,Daniil Medvedev,Paolo Lorenzi,,,,,,,,,,
+9,2019-wimbledon-1110,2019,wimbledon,1110,Pablo Carreno Busta,Alexei Popyrin,,,,,,,,,,
+10,2019-wimbledon-1111,2019,wimbledon,1111,Jeremy Chardy,Martin Klizan,,,,,,,,,,
+11,2019-wimbledon-1112,2019,wimbledon,1112,Bradley Klahn,David Goffin,,,,,,,,,,
+12,2019-wimbledon-1113,2019,wimbledon,1113,Kyle Edmund,Jaume Munar,,,,,,,,,,
+13,2019-wimbledon-1114,2019,wimbledon,1114,Kamil Majchrzak,Fernando Verdasco,,,,,,,,,,
+14,2019-wimbledon-1115,2019,wimbledon,1115,Andrea Arnaboldi,Ivo Karlovic,,,,,,,,,,
+15,2019-wimbledon-1116,2019,wimbledon,1116,Thomas Fabbiano,Stefanos Tsitsipas,,,,,,,,,,
+16,2019-wimbledon-1117,2019,wimbledon,1117,Kevin Anderson,Pierre Hugues Herbert,,,,,,,,,,
+17,2019-wimbledon-1118,2019,wimbledon,1118,Janko Tipsarevic,Yoshihito Nishioka,,,,,,,,,,
+18,2019-wimbledon-1119,2019,wimbledon,1119,Andreas Seppi,Nicolas Jarry,,,,,,,,,,
+19,2019-wimbledon-1120,2019,wimbledon,1120,Marius Copil,Guido Pella,,,,,,,,,,
+20,2019-wimbledon-1121,2019,wimbledon,1121,Stan Wawrinka,Ruben Bemelmans,,,,,,,,,,
+21,2019-wimbledon-1122,2019,wimbledon,1122,Cedrik Marcel Stebe,Reilly Opelka,,,,,,,,,,
+22,2019-wimbledon-1123,2019,wimbledon,1123,Jozef Kovalik,Robin Haase,,,,,,,,,,
+23,2019-wimbledon-1124,2019,wimbledon,1124,Prajnesh Gunneswaran,Milos Raonic,,,,,,,,,,
+24,2019-wimbledon-1125,2019,wimbledon,1125,Karen Khachanov,Soonwoo Kwon,,,,,,,,,,
+25,2019-wimbledon-1126,2019,wimbledon,1126,Marcos Giron,Feliciano Lopez,,,,,,,,,,
+26,2019-wimbledon-1127,2019,wimbledon,1127,Steve Darcis,Mischa Zverev,,,,,,,,,,
+27,2019-wimbledon-1128,2019,wimbledon,1128,Peter Gojowczyk,Roberto Bautista Agut,,,,,,,,,,
+28,2019-wimbledon-1129,2019,wimbledon,1129,Benoit Paire,Juan Ignacio Londero,,,,,,,,,,
+29,2019-wimbledon-1130,2019,wimbledon,1130,Roberto Carballes Baena,Miomir Kecmanovic,,,,,,,,,,
+30,2019-wimbledon-1131,2019,wimbledon,1131,Pablo Cuevas,Damir Dzumhur,,,,,,,,,,
+31,2019-wimbledon-1132,2019,wimbledon,1132,Jiri Vesely,Alexander Zverev,,,,,,,,,,
+32,2019-wimbledon-1133,2019,wimbledon,1133,Dominic Thiem,Sam Querrey,,,,,,,,,,
+33,2019-wimbledon-1134,2019,wimbledon,1134,Cristian Garin,Andrey Rublev,,,,,,,,,,
+34,2019-wimbledon-1135,2019,wimbledon,1135,Hugo Dellien,John Millman,,,,,,,,,,
+35,2019-wimbledon-1136,2019,wimbledon,1136,Guido Andreozzi,Laslo Djere,,,,,,,,,,
+36,2019-wimbledon-1137,2019,wimbledon,1137,Gilles Simon,Salvatore Caruso,,,,,,,,,,
+37,2019-wimbledon-1138,2019,wimbledon,1138,Yasutaka Uchiyama,Tennys Sandgren,,,,,,,,,,
+38,2019-wimbledon-1139,2019,wimbledon,1139,Marton Fucsovics,Dennis Novak,,,,,,,,,,
+39,2019-wimbledon-1140,2019,wimbledon,1140,Frances Tiafoe,Fabio Fognini,,,,,,,,,,
+40,2019-wimbledon-1141,2019,wimbledon,1141,Marin Cilic,Adrian Mannarino,,,,,,,,,,
+41,2019-wimbledon-1142,2019,wimbledon,1142,Joao Sousa,Paul Jubb,,,,,,,,,,
+42,2019-wimbledon-1143,2019,wimbledon,1143,Federico Delbonis,Daniel Evans,,,,,,,,,,
+43,2019-wimbledon-1144,2019,wimbledon,1144,James Ward,Nikoloz Basilashvili,,,,,,,,,,
+44,2019-wimbledon-1145,2019,wimbledon,1145,Denis Shapovalov,Ricardas Berankis,,,,,,,,,,
+45,2019-wimbledon-1146,2019,wimbledon,1146,Bernard Tomic,Jo Wilfried Tsonga,,,,,,,,,,
+46,2019-wimbledon-1147,2019,wimbledon,1147,Nick Kyrgios,Jordan Thompson,,,,,,,,,,
+47,2019-wimbledon-1148,2019,wimbledon,1148,Yuichi Sugita,Rafael Nadal,,,,,,,,,,
+48,2019-wimbledon-1149,2019,wimbledon,1149,Kei Nishikori,Thiago Monteiro,,,,,,,,,,
+49,2019-wimbledon-1150,2019,wimbledon,1150,Denis Istomin,Cameron Norrie,,,,,,,,,,
+50,2019-wimbledon-1151,2019,wimbledon,1151,Steve Johnson,Albert Ramos Vinolas,,,,,,,,,,
+51,2019-wimbledon-1152,2019,wimbledon,1152,Marco Cecchinato,Alex De Minaur,,,,,,,,,,
+52,2019-wimbledon-1153,2019,wimbledon,1153,Jan Lennard Struff,Radu Albot,,,,,,,,,,
+53,2019-wimbledon-1154,2019,wimbledon,1154,Taylor Fritz,Tomas Berdych,,,,,,,,,,
+54,2019-wimbledon-1155,2019,wimbledon,1155,Pablo Andujar,Mikhail Kukushkin,,,,,,,,,,
+55,2019-wimbledon-1156,2019,wimbledon,1156,Casper Ruud,John Isner,,,,,,,,,,
+56,2019-wimbledon-1157,2019,wimbledon,1157,Matteo Berrettini,Aljaz Bedene,,,,,,,,,,
+57,2019-wimbledon-1158,2019,wimbledon,1158,Brayden Schnur,Marcos Baghdatis,,,,,,,,,,
+58,2019-wimbledon-1159,2019,wimbledon,1159,Dominik Koepfer,Filip Krajinovic,,,,,,,,,,
+59,2019-wimbledon-1160,2019,wimbledon,1160,Matthew Ebden,Diego Schwartzman,,,,,,,,,,
+60,2019-wimbledon-1161,2019,wimbledon,1161,Lucas Pouille,Richard Gasquet,,,,,,,,,,
+61,2019-wimbledon-1162,2019,wimbledon,1162,Alexander Bublik,Gregoire Barrere,,,,,,,,,,
+62,2019-wimbledon-1163,2019,wimbledon,1163,Jay Clarke,Noah Rubin,,,,,,,,,,
+63,2019-wimbledon-1164,2019,wimbledon,1164,Lloyd Harris,Roger Federer,,,,,,,,,,
+64,2019-wimbledon-1201,2019,wimbledon,1201,Novak Djokovic,Denis Kudla,,,,,,,,,,
+65,2019-wimbledon-1202,2019,wimbledon,1202,Leonardo Mayer,Hubert Hurkacz,,,,,,,,,,
+66,2019-wimbledon-1203,2019,wimbledon,1203,Felix Auger Aliassime,Corentin Moutet,,,,,,,,,,
+67,2019-wimbledon-1204,2019,wimbledon,1204,Marcel Granollers,Ugo Humbert,,,,,,,,,,
+68,2019-wimbledon-1205,2019,wimbledon,1205,Daniil Medvedev,Alexei Popyrin,,,,,,,,,,
+69,2019-wimbledon-1206,2019,wimbledon,1206,Jeremy Chardy,David Goffin,,,,,,,,,,
+70,2019-wimbledon-1207,2019,wimbledon,1207,Kyle Edmund,Fernando Verdasco,,,,,,,,,,
+71,2019-wimbledon-1208,2019,wimbledon,1208,Ivo Karlovic,Thomas Fabbiano,,,,,,,,,,
+72,2019-wimbledon-1209,2019,wimbledon,1209,Kevin Anderson,Janko Tipsarevic,,,,,,,,,,
+73,2019-wimbledon-1210,2019,wimbledon,1210,Andreas Seppi,Guido Pella,,,,,,,,,,
+74,2019-wimbledon-1211,2019,wimbledon,1211,Stan Wawrinka,Reilly Opelka,,,,,,,,,,
+75,2019-wimbledon-1212,2019,wimbledon,1212,Robin Haase,Milos Raonic,,,,,,,,,,
+76,2019-wimbledon-1213,2019,wimbledon,1213,Karen Khachanov,Feliciano Lopez,,,,,,,,,,
+77,2019-wimbledon-1214,2019,wimbledon,1214,Steve Darcis,Roberto Bautista Agut,,,,,,,,,,
+78,2019-wimbledon-1215,2019,wimbledon,1215,Benoit Paire,Miomir Kecmanovic,,,,,,,,,,
+79,2019-wimbledon-1216,2019,wimbledon,1216,Pablo Cuevas,Jiri Vesely,,,,,,,,,,
+80,2019-wimbledon-1217,2019,wimbledon,1217,Sam Querrey,Andrey Rublev,,,,,,,,,,
+81,2019-wimbledon-1218,2019,wimbledon,1218,John Millman,Laslo Djere,,,,,,,,,,
+82,2019-wimbledon-1219,2019,wimbledon,1219,Gilles Simon,Tennys Sandgren,,,,,,,,,,
+83,2019-wimbledon-1220,2019,wimbledon,1220,Marton Fucsovics,Fabio Fognini,,,,,,,,,,
+84,2019-wimbledon-1221,2019,wimbledon,1221,Marin Cilic,Joao Sousa,,,,,,,,,,
+85,2019-wimbledon-1222,2019,wimbledon,1222,Daniel Evans,Nikoloz Basilashvili,,,,,,,,,,
+86,2019-wimbledon-1223,2019,wimbledon,1223,Ricardas Berankis,Jo Wilfried Tsonga,,,,,,,,,,
+87,2019-wimbledon-1224,2019,wimbledon,1224,Nick Kyrgios,Rafael Nadal,,,,,,,,,,
+88,2019-wimbledon-1225,2019,wimbledon,1225,Kei Nishikori,Cameron Norrie,,,,,,,,,,
+89,2019-wimbledon-1226,2019,wimbledon,1226,Steve Johnson,Alex De Minaur,,,,,,,,,,
+90,2019-wimbledon-1227,2019,wimbledon,1227,Jan Lennard Struff,Taylor Fritz,,,,,,,,,,
+91,2019-wimbledon-1228,2019,wimbledon,1228,Mikhail Kukushkin,John Isner,,,,,,,,,,
+92,2019-wimbledon-1229,2019,wimbledon,1229,Matteo Berrettini,Marcos Baghdatis,,,,,,,,,,
+93,2019-wimbledon-1230,2019,wimbledon,1230,Dominik Koepfer,Diego Schwartzman,,,,,,,,,,
+94,2019-wimbledon-1231,2019,wimbledon,1231,Lucas Pouille,Gregoire Barrere,,,,,,,,,,
+95,2019-wimbledon-1232,2019,wimbledon,1232,Jay Clarke,Roger Federer,,,,,,,,,,
+96,2019-wimbledon-1301,2019,wimbledon,1301,Novak Djokovic,Hubert Hurkacz,,,,,,,,,,
+97,2019-wimbledon-1302,2019,wimbledon,1302,Felix Auger Aliassime,Ugo Humbert,,,,,,,,,,
+98,2019-wimbledon-1303,2019,wimbledon,1303,Daniil Medvedev,David Goffin,,,,,,,,,,
+99,2019-wimbledon-1304,2019,wimbledon,1304,Fernando Verdasco,Thomas Fabbiano,,,,,,,,,,
+100,2019-wimbledon-1305,2019,wimbledon,1305,Kevin Anderson,Guido Pella,,,,,,,,,,
+101,2019-wimbledon-1306,2019,wimbledon,1306,Reilly Opelka,Milos Raonic,,,,,,,,,,
+102,2019-wimbledon-1307,2019,wimbledon,1307,Karen Khachanov,Roberto Bautista Agut,,,,,,,,,,
+103,2019-wimbledon-1308,2019,wimbledon,1308,Benoit Paire,Jiri Vesely,,,,,,,,,,
+104,2019-wimbledon-1309,2019,wimbledon,1309,Sam Querrey,John Millman,,,,,,,,,,
+105,2019-wimbledon-1310,2019,wimbledon,1310,Tennys Sandgren,Fabio Fognini,,,,,,,,,,
+106,2019-wimbledon-1311,2019,wimbledon,1311,Joao Sousa,Daniel Evans,,,,,,,,,,
+107,2019-wimbledon-1312,2019,wimbledon,1312,Jo Wilfried Tsonga,Rafael Nadal,,,,,,,,,,
+108,2019-wimbledon-1313,2019,wimbledon,1313,Kei Nishikori,Steve Johnson,,,,,,,,,,
+109,2019-wimbledon-1314,2019,wimbledon,1314,Jan Lennard Struff,Mikhail Kukushkin,,,,,,,,,,
+110,2019-wimbledon-1315,2019,wimbledon,1315,Matteo Berrettini,Diego Schwartzman,,,,,,,,,,
+111,2019-wimbledon-1316,2019,wimbledon,1316,Lucas Pouille,Roger Federer,,,,,,,,,,
+112,2019-wimbledon-1401,2019,wimbledon,1401,Novak Djokovic,Ugo Humbert,,,,,,,,,,
+113,2019-wimbledon-1402,2019,wimbledon,1402,David Goffin,Fernando Verdasco,,,,,,,,,,
+114,2019-wimbledon-1403,2019,wimbledon,1403,Guido Pella,Milos Raonic,,,,,,,,,,
+115,2019-wimbledon-1404,2019,wimbledon,1404,Roberto Bautista Agut,Benoit Paire,,,,,,,,,,
+116,2019-wimbledon-1405,2019,wimbledon,1405,Sam Querrey,Tennys Sandgren,,,,,,,,,,
+117,2019-wimbledon-1406,2019,wimbledon,1406,Joao Sousa,Rafael Nadal,,,,,,,,,,
+118,2019-wimbledon-1407,2019,wimbledon,1407,Kei Nishikori,Mikhail Kukushkin,,,,,,,,,,
+119,2019-wimbledon-1408,2019,wimbledon,1408,Matteo Berrettini,Roger Federer,,,,,,,,,,
+120,2019-wimbledon-1501,2019,wimbledon,1501,Novak Djokovic,David Goffin,,,,,,,,,,
+121,2019-wimbledon-1502,2019,wimbledon,1502,Guido Pella,Roberto Bautista Agut,,,,,,,,,,
+122,2019-wimbledon-1503,2019,wimbledon,1503,Sam Querrey,Rafael Nadal,,,,,,,,,,
+123,2019-wimbledon-1504,2019,wimbledon,1504,Kei Nishikori,Roger Federer,,,,,,,,,,
+124,2019-wimbledon-1601,2019,wimbledon,1601,Novak Djokovic,Roberto Bautista Agut,,,,,,,,,,
+125,2019-wimbledon-1602,2019,wimbledon,1602,Rafael Nadal,Roger Federer,,,,,,,,,,
+126,2019-wimbledon-1701,2019,wimbledon,1701,Novak Djokovic,Roger Federer,,,,,,,,,,
+127,2019-wimbledon-2101,2019,wimbledon,2101,Ashleigh Barty,Saisai Zheng,,,,,,,,,,
+128,2019-wimbledon-2102,2019,wimbledon,2102,Svetlana Kuznetsova,Alison Van Uytvanck,,,,,,,,,,
+129,2019-wimbledon-2103,2019,wimbledon,2103,Harriet Dart,Christina McHale,,,,,,,,,,
+130,2019-wimbledon-2104,2019,wimbledon,2104,Beatriz Haddad Maia,Garbine Muguruza,,,,,,,,,,
+131,2019-wimbledon-2105,2019,wimbledon,2105,Donna Vekic,Alison Riske,,,,,,,,,,
+132,2019-wimbledon-2106,2019,wimbledon,2106,Lesley Kerkhove,Ivana Jorovic,,,,,,,,,,
+133,2019-wimbledon-2107,2019,wimbledon,2107,Stefanie Voegele,Kaia Kanepi,,,,,,,,,,
+134,2019-wimbledon-2108,2019,wimbledon,2108,Anastasia Pavlyuchenkova,Belinda Bencic,,,,,,,,,,
+135,2019-wimbledon-2109,2019,wimbledon,2109,Serena Williams,Giulia Gatto Monticone,,,,,,,,,,
+136,2019-wimbledon-2110,2019,wimbledon,2110,Kaja Juvan,Kristyna Pliskova,,,,,,,,,,
+137,2019-wimbledon-2111,2019,wimbledon,2111,Paula Badosa,Varvara Flink,,,,,,,,,,
+138,2019-wimbledon-2112,2019,wimbledon,2112,Elena Gabriela Ruse,Julia Goerges,,,,,,,,,,
+139,2019-wimbledon-2113,2019,wimbledon,2113,Carla Suarez Navarro,Samantha Stosur,,,,,,,,,,
+140,2019-wimbledon-2114,2019,wimbledon,2114,Maria Sharapova,Pauline Parmentier,,,,,,,,,,
+141,2019-wimbledon-2115,2019,wimbledon,2115,Kateryna Kozlova,Lauren Davis,,,,,,,,,,
+142,2019-wimbledon-2116,2019,wimbledon,2116,Tatjana Maria,Angelique Kerber,,,,,,,,,,
+143,2019-wimbledon-2117,2019,wimbledon,2117,Kiki Bertens,Mandy Minella,,,,,,,,,,
+144,2019-wimbledon-2118,2019,wimbledon,2118,Arina Rodionova,Taylor Townsend,,,,,,,,,,
+145,2019-wimbledon-2119,2019,wimbledon,2119,Laura Siegemund,Katie Swan,,,,,,,,,,
+146,2019-wimbledon-2120,2019,wimbledon,2120,Barbora Strycova,Lesia Tsurenko,,,,,,,,,,
+147,2019-wimbledon-2121,2019,wimbledon,2121,Elise Mertens,Fiona Ferro,,,,,,,,,,
+148,2019-wimbledon-2122,2019,wimbledon,2122,Andrea Petkovic,Monica Niculescu,,,,,,,,,,
+149,2019-wimbledon-2123,2019,wimbledon,2123,Tamara Zidansek,Eugenie Bouchard,,,,,,,,,,
+150,2019-wimbledon-2124,2019,wimbledon,2124,Vera Lapko,Qiang Wang,,,,,,,,,,
+151,2019-wimbledon-2125,2019,wimbledon,2125,Sloane Stephens,Timea Bacsinszky,,,,,,,,,,
+152,2019-wimbledon-2126,2019,wimbledon,2126,Yafan Wang,Tereza Martincova,,,,,,,,,,
+153,2019-wimbledon-2127,2019,wimbledon,2127,Ekaterina Alexandrova,Katerina Siniakova,,,,,,,,,,
+154,2019-wimbledon-2128,2019,wimbledon,2128,Ana Bogdan,Johanna Konta,,,,,,,,,,
+155,2019-wimbledon-2129,2019,wimbledon,2129,Amanda Anisimova,Sorana Cirstea,,,,,,,,,,
+156,2019-wimbledon-2130,2019,wimbledon,2130,Magda Linette,Anna Kalinskaya,,,,,,,,,,
+157,2019-wimbledon-2131,2019,wimbledon,2131,Vitalia Diatchenko,Kristina Mladenovic,,,,,,,,,,
+158,2019-wimbledon-2132,2019,wimbledon,2132,Ons Jabeur,Petra Kvitova,,,,,,,,,,
+159,2019-wimbledon-2133,2019,wimbledon,2133,Elina Svitolina,Daria Gavrilova,,,,,,,,,,
+160,2019-wimbledon-2134,2019,wimbledon,2134,Margarita Gasparyan,Anna Lena Friedsam,,,,,,,,,,
+161,2019-wimbledon-2135,2019,wimbledon,2135,Marie Bouzkova,Mona Barthel,,,,,,,,,,
+162,2019-wimbledon-2136,2019,wimbledon,2136,Bernarda Pera,Maria Sakkari,,,,,,,,,,
+163,2019-wimbledon-2137,2019,wimbledon,2137,Petra Martic,Jennifer Brady,,,,,,,,,,
+164,2019-wimbledon-2138,2019,wimbledon,2138,Anastasia Potapova,Jil Teichmann,,,,,,,,,,
+165,2019-wimbledon-2139,2019,wimbledon,2139,Danielle Collins,Zarina Diyas,,,,,,,,,,
+166,2019-wimbledon-2140,2019,wimbledon,2140,Kristie Ahn,Anastasija Sevastova,,,,,,,,,,
+167,2019-wimbledon-2141,2019,wimbledon,2141,Marketa Vondrousova,Madison Brengle,,,,,,,,,,
+168,2019-wimbledon-2142,2019,wimbledon,2142,Karolina Muchova,Aleksandra Krunic,,,,,,,,,,
+169,2019-wimbledon-2143,2019,wimbledon,2143,Caty McNally,Heather Watson,,,,,,,,,,
+170,2019-wimbledon-2144,2019,wimbledon,2144,Shelby Rogers,Anett Kontaveit,,,,,,,,,,
+171,2019-wimbledon-2145,2019,wimbledon,2145,Su Wei Hsieh,Jelena Ostapenko,,,,,,,,,,
+172,2019-wimbledon-2146,2019,wimbledon,2146,Dalila Jakupovic,Kirsten Flipkens,,,,,,,,,,
+173,2019-wimbledon-2147,2019,wimbledon,2147,Anna Karolina Schmiedlova,Monica Puig,,,,,,,,,,
+174,2019-wimbledon-2148,2019,wimbledon,2148,Lin Zhu,Karolina Pliskova,,,,,,,,,,
+175,2019-wimbledon-2149,2019,wimbledon,2149,Simona Halep,Aliaksandra Sasnovich,,,,,,,,,,
+176,2019-wimbledon-2150,2019,wimbledon,2150,Mihaela Buzarnescu,Jessica Pegula,,,,,,,,,,
+177,2019-wimbledon-2151,2019,wimbledon,2151,Alize Cornet,Victoria Azarenka,,,,,,,,,,
+178,2019-wimbledon-2152,2019,wimbledon,2152,Ajla Tomljanovic,Daria Kasatkina,,,,,,,,,,
+179,2019-wimbledon-2153,2019,wimbledon,2153,Madison Keys,Luksika Kumkhum,,,,,,,,,,
+180,2019-wimbledon-2154,2019,wimbledon,2154,Polona Hercog,Viktoria Kuzmova,,,,,,,,,,
+181,2019-wimbledon-2155,2019,wimbledon,2155,Venus Williams,Cori Gauff,,,,,,,,,,
+182,2019-wimbledon-2156,2019,wimbledon,2156,Magdalena Rybarikova,Aryna Sabalenka,,,,,,,,,,
+183,2019-wimbledon-2157,2019,wimbledon,2157,Caroline Wozniacki,Sara Sorribes Tormo,,,,,,,,,,
+184,2019-wimbledon-2158,2019,wimbledon,2158,Veronika Kudermetova,Ysaline Bonaventure,,,,,,,,,,
+185,2019-wimbledon-2159,2019,wimbledon,2159,Rebecca Peterson,Yanina Wickmayer,,,,,,,,,,
+186,2019-wimbledon-2160,2019,wimbledon,2160,Shuai Zhang,Caroline Garcia,,,,,,,,,,
+187,2019-wimbledon-2161,2019,wimbledon,2161,Sofia Kenin,Astra Sharma,,,,,,,,,,
+188,2019-wimbledon-2162,2019,wimbledon,2162,Dayana Yastremska,Camila Giorgi,,,,,,,,,,
+189,2019-wimbledon-2163,2019,wimbledon,2163,Iga Swiatek,Viktorija Golubic,,,,,,,,,,
+190,2019-wimbledon-2164,2019,wimbledon,2164,Yulia Putintseva,Naomi Osaka,,,,,,,,,,
+191,2019-wimbledon-2201,2019,wimbledon,2201,Ashleigh Barty,Alison Van Uytvanck,,,,,,,,,,
+192,2019-wimbledon-2202,2019,wimbledon,2202,Harriet Dart,Beatriz Haddad Maia,,,,,,,,,,
+193,2019-wimbledon-2203,2019,wimbledon,2203,Alison Riske,Ivana Jorovic,,,,,,,,,,
+194,2019-wimbledon-2204,2019,wimbledon,2204,Kaia Kanepi,Belinda Bencic,,,,,,,,,,
+195,2019-wimbledon-2205,2019,wimbledon,2205,Serena Williams,Kaja Juvan,,,,,,,,,,
+196,2019-wimbledon-2206,2019,wimbledon,2206,Varvara Flink,Julia Goerges,,,,,,,,,,
+197,2019-wimbledon-2207,2019,wimbledon,2207,Carla Suarez Navarro,Pauline Parmentier,,,,,,,,,,
+198,2019-wimbledon-2208,2019,wimbledon,2208,Lauren Davis,Angelique Kerber,,,,,,,,,,
+199,2019-wimbledon-2209,2019,wimbledon,2209,Kiki Bertens,Taylor Townsend,,,,,,,,,,
+200,2019-wimbledon-2210,2019,wimbledon,2210,Laura Siegemund,Barbora Strycova,,,,,,,,,,
+201,2019-wimbledon-2211,2019,wimbledon,2211,Elise Mertens,Monica Niculescu,,,,,,,,,,
+202,2019-wimbledon-2212,2019,wimbledon,2212,Tamara Zidansek,Qiang Wang,,,,,,,,,,
+203,2019-wimbledon-2213,2019,wimbledon,2213,Sloane Stephens,Yafan Wang,,,,,,,,,,
+204,2019-wimbledon-2214,2019,wimbledon,2214,Katerina Siniakova,Johanna Konta,,,,,,,,,,
+205,2019-wimbledon-2215,2019,wimbledon,2215,Amanda Anisimova,Magda Linette,,,,,,,,,,
+206,2019-wimbledon-2216,2019,wimbledon,2216,Kristina Mladenovic,Petra Kvitova,,,,,,,,,,
+207,2019-wimbledon-2217,2019,wimbledon,2217,Elina Svitolina,Margarita Gasparyan,,,,,,,,,,
+208,2019-wimbledon-2218,2019,wimbledon,2218,Marie Bouzkova,Maria Sakkari,,,,,,,,,,
+209,2019-wimbledon-2219,2019,wimbledon,2219,Petra Martic,Anastasia Potapova,,,,,,,,,,
+210,2019-wimbledon-2220,2019,wimbledon,2220,Danielle Collins,Anastasija Sevastova,,,,,,,,,,
+211,2019-wimbledon-2221,2019,wimbledon,2221,Madison Brengle,Karolina Muchova,,,,,,,,,,
+212,2019-wimbledon-2222,2019,wimbledon,2222,Heather Watson,Anett Kontaveit,,,,,,,,,,
+213,2019-wimbledon-2223,2019,wimbledon,2223,Su Wei Hsieh,Kirsten Flipkens,,,,,,,,,,
+214,2019-wimbledon-2224,2019,wimbledon,2224,Monica Puig,Karolina Pliskova,,,,,,,,,,
+215,2019-wimbledon-2225,2019,wimbledon,2225,Simona Halep,Mihaela Buzarnescu,,,,,,,,,,
+216,2019-wimbledon-2226,2019,wimbledon,2226,Victoria Azarenka,Ajla Tomljanovic,,,,,,,,,,
+217,2019-wimbledon-2227,2019,wimbledon,2227,Madison Keys,Polona Hercog,,,,,,,,,,
+218,2019-wimbledon-2228,2019,wimbledon,2228,Cori Gauff,Magdalena Rybarikova,,,,,,,,,,
+219,2019-wimbledon-2229,2019,wimbledon,2229,Caroline Wozniacki,Veronika Kudermetova,,,,,,,,,,
+220,2019-wimbledon-2230,2019,wimbledon,2230,Yanina Wickmayer,Shuai Zhang,,,,,,,,,,
+221,2019-wimbledon-2231,2019,wimbledon,2231,Sofia Kenin,Dayana Yastremska,,,,,,,,,,
+222,2019-wimbledon-2232,2019,wimbledon,2232,Viktorija Golubic,Yulia Putintseva,,,,,,,,,,
+223,2019-wimbledon-2301,2019,wimbledon,2301,Ashleigh Barty,Harriet Dart,,,,,,,,,,
+224,2019-wimbledon-2302,2019,wimbledon,2302,Alison Riske,Belinda Bencic,,,,,,,,,,
+225,2019-wimbledon-2303,2019,wimbledon,2303,Serena Williams,Julia Goerges,,,,,,,,,,
+226,2019-wimbledon-2304,2019,wimbledon,2304,Carla Suarez Navarro,Lauren Davis,,,,,,,,,,
+227,2019-wimbledon-2305,2019,wimbledon,2305,Kiki Bertens,Barbora Strycova,,,,,,,,,,
+228,2019-wimbledon-2306,2019,wimbledon,2306,Elise Mertens,Qiang Wang,,,,,,,,,,
+229,2019-wimbledon-2307,2019,wimbledon,2307,Sloane Stephens,Johanna Konta,,,,,,,,,,
+230,2019-wimbledon-2308,2019,wimbledon,2308,Magda Linette,Petra Kvitova,,,,,,,,,,
+231,2019-wimbledon-2309,2019,wimbledon,2309,Elina Svitolina,Maria Sakkari,,,,,,,,,,
+232,2019-wimbledon-2310,2019,wimbledon,2310,Petra Martic,Danielle Collins,,,,,,,,,,
+233,2019-wimbledon-2311,2019,wimbledon,2311,Karolina Muchova,Anett Kontaveit,,,,,,,,,,
+234,2019-wimbledon-2312,2019,wimbledon,2312,Su Wei Hsieh,Karolina Pliskova,,,,,,,,,,
+235,2019-wimbledon-2313,2019,wimbledon,2313,Simona Halep,Victoria Azarenka,,,,,,,,,,
+236,2019-wimbledon-2314,2019,wimbledon,2314,Polona Hercog,Cori Gauff,,,,,,,,,,
+237,2019-wimbledon-2315,2019,wimbledon,2315,Caroline Wozniacki,Shuai Zhang,,,,,,,,,,
+238,2019-wimbledon-2316,2019,wimbledon,2316,Dayana Yastremska,Viktorija Golubic,,,,,,,,,,
+239,2019-wimbledon-2401,2019,wimbledon,2401,Ashleigh Barty,Alison Riske,,,,,,,,,,
+240,2019-wimbledon-2402,2019,wimbledon,2402,Serena Williams,Carla Suarez Navarro,,,,,,,,,,
+241,2019-wimbledon-2403,2019,wimbledon,2403,Barbora Strycova,Elise Mertens,,,,,,,,,,
+242,2019-wimbledon-2404,2019,wimbledon,2404,Johanna Konta,Petra Kvitova,,,,,,,,,,
+243,2019-wimbledon-2405,2019,wimbledon,2405,Elina Svitolina,Petra Martic,,,,,,,,,,
+244,2019-wimbledon-2406,2019,wimbledon,2406,Karolina Muchova,Karolina Pliskova,,,,,,,,,,
+245,2019-wimbledon-2407,2019,wimbledon,2407,Simona Halep,Cori Gauff,,,,,,,,,,
+246,2019-wimbledon-2408,2019,wimbledon,2408,Shuai Zhang,Dayana Yastremska,,,,,,,,,,
+247,2019-wimbledon-2501,2019,wimbledon,2501,Alison Riske,Serena Williams,,,,,,,,,,
+248,2019-wimbledon-2502,2019,wimbledon,2502,Barbora Strycova,Johanna Konta,,,,,,,,,,
+249,2019-wimbledon-2503,2019,wimbledon,2503,Elina Svitolina,Karolina Muchova,,,,,,,,,,
+250,2019-wimbledon-2504,2019,wimbledon,2504,Simona Halep,Shuai Zhang,,,,,,,,,,
+251,2019-wimbledon-2601,2019,wimbledon,2601,Serena Williams,Barbora Strycova,,,,,,,,,,
+252,2019-wimbledon-2602,2019,wimbledon,2602,Elina Svitolina,Simona Halep,,,,,,,,,,
+253,2019-wimbledon-2701,2019,wimbledon,2701,Serena Williams,Simona Halep,,,,,,,,,,
