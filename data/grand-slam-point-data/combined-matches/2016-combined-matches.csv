@@ -1,706 +1,418 @@
-,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2
-0,2016-ausopen-1101,2016,ausopen,1101,Novak Djokovic,Hyeon Chung,,,,,,,,,,
-1,2016-ausopen-1102,2016,ausopen,1102,Quentin Halys,Ivan Dodig,,,,,,,,,,
-2,2016-ausopen-1104,2016,ausopen,1104,Teymuraz Gabashvili,Andreas Seppi,,,,,,,,,,
-3,2016-ausopen-1107,2016,ausopen,1107,Evgeny Donskoy,Inigo Cervantes,,,,,,,,,,
-4,2016-ausopen-1108,2016,ausopen,1108,Vasek Pospisil,Gilles Simon,,,,,,,,,,
-5,2016-ausopen-1109,2016,ausopen,1109,Jo-Wilfried Tsonga,Marcos Baghdatis,,,,,,,,,,
-6,2016-ausopen-1110,2016,ausopen,1110,Omar Jasika,Illya Marchenko,,,,,,,,,,
-7,2016-ausopen-1111,2016,ausopen,1111,Pablo Andujar,Pierre-Hugues Herbert,,,,,,,,,,
-8,2016-ausopen-1112,2016,ausopen,1112,Noah Rubin,Benoit Paire,,,,,,,,,,
-9,2016-ausopen-1113,2016,ausopen,1113,Guillermo Garcia-Lopez,Paul-Henri Mathieu,,,,,,,,,,
-10,2016-ausopen-1114,2016,ausopen,1114,Victor Estrella Burgos,Daniel Brands,,,,,,,,,,
-11,2016-ausopen-1115,2016,ausopen,1115,Austin Krajicek,Di Wu,,,,,,,,,,
-12,2016-ausopen-1116,2016,ausopen,1116,Philipp Kohlschreiber,Kei Nishikori,,,,,,,,,,
-13,2016-ausopen-1117,2016,ausopen,1117,Roger Federer,Nikoloz Basilashvili,,,,,,,,,,
-14,2016-ausopen-1118,2016,ausopen,1118,Ricardas Berankis,Alexandr Dolgopolov,,,,,,,,,,
-15,2016-ausopen-1120,2016,ausopen,1120,Paolo Lorenzi,Grigor Dimitrov,,,,,,,,,,
-16,2016-ausopen-1121,2016,ausopen,1121,Dominic Thiem,Leonardo Mayer,,,,,,,,,,
-17,2016-ausopen-1122,2016,ausopen,1122,Julien Benneteau,Nicolas Almagro,,,,,,,,,,
-18,2016-ausopen-1124,2016,ausopen,1124,Sergiy Stakhovsky,David Goffin,,,,,,,,,,
-19,2016-ausopen-1125,2016,ausopen,1125,Marin Cilic,Thiemo de Bakker,,,,,,,,,,
-20,2016-ausopen-1126,2016,ausopen,1126,Albert Ramos-Vinolas,Borna Coric,,,,,,,,,,
-21,2016-ausopen-1127,2016,ausopen,1127,Dusan Lajovic,Sam Querrey,,,,,,,,,,
-22,2016-ausopen-1129,2016,ausopen,1129,Nick Kyrgios,Pablo Carreno Busta,,,,,,,,,,
-23,2016-ausopen-1130,2016,ausopen,1130,Yoshihito Nishioka,Pablo Cuevas,,,,,,,,,,
-24,2016-ausopen-1132,2016,ausopen,1132,Yuki Bhambri,Tomas Berdych,,,,,,,,,,
-25,2016-ausopen-1133,2016,ausopen,1133,Rafael Nadal,Fernando Verdasco,,,,,,,,,,
-26,2016-ausopen-1134,2016,ausopen,1134,Benjamin Becker,Dudi Sela,,,,,,,,,,
-27,2016-ausopen-1135,2016,ausopen,1135,Ryan Harrison,Andrey Kuznetsov,,,,,,,,,,
-28,2016-ausopen-1137,2016,ausopen,1137,Gael Monfils,Yuichi Sugita,,,,,,,,,,
-29,2016-ausopen-1138,2016,ausopen,1138,Marco Cecchinato,Nicolas Mahut,,,,,,,,,,
-30,2016-ausopen-1139,2016,ausopen,1139,Stephane Robert,Bjorn Fratangelo,,,,,,,,,,
-31,2016-ausopen-1140,2016,ausopen,1140,Rajeev Ram,Kevin Anderson,,,,,,,,,,
-32,2016-ausopen-1141,2016,ausopen,1141,Milos Raonic,Lucas Pouille,,,,,,,,,,
-33,2016-ausopen-1143,2016,ausopen,1143,Daniel Gimeno-Traver,Tim Smyczek,,,,,,,,,,
-34,2016-ausopen-1144,2016,ausopen,1144,D. Muñoz de la Nava,Viktor Troicki,,,,,,,,,,
-35,2016-ausopen-1145,2016,ausopen,1145,Jack Sock,Taylor Fritz,,,,,,,,,,
-36,2016-ausopen-1146,2016,ausopen,1146,Taro Daniel,Lukas Rosol,,,,,,,,,,
-37,2016-ausopen-1147,2016,ausopen,1147,Tatsuma Ito,Radek Stepanek,,,,,,,,,,
-38,2016-ausopen-1148,2016,ausopen,1148,Dmitry Tursunov,Stan Wawrinka,,,,,,,,,,
-39,2016-ausopen-1149,2016,ausopen,1149,David Ferrer,Peter Gojowczyk,,,,,,,,,,
-40,2016-ausopen-1150,2016,ausopen,1150,James Duckworth,Lleyton Hewitt,,,,,,,,,,
-41,2016-ausopen-1151,2016,ausopen,1151,Thomaz Bellucci,Jordan Thompson,,,,,,,,,,
-42,2016-ausopen-1152,2016,ausopen,1152,Aljaz Bedene,Steve Johnson,,,,,,,,,,
-43,2016-ausopen-1153,2016,ausopen,1153,Feliciano Lopez,Daniel Evans,,,,,,,,,,
-44,2016-ausopen-1155,2016,ausopen,1155,Matthew Ebden,Marcel Granollers,,,,,,,,,,
-45,2016-ausopen-1156,2016,ausopen,1156,Jerzy Janowicz,John Isner,,,,,,,,,,
-46,2016-ausopen-1157,2016,ausopen,1157,Bernard Tomic,Denis Istomin,,,,,,,,,,
-47,2016-ausopen-1159,2016,ausopen,1159,John Millman,Diego Schwartzman,,,,,,,,,,
-48,2016-ausopen-1160,2016,ausopen,1160,Gilles Muller,Fabio Fognini,,,,,,,,,,
-49,2016-ausopen-1161,2016,ausopen,1161,Joao Sousa,Mikhail Kukushkin,,,,,,,,,,
-50,2016-ausopen-1162,2016,ausopen,1162,Santiago Giraldo,Donald Young,,,,,,,,,,
-51,2016-ausopen-1163,2016,ausopen,1163,Adrian Mannarino,Sam Groth,,,,,,,,,,
-52,2016-ausopen-1164,2016,ausopen,1164,Alexander Zverev,Andy Murray,,,,,,,,,,
-53,2016-ausopen-1201,2016,ausopen,1201,Novak Djokovic,Quentin Halys,,,,,,,,,,
-54,2016-ausopen-1202,2016,ausopen,1202,Denis Kudla,Andreas Seppi,,,,,,,,,,
-55,2016-ausopen-1203,2016,ausopen,1203,Federico Delbonis,Renzo Olivo,,,,,,,,,,
-56,2016-ausopen-1204,2016,ausopen,1204,Evgeny Donskoy,Gilles Simon,,,,,,,,,,
-57,2016-ausopen-1205,2016,ausopen,1205,Jo-Wilfried Tsonga,Omar Jasika,,,,,,,,,,
-58,2016-ausopen-1206,2016,ausopen,1206,Pierre-Hugues Herbert,Noah Rubin,,,,,,,,,,
-59,2016-ausopen-1207,2016,ausopen,1207,Guillermo Garcia-Lopez,Daniel Brands,,,,,,,,,,
-60,2016-ausopen-1208,2016,ausopen,1208,Austin Krajicek,Kei Nishikori,,,,,,,,,,
-61,2016-ausopen-1209,2016,ausopen,1209,Roger Federer,Alexandr Dolgopolov,,,,,,,,,,
-62,2016-ausopen-1210,2016,ausopen,1210,Marco Trungelliti,Grigor Dimitrov,,,,,,,,,,
-63,2016-ausopen-1211,2016,ausopen,1211,Dominic Thiem,Nicolas Almagro,,,,,,,,,,
-64,2016-ausopen-1212,2016,ausopen,1212,Damir Dzumhur,David Goffin,,,,,,,,,,
-65,2016-ausopen-1213,2016,ausopen,1213,Marin Cilic,Albert Ramos-Vinolas,,,,,,,,,,
-66,2016-ausopen-1214,2016,ausopen,1214,Dusan Lajovic,Roberto Bautista Agut,,,,,,,,,,
-67,2016-ausopen-1215,2016,ausopen,1215,Nick Kyrgios,Pablo Cuevas,,,,,,,,,,
-68,2016-ausopen-1216,2016,ausopen,1216,Mirza Basic,Tomas Berdych,,,,,,,,,,
-69,2016-ausopen-1217,2016,ausopen,1217,Fernando Verdasco,Dudi Sela,,,,,,,,,,
-70,2016-ausopen-1218,2016,ausopen,1218,Andrey Kuznetsov,Jeremy Chardy,,,,,,,,,,
-71,2016-ausopen-1219,2016,ausopen,1219,Gael Monfils,Nicolas Mahut,,,,,,,,,,
-72,2016-ausopen-1221,2016,ausopen,1221,Milos Raonic,Tommy Robredo,,,,,,,,,,
-73,2016-ausopen-1222,2016,ausopen,1222,Tim Smyczek,Viktor Troicki,,,,,,,,,,
-74,2016-ausopen-1223,2016,ausopen,1223,Jack Sock,Lukas Rosol,,,,,,,,,,
-75,2016-ausopen-1224,2016,ausopen,1224,Radek Stepanek,Stan Wawrinka,,,,,,,,,,
-76,2016-ausopen-1225,2016,ausopen,1225,David Ferrer,Lleyton Hewitt,,,,,,,,,,
-77,2016-ausopen-1226,2016,ausopen,1226,Thomaz Bellucci,Steve Johnson,,,,,,,,,,
-78,2016-ausopen-1227,2016,ausopen,1227,Feliciano Lopez,Guido Pella,,,,,,,,,,
-79,2016-ausopen-1228,2016,ausopen,1228,Marcel Granollers,John Isner,,,,,,,,,,
-80,2016-ausopen-1229,2016,ausopen,1229,Bernard Tomic,Simone Bolelli,,,,,,,,,,
-81,2016-ausopen-1230,2016,ausopen,1230,John Millman,Gilles Muller,,,,,,,,,,
-82,2016-ausopen-1231,2016,ausopen,1231,Joao Sousa,Santiago Giraldo,,,,,,,,,,
-83,2016-ausopen-1232,2016,ausopen,1232,Sam Groth,Andy Murray,,,,,,,,,,
-84,2016-ausopen-1301,2016,ausopen,1301,Novak Djokovic,Andreas Seppi,,,,,,,,,,
-85,2016-ausopen-1302,2016,ausopen,1302,Federico Delbonis,Gilles Simon,,,,,,,,,,
-86,2016-ausopen-1303,2016,ausopen,1303,Jo-Wilfried Tsonga,Pierre-Hugues Herbert,,,,,,,,,,
-87,2016-ausopen-1304,2016,ausopen,1304,Guillermo Garcia-Lopez,Kei Nishikori,,,,,,,,,,
-88,2016-ausopen-1305,2016,ausopen,1305,Roger Federer,Grigor Dimitrov,,,,,,,,,,
-89,2016-ausopen-1306,2016,ausopen,1306,Dominic Thiem,David Goffin,,,,,,,,,,
-90,2016-ausopen-1307,2016,ausopen,1307,Marin Cilic,Roberto Bautista Agut,,,,,,,,,,
-91,2016-ausopen-1308,2016,ausopen,1308,Nick Kyrgios,Tomas Berdych,,,,,,,,,,
-92,2016-ausopen-1309,2016,ausopen,1309,Dudi Sela,Andrey Kuznetsov,,,,,,,,,,
-93,2016-ausopen-1310,2016,ausopen,1310,Gael Monfils,Stephane Robert,,,,,,,,,,
-94,2016-ausopen-1311,2016,ausopen,1311,Milos Raonic,Viktor Troicki,,,,,,,,,,
-95,2016-ausopen-1312,2016,ausopen,1312,Lukas Rosol,Stan Wawrinka,,,,,,,,,,
-96,2016-ausopen-1313,2016,ausopen,1313,David Ferrer,Steve Johnson,,,,,,,,,,
-97,2016-ausopen-1314,2016,ausopen,1314,Feliciano Lopez,John Isner,,,,,,,,,,
-98,2016-ausopen-1315,2016,ausopen,1315,Bernard Tomic,John Millman,,,,,,,,,,
-99,2016-ausopen-1316,2016,ausopen,1316,Joao Sousa,Andy Murray,,,,,,,,,,
-100,2016-ausopen-1401,2016,ausopen,1401,Novak Djokovic,Gilles Simon,,,,,,,,,,
-101,2016-ausopen-1402,2016,ausopen,1402,Jo-Wilfried Tsonga,Kei Nishikori,,,,,,,,,,
-102,2016-ausopen-1403,2016,ausopen,1403,Roger Federer,David Goffin,,,,,,,,,,
-103,2016-ausopen-1404,2016,ausopen,1404,Roberto Bautista Agut,Tomas Berdych,,,,,,,,,,
-104,2016-ausopen-1405,2016,ausopen,1405,Andrey Kuznetsov,Gael Monfils,,,,,,,,,,
-105,2016-ausopen-1406,2016,ausopen,1406,Milos Raonic,Stan Wawrinka,,,,,,,,,,
-106,2016-ausopen-1407,2016,ausopen,1407,David Ferrer,John Isner,,,,,,,,,,
-107,2016-ausopen-1408,2016,ausopen,1408,Bernard Tomic,Andy Murray,,,,,,,,,,
-108,2016-ausopen-1501,2016,ausopen,1501,Novak Djokovic,Kei Nishikori,,,,,,,,,,
-109,2016-ausopen-1502,2016,ausopen,1502,Roger Federer,Tomas Berdych,,,,,,,,,,
-110,2016-ausopen-1503,2016,ausopen,1503,Gael Monfils,Milos Raonic,,,,,,,,,,
-111,2016-ausopen-1504,2016,ausopen,1504,David Ferrer,Andy Murray,,,,,,,,,,
-112,2016-ausopen-1601,2016,ausopen,1601,Novak Djokovic,Roger Federer,,,,,,,,,,
-113,2016-ausopen-1602,2016,ausopen,1602,Milos Raonic,Andy Murray,,,,,,,,,,
-114,2016-ausopen-1701,2016,ausopen,1701,Novak Djokovic,Andy Murray,,,,,,,,,,
-115,2016-ausopen-2101,2016,ausopen,2101,Serena Williams,Camila Giorgi,,,,,,,,,,
-116,2016-ausopen-2102,2016,ausopen,2102,Su-Wei Hsieh,Jelena Ostapenko,,,,,,,,,,
-117,2016-ausopen-2104,2016,ausopen,2104,Daria Kasatkina,A. Schmiedlova,,,,,,,,,,
-118,2016-ausopen-2105,2016,ausopen,2105,Sara Errani,Margarita Gasparyan,,,,,,,,,,
-119,2016-ausopen-2106,2016,ausopen,2106,Kurumi Nara,Oceane Dodin,,,,,,,,,,
-120,2016-ausopen-2107,2016,ausopen,2107,Mariana Duque-Mariño,Xinyun Han,,,,,,,,,,
-121,2016-ausopen-2108,2016,ausopen,2108,Yulia Putintseva,Caroline Wozniacki,,,,,,,,,,
-122,2016-ausopen-2109,2016,ausopen,2109,Belinda Bencic,Alison Riske,,,,,,,,,,
-123,2016-ausopen-2110,2016,ausopen,2110,Heather Watson,Timea Babos,,,,,,,,,,
-124,2016-ausopen-2111,2016,ausopen,2111,Ajla Tomljanovic,Kateryna Bondarenko,,,,,,,,,,
-125,2016-ausopen-2112,2016,ausopen,2112,Daniela Hantuchova,Svetlana Kuznetsova,,,,,,,,,,
-126,2016-ausopen-2114,2016,ausopen,2114,Magdalena Rybarikova,Yanina Wickmayer,,,,,,,,,,
-127,2016-ausopen-2116,2016,ausopen,2116,Nao Hibino,Maria Sharapova,,,,,,,,,,
-128,2016-ausopen-2117,2016,ausopen,2117,Agnieszka Radwanska,Christina McHale,,,,,,,,,,
-129,2016-ausopen-2118,2016,ausopen,2118,Eugenie Bouchard,Aleksandra Krunic,,,,,,,,,,
-130,2016-ausopen-2119,2016,ausopen,2119,Magda Linette,Monica Puig,,,,,,,,,,
-131,2016-ausopen-2120,2016,ausopen,2120,Kristyna Pliskova,Samantha Stosur,,,,,,,,,,
-132,2016-ausopen-2121,2016,ausopen,2121,Sloane Stephens,Qiang Wang,,,,,,,,,,
-133,2016-ausopen-2122,2016,ausopen,2122,L. Domínguez Lino,Anna-Lena Friedsam,,,,,,,,,,
-134,2016-ausopen-2124,2016,ausopen,2124,Tamira Paszek,Roberta Vinci,,,,,,,,,,
-135,2016-ausopen-2125,2016,ausopen,2125,Carla Suárez Navarro,Viktorija Golubic,,,,,,,,,,
-136,2016-ausopen-2126,2016,ausopen,2126,Maria Sakkari,Yafan Wang,,,,,,,,,,
-137,2016-ausopen-2127,2016,ausopen,2127,Monica Niculescu,Teliana Pereira,,,,,,,,,,
-138,2016-ausopen-2128,2016,ausopen,2128,Elizaveta Kulichkova,Andrea Petkovic,,,,,,,,,,
-139,2016-ausopen-2130,2016,ausopen,2130,Nicole Gibbs,Klara Koukalova,,,,,,,,,,
-140,2016-ausopen-2131,2016,ausopen,2131,Daria Gavrilova,Lucie Hradecka,,,,,,,,,,
-141,2016-ausopen-2132,2016,ausopen,2132,Luksika Kumkhum,Petra Kvitova,,,,,,,,,,
-142,2016-ausopen-2133,2016,ausopen,2133,Angelique Kerber,Misaki Doi,,,,,,,,,,
-143,2016-ausopen-2134,2016,ausopen,2134,Storm Sanders,Alexandra Dulgheru,,,,,,,,,,
-144,2016-ausopen-2137,2016,ausopen,2137,Jelena Jankovic,Polona Hercog,,,,,,,,,,
-145,2016-ausopen-2139,2016,ausopen,2139,Priscilla Hon,Annika Beck,,,,,,,,,,
-146,2016-ausopen-2140,2016,ausopen,2140,Katerina Siniakova,Timea Bacsinszky,,,,,,,,,,
-147,2016-ausopen-2141,2016,ausopen,2141,Victoria Azarenka,Alison Van Uytvanck,,,,,,,,,,
-148,2016-ausopen-2142,2016,ausopen,2142,Samantha Crawford,Danka Kovinic,,,,,,,,,,
-149,2016-ausopen-2143,2016,ausopen,2143,Naomi Osaka,Donna Vekic,,,,,,,,,,
-150,2016-ausopen-2144,2016,ausopen,2144,Victoria Duval,Elina Svitolina,,,,,,,,,,
-151,2016-ausopen-2145,2016,ausopen,2145,Caroline Garcia,Barbora Strycova,,,,,,,,,,
-152,2016-ausopen-2147,2016,ausopen,2147,Kirsten Flipkens,Mirjana Lucic-Baroni,,,,,,,,,,
-153,2016-ausopen-2148,2016,ausopen,2148,Anett Kontaveit,Garbiñe Muguruza,,,,,,,,,,
-154,2016-ausopen-2149,2016,ausopen,2149,Venus Williams,Johanna Konta,,,,,,,,,,
-155,2016-ausopen-2150,2016,ausopen,2150,Carina Witthoeft,Saisai Zheng,,,,,,,,,,
-156,2016-ausopen-2151,2016,ausopen,2151,Bethanie Mattek-Sands,Denisa Allertova,,,,,,,,,,
-157,2016-ausopen-2152,2016,ausopen,2152,Petra Cetkovska,Sabine Lisicki,,,,,,,,,,
-158,2016-ausopen-2153,2016,ausopen,2153,Ekaterina Makarova,Maddison Inglis,,,,,,,,,,
-159,2016-ausopen-2154,2016,ausopen,2154,Tatjana Maria,Olga Govortsova,,,,,,,,,,
-160,2016-ausopen-2156,2016,ausopen,2156,Kimberly Birrell,Karolina Pliskova,,,,,,,,,,
-161,2016-ausopen-2157,2016,ausopen,2157,Madison Keys,Zarina Diyas,,,,,,,,,,
-162,2016-ausopen-2158,2016,ausopen,2158,Tsvetana Pironkova,Yaroslava Shvedova,,,,,,,,,,
-163,2016-ausopen-2159,2016,ausopen,2159,Anastasija Sevastova,Jarmila Wolfe,,,,,,,,,,
-164,2016-ausopen-2160,2016,ausopen,2160,Tammi Patterson,Ana Ivanovic,,,,,,,,,,
-165,2016-ausopen-2161,2016,ausopen,2161,Lesia Tsurenko,Varvara Lepchenko,,,,,,,,,,
-166,2016-ausopen-2162,2016,ausopen,2162,Lara Arruabarrena,Maryna Zanevska,,,,,,,,,,
-167,2016-ausopen-2163,2016,ausopen,2163,Bojana Jovanovski,Alizé Cornet,,,,,,,,,,
-168,2016-ausopen-2164,2016,ausopen,2164,Shuai Zhang,Simona Halep,,,,,,,,,,
-169,2016-ausopen-2201,2016,ausopen,2201,Serena Williams,Su-Wei Hsieh,,,,,,,,,,
-170,2016-ausopen-2202,2016,ausopen,2202,Ana Konjuh,Daria Kasatkina,,,,,,,,,,
-171,2016-ausopen-2203,2016,ausopen,2203,Margarita Gasparyan,Kurumi Nara,,,,,,,,,,
-172,2016-ausopen-2204,2016,ausopen,2204,Xinyun Han,Yulia Putintseva,,,,,,,,,,
-173,2016-ausopen-2205,2016,ausopen,2205,Belinda Bencic,Timea Babos,,,,,,,,,,
-174,2016-ausopen-2206,2016,ausopen,2206,Kateryna Bondarenko,Svetlana Kuznetsova,,,,,,,,,,
-175,2016-ausopen-2207,2016,ausopen,2207,Lauren Davis,Magdalena Rybarikova,,,,,,,,,,
-176,2016-ausopen-2208,2016,ausopen,2208,Aliaksandra Sasnovich,Maria Sharapova,,,,,,,,,,
-177,2016-ausopen-2209,2016,ausopen,2209,Agnieszka Radwanska,Eugenie Bouchard,,,,,,,,,,
-178,2016-ausopen-2210,2016,ausopen,2210,Monica Puig,Kristyna Pliskova,,,,,,,,,,
-179,2016-ausopen-2211,2016,ausopen,2211,Qiang Wang,Anna-Lena Friedsam,,,,,,,,,,
-180,2016-ausopen-2212,2016,ausopen,2212,Irina Falconi,Roberta Vinci,,,,,,,,,,
-181,2016-ausopen-2213,2016,ausopen,2213,Carla Suárez Navarro,Maria Sakkari,,,,,,,,,,
-182,2016-ausopen-2214,2016,ausopen,2214,Monica Niculescu,Elizaveta Kulichkova,,,,,,,,,,
-183,2016-ausopen-2215,2016,ausopen,2215,Kristina Mladenovic,Nicole Gibbs,,,,,,,,,,
-184,2016-ausopen-2216,2016,ausopen,2216,Daria Gavrilova,Petra Kvitova,,,,,,,,,,
-185,2016-ausopen-2217,2016,ausopen,2217,Angelique Kerber,Alexandra Dulgheru,,,,,,,,,,
-186,2016-ausopen-2218,2016,ausopen,2218,Madison Brengle,Johanna Larsson,,,,,,,,,,
-187,2016-ausopen-2219,2016,ausopen,2219,Jelena Jankovic,Laura Siegemund,,,,,,,,,,
-188,2016-ausopen-2220,2016,ausopen,2220,Annika Beck,Timea Bacsinszky,,,,,,,,,,
-189,2016-ausopen-2221,2016,ausopen,2221,Victoria Azarenka,Danka Kovinic,,,,,,,,,,
-190,2016-ausopen-2222,2016,ausopen,2222,Naomi Osaka,Elina Svitolina,,,,,,,,,,
-191,2016-ausopen-2223,2016,ausopen,2223,Barbora Strycova,Vania King,,,,,,,,,,
-192,2016-ausopen-2224,2016,ausopen,2224,Kirsten Flipkens,Garbiñe Muguruza,,,,,,,,,,
-193,2016-ausopen-2225,2016,ausopen,2225,Johanna Konta,Saisai Zheng,,,,,,,,,,
-194,2016-ausopen-2226,2016,ausopen,2226,Denisa Allertova,Sabine Lisicki,,,,,,,,,,
-195,2016-ausopen-2227,2016,ausopen,2227,Ekaterina Makarova,Tatjana Maria,,,,,,,,,,
-196,2016-ausopen-2228,2016,ausopen,2228,Julia Goerges,Karolina Pliskova,,,,,,,,,,
-197,2016-ausopen-2229,2016,ausopen,2229,Madison Keys,Yaroslava Shvedova,,,,,,,,,,
-198,2016-ausopen-2230,2016,ausopen,2230,Anastasija Sevastova,Ana Ivanovic,,,,,,,,,,
-199,2016-ausopen-2232,2016,ausopen,2232,Alizé Cornet,Shuai Zhang,,,,,,,,,,
-200,2016-ausopen-2301,2016,ausopen,2301,Serena Williams,Daria Kasatkina,,,,,,,,,,
-201,2016-ausopen-2302,2016,ausopen,2302,Margarita Gasparyan,Yulia Putintseva,,,,,,,,,,
-202,2016-ausopen-2303,2016,ausopen,2303,Belinda Bencic,Kateryna Bondarenko,,,,,,,,,,
-203,2016-ausopen-2304,2016,ausopen,2304,Lauren Davis,Maria Sharapova,,,,,,,,,,
-204,2016-ausopen-2305,2016,ausopen,2305,Agnieszka Radwanska,Monica Puig,,,,,,,,,,
-205,2016-ausopen-2306,2016,ausopen,2306,Anna-Lena Friedsam,Roberta Vinci,,,,,,,,,,
-206,2016-ausopen-2307,2016,ausopen,2307,Carla Suárez Navarro,Elizaveta Kulichkova,,,,,,,,,,
-207,2016-ausopen-2308,2016,ausopen,2308,Kristina Mladenovic,Daria Gavrilova,,,,,,,,,,
-208,2016-ausopen-2309,2016,ausopen,2309,Angelique Kerber,Madison Brengle,,,,,,,,,,
-209,2016-ausopen-2310,2016,ausopen,2310,Laura Siegemund,Annika Beck,,,,,,,,,,
-210,2016-ausopen-2311,2016,ausopen,2311,Victoria Azarenka,Naomi Osaka,,,,,,,,,,
-211,2016-ausopen-2312,2016,ausopen,2312,Barbora Strycova,Garbiñe Muguruza,,,,,,,,,,
-212,2016-ausopen-2313,2016,ausopen,2313,Johanna Konta,Denisa Allertova,,,,,,,,,,
-213,2016-ausopen-2314,2016,ausopen,2314,Ekaterina Makarova,Karolina Pliskova,,,,,,,,,,
-214,2016-ausopen-2315,2016,ausopen,2315,Madison Keys,Ana Ivanovic,,,,,,,,,,
-215,2016-ausopen-2316,2016,ausopen,2316,Varvara Lepchenko,Shuai Zhang,,,,,,,,,,
-216,2016-ausopen-2401,2016,ausopen,2401,Serena Williams,Margarita Gasparyan,,,,,,,,,,
-217,2016-ausopen-2402,2016,ausopen,2402,Belinda Bencic,Maria Sharapova,,,,,,,,,,
-218,2016-ausopen-2403,2016,ausopen,2403,Agnieszka Radwanska,Anna-Lena Friedsam,,,,,,,,,,
-219,2016-ausopen-2404,2016,ausopen,2404,Carla Suárez Navarro,Daria Gavrilova,,,,,,,,,,
-220,2016-ausopen-2405,2016,ausopen,2405,Angelique Kerber,Annika Beck,,,,,,,,,,
-221,2016-ausopen-2406,2016,ausopen,2406,Victoria Azarenka,Barbora Strycova,,,,,,,,,,
-222,2016-ausopen-2407,2016,ausopen,2407,Johanna Konta,Ekaterina Makarova,,,,,,,,,,
-223,2016-ausopen-2408,2016,ausopen,2408,Madison Keys,Shuai Zhang,,,,,,,,,,
-224,2016-ausopen-2501,2016,ausopen,2501,Serena Williams,Maria Sharapova,,,,,,,,,,
-225,2016-ausopen-2502,2016,ausopen,2502,Agnieszka Radwanska,Carla Suárez Navarro,,,,,,,,,,
-226,2016-ausopen-2503,2016,ausopen,2503,Angelique Kerber,Victoria Azarenka,,,,,,,,,,
-227,2016-ausopen-2504,2016,ausopen,2504,Johanna Konta,Shuai Zhang,,,,,,,,,,
-228,2016-ausopen-2601,2016,ausopen,2601,Serena Williams,Agnieszka Radwanska,,,,,,,,,,
-229,2016-ausopen-2602,2016,ausopen,2602,Angelique Kerber,Johanna Konta,,,,,,,,,,
-230,2016-ausopen-2701,2016,ausopen,2701,Serena Williams,Angelique Kerber,,,,,,,,,,
-0,2016-frenchopen-1101,2016,frenchopen,1101,Novak Djokovic,Yen Hsun Lu,,,,,,,,,,
-1,2016-frenchopen-1103,2016,frenchopen,1103,Gerald Melzer,Aljaz Bedene,,,,,,,,,,
-2,2016-frenchopen-1105,2016,frenchopen,1105,Bernard Tomic,Brian Baker,,,,,,,,,,
-3,2016-frenchopen-1107,2016,frenchopen,1107,Paul Henri Mathieu,Santiago Giraldo,,,,,,,,,,
-4,2016-frenchopen-1109,2016,frenchopen,1109,David Ferrer,Evgeny Donskoy,,,,,,,,,,
-5,2016-frenchopen-1114,2016,frenchopen,1114,Hyeon Chung,Quentin Halys,,,,,,,,,,
-6,2016-frenchopen-1116,2016,frenchopen,1116,Vasek Pospisil,Tomas Berdych,,,,,,,,,,
-7,2016-frenchopen-1117,2016,frenchopen,1117,Rafael Nadal,Sam Groth,,,,,,,,,,
-8,2016-frenchopen-1119,2016,frenchopen,1119,Nicolas Mahut,Ricardas Berankis,,,,,,,,,,
-9,2016-frenchopen-1121,2016,frenchopen,1121,Kevin Anderson,Stephane Robert,,,,,,,,,,
-10,2016-frenchopen-1124,2016,frenchopen,1124,Inigo Cervantes,Dominic Thiem,,,,,,,,,,
-11,2016-frenchopen-1125,2016,frenchopen,1125,David Goffin,Gregoire Barrere,,,,,,,,,,
-12,2016-frenchopen-1128,2016,frenchopen,1128,Nicolas Almagro,Philipp Kohlschreiber,,,,,,,,,,
-13,2016-frenchopen-1132,2016,frenchopen,1132,Jan Lennard Struff,Jo Wilfried Tsonga,,,,,,,,,,
-14,2016-frenchopen-1133,2016,frenchopen,1133,Milos Raonic,Janko Tipsarevic,,,,,,,,,,
-15,2016-frenchopen-1134,2016,frenchopen,1134,Mikhail Kukushkin,Adrian Mannarino,,,,,,,,,,
-16,2016-frenchopen-1136,2016,frenchopen,1136,Julien Benneteau,Lucas Pouille,,,,,,,,,,
-17,2016-frenchopen-1137,2016,frenchopen,1137,Jack Sock,Robin Haase,,,,,,,,,,
-18,2016-frenchopen-1138,2016,frenchopen,1138,Dudi Sela,Dustin Brown,,,,,,,,,,
-19,2016-frenchopen-1140,2016,frenchopen,1140,Marco Trungelliti,Marin Cilic,,,,,,,,,,
-20,2016-frenchopen-1141,2016,frenchopen,1141,Gilles Simon,Rogerio Dutra Silva,,,,,,,,,,
-21,2016-frenchopen-1144,2016,frenchopen,1144,Grigor Dimitrov,Viktor Troicki,,,,,,,,,,
-22,2016-frenchopen-1145,2016,frenchopen,1145,Jeremy Chardy,Leonardo Mayer,,,,,,,,,,
-23,2016-frenchopen-1148,2016,frenchopen,1148,Lukas Rosol,Stan Wawrinka,,,,,,,,,,
-24,2016-frenchopen-1149,2016,frenchopen,1149,Kei Nishikori,Simone Bolelli,,,,,,,,,,
-25,2016-frenchopen-1150,2016,frenchopen,1150,Andrey Kuznetsov,Benjamin Becker,,,,,,,,,,
-26,2016-frenchopen-1152,2016,frenchopen,1152,Fernando Verdasco,Steve Johnson,,,,,,,,,,
-27,2016-frenchopen-1153,2016,frenchopen,1153,Nick Kyrgios,Marco Cecchinato,,,,,,,,,,
-28,2016-frenchopen-1155,2016,frenchopen,1155,Sam Querrey,Bjorn Fratangelo,,,,,,,,,,
-29,2016-frenchopen-1156,2016,frenchopen,1156,Thomaz Bellucci,Richard Gasquet,,,,,,,,,,
-30,2016-frenchopen-1157,2016,frenchopen,1157,John Isner,John Millman,,,,,,,,,,
-31,2016-frenchopen-1158,2016,frenchopen,1158,Nikoloz Basilashvili,Kyle Edmund,,,,,,,,,,
-32,2016-frenchopen-1159,2016,frenchopen,1159,Teymuraz Gabashvili,Donald Young,,,,,,,,,,
-33,2016-frenchopen-1160,2016,frenchopen,1160,Radu Albot,Benoit Paire,,,,,,,,,,
-34,2016-frenchopen-1164,2016,frenchopen,1164,Radek Stepanek,Andy Murray,,,,,,,,,,
-35,2016-frenchopen-1201,2016,frenchopen,1201,Novak Djokovic,Steve Darcis,,,,,,,,,,
-36,2016-frenchopen-1202,2016,frenchopen,1202,Aljaz Bedene,Pablo Carreno Busta,,,,,,,,,,
-37,2016-frenchopen-1203,2016,frenchopen,1203,Bernard Tomic,Borna Coric,,,,,,,,,,
-38,2016-frenchopen-1204,2016,frenchopen,1204,Paul Henri Mathieu,Roberto Bautista Agut,,,,,,,,,,
-39,2016-frenchopen-1205,2016,frenchopen,1205,David Ferrer,Juan Monaco,,,,,,,,,,
-40,2016-frenchopen-1206,2016,frenchopen,1206,Victor Estrella Burgos,Feliciano Lopez,,,,,,,,,,
-41,2016-frenchopen-1207,2016,frenchopen,1207,Pablo Cuevas,Quentin Halys,,,,,,,,,,
-42,2016-frenchopen-1208,2016,frenchopen,1208,Malek Jaziri,Tomas Berdych,,,,,,,,,,
-43,2016-frenchopen-1209,2016,frenchopen,1209,Rafael Nadal,Facundo Bagnis,,,,,,,,,,
-44,2016-frenchopen-1210,2016,frenchopen,1210,Nicolas Mahut,Marcel Granollers,,,,,,,,,,
-45,2016-frenchopen-1211,2016,frenchopen,1211,Stephane Robert,Alexander Zverev,,,,,,,,,,
-46,2016-frenchopen-1212,2016,frenchopen,1212,Guillermo Garcia Lopez,Dominic Thiem,,,,,,,,,,
-47,2016-frenchopen-1213,2016,frenchopen,1213,David Goffin,Carlos Berlocq,,,,,,,,,,
-48,2016-frenchopen-1216,2016,frenchopen,1216,Marcos Baghdatis,Jo Wilfried Tsonga,,,,,,,,,,
-49,2016-frenchopen-1217,2016,frenchopen,1217,Milos Raonic,Adrian Mannarino,,,,,,,,,,
-50,2016-frenchopen-1218,2016,frenchopen,1218,Andrej Martin,Lucas Pouille,,,,,,,,,,
-51,2016-frenchopen-1219,2016,frenchopen,1219,Jack Sock,Dustin Brown,,,,,,,,,,
-52,2016-frenchopen-1221,2016,frenchopen,1221,Gilles Simon,Guido Pella,,,,,,,,,,
-53,2016-frenchopen-1223,2016,frenchopen,1223,Jeremy Chardy,Adam Pavlasek,,,,,,,,,,
-54,2016-frenchopen-1224,2016,frenchopen,1224,Taro Daniel,Stan Wawrinka,,,,,,,,,,
-55,2016-frenchopen-1225,2016,frenchopen,1225,Kei Nishikori,Andrey Kuznetsov,,,,,,,,,,
-56,2016-frenchopen-1227,2016,frenchopen,1227,Nick Kyrgios,Igor Sijsling,,,,,,,,,,
-57,2016-frenchopen-1228,2016,frenchopen,1228,Bjorn Fratangelo,Richard Gasquet,,,,,,,,,,
-58,2016-frenchopen-1229,2016,frenchopen,1229,John Isner,Kyle Edmund,,,,,,,,,,
-59,2016-frenchopen-1230,2016,frenchopen,1230,Teymuraz Gabashvili,Benoit Paire,,,,,,,,,,
-60,2016-frenchopen-1231,2016,frenchopen,1231,Ivo Karlovic,Jordan Thompson,,,,,,,,,,
-61,2016-frenchopen-1232,2016,frenchopen,1232,Mathias Bourgue,Andy Murray,,,,,,,,,,
-62,2016-frenchopen-1301,2016,frenchopen,1301,Novak Djokovic,Aljaz Bedene,,,,,,,,,,
-63,2016-frenchopen-1302,2016,frenchopen,1302,Borna Coric,Roberto Bautista Agut,,,,,,,,,,
-64,2016-frenchopen-1303,2016,frenchopen,1303,David Ferrer,Feliciano Lopez,,,,,,,,,,
-65,2016-frenchopen-1304,2016,frenchopen,1304,Pablo Cuevas,Tomas Berdych,,,,,,,,,,
-66,2016-frenchopen-1306,2016,frenchopen,1306,Alexander Zverev,Dominic Thiem,,,,,,,,,,
-67,2016-frenchopen-1307,2016,frenchopen,1307,David Goffin,Nicolas Almagro,,,,,,,,,,
-68,2016-frenchopen-1308,2016,frenchopen,1308,Ernests Gulbis,Jo Wilfried Tsonga,,,,,,,,,,
-69,2016-frenchopen-1309,2016,frenchopen,1309,Milos Raonic,Andrej Martin,,,,,,,,,,
-70,2016-frenchopen-1310,2016,frenchopen,1310,Jack Sock,Albert Ramos Vinolas,,,,,,,,,,
-71,2016-frenchopen-1311,2016,frenchopen,1311,Gilles Simon,Viktor Troicki,,,,,,,,,,
-72,2016-frenchopen-1312,2016,frenchopen,1312,Jeremy Chardy,Stan Wawrinka,,,,,,,,,,
-73,2016-frenchopen-1313,2016,frenchopen,1313,Kei Nishikori,Fernando Verdasco,,,,,,,,,,
-74,2016-frenchopen-1314,2016,frenchopen,1314,Nick Kyrgios,Richard Gasquet,,,,,,,,,,
-75,2016-frenchopen-1315,2016,frenchopen,1315,John Isner,Teymuraz Gabashvili,,,,,,,,,,
-76,2016-frenchopen-1316,2016,frenchopen,1316,Ivo Karlovic,Andy Murray,,,,,,,,,,
-77,2016-frenchopen-1401,2016,frenchopen,1401,Novak Djokovic,Roberto Bautista Agut,,,,,,,,,,
-78,2016-frenchopen-1402,2016,frenchopen,1402,David Ferrer,Tomas Berdych,,,,,,,,,,
-79,2016-frenchopen-1403,2016,frenchopen,1403,Marcel Granollers,Dominic Thiem,,,,,,,,,,
-80,2016-frenchopen-1404,2016,frenchopen,1404,David Goffin,Ernests Gulbis,,,,,,,,,,
-81,2016-frenchopen-1405,2016,frenchopen,1405,Milos Raonic,Albert Ramos Vinolas,,,,,,,,,,
-82,2016-frenchopen-1406,2016,frenchopen,1406,Viktor Troicki,Stan Wawrinka,,,,,,,,,,
-83,2016-frenchopen-1407,2016,frenchopen,1407,Kei Nishikori,Richard Gasquet,,,,,,,,,,
-84,2016-frenchopen-1408,2016,frenchopen,1408,John Isner,Andy Murray,,,,,,,,,,
-85,2016-frenchopen-1501,2016,frenchopen,1501,Novak Djokovic,Tomas Berdych,,,,,,,,,,
-86,2016-frenchopen-1502,2016,frenchopen,1502,Dominic Thiem,David Goffin,,,,,,,,,,
-87,2016-frenchopen-1503,2016,frenchopen,1503,Albert Ramos Vinolas,Stan Wawrinka,,,,,,,,,,
-88,2016-frenchopen-1504,2016,frenchopen,1504,Richard Gasquet,Andy Murray,,,,,,,,,,
-89,2016-frenchopen-1601,2016,frenchopen,1601,Novak Djokovic,Dominic Thiem,,,,,,,,,,
-90,2016-frenchopen-1602,2016,frenchopen,1602,Stan Wawrinka,Andy Murray,,,,,,,,,,
-91,2016-frenchopen-1701,2016,frenchopen,1701,Novak Djokovic,Andy Murray,,,,,,,,,,
-92,2016-frenchopen-2101,2016,frenchopen,2101,Serena Williams,Magdalena Rybarikova,,,,,,,,,,
-93,2016-frenchopen-2104,2016,frenchopen,2104,Francesca Schiavone,Kristina Mladenovic,,,,,,,,,,
-94,2016-frenchopen-2108,2016,frenchopen,2108,Oceane Dodin,Ana Ivanovic,,,,,,,,,,
-95,2016-frenchopen-2109,2016,frenchopen,2109,Carla Suarez Navarro,Katerina Siniakova,,,,,,,,,,
-96,2016-frenchopen-2113,2016,frenchopen,2113,Andrea Petkovic,Laura Robson,,,,,,,,,,
-97,2016-frenchopen-2116,2016,frenchopen,2116,Karin Knapp,Victoria Azarenka,,,,,,,,,,
-98,2016-frenchopen-2117,2016,frenchopen,2117,Angelique Kerber,Kiki Bertens,,,,,,,,,,
-99,2016-frenchopen-2118,2016,frenchopen,2118,Alize Lim,Camila Giorgi,,,,,,,,,,
-100,2016-frenchopen-2119,2016,frenchopen,2119,Ipek Soylu,Virginie Razzano,,,,,,,,,,
-101,2016-frenchopen-2121,2016,frenchopen,2121,Johanna Konta,Julia Goerges,,,,,,,,,,
-102,2016-frenchopen-2124,2016,frenchopen,2124,Donna Vekic,Madison Keys,,,,,,,,,,
-103,2016-frenchopen-2125,2016,frenchopen,2125,Venus Williams,Anett Kontaveit,,,,,,,,,,
-104,2016-frenchopen-2127,2016,frenchopen,2127,Alize Cornet,Kirsten Flipkens,,,,,,,,,,
-105,2016-frenchopen-2129,2016,frenchopen,2129,Monica Niculescu,Pauline Parmentier,,,,,,,,,,
-106,2016-frenchopen-2133,2016,frenchopen,2133,Roberta Vinci,Kateryna Bondarenko,,,,,,,,,,
-107,2016-frenchopen-2137,2016,frenchopen,2137,Karolina Pliskova,Shelby Rogers,,,,,,,,,,
-108,2016-frenchopen-2139,2016,frenchopen,2139,Lara Arruabarrena,Su Wei Hsieh,,,,,,,,,,
-109,2016-frenchopen-2140,2016,frenchopen,2140,Danka Kovinic,Petra Kvitova,,,,,,,,,,
-110,2016-frenchopen-2141,2016,frenchopen,2141,Svetlana Kuznetsova,Yaroslava Shvedova,,,,,,,,,,
-111,2016-frenchopen-2142,2016,frenchopen,2142,Nicole Gibbs,Heather Watson,,,,,,,,,,
-112,2016-frenchopen-2144,2016,frenchopen,2144,Sara Sorribes Tormo,Anastasia Pavlyuchenkova,,,,,,,,,,
-113,2016-frenchopen-2148,2016,frenchopen,2148,Anna Karolina Schmiedlova,Garbine Muguruza,,,,,,,,,,
-114,2016-frenchopen-2149,2016,frenchopen,2149,Simona Halep,Nao Hibino,,,,,,,,,,
-115,2016-frenchopen-2155,2016,frenchopen,2155,Alison Riske,Viktorija Golubic,,,,,,,,,,
-116,2016-frenchopen-2156,2016,frenchopen,2156,Vitalia Diatchenko,Lucie Safarova,,,,,,,,,,
-117,2016-frenchopen-2160,2016,frenchopen,2160,Margarita Gasparyan,Sloane Stephens,,,,,,,,,,
-118,2016-frenchopen-2163,2016,frenchopen,2163,Lesia Tsurenko,Caroline Garcia,,,,,,,,,,
-119,2016-frenchopen-2164,2016,frenchopen,2164,Bojana Jovanovski,Agnieszka Radwanska,,,,,,,,,,
-120,2016-frenchopen-2201,2016,frenchopen,2201,Serena Williams,Teliana Pereira,,,,,,,,,,
-121,2016-frenchopen-2202,2016,frenchopen,2202,Timea Babos,Kristina Mladenovic,,,,,,,,,,
-122,2016-frenchopen-2203,2016,frenchopen,2203,Elina Svitolina,Taylor Townsend,,,,,,,,,,
-123,2016-frenchopen-2204,2016,frenchopen,2204,Kurumi Nara,Ana Ivanovic,,,,,,,,,,
-124,2016-frenchopen-2205,2016,frenchopen,2205,Carla Suarez Navarro,Qiang Wang,,,,,,,,,,
-125,2016-frenchopen-2207,2016,frenchopen,2207,Andrea Petkovic,Yulia Putintseva,,,,,,,,,,
-126,2016-frenchopen-2210,2016,frenchopen,2210,Virginie Razzano,Daria Kasatkina,,,,,,,,,,
-127,2016-frenchopen-2211,2016,frenchopen,2211,Julia Goerges,Monica Puig,,,,,,,,,,
-128,2016-frenchopen-2212,2016,frenchopen,2212,Mariana Duque Marino,Madison Keys,,,,,,,,,,
-129,2016-frenchopen-2213,2016,frenchopen,2213,Venus Williams,Louisa Chirico,,,,,,,,,,
-130,2016-frenchopen-2214,2016,frenchopen,2214,Alize Cornet,Tatjana Maria,,,,,,,,,,
-131,2016-frenchopen-2215,2016,frenchopen,2215,Pauline Parmentier,Irina Falconi,,,,,,,,,,
-132,2016-frenchopen-2216,2016,frenchopen,2216,Eugenie Bouchard,Timea Bacsinszky,,,,,,,,,,
-133,2016-frenchopen-2217,2016,frenchopen,2217,Kateryna Bondarenko,Annika Beck,,,,,,,,,,
-134,2016-frenchopen-2218,2016,frenchopen,2218,Coco Vandeweghe,Irina Camelia Begu,,,,,,,,,,
-135,2016-frenchopen-2219,2016,frenchopen,2219,Shelby Rogers,Elena Vesnina,,,,,,,,,,
-136,2016-frenchopen-2220,2016,frenchopen,2220,Su Wei Hsieh,Petra Kvitova,,,,,,,,,,
-137,2016-frenchopen-2221,2016,frenchopen,2221,Svetlana Kuznetsova,Heather Watson,,,,,,,,,,
-138,2016-frenchopen-2224,2016,frenchopen,2224,Myrtille Georges,Garbine Muguruza,,,,,,,,,,
-139,2016-frenchopen-2225,2016,frenchopen,2225,Simona Halep,Zarina Diyas,,,,,,,,,,
-140,2016-frenchopen-2226,2016,frenchopen,2226,Mirjana Lucic Baroni,Naomi Osaka,,,,,,,,,,
-141,2016-frenchopen-2227,2016,frenchopen,2227,Samantha Stosur,Shuai Zhang,,,,,,,,,,
-142,2016-frenchopen-2228,2016,frenchopen,2228,Viktorija Golubic,Lucie Safarova,,,,,,,,,,
-143,2016-frenchopen-2229,2016,frenchopen,2229,Tsvetana Pironkova,Johanna Larsson,,,,,,,,,,
-144,2016-frenchopen-2230,2016,frenchopen,2230,Veronica Cepede Royg,Sloane Stephens,,,,,,,,,,
-145,2016-frenchopen-2231,2016,frenchopen,2231,Barbora Strycova,Polona Hercog,,,,,,,,,,
-146,2016-frenchopen-2232,2016,frenchopen,2232,Caroline Garcia,Agnieszka Radwanska,,,,,,,,,,
-147,2016-frenchopen-2301,2016,frenchopen,2301,Serena Williams,Kristina Mladenovic,,,,,,,,,,
-148,2016-frenchopen-2302,2016,frenchopen,2302,Elina Svitolina,Ana Ivanovic,,,,,,,,,,
-149,2016-frenchopen-2303,2016,frenchopen,2303,Carla Suarez Navarro,Dominika Cibulkova,,,,,,,,,,
-150,2016-frenchopen-2304,2016,frenchopen,2304,Yulia Putintseva,Karin Knapp,,,,,,,,,,
-151,2016-frenchopen-2307,2016,frenchopen,2307,Venus Williams,Alize Cornet,,,,,,,,,,
-152,2016-frenchopen-2308,2016,frenchopen,2308,Pauline Parmentier,Timea Bacsinszky,,,,,,,,,,
-153,2016-frenchopen-2309,2016,frenchopen,2309,Annika Beck,Irina Camelia Begu,,,,,,,,,,
-154,2016-frenchopen-2310,2016,frenchopen,2310,Shelby Rogers,Petra Kvitova,,,,,,,,,,
-155,2016-frenchopen-2311,2016,frenchopen,2311,Svetlana Kuznetsova,Anastasia Pavlyuchenkova,,,,,,,,,,
-156,2016-frenchopen-2312,2016,frenchopen,2312,Yanina Wickmayer,Garbine Muguruza,,,,,,,,,,
-157,2016-frenchopen-2313,2016,frenchopen,2313,Simona Halep,Naomi Osaka,,,,,,,,,,
-158,2016-frenchopen-2314,2016,frenchopen,2314,Samantha Stosur,Lucie Safarova,,,,,,,,,,
-159,2016-frenchopen-2315,2016,frenchopen,2315,Tsvetana Pironkova,Sloane Stephens,,,,,,,,,,
-160,2016-frenchopen-2316,2016,frenchopen,2316,Barbora Strycova,Agnieszka Radwanska,,,,,,,,,,
-161,2016-frenchopen-2401,2016,frenchopen,2401,Serena Williams,Elina Svitolina,,,,,,,,,,
-162,2016-frenchopen-2402,2016,frenchopen,2402,Carla Suarez Navarro,Yulia Putintseva,,,,,,,,,,
-163,2016-frenchopen-2403,2016,frenchopen,2403,Kiki Bertens,Madison Keys,,,,,,,,,,
-164,2016-frenchopen-2404,2016,frenchopen,2404,Venus Williams,Timea Bacsinszky,,,,,,,,,,
-165,2016-frenchopen-2405,2016,frenchopen,2405,Irina Camelia Begu,Shelby Rogers,,,,,,,,,,
-166,2016-frenchopen-2406,2016,frenchopen,2406,Svetlana Kuznetsova,Garbine Muguruza,,,,,,,,,,
-167,2016-frenchopen-2407,2016,frenchopen,2407,Simona Halep,Samantha Stosur,,,,,,,,,,
-168,2016-frenchopen-2408,2016,frenchopen,2408,Tsvetana Pironkova,Agnieszka Radwanska,,,,,,,,,,
-169,2016-frenchopen-2501,2016,frenchopen,2501,Serena Williams,Yulia Putintseva,,,,,,,,,,
-170,2016-frenchopen-2502,2016,frenchopen,2502,Kiki Bertens,Timea Bacsinszky,,,,,,,,,,
-171,2016-frenchopen-2503,2016,frenchopen,2503,Shelby Rogers,Garbine Muguruza,,,,,,,,,,
-172,2016-frenchopen-2504,2016,frenchopen,2504,Samantha Stosur,Tsvetana Pironkova,,,,,,,,,,
-173,2016-frenchopen-2601,2016,frenchopen,2601,Serena Williams,Kiki Bertens,,,,,,,,,,
-174,2016-frenchopen-2602,2016,frenchopen,2602,Garbine Muguruza,Samantha Stosur,,,,,,,,,,
-175,2016-frenchopen-2701,2016,frenchopen,2701,Serena Williams,Garbine Muguruza,,,,,,,,,,
-0,2016-usopen-1101,2016,usopen,1101,Novak Djokovic,Jerzy Janowicz,,,,,,,,,,
-1,2016-usopen-1105,2016,usopen,1105,John Isner,Frances Tiafoe,,,,,,,,,,
-2,2016-usopen-1106,2016,usopen,1106,Jordan Thompson,Steve Darcis,,,,,,,,,,
-3,2016-usopen-1108,2016,usopen,1108,Kyle Edmund,Richard Gasquet,,,,,,,,,,
-4,2016-usopen-1109,2016,usopen,1109,Jo Wilfried Tsonga,Guido Andreozzi,,,,,,,,,,
-5,2016-usopen-1110,2016,usopen,1110,James Duckworth,Robin Haase,,,,,,,,,,
-6,2016-usopen-1111,2016,usopen,1111,Vasek Pospisil,Jozef Kovalik,,,,,,,,,,
-7,2016-usopen-1112,2016,usopen,1112,Yoshihito Nishioka,Kevin Anderson,,,,,,,,,,
-8,2016-usopen-1113,2016,usopen,1113,Jack Sock,Taylor Fritz,,,,,,,,,,
-9,2016-usopen-1116,2016,usopen,1116,Rogerio Dutra Silva,Marin Cilic,,,,,,,,,,
-10,2016-usopen-1117,2016,usopen,1117,Rafael Nadal,Denis Istomin,,,,,,,,,,
-11,2016-usopen-1123,2016,usopen,1123,Brian Baker,Federico Delbonis,,,,,,,,,,
-12,2016-usopen-1125,2016,usopen,1125,Gael Monfils,Gilles Muller,,,,,,,,,,
-13,2016-usopen-1132,2016,usopen,1132,Dustin Brown,Milos Raonic,,,,,,,,,,
-14,2016-usopen-1133,2016,usopen,1133,Dominic Thiem,John Millman,,,,,,,,,,
-15,2016-usopen-1136,2016,usopen,1136,Janko Tipsarevic,Sam Querrey,,,,,,,,,,
-16,2016-usopen-1137,2016,usopen,1137,Steve Johnson,Evgeny Donskoy,,,,,,,,,,
-17,2016-usopen-1138,2016,usopen,1138,Juan Martin del Potro,Diego Schwartzman,,,,,,,,,,
-18,2016-usopen-1141,2016,usopen,1141,Nick Kyrgios,Aljaz Bedene,,,,,,,,,,
-19,2016-usopen-1144,2016,usopen,1144,Damir Dzumhur,Bernard Tomic,,,,,,,,,,
-20,2016-usopen-1145,2016,usopen,1145,Alexander Zverev,Daniel Brands,,,,,,,,,,
-21,2016-usopen-1148,2016,usopen,1148,Fernando Verdasco,Stan Wawrinka,,,,,,,,,,
-22,2016-usopen-1149,2016,usopen,1149,Kei Nishikori,Benjamin Becker,,,,,,,,,,
-23,2016-usopen-1152,2016,usopen,1152,Nicolas Mahut,Philipp Kohlschreiber,,,,,,,,,,
-24,2016-usopen-1154,2016,usopen,1154,Donald Young,Jan Lennard Struff,,,,,,,,,,
-25,2016-usopen-1156,2016,usopen,1156,Jared Donaldson,David Goffin,,,,,,,,,,
-26,2016-usopen-1157,2016,usopen,1157,Feliciano Lopez,Borna Coric,,,,,,,,,,
-27,2016-usopen-1164,2016,usopen,1164,Lukas Rosol,Andy Murray,,,,,,,,,,
-28,2016-usopen-1203,2016,usopen,1203,John Isner,Steve Darcis,,,,,,,,,,
-29,2016-usopen-1204,2016,usopen,1204,Ernesto Escobedo,Kyle Edmund,,,,,,,,,,
-30,2016-usopen-1205,2016,usopen,1205,Jo Wilfried Tsonga,James Duckworth,,,,,,,,,,
-31,2016-usopen-1206,2016,usopen,1206,Vasek Pospisil,Kevin Anderson,,,,,,,,,,
-32,2016-usopen-1207,2016,usopen,1207,Jack Sock,Mischa Zverev,,,,,,,,,,
-33,2016-usopen-1208,2016,usopen,1208,Sergiy Stakhovsky,Marin Cilic,,,,,,,,,,
-34,2016-usopen-1209,2016,usopen,1209,Rafael Nadal,Andreas Seppi,,,,,,,,,,
-35,2016-usopen-1211,2016,usopen,1211,Lucas Pouille,Marco Chiudinelli,,,,,,,,,,
-36,2016-usopen-1212,2016,usopen,1212,Federico Delbonis,Roberto Bautista Agut,,,,,,,,,,
-37,2016-usopen-1213,2016,usopen,1213,Gael Monfils,Jan Satral,,,,,,,,,,
-38,2016-usopen-1214,2016,usopen,1214,Nicolas Almagro,Pablo Cuevas,,,,,,,,,,
-39,2016-usopen-1215,2016,usopen,1215,Benoit Paire,Marcos Baghdatis,,,,,,,,,,
-40,2016-usopen-1216,2016,usopen,1216,Ryan Harrison,Milos Raonic,,,,,,,,,,
-41,2016-usopen-1217,2016,usopen,1217,Dominic Thiem,Ricardas Berankis,,,,,,,,,,
-42,2016-usopen-1219,2016,usopen,1219,Steve Johnson,Juan Martin del Potro,,,,,,,,,,
-43,2016-usopen-1220,2016,usopen,1220,Fabio Fognini,David Ferrer,,,,,,,,,,
-44,2016-usopen-1221,2016,usopen,1221,Nick Kyrgios,Horacio Zeballos,,,,,,,,,,
-45,2016-usopen-1224,2016,usopen,1224,Alessandro Giannessi,Stan Wawrinka,,,,,,,,,,
-46,2016-usopen-1225,2016,usopen,1225,Kei Nishikori,Karen Khachanov,,,,,,,,,,
-47,2016-usopen-1226,2016,usopen,1226,Paul Henri Mathieu,Nicolas Mahut,,,,,,,,,,
-48,2016-usopen-1227,2016,usopen,1227,Ivo Karlovic,Donald Young,,,,,,,,,,
-49,2016-usopen-1228,2016,usopen,1228,Viktor Troicki,Jared Donaldson,,,,,,,,,,
-50,2016-usopen-1229,2016,usopen,1229,Feliciano Lopez,Joao Sousa,,,,,,,,,,
-51,2016-usopen-1230,2016,usopen,1230,Jeremy Chardy,Grigor Dimitrov,,,,,,,,,,
-52,2016-usopen-1232,2016,usopen,1232,Marcel Granollers,Andy Murray,,,,,,,,,,
-53,2016-usopen-1301,2016,usopen,1301,Novak Djokovic,Mikhail Youzhny,,,,,,,,,,
-54,2016-usopen-1302,2016,usopen,1302,John Isner,Kyle Edmund,,,,,,,,,,
-55,2016-usopen-1303,2016,usopen,1303,Jo Wilfried Tsonga,Kevin Anderson,,,,,,,,,,
-56,2016-usopen-1304,2016,usopen,1304,Jack Sock,Marin Cilic,,,,,,,,,,
-57,2016-usopen-1305,2016,usopen,1305,Rafael Nadal,Andrey Kuznetsov,,,,,,,,,,
-58,2016-usopen-1306,2016,usopen,1306,Lucas Pouille,Roberto Bautista Agut,,,,,,,,,,
-59,2016-usopen-1307,2016,usopen,1307,Gael Monfils,Nicolas Almagro,,,,,,,,,,
-60,2016-usopen-1308,2016,usopen,1308,Marcos Baghdatis,Ryan Harrison,,,,,,,,,,
-61,2016-usopen-1309,2016,usopen,1309,Dominic Thiem,Pablo Carreno Busta,,,,,,,,,,
-62,2016-usopen-1310,2016,usopen,1310,Juan Martin del Potro,David Ferrer,,,,,,,,,,
-63,2016-usopen-1311,2016,usopen,1311,Nick Kyrgios,Illya Marchenko,,,,,,,,,,
-64,2016-usopen-1312,2016,usopen,1312,Daniel Evans,Stan Wawrinka,,,,,,,,,,
-65,2016-usopen-1313,2016,usopen,1313,Kei Nishikori,Nicolas Mahut,,,,,,,,,,
-66,2016-usopen-1314,2016,usopen,1314,Ivo Karlovic,Jared Donaldson,,,,,,,,,,
-67,2016-usopen-1315,2016,usopen,1315,Joao Sousa,Grigor Dimitrov,,,,,,,,,,
-68,2016-usopen-1316,2016,usopen,1316,Paolo Lorenzi,Andy Murray,,,,,,,,,,
-69,2016-usopen-1401,2016,usopen,1401,Novak Djokovic,Kyle Edmund,,,,,,,,,,
-70,2016-usopen-1402,2016,usopen,1402,Jo Wilfried Tsonga,Jack Sock,,,,,,,,,,
-71,2016-usopen-1403,2016,usopen,1403,Rafael Nadal,Lucas Pouille,,,,,,,,,,
-72,2016-usopen-1404,2016,usopen,1404,Gael Monfils,Marcos Baghdatis,,,,,,,,,,
-73,2016-usopen-1405,2016,usopen,1405,Dominic Thiem,Juan Martin del Potro,,,,,,,,,,
-74,2016-usopen-1406,2016,usopen,1406,Illya Marchenko,Stan Wawrinka,,,,,,,,,,
-75,2016-usopen-1407,2016,usopen,1407,Kei Nishikori,Ivo Karlovic,,,,,,,,,,
-76,2016-usopen-1408,2016,usopen,1408,Grigor Dimitrov,Andy Murray,,,,,,,,,,
-77,2016-usopen-1501,2016,usopen,1501,Novak Djokovic,Jo Wilfried Tsonga,,,,,,,,,,
-78,2016-usopen-1502,2016,usopen,1502,Lucas Pouille,Gael Monfils,,,,,,,,,,
-79,2016-usopen-1503,2016,usopen,1503,Juan Martin del Potro,Stan Wawrinka,,,,,,,,,,
-80,2016-usopen-1504,2016,usopen,1504,Kei Nishikori,Andy Murray,,,,,,,,,,
-81,2016-usopen-1601,2016,usopen,1601,Novak Djokovic,Gael Monfils,,,,,,,,,,
-82,2016-usopen-1602,2016,usopen,1602,Stan Wawrinka,Kei Nishikori,,,,,,,,,,
-83,2016-usopen-1701,2016,usopen,1701,Novak Djokovic,Stan Wawrinka,,,,,,,,,,
-84,2016-usopen-2101,2016,usopen,2101,Serena Williams,Ekaterina Makarova,,,,,,,,,,
-85,2016-usopen-2104,2016,usopen,2104,Denisa Allertova,Ana Ivanovic,,,,,,,,,,
-86,2016-usopen-2108,2016,usopen,2108,Camila Giorgi,Samantha Stosur,,,,,,,,,,
-87,2016-usopen-2114,2016,usopen,2114,Heather Watson,Richel Hogenkamp,,,,,,,,,,
-88,2016-usopen-2115,2016,usopen,2115,Lucie Safarova,Daria Gavrilova,,,,,,,,,,
-89,2016-usopen-2116,2016,usopen,2116,Kirsten Flipkens,Simona Halep,,,,,,,,,,
-90,2016-usopen-2117,2016,usopen,2117,Agnieszka Radwanska,Jessica Pegula,,,,,,,,,,
-91,2016-usopen-2118,2016,usopen,2118,Naomi Broady,Laura Robson,,,,,,,,,,
-92,2016-usopen-2119,2016,usopen,2119,Katerina Siniakova,Eugenie Bouchard,,,,,,,,,,
-93,2016-usopen-2120,2016,usopen,2120,Pauline Parmentier,Caroline Garcia,,,,,,,,,,
-94,2016-usopen-2122,2016,usopen,2122,Kurumi Nara,Stefanie Voegele,,,,,,,,,,
-95,2016-usopen-2125,2016,usopen,2125,Karolina Pliskova,Sofia Kenin,,,,,,,,,,
-96,2016-usopen-2127,2016,usopen,2127,Nao Hibino,Kristina Mladenovic,,,,,,,,,,
-97,2016-usopen-2128,2016,usopen,2128,Louisa Chirico,Anastasia Pavlyuchenkova,,,,,,,,,,
-98,2016-usopen-2132,2016,usopen,2132,Kateryna Kozlova,Venus Williams,,,,,,,,,,
-99,2016-usopen-2133,2016,usopen,2133,Madison Keys,Alison Riske,,,,,,,,,,
-100,2016-usopen-2136,2016,usopen,2136,Naomi Osaka,Coco Vandeweghe,,,,,,,,,,
-101,2016-usopen-2137,2016,usopen,2137,Barbora Strycova,Monica Niculescu,,,,,,,,,,
-102,2016-usopen-2139,2016,usopen,2139,Taylor Townsend,Caroline Wozniacki,,,,,,,,,,
-103,2016-usopen-2140,2016,usopen,2140,Francesca Schiavone,Svetlana Kuznetsova,,,,,,,,,,
-104,2016-usopen-2141,2016,usopen,2141,Johanna Konta,Bethanie Mattek Sands,,,,,,,,,,
-105,2016-usopen-2144,2016,usopen,2144,Samantha Crawford,Belinda Bencic,,,,,,,,,,
-106,2016-usopen-2145,2016,usopen,2145,Monica Puig,Saisai Zheng,,,,,,,,,,
-107,2016-usopen-2148,2016,usopen,2148,Elise Mertens,,,,,,,,,,,
-108,2016-usopen-2149,2016,usopen,2149,Roberta Vinci,Anna Lena Friedsam,,,,,,,,,,
-109,2016-usopen-2152,2016,usopen,2152,Carina Witthoeft,Misaki Doi,,,,,,,,,,
-110,2016-usopen-2156,2016,usopen,2156,Magda Linette,Dominika Cibulkova,,,,,,,,,,
-111,2016-usopen-2160,2016,usopen,2160,Mandy Minella,Elina Svitolina,,,,,,,,,,
-112,2016-usopen-2163,2016,usopen,2163,,Mirjana Lucic Baroni,,,,,,,,,,
-113,2016-usopen-2164,2016,usopen,2164,Polona Hercog,Angelique Kerber,,,,,,,,,,
-114,2016-usopen-2201,2016,usopen,2201,Serena Williams,Vania King,,,,,,,,,,
-115,2016-usopen-2202,2016,usopen,2202,Johanna Larsson,Denisa Allertova,,,,,,,,,,
-116,2016-usopen-2204,2016,usopen,2204,Shuai Zhang,Samantha Stosur,,,,,,,,,,
-117,2016-usopen-2207,2016,usopen,2207,Timea Babos,Richel Hogenkamp,,,,,,,,,,
-118,2016-usopen-2208,2016,usopen,2208,Lucie Safarova,Simona Halep,,,,,,,,,,
-119,2016-usopen-2209,2016,usopen,2209,Agnieszka Radwanska,Naomi Broady,,,,,,,,,,
-120,2016-usopen-2210,2016,usopen,2210,Katerina Siniakova,Caroline Garcia,,,,,,,,,,
-121,2016-usopen-2211,2016,usopen,2211,Ana Konjuh,Kurumi Nara,,,,,,,,,,
-122,2016-usopen-2212,2016,usopen,2212,Varvara Lepchenko,Timea Bacsinszky,,,,,,,,,,
-123,2016-usopen-2213,2016,usopen,2213,Karolina Pliskova,Montserrat Gonzalez,,,,,,,,,,
-124,2016-usopen-2214,2016,usopen,2214,Kristina Mladenovic,Anastasia Pavlyuchenkova,,,,,,,,,,
-125,2016-usopen-2215,2016,usopen,2215,Laura Siegemund,Nicole Gibbs,,,,,,,,,,
-126,2016-usopen-2216,2016,usopen,2216,Julia Goerges,Venus Williams,,,,,,,,,,
-127,2016-usopen-2217,2016,usopen,2217,Madison Keys,Kayla Day,,,,,,,,,,
-128,2016-usopen-2218,2016,usopen,2218,Ying Ying Duan,Naomi Osaka,,,,,,,,,,
-129,2016-usopen-2219,2016,usopen,2219,Monica Niculescu,Ana Bogdan,,,,,,,,,,
-130,2016-usopen-2220,2016,usopen,2220,Caroline Wozniacki,Svetlana Kuznetsova,,,,,,,,,,
-131,2016-usopen-2221,2016,usopen,2221,Johanna Konta,Tsvetana Pironkova,,,,,,,,,,
-132,2016-usopen-2222,2016,usopen,2222,Andrea Petkovic,Belinda Bencic,,,,,,,,,,
-133,2016-usopen-2223,2016,usopen,2223,Saisai Zheng,Kateryna Bondarenko,,,,,,,,,,
-134,2016-usopen-2224,2016,usopen,2224,Anastasija Sevastova,,,,,,,,,,,
-135,2016-usopen-2225,2016,usopen,2225,Roberta Vinci,Christina McHale,,,,,,,,,,
-136,2016-usopen-2228,2016,usopen,2228,Evgeniya Rodina,Dominika Cibulkova,,,,,,,,,,
-137,2016-usopen-2229,2016,usopen,2229,Petra Kvitova,Cagla Buyukakcay,,,,,,,,,,
-138,2016-usopen-2230,2016,usopen,2230,Lauren Davis,Elina Svitolina,,,,,,,,,,
-139,2016-usopen-2231,2016,usopen,2231,Shelby Rogers,Catherine Bellis,,,,,,,,,,
-140,2016-usopen-2232,2016,usopen,2232,Mirjana Lucic Baroni,Angelique Kerber,,,,,,,,,,
-141,2016-usopen-2301,2016,usopen,2301,Serena Williams,Johanna Larsson,,,,,,,,,,
-142,2016-usopen-2302,2016,usopen,2302,Yaroslava Shvedova,Shuai Zhang,,,,,,,,,,
-143,2016-usopen-2303,2016,usopen,2303,,Elena Vesnina,,,,,,,,,,
-144,2016-usopen-2304,2016,usopen,2304,Timea Babos,Simona Halep,,,,,,,,,,
-145,2016-usopen-2305,2016,usopen,2305,Agnieszka Radwanska,Caroline Garcia,,,,,,,,,,
-146,2016-usopen-2306,2016,usopen,2306,Ana Konjuh,Varvara Lepchenko,,,,,,,,,,
-147,2016-usopen-2307,2016,usopen,2307,Karolina Pliskova,Anastasia Pavlyuchenkova,,,,,,,,,,
-148,2016-usopen-2308,2016,usopen,2308,Laura Siegemund,Venus Williams,,,,,,,,,,
-149,2016-usopen-2309,2016,usopen,2309,Madison Keys,Naomi Osaka,,,,,,,,,,
-150,2016-usopen-2310,2016,usopen,2310,Monica Niculescu,Caroline Wozniacki,,,,,,,,,,
-151,2016-usopen-2311,2016,usopen,2311,Johanna Konta,Belinda Bencic,,,,,,,,,,
-152,2016-usopen-2312,2016,usopen,2312,Kateryna Bondarenko,Anastasija Sevastova,,,,,,,,,,
-153,2016-usopen-2313,2016,usopen,2313,Roberta Vinci,Carina Witthoeft,,,,,,,,,,
-154,2016-usopen-2314,2016,usopen,2314,Lesia Tsurenko,Dominika Cibulkova,,,,,,,,,,
-155,2016-usopen-2315,2016,usopen,2315,Petra Kvitova,Elina Svitolina,,,,,,,,,,
-156,2016-usopen-2316,2016,usopen,2316,Catherine Bellis,Angelique Kerber,,,,,,,,,,
-157,2016-usopen-2401,2016,usopen,2401,Serena Williams,Yaroslava Shvedova,,,,,,,,,,
-158,2016-usopen-2402,2016,usopen,2402,,Simona Halep,,,,,,,,,,
-159,2016-usopen-2403,2016,usopen,2403,Agnieszka Radwanska,Ana Konjuh,,,,,,,,,,
-160,2016-usopen-2404,2016,usopen,2404,Karolina Pliskova,Venus Williams,,,,,,,,,,
-161,2016-usopen-2405,2016,usopen,2405,Madison Keys,Caroline Wozniacki,,,,,,,,,,
-162,2016-usopen-2406,2016,usopen,2406,Johanna Konta,Anastasija Sevastova,,,,,,,,,,
-163,2016-usopen-2407,2016,usopen,2407,Roberta Vinci,Lesia Tsurenko,,,,,,,,,,
-164,2016-usopen-2408,2016,usopen,2408,Petra Kvitova,Angelique Kerber,,,,,,,,,,
-165,2016-usopen-2501,2016,usopen,2501,Serena Williams,Simona Halep,,,,,,,,,,
-166,2016-usopen-2502,2016,usopen,2502,Ana Konjuh,Karolina Pliskova,,,,,,,,,,
-167,2016-usopen-2503,2016,usopen,2503,Caroline Wozniacki,Anastasija Sevastova,,,,,,,,,,
-168,2016-usopen-2504,2016,usopen,2504,Roberta Vinci,Angelique Kerber,,,,,,,,,,
-169,2016-usopen-2601,2016,usopen,2601,Serena Williams,Karolina Pliskova,,,,,,,,,,
-170,2016-usopen-2602,2016,usopen,2602,Caroline Wozniacki,Angelique Kerber,,,,,,,,,,
-171,2016-usopen-2701,2016,usopen,2701,Karolina Pliskova,Angelique Kerber,,,,,,,,,,
-0,2016-wimbledon-1101,2016,wimbledon,1101,Novak Djokovic,James Ward,,,,,,,,,,
-1,2016-wimbledon-1102,2016,wimbledon,1102,Kyle Edmund,Adrian Mannarino,,,,,,,,,,
-2,2016-wimbledon-1103,2016,wimbledon,1103,Thomaz Bellucci,Ruben Bemelmans,,,,,,,,,,
-3,2016-wimbledon-1104,2016,wimbledon,1104,Lukas Rosol,Sam Querrey,,,,,,,,,,
-4,2016-wimbledon-1105,2016,wimbledon,1105,Philipp Kohlschreiber,Pierre Hugues Herbert,,,,,,,,,,
-5,2016-wimbledon-1106,2016,wimbledon,1106,Damir Dzumhur,Denis Kudla,,,,,,,,,,
-6,2016-wimbledon-1107,2016,wimbledon,1107,Brydan Klein,Nicolas Mahut,,,,,,,,,,
-7,2016-wimbledon-1108,2016,wimbledon,1108,Dudi Sela,David Ferrer,,,,,,,,,,
-8,2016-wimbledon-1109,2016,wimbledon,1109,David Goffin,Alexander Ward,,,,,,,,,,
-9,2016-wimbledon-1110,2016,wimbledon,1110,Edouard Roger Vasselin,Teymuraz Gabashvili,,,,,,,,,,
-10,2016-wimbledon-1111,2016,wimbledon,1111,Nicolas Almagro,Rogerio Dutra Silva,,,,,,,,,,
-11,2016-wimbledon-1112,2016,wimbledon,1112,Denis Istomin,Kevin Anderson,,,,,,,,,,
-12,2016-wimbledon-1113,2016,wimbledon,1113,Jack Sock,Ernests Gulbis,,,,,,,,,,
-13,2016-wimbledon-1114,2016,wimbledon,1114,Diego Schwartzman,Robin Haase,,,,,,,,,,
-14,2016-wimbledon-1115,2016,wimbledon,1115,Andreas Seppi,Guillermo Garcia Lopez,,,,,,,,,,
-15,2016-wimbledon-1116,2016,wimbledon,1116,Pablo Carreno Busta,Milos Raonic,,,,,,,,,,
-16,2016-wimbledon-1117,2016,wimbledon,1117,Roger Federer,Guido Pella,,,,,,,,,,
-17,2016-wimbledon-1118,2016,wimbledon,1118,Ricardas Berankis,Marcus Willis,,,,,,,,,,
-18,2016-wimbledon-1119,2016,wimbledon,1119,Daniel Evans,Jan Lennard Struff,,,,,,,,,,
-19,2016-wimbledon-1120,2016,wimbledon,1120,Evgeny Donskoy,Alexandr Dolgopolov,,,,,,,,,,
-20,2016-wimbledon-1121,2016,wimbledon,1121,Gael Monfils,Jeremy Chardy,,,,,,,,,,
-21,2016-wimbledon-1122,2016,wimbledon,1122,Malek Jaziri,Steve Johnson,,,,,,,,,,
-22,2016-wimbledon-1123,2016,wimbledon,1123,Bjorn Fratangelo,Grigor Dimitrov,,,,,,,,,,
-23,2016-wimbledon-1124,2016,wimbledon,1124,Janko Tipsarevic,Gilles Simon,,,,,,,,,,
-24,2016-wimbledon-1125,2016,wimbledon,1125,Marin Cilic,Brian Baker,,,,,,,,,,
-25,2016-wimbledon-1126,2016,wimbledon,1126,Sergiy Stakhovsky,Yoshihito Nishioka,,,,,,,,,,
-26,2016-wimbledon-1127,2016,wimbledon,1127,Paolo Lorenzi,Lukas Lacko,,,,,,,,,,
-27,2016-wimbledon-1128,2016,wimbledon,1128,Borna Coric,Ivo Karlovic,,,,,,,,,,
-28,2016-wimbledon-1129,2016,wimbledon,1129,Pablo Cuevas,Andrey Kuznetsov,,,,,,,,,,
-29,2016-wimbledon-1130,2016,wimbledon,1130,Santiago Giraldo,Gilles Muller,,,,,,,,,,
-30,2016-wimbledon-1131,2016,wimbledon,1131,Julien Benneteau,Illya Marchenko,,,,,,,,,,
-31,2016-wimbledon-1132,2016,wimbledon,1132,Sam Groth,Kei Nishikori,,,,,,,,,,
-32,2016-wimbledon-1133,2016,wimbledon,1133,Dominic Thiem,Florian Mayer,,,,,,,,,,
-33,2016-wimbledon-1134,2016,wimbledon,1134,Jiri Vesely,Igor Sijsling,,,,,,,,,,
-34,2016-wimbledon-1135,2016,wimbledon,1135,Luke Saville,Dennis Novikov,,,,,,,,,,
-35,2016-wimbledon-1136,2016,wimbledon,1136,Dmitry Tursunov,Joao Sousa,,,,,,,,,,
-36,2016-wimbledon-1137,2016,wimbledon,1137,Alexander Zverev,Paul Henri Mathieu,,,,,,,,,,
-37,2016-wimbledon-1138,2016,wimbledon,1138,Horacio Zeballos,Mikhail Youzhny,,,,,,,,,,
-38,2016-wimbledon-1139,2016,wimbledon,1139,Benjamin Becker,Facundo Bagnis,,,,,,,,,,
-39,2016-wimbledon-1140,2016,wimbledon,1140,Ivan Dodig,Tomas Berdych,,,,,,,,,,
-40,2016-wimbledon-1141,2016,wimbledon,1141,Roberto Bautista Agut,Jordan Thompson,,,,,,,,,,
-41,2016-wimbledon-1142,2016,wimbledon,1142,Mikhail Kukushkin,Martin Klizan,,,,,,,,,,
-42,2016-wimbledon-1143,2016,wimbledon,1143,Gastao Elias,Radu Albot,,,,,,,,,,
-43,2016-wimbledon-1144,2016,wimbledon,1144,Fernando Verdasco,Bernard Tomic,,,,,,,,,,
-44,2016-wimbledon-1145,2016,wimbledon,1145,Lucas Pouille,Marius Copil,,,,,,,,,,
-45,2016-wimbledon-1146,2016,wimbledon,1146,Donald Young,Leonardo Mayer,,,,,,,,,,
-46,2016-wimbledon-1147,2016,wimbledon,1147,Stephane Robert,Juan Martin Del Potro,,,,,,,,,,
-47,2016-wimbledon-1148,2016,wimbledon,1148,Taylor Fritz,Stan Wawrinka,,,,,,,,,,
-48,2016-wimbledon-1149,2016,wimbledon,1149,Richard Gasquet,Aljaz Bedene,,,,,,,,,,
-49,2016-wimbledon-1150,2016,wimbledon,1150,Marcel Granollers,Victor Estrella Burgos,,,,,,,,,,
-50,2016-wimbledon-1151,2016,wimbledon,1151,Vasek Pospisil,Albert Ramos Vinolas,,,,,,,,,,
-51,2016-wimbledon-1152,2016,wimbledon,1152,Tristan Lamasine,Viktor Troicki,,,,,,,,,,
-52,2016-wimbledon-1153,2016,wimbledon,1153,John Isner,Marcos Baghdatis,,,,,,,,,,
-53,2016-wimbledon-1154,2016,wimbledon,1154,Albano Olivetti,Matthew Barton,,,,,,,,,,
-54,2016-wimbledon-1155,2016,wimbledon,1155,Taro Daniel,Juan Monaco,,,,,,,,,,
-55,2016-wimbledon-1156,2016,wimbledon,1156,Inigo Cervantes Huegun,Jo Wilfried Tsonga,,,,,,,,,,
-56,2016-wimbledon-1157,2016,wimbledon,1157,Nick Kyrgios,Radek Stepanek,,,,,,,,,,
-57,2016-wimbledon-1158,2016,wimbledon,1158,Dusan Lajovic,Dustin Brown,,,,,,,,,,
-58,2016-wimbledon-1159,2016,wimbledon,1159,Federico Delbonis,Fabio Fognini,,,,,,,,,,
-59,2016-wimbledon-1160,2016,wimbledon,1160,Rajeev Ram,Feliciano Lopez,,,,,,,,,,
-60,2016-wimbledon-1161,2016,wimbledon,1161,Benoit Paire,Franko Skugor,,,,,,,,,,
-61,2016-wimbledon-1162,2016,wimbledon,1162,John Millman,Albert Montanes,,,,,,,,,,
-62,2016-wimbledon-1163,2016,wimbledon,1163,Yen Hsun Lu,Alexander Kudryavtsev,,,,,,,,,,
-63,2016-wimbledon-1164,2016,wimbledon,1164,Liam Broady,Andy Murray,,,,,,,,,,
-64,2016-wimbledon-1201,2016,wimbledon,1201,Novak Djokovic,Adrian Mannarino,,,,,,,,,,
-65,2016-wimbledon-1202,2016,wimbledon,1202,Thomaz Bellucci,Sam Querrey,,,,,,,,,,
-66,2016-wimbledon-1203,2016,wimbledon,1203,Pierre Hugues Herbert,Damir Dzumhur,,,,,,,,,,
-67,2016-wimbledon-1204,2016,wimbledon,1204,Nicolas Mahut,David Ferrer,,,,,,,,,,
-68,2016-wimbledon-1205,2016,wimbledon,1205,David Goffin,Edouard Roger Vasselin,,,,,,,,,,
-69,2016-wimbledon-1206,2016,wimbledon,1206,Nicolas Almagro,Denis Istomin,,,,,,,,,,
-70,2016-wimbledon-1207,2016,wimbledon,1207,Jack Sock,Robin Haase,,,,,,,,,,
-71,2016-wimbledon-1208,2016,wimbledon,1208,Andreas Seppi,Milos Raonic,,,,,,,,,,
-72,2016-wimbledon-1209,2016,wimbledon,1209,Roger Federer,Marcus Willis,,,,,,,,,,
-73,2016-wimbledon-1210,2016,wimbledon,1210,Daniel Evans,Alexandr Dolgopolov,,,,,,,,,,
-74,2016-wimbledon-1211,2016,wimbledon,1211,Jeremy Chardy,Steve Johnson,,,,,,,,,,
-75,2016-wimbledon-1212,2016,wimbledon,1212,Grigor Dimitrov,Gilles Simon,,,,,,,,,,
-76,2016-wimbledon-1213,2016,wimbledon,1213,Marin Cilic,Sergiy Stakhovsky,,,,,,,,,,
-77,2016-wimbledon-1214,2016,wimbledon,1214,Lukas Lacko,Ivo Karlovic,,,,,,,,,,
-78,2016-wimbledon-1215,2016,wimbledon,1215,Andrey Kuznetsov,Gilles Muller,,,,,,,,,,
-79,2016-wimbledon-1216,2016,wimbledon,1216,Julien Benneteau,Kei Nishikori,,,,,,,,,,
-80,2016-wimbledon-1217,2016,wimbledon,1217,Dominic Thiem,Jiri Vesely,,,,,,,,,,
-81,2016-wimbledon-1218,2016,wimbledon,1218,Dennis Novikov,Joao Sousa,,,,,,,,,,
-82,2016-wimbledon-1219,2016,wimbledon,1219,Alexander Zverev,Mikhail Youzhny,,,,,,,,,,
-83,2016-wimbledon-1220,2016,wimbledon,1220,Benjamin Becker,Tomas Berdych,,,,,,,,,,
-84,2016-wimbledon-1222,2016,wimbledon,1222,Radu Albot,Bernard Tomic,,,,,,,,,,
-85,2016-wimbledon-1223,2016,wimbledon,1223,Lucas Pouille,Donald Young,,,,,,,,,,
-86,2016-wimbledon-1224,2016,wimbledon,1224,Juan Martin Del Potro,Stan Wawrinka,,,,,,,,,,
-87,2016-wimbledon-1225,2016,wimbledon,1225,Richard Gasquet,Marcel Granollers,,,,,,,,,,
-88,2016-wimbledon-1226,2016,wimbledon,1226,Albert Ramos Vinolas,Viktor Troicki,,,,,,,,,,
-89,2016-wimbledon-1227,2016,wimbledon,1227,John Isner,Matthew Barton,,,,,,,,,,
-90,2016-wimbledon-1228,2016,wimbledon,1228,Juan Monaco,Jo Wilfried Tsonga,,,,,,,,,,
-91,2016-wimbledon-1229,2016,wimbledon,1229,Nick Kyrgios,Dustin Brown,,,,,,,,,,
-92,2016-wimbledon-1230,2016,wimbledon,1230,Fabio Fognini,Feliciano Lopez,,,,,,,,,,
-93,2016-wimbledon-1231,2016,wimbledon,1231,Benoit Paire,John Millman,,,,,,,,,,
-94,2016-wimbledon-1232,2016,wimbledon,1232,Yen Hsun Lu,Andy Murray,,,,,,,,,,
-95,2016-wimbledon-1301,2016,wimbledon,1301,Novak Djokovic,Sam Querrey,,,,,,,,,,
-96,2016-wimbledon-1302,2016,wimbledon,1302,Pierre Hugues Herbert,Nicolas Mahut,,,,,,,,,,
-97,2016-wimbledon-1303,2016,wimbledon,1303,David Goffin,Denis Istomin,,,,,,,,,,
-98,2016-wimbledon-1304,2016,wimbledon,1304,Jack Sock,Milos Raonic,,,,,,,,,,
-99,2016-wimbledon-1305,2016,wimbledon,1305,Roger Federer,Daniel Evans,,,,,,,,,,
-100,2016-wimbledon-1306,2016,wimbledon,1306,Steve Johnson,Grigor Dimitrov,,,,,,,,,,
-101,2016-wimbledon-1307,2016,wimbledon,1307,Marin Cilic,Lukas Lacko,,,,,,,,,,
-102,2016-wimbledon-1308,2016,wimbledon,1308,Andrey Kuznetsov,Kei Nishikori,,,,,,,,,,
-103,2016-wimbledon-1309,2016,wimbledon,1309,Jiri Vesely,Joao Sousa,,,,,,,,,,
-104,2016-wimbledon-1310,2016,wimbledon,1310,Alexander Zverev,Tomas Berdych,,,,,,,,,,
-105,2016-wimbledon-1311,2016,wimbledon,1311,Roberto Bautista Agut,Bernard Tomic,,,,,,,,,,
-106,2016-wimbledon-1312,2016,wimbledon,1312,Lucas Pouille,Juan Martin Del Potro,,,,,,,,,,
-107,2016-wimbledon-1313,2016,wimbledon,1313,Richard Gasquet,Albert Ramos Vinolas,,,,,,,,,,
-108,2016-wimbledon-1314,2016,wimbledon,1314,John Isner,Jo Wilfried Tsonga,,,,,,,,,,
-109,2016-wimbledon-1315,2016,wimbledon,1315,Nick Kyrgios,Feliciano Lopez,,,,,,,,,,
-110,2016-wimbledon-1316,2016,wimbledon,1316,John Millman,Andy Murray,,,,,,,,,,
-111,2016-wimbledon-1401,2016,wimbledon,1401,Sam Querrey,Nicolas Mahut,,,,,,,,,,
-112,2016-wimbledon-1402,2016,wimbledon,1402,David Goffin,Milos Raonic,,,,,,,,,,
-113,2016-wimbledon-1403,2016,wimbledon,1403,Roger Federer,Steve Johnson,,,,,,,,,,
-114,2016-wimbledon-1404,2016,wimbledon,1404,Marin Cilic,Kei Nishikori,,,,,,,,,,
-115,2016-wimbledon-1405,2016,wimbledon,1405,Jiri Vesely,Tomas Berdych,,,,,,,,,,
-116,2016-wimbledon-1406,2016,wimbledon,1406,Bernard Tomic,Lucas Pouille,,,,,,,,,,
-117,2016-wimbledon-1407,2016,wimbledon,1407,Richard Gasquet,Jo Wilfried Tsonga,,,,,,,,,,
-118,2016-wimbledon-1408,2016,wimbledon,1408,Nick Kyrgios,Andy Murray,,,,,,,,,,
-119,2016-wimbledon-1501,2016,wimbledon,1501,Sam Querrey,Milos Raonic,,,,,,,,,,
-120,2016-wimbledon-1502,2016,wimbledon,1502,Roger Federer,Marin Cilic,,,,,,,,,,
-121,2016-wimbledon-1503,2016,wimbledon,1503,Tomas Berdych,Lucas Pouille,,,,,,,,,,
-122,2016-wimbledon-1504,2016,wimbledon,1504,Jo Wilfried Tsonga,Andy Murray,,,,,,,,,,
-123,2016-wimbledon-1601,2016,wimbledon,1601,Milos Raonic,Roger Federer,,,,,,,,,,
-124,2016-wimbledon-1602,2016,wimbledon,1602,Tomas Berdych,Andy Murray,,,,,,,,,,
-125,2016-wimbledon-1701,2016,wimbledon,1701,Milos Raonic,Andy Murray,,,,,,,,,,
+,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num
+0,2016,ausopen,1101,Novak Djokovic,Hyeon Chung,,,,,,,,,,,1101
+1,2016,ausopen,1102,Quentin Halys,Ivan Dodig,,,,,,,,,,,1102
+2,2016,ausopen,1104,Teymuraz Gabashvili,Andreas Seppi,,,,,,,,,,,1104
+3,2016,ausopen,1107,Evgeny Donskoy,Inigo Cervantes,,,,,,,,,,,1107
+4,2016,ausopen,1108,Vasek Pospisil,Gilles Simon,,,,,,,,,,,1108
+5,2016,ausopen,1109,Jo-Wilfried Tsonga,Marcos Baghdatis,,,,,,,,,,,1109
+6,2016,ausopen,1110,Omar Jasika,Illya Marchenko,,,,,,,,,,,1110
+7,2016,ausopen,1111,Pablo Andujar,Pierre-Hugues Herbert,,,,,,,,,,,1111
+8,2016,ausopen,1112,Noah Rubin,Benoit Paire,,,,,,,,,,,1112
+9,2016,ausopen,1113,Guillermo Garcia-Lopez,Paul-Henri Mathieu,,,,,,,,,,,1113
+10,2016,ausopen,1114,Victor Estrella Burgos,Daniel Brands,,,,,,,,,,,1114
+11,2016,ausopen,1115,Austin Krajicek,Di Wu,,,,,,,,,,,1115
+12,2016,ausopen,1116,Philipp Kohlschreiber,Kei Nishikori,,,,,,,,,,,1116
+13,2016,ausopen,1117,Roger Federer,Nikoloz Basilashvili,,,,,,,,,,,1117
+14,2016,ausopen,1118,Ricardas Berankis,Alexandr Dolgopolov,,,,,,,,,,,1118
+15,2016,ausopen,1120,Paolo Lorenzi,Grigor Dimitrov,,,,,,,,,,,1120
+16,2016,ausopen,1121,Dominic Thiem,Leonardo Mayer,,,,,,,,,,,1121
+17,2016,ausopen,1122,Julien Benneteau,Nicolas Almagro,,,,,,,,,,,1122
+18,2016,ausopen,1124,Sergiy Stakhovsky,David Goffin,,,,,,,,,,,1124
+19,2016,ausopen,1125,Marin Cilic,Thiemo de Bakker,,,,,,,,,,,1125
+20,2016,ausopen,1126,Albert Ramos-Vinolas,Borna Coric,,,,,,,,,,,1126
+21,2016,ausopen,1127,Dusan Lajovic,Sam Querrey,,,,,,,,,,,1127
+22,2016,ausopen,1129,Nick Kyrgios,Pablo Carreno Busta,,,,,,,,,,,1129
+23,2016,ausopen,1130,Yoshihito Nishioka,Pablo Cuevas,,,,,,,,,,,1130
+24,2016,ausopen,1132,Yuki Bhambri,Tomas Berdych,,,,,,,,,,,1132
+25,2016,ausopen,1133,Rafael Nadal,Fernando Verdasco,,,,,,,,,,,1133
+26,2016,ausopen,1134,Benjamin Becker,Dudi Sela,,,,,,,,,,,1134
+27,2016,ausopen,1135,Ryan Harrison,Andrey Kuznetsov,,,,,,,,,,,1135
+28,2016,ausopen,1137,Gael Monfils,Yuichi Sugita,,,,,,,,,,,1137
+29,2016,ausopen,1138,Marco Cecchinato,Nicolas Mahut,,,,,,,,,,,1138
+30,2016,ausopen,1139,Stephane Robert,Bjorn Fratangelo,,,,,,,,,,,1139
+31,2016,ausopen,1140,Rajeev Ram,Kevin Anderson,,,,,,,,,,,1140
+32,2016,ausopen,1141,Milos Raonic,Lucas Pouille,,,,,,,,,,,1141
+33,2016,ausopen,1143,Daniel Gimeno-Traver,Tim Smyczek,,,,,,,,,,,1143
+34,2016,ausopen,1144,D. Muñoz de la Nava,Viktor Troicki,,,,,,,,,,,1144
+35,2016,ausopen,1145,Jack Sock,Taylor Fritz,,,,,,,,,,,1145
+36,2016,ausopen,1146,Taro Daniel,Lukas Rosol,,,,,,,,,,,1146
+37,2016,ausopen,1147,Tatsuma Ito,Radek Stepanek,,,,,,,,,,,1147
+38,2016,ausopen,1148,Dmitry Tursunov,Stan Wawrinka,,,,,,,,,,,1148
+39,2016,ausopen,1149,David Ferrer,Peter Gojowczyk,,,,,,,,,,,1149
+40,2016,ausopen,1150,James Duckworth,Lleyton Hewitt,,,,,,,,,,,1150
+41,2016,ausopen,1151,Thomaz Bellucci,Jordan Thompson,,,,,,,,,,,1151
+42,2016,ausopen,1152,Aljaz Bedene,Steve Johnson,,,,,,,,,,,1152
+43,2016,ausopen,1153,Feliciano Lopez,Daniel Evans,,,,,,,,,,,1153
+44,2016,ausopen,1155,Matthew Ebden,Marcel Granollers,,,,,,,,,,,1155
+45,2016,ausopen,1156,Jerzy Janowicz,John Isner,,,,,,,,,,,1156
+46,2016,ausopen,1157,Bernard Tomic,Denis Istomin,,,,,,,,,,,1157
+47,2016,ausopen,1159,John Millman,Diego Schwartzman,,,,,,,,,,,1159
+48,2016,ausopen,1160,Gilles Muller,Fabio Fognini,,,,,,,,,,,1160
+49,2016,ausopen,1161,Joao Sousa,Mikhail Kukushkin,,,,,,,,,,,1161
+50,2016,ausopen,1162,Santiago Giraldo,Donald Young,,,,,,,,,,,1162
+51,2016,ausopen,1163,Adrian Mannarino,Sam Groth,,,,,,,,,,,1163
+52,2016,ausopen,1164,Alexander Zverev,Andy Murray,,,,,,,,,,,1164
+53,2016,ausopen,1201,Novak Djokovic,Quentin Halys,,,,,,,,,,,1201
+54,2016,ausopen,1202,Denis Kudla,Andreas Seppi,,,,,,,,,,,1202
+55,2016,ausopen,1203,Federico Delbonis,Renzo Olivo,,,,,,,,,,,1203
+56,2016,ausopen,1204,Evgeny Donskoy,Gilles Simon,,,,,,,,,,,1204
+57,2016,ausopen,1205,Jo-Wilfried Tsonga,Omar Jasika,,,,,,,,,,,1205
+58,2016,ausopen,1206,Pierre-Hugues Herbert,Noah Rubin,,,,,,,,,,,1206
+59,2016,ausopen,1207,Guillermo Garcia-Lopez,Daniel Brands,,,,,,,,,,,1207
+60,2016,ausopen,1208,Austin Krajicek,Kei Nishikori,,,,,,,,,,,1208
+61,2016,ausopen,1209,Roger Federer,Alexandr Dolgopolov,,,,,,,,,,,1209
+62,2016,ausopen,1210,Marco Trungelliti,Grigor Dimitrov,,,,,,,,,,,1210
+63,2016,ausopen,1211,Dominic Thiem,Nicolas Almagro,,,,,,,,,,,1211
+64,2016,ausopen,1212,Damir Dzumhur,David Goffin,,,,,,,,,,,1212
+65,2016,ausopen,1213,Marin Cilic,Albert Ramos-Vinolas,,,,,,,,,,,1213
+66,2016,ausopen,1214,Dusan Lajovic,Roberto Bautista Agut,,,,,,,,,,,1214
+67,2016,ausopen,1215,Nick Kyrgios,Pablo Cuevas,,,,,,,,,,,1215
+68,2016,ausopen,1216,Mirza Basic,Tomas Berdych,,,,,,,,,,,1216
+69,2016,ausopen,1217,Fernando Verdasco,Dudi Sela,,,,,,,,,,,1217
+70,2016,ausopen,1218,Andrey Kuznetsov,Jeremy Chardy,,,,,,,,,,,1218
+71,2016,ausopen,1219,Gael Monfils,Nicolas Mahut,,,,,,,,,,,1219
+72,2016,ausopen,1221,Milos Raonic,Tommy Robredo,,,,,,,,,,,1221
+73,2016,ausopen,1222,Tim Smyczek,Viktor Troicki,,,,,,,,,,,1222
+74,2016,ausopen,1223,Jack Sock,Lukas Rosol,,,,,,,,,,,1223
+75,2016,ausopen,1224,Radek Stepanek,Stan Wawrinka,,,,,,,,,,,1224
+76,2016,ausopen,1225,David Ferrer,Lleyton Hewitt,,,,,,,,,,,1225
+77,2016,ausopen,1226,Thomaz Bellucci,Steve Johnson,,,,,,,,,,,1226
+78,2016,ausopen,1227,Feliciano Lopez,Guido Pella,,,,,,,,,,,1227
+79,2016,ausopen,1228,Marcel Granollers,John Isner,,,,,,,,,,,1228
+80,2016,ausopen,1229,Bernard Tomic,Simone Bolelli,,,,,,,,,,,1229
+81,2016,ausopen,1230,John Millman,Gilles Muller,,,,,,,,,,,1230
+82,2016,ausopen,1231,Joao Sousa,Santiago Giraldo,,,,,,,,,,,1231
+83,2016,ausopen,1232,Sam Groth,Andy Murray,,,,,,,,,,,1232
+84,2016,ausopen,1301,Novak Djokovic,Andreas Seppi,,,,,,,,,,,1301
+85,2016,ausopen,1302,Federico Delbonis,Gilles Simon,,,,,,,,,,,1302
+86,2016,ausopen,1303,Jo-Wilfried Tsonga,Pierre-Hugues Herbert,,,,,,,,,,,1303
+87,2016,ausopen,1304,Guillermo Garcia-Lopez,Kei Nishikori,,,,,,,,,,,1304
+88,2016,ausopen,1305,Roger Federer,Grigor Dimitrov,,,,,,,,,,,1305
+89,2016,ausopen,1306,Dominic Thiem,David Goffin,,,,,,,,,,,1306
+90,2016,ausopen,1307,Marin Cilic,Roberto Bautista Agut,,,,,,,,,,,1307
+91,2016,ausopen,1308,Nick Kyrgios,Tomas Berdych,,,,,,,,,,,1308
+92,2016,ausopen,1309,Dudi Sela,Andrey Kuznetsov,,,,,,,,,,,1309
+93,2016,ausopen,1310,Gael Monfils,Stephane Robert,,,,,,,,,,,1310
+94,2016,ausopen,1311,Milos Raonic,Viktor Troicki,,,,,,,,,,,1311
+95,2016,ausopen,1312,Lukas Rosol,Stan Wawrinka,,,,,,,,,,,1312
+96,2016,ausopen,1313,David Ferrer,Steve Johnson,,,,,,,,,,,1313
+97,2016,ausopen,1314,Feliciano Lopez,John Isner,,,,,,,,,,,1314
+98,2016,ausopen,1315,Bernard Tomic,John Millman,,,,,,,,,,,1315
+99,2016,ausopen,1316,Joao Sousa,Andy Murray,,,,,,,,,,,1316
+100,2016,ausopen,1401,Novak Djokovic,Gilles Simon,,,,,,,,,,,1401
+101,2016,ausopen,1402,Jo-Wilfried Tsonga,Kei Nishikori,,,,,,,,,,,1402
+102,2016,ausopen,1403,Roger Federer,David Goffin,,,,,,,,,,,1403
+103,2016,ausopen,1404,Roberto Bautista Agut,Tomas Berdych,,,,,,,,,,,1404
+104,2016,ausopen,1405,Andrey Kuznetsov,Gael Monfils,,,,,,,,,,,1405
+105,2016,ausopen,1406,Milos Raonic,Stan Wawrinka,,,,,,,,,,,1406
+106,2016,ausopen,1407,David Ferrer,John Isner,,,,,,,,,,,1407
+107,2016,ausopen,1408,Bernard Tomic,Andy Murray,,,,,,,,,,,1408
+108,2016,ausopen,1501,Novak Djokovic,Kei Nishikori,,,,,,,,,,,1501
+109,2016,ausopen,1502,Roger Federer,Tomas Berdych,,,,,,,,,,,1502
+110,2016,ausopen,1503,Gael Monfils,Milos Raonic,,,,,,,,,,,1503
+111,2016,ausopen,1504,David Ferrer,Andy Murray,,,,,,,,,,,1504
+112,2016,ausopen,1601,Novak Djokovic,Roger Federer,,,,,,,,,,,1601
+113,2016,ausopen,1602,Milos Raonic,Andy Murray,,,,,,,,,,,1602
+114,2016,ausopen,1701,Novak Djokovic,Andy Murray,,,,,,,,,,,1701
+0,2016,frenchopen,1101,Novak Djokovic,Yen Hsun Lu,,,,,,,,,,,1101
+1,2016,frenchopen,1103,Gerald Melzer,Aljaz Bedene,,,,,,,,,,,1103
+2,2016,frenchopen,1105,Bernard Tomic,Brian Baker,,,,,,,,,,,1105
+3,2016,frenchopen,1107,Paul Henri Mathieu,Santiago Giraldo,,,,,,,,,,,1107
+4,2016,frenchopen,1109,David Ferrer,Evgeny Donskoy,,,,,,,,,,,1109
+5,2016,frenchopen,1114,Hyeon Chung,Quentin Halys,,,,,,,,,,,1114
+6,2016,frenchopen,1116,Vasek Pospisil,Tomas Berdych,,,,,,,,,,,1116
+7,2016,frenchopen,1117,Rafael Nadal,Sam Groth,,,,,,,,,,,1117
+8,2016,frenchopen,1119,Nicolas Mahut,Ricardas Berankis,,,,,,,,,,,1119
+9,2016,frenchopen,1121,Kevin Anderson,Stephane Robert,,,,,,,,,,,1121
+10,2016,frenchopen,1124,Inigo Cervantes,Dominic Thiem,,,,,,,,,,,1124
+11,2016,frenchopen,1125,David Goffin,Gregoire Barrere,,,,,,,,,,,1125
+12,2016,frenchopen,1128,Nicolas Almagro,Philipp Kohlschreiber,,,,,,,,,,,1128
+13,2016,frenchopen,1132,Jan Lennard Struff,Jo Wilfried Tsonga,,,,,,,,,,,1132
+14,2016,frenchopen,1133,Milos Raonic,Janko Tipsarevic,,,,,,,,,,,1133
+15,2016,frenchopen,1134,Mikhail Kukushkin,Adrian Mannarino,,,,,,,,,,,1134
+16,2016,frenchopen,1136,Julien Benneteau,Lucas Pouille,,,,,,,,,,,1136
+17,2016,frenchopen,1137,Jack Sock,Robin Haase,,,,,,,,,,,1137
+18,2016,frenchopen,1138,Dudi Sela,Dustin Brown,,,,,,,,,,,1138
+19,2016,frenchopen,1140,Marco Trungelliti,Marin Cilic,,,,,,,,,,,1140
+20,2016,frenchopen,1141,Gilles Simon,Rogerio Dutra Silva,,,,,,,,,,,1141
+21,2016,frenchopen,1144,Grigor Dimitrov,Viktor Troicki,,,,,,,,,,,1144
+22,2016,frenchopen,1145,Jeremy Chardy,Leonardo Mayer,,,,,,,,,,,1145
+23,2016,frenchopen,1148,Lukas Rosol,Stan Wawrinka,,,,,,,,,,,1148
+24,2016,frenchopen,1149,Kei Nishikori,Simone Bolelli,,,,,,,,,,,1149
+25,2016,frenchopen,1150,Andrey Kuznetsov,Benjamin Becker,,,,,,,,,,,1150
+26,2016,frenchopen,1152,Fernando Verdasco,Steve Johnson,,,,,,,,,,,1152
+27,2016,frenchopen,1153,Nick Kyrgios,Marco Cecchinato,,,,,,,,,,,1153
+28,2016,frenchopen,1155,Sam Querrey,Bjorn Fratangelo,,,,,,,,,,,1155
+29,2016,frenchopen,1156,Thomaz Bellucci,Richard Gasquet,,,,,,,,,,,1156
+30,2016,frenchopen,1157,John Isner,John Millman,,,,,,,,,,,1157
+31,2016,frenchopen,1158,Nikoloz Basilashvili,Kyle Edmund,,,,,,,,,,,1158
+32,2016,frenchopen,1159,Teymuraz Gabashvili,Donald Young,,,,,,,,,,,1159
+33,2016,frenchopen,1160,Radu Albot,Benoit Paire,,,,,,,,,,,1160
+34,2016,frenchopen,1164,Radek Stepanek,Andy Murray,,,,,,,,,,,1164
+35,2016,frenchopen,1201,Novak Djokovic,Steve Darcis,,,,,,,,,,,1201
+36,2016,frenchopen,1202,Aljaz Bedene,Pablo Carreno Busta,,,,,,,,,,,1202
+37,2016,frenchopen,1203,Bernard Tomic,Borna Coric,,,,,,,,,,,1203
+38,2016,frenchopen,1204,Paul Henri Mathieu,Roberto Bautista Agut,,,,,,,,,,,1204
+39,2016,frenchopen,1205,David Ferrer,Juan Monaco,,,,,,,,,,,1205
+40,2016,frenchopen,1206,Victor Estrella Burgos,Feliciano Lopez,,,,,,,,,,,1206
+41,2016,frenchopen,1207,Pablo Cuevas,Quentin Halys,,,,,,,,,,,1207
+42,2016,frenchopen,1208,Malek Jaziri,Tomas Berdych,,,,,,,,,,,1208
+43,2016,frenchopen,1209,Rafael Nadal,Facundo Bagnis,,,,,,,,,,,1209
+44,2016,frenchopen,1210,Nicolas Mahut,Marcel Granollers,,,,,,,,,,,1210
+45,2016,frenchopen,1211,Stephane Robert,Alexander Zverev,,,,,,,,,,,1211
+46,2016,frenchopen,1212,Guillermo Garcia Lopez,Dominic Thiem,,,,,,,,,,,1212
+47,2016,frenchopen,1213,David Goffin,Carlos Berlocq,,,,,,,,,,,1213
+48,2016,frenchopen,1216,Marcos Baghdatis,Jo Wilfried Tsonga,,,,,,,,,,,1216
+49,2016,frenchopen,1217,Milos Raonic,Adrian Mannarino,,,,,,,,,,,1217
+50,2016,frenchopen,1218,Andrej Martin,Lucas Pouille,,,,,,,,,,,1218
+51,2016,frenchopen,1219,Jack Sock,Dustin Brown,,,,,,,,,,,1219
+52,2016,frenchopen,1221,Gilles Simon,Guido Pella,,,,,,,,,,,1221
+53,2016,frenchopen,1223,Jeremy Chardy,Adam Pavlasek,,,,,,,,,,,1223
+54,2016,frenchopen,1224,Taro Daniel,Stan Wawrinka,,,,,,,,,,,1224
+55,2016,frenchopen,1225,Kei Nishikori,Andrey Kuznetsov,,,,,,,,,,,1225
+56,2016,frenchopen,1227,Nick Kyrgios,Igor Sijsling,,,,,,,,,,,1227
+57,2016,frenchopen,1228,Bjorn Fratangelo,Richard Gasquet,,,,,,,,,,,1228
+58,2016,frenchopen,1229,John Isner,Kyle Edmund,,,,,,,,,,,1229
+59,2016,frenchopen,1230,Teymuraz Gabashvili,Benoit Paire,,,,,,,,,,,1230
+60,2016,frenchopen,1231,Ivo Karlovic,Jordan Thompson,,,,,,,,,,,1231
+61,2016,frenchopen,1232,Mathias Bourgue,Andy Murray,,,,,,,,,,,1232
+62,2016,frenchopen,1301,Novak Djokovic,Aljaz Bedene,,,,,,,,,,,1301
+63,2016,frenchopen,1302,Borna Coric,Roberto Bautista Agut,,,,,,,,,,,1302
+64,2016,frenchopen,1303,David Ferrer,Feliciano Lopez,,,,,,,,,,,1303
+65,2016,frenchopen,1304,Pablo Cuevas,Tomas Berdych,,,,,,,,,,,1304
+66,2016,frenchopen,1306,Alexander Zverev,Dominic Thiem,,,,,,,,,,,1306
+67,2016,frenchopen,1307,David Goffin,Nicolas Almagro,,,,,,,,,,,1307
+68,2016,frenchopen,1308,Ernests Gulbis,Jo Wilfried Tsonga,,,,,,,,,,,1308
+69,2016,frenchopen,1309,Milos Raonic,Andrej Martin,,,,,,,,,,,1309
+70,2016,frenchopen,1310,Jack Sock,Albert Ramos Vinolas,,,,,,,,,,,1310
+71,2016,frenchopen,1311,Gilles Simon,Viktor Troicki,,,,,,,,,,,1311
+72,2016,frenchopen,1312,Jeremy Chardy,Stan Wawrinka,,,,,,,,,,,1312
+73,2016,frenchopen,1313,Kei Nishikori,Fernando Verdasco,,,,,,,,,,,1313
+74,2016,frenchopen,1314,Nick Kyrgios,Richard Gasquet,,,,,,,,,,,1314
+75,2016,frenchopen,1315,John Isner,Teymuraz Gabashvili,,,,,,,,,,,1315
+76,2016,frenchopen,1316,Ivo Karlovic,Andy Murray,,,,,,,,,,,1316
+77,2016,frenchopen,1401,Novak Djokovic,Roberto Bautista Agut,,,,,,,,,,,1401
+78,2016,frenchopen,1402,David Ferrer,Tomas Berdych,,,,,,,,,,,1402
+79,2016,frenchopen,1403,Marcel Granollers,Dominic Thiem,,,,,,,,,,,1403
+80,2016,frenchopen,1404,David Goffin,Ernests Gulbis,,,,,,,,,,,1404
+81,2016,frenchopen,1405,Milos Raonic,Albert Ramos Vinolas,,,,,,,,,,,1405
+82,2016,frenchopen,1406,Viktor Troicki,Stan Wawrinka,,,,,,,,,,,1406
+83,2016,frenchopen,1407,Kei Nishikori,Richard Gasquet,,,,,,,,,,,1407
+84,2016,frenchopen,1408,John Isner,Andy Murray,,,,,,,,,,,1408
+85,2016,frenchopen,1501,Novak Djokovic,Tomas Berdych,,,,,,,,,,,1501
+86,2016,frenchopen,1502,Dominic Thiem,David Goffin,,,,,,,,,,,1502
+87,2016,frenchopen,1503,Albert Ramos Vinolas,Stan Wawrinka,,,,,,,,,,,1503
+88,2016,frenchopen,1504,Richard Gasquet,Andy Murray,,,,,,,,,,,1504
+89,2016,frenchopen,1601,Novak Djokovic,Dominic Thiem,,,,,,,,,,,1601
+90,2016,frenchopen,1602,Stan Wawrinka,Andy Murray,,,,,,,,,,,1602
+91,2016,frenchopen,1701,Novak Djokovic,Andy Murray,,,,,,,,,,,1701
+0,2016,usopen,1101,Novak Djokovic,Jerzy Janowicz,,,,,,,,,,,1101
+1,2016,usopen,1105,John Isner,Frances Tiafoe,,,,,,,,,,,1105
+2,2016,usopen,1106,Jordan Thompson,Steve Darcis,,,,,,,,,,,1106
+3,2016,usopen,1108,Kyle Edmund,Richard Gasquet,,,,,,,,,,,1108
+4,2016,usopen,1109,Jo Wilfried Tsonga,Guido Andreozzi,,,,,,,,,,,1109
+5,2016,usopen,1110,James Duckworth,Robin Haase,,,,,,,,,,,1110
+6,2016,usopen,1111,Vasek Pospisil,Jozef Kovalik,,,,,,,,,,,1111
+7,2016,usopen,1112,Yoshihito Nishioka,Kevin Anderson,,,,,,,,,,,1112
+8,2016,usopen,1113,Jack Sock,Taylor Fritz,,,,,,,,,,,1113
+9,2016,usopen,1116,Rogerio Dutra Silva,Marin Cilic,,,,,,,,,,,1116
+10,2016,usopen,1117,Rafael Nadal,Denis Istomin,,,,,,,,,,,1117
+11,2016,usopen,1123,Brian Baker,Federico Delbonis,,,,,,,,,,,1123
+12,2016,usopen,1125,Gael Monfils,Gilles Muller,,,,,,,,,,,1125
+13,2016,usopen,1132,Dustin Brown,Milos Raonic,,,,,,,,,,,1132
+14,2016,usopen,1133,Dominic Thiem,John Millman,,,,,,,,,,,1133
+15,2016,usopen,1136,Janko Tipsarevic,Sam Querrey,,,,,,,,,,,1136
+16,2016,usopen,1137,Steve Johnson,Evgeny Donskoy,,,,,,,,,,,1137
+17,2016,usopen,1138,Juan Martin del Potro,Diego Schwartzman,,,,,,,,,,,1138
+18,2016,usopen,1141,Nick Kyrgios,Aljaz Bedene,,,,,,,,,,,1141
+19,2016,usopen,1144,Damir Dzumhur,Bernard Tomic,,,,,,,,,,,1144
+20,2016,usopen,1145,Alexander Zverev,Daniel Brands,,,,,,,,,,,1145
+21,2016,usopen,1148,Fernando Verdasco,Stan Wawrinka,,,,,,,,,,,1148
+22,2016,usopen,1149,Kei Nishikori,Benjamin Becker,,,,,,,,,,,1149
+23,2016,usopen,1152,Nicolas Mahut,Philipp Kohlschreiber,,,,,,,,,,,1152
+24,2016,usopen,1154,Donald Young,Jan Lennard Struff,,,,,,,,,,,1154
+25,2016,usopen,1156,Jared Donaldson,David Goffin,,,,,,,,,,,1156
+26,2016,usopen,1157,Feliciano Lopez,Borna Coric,,,,,,,,,,,1157
+27,2016,usopen,1164,Lukas Rosol,Andy Murray,,,,,,,,,,,1164
+28,2016,usopen,1203,John Isner,Steve Darcis,,,,,,,,,,,1203
+29,2016,usopen,1204,Ernesto Escobedo,Kyle Edmund,,,,,,,,,,,1204
+30,2016,usopen,1205,Jo Wilfried Tsonga,James Duckworth,,,,,,,,,,,1205
+31,2016,usopen,1206,Vasek Pospisil,Kevin Anderson,,,,,,,,,,,1206
+32,2016,usopen,1207,Jack Sock,Mischa Zverev,,,,,,,,,,,1207
+33,2016,usopen,1208,Sergiy Stakhovsky,Marin Cilic,,,,,,,,,,,1208
+34,2016,usopen,1209,Rafael Nadal,Andreas Seppi,,,,,,,,,,,1209
+35,2016,usopen,1211,Lucas Pouille,Marco Chiudinelli,,,,,,,,,,,1211
+36,2016,usopen,1212,Federico Delbonis,Roberto Bautista Agut,,,,,,,,,,,1212
+37,2016,usopen,1213,Gael Monfils,Jan Satral,,,,,,,,,,,1213
+38,2016,usopen,1214,Nicolas Almagro,Pablo Cuevas,,,,,,,,,,,1214
+39,2016,usopen,1215,Benoit Paire,Marcos Baghdatis,,,,,,,,,,,1215
+40,2016,usopen,1216,Ryan Harrison,Milos Raonic,,,,,,,,,,,1216
+41,2016,usopen,1217,Dominic Thiem,Ricardas Berankis,,,,,,,,,,,1217
+42,2016,usopen,1219,Steve Johnson,Juan Martin del Potro,,,,,,,,,,,1219
+43,2016,usopen,1220,Fabio Fognini,David Ferrer,,,,,,,,,,,1220
+44,2016,usopen,1221,Nick Kyrgios,Horacio Zeballos,,,,,,,,,,,1221
+45,2016,usopen,1224,Alessandro Giannessi,Stan Wawrinka,,,,,,,,,,,1224
+46,2016,usopen,1225,Kei Nishikori,Karen Khachanov,,,,,,,,,,,1225
+47,2016,usopen,1226,Paul Henri Mathieu,Nicolas Mahut,,,,,,,,,,,1226
+48,2016,usopen,1227,Ivo Karlovic,Donald Young,,,,,,,,,,,1227
+49,2016,usopen,1228,Viktor Troicki,Jared Donaldson,,,,,,,,,,,1228
+50,2016,usopen,1229,Feliciano Lopez,Joao Sousa,,,,,,,,,,,1229
+51,2016,usopen,1230,Jeremy Chardy,Grigor Dimitrov,,,,,,,,,,,1230
+52,2016,usopen,1232,Marcel Granollers,Andy Murray,,,,,,,,,,,1232
+53,2016,usopen,1301,Novak Djokovic,Mikhail Youzhny,,,,,,,,,,,1301
+54,2016,usopen,1302,John Isner,Kyle Edmund,,,,,,,,,,,1302
+55,2016,usopen,1303,Jo Wilfried Tsonga,Kevin Anderson,,,,,,,,,,,1303
+56,2016,usopen,1304,Jack Sock,Marin Cilic,,,,,,,,,,,1304
+57,2016,usopen,1305,Rafael Nadal,Andrey Kuznetsov,,,,,,,,,,,1305
+58,2016,usopen,1306,Lucas Pouille,Roberto Bautista Agut,,,,,,,,,,,1306
+59,2016,usopen,1307,Gael Monfils,Nicolas Almagro,,,,,,,,,,,1307
+60,2016,usopen,1308,Marcos Baghdatis,Ryan Harrison,,,,,,,,,,,1308
+61,2016,usopen,1309,Dominic Thiem,Pablo Carreno Busta,,,,,,,,,,,1309
+62,2016,usopen,1310,Juan Martin del Potro,David Ferrer,,,,,,,,,,,1310
+63,2016,usopen,1311,Nick Kyrgios,Illya Marchenko,,,,,,,,,,,1311
+64,2016,usopen,1312,Daniel Evans,Stan Wawrinka,,,,,,,,,,,1312
+65,2016,usopen,1313,Kei Nishikori,Nicolas Mahut,,,,,,,,,,,1313
+66,2016,usopen,1314,Ivo Karlovic,Jared Donaldson,,,,,,,,,,,1314
+67,2016,usopen,1315,Joao Sousa,Grigor Dimitrov,,,,,,,,,,,1315
+68,2016,usopen,1316,Paolo Lorenzi,Andy Murray,,,,,,,,,,,1316
+69,2016,usopen,1401,Novak Djokovic,Kyle Edmund,,,,,,,,,,,1401
+70,2016,usopen,1402,Jo Wilfried Tsonga,Jack Sock,,,,,,,,,,,1402
+71,2016,usopen,1403,Rafael Nadal,Lucas Pouille,,,,,,,,,,,1403
+72,2016,usopen,1404,Gael Monfils,Marcos Baghdatis,,,,,,,,,,,1404
+73,2016,usopen,1405,Dominic Thiem,Juan Martin del Potro,,,,,,,,,,,1405
+74,2016,usopen,1406,Illya Marchenko,Stan Wawrinka,,,,,,,,,,,1406
+75,2016,usopen,1407,Kei Nishikori,Ivo Karlovic,,,,,,,,,,,1407
+76,2016,usopen,1408,Grigor Dimitrov,Andy Murray,,,,,,,,,,,1408
+77,2016,usopen,1501,Novak Djokovic,Jo Wilfried Tsonga,,,,,,,,,,,1501
+78,2016,usopen,1502,Lucas Pouille,Gael Monfils,,,,,,,,,,,1502
+79,2016,usopen,1503,Juan Martin del Potro,Stan Wawrinka,,,,,,,,,,,1503
+80,2016,usopen,1504,Kei Nishikori,Andy Murray,,,,,,,,,,,1504
+81,2016,usopen,1601,Novak Djokovic,Gael Monfils,,,,,,,,,,,1601
+82,2016,usopen,1602,Stan Wawrinka,Kei Nishikori,,,,,,,,,,,1602
+83,2016,usopen,1701,Novak Djokovic,Stan Wawrinka,,,,,,,,,,,1701
+0,2016,wimbledon,1101,Novak Djokovic,James Ward,,,,,,,,,,,1101
+1,2016,wimbledon,1102,Kyle Edmund,Adrian Mannarino,,,,,,,,,,,1102
+2,2016,wimbledon,1103,Thomaz Bellucci,Ruben Bemelmans,,,,,,,,,,,1103
+3,2016,wimbledon,1104,Lukas Rosol,Sam Querrey,,,,,,,,,,,1104
+4,2016,wimbledon,1105,Philipp Kohlschreiber,Pierre Hugues Herbert,,,,,,,,,,,1105
+5,2016,wimbledon,1106,Damir Dzumhur,Denis Kudla,,,,,,,,,,,1106
+6,2016,wimbledon,1107,Brydan Klein,Nicolas Mahut,,,,,,,,,,,1107
+7,2016,wimbledon,1108,Dudi Sela,David Ferrer,,,,,,,,,,,1108
+8,2016,wimbledon,1109,David Goffin,Alexander Ward,,,,,,,,,,,1109
+9,2016,wimbledon,1110,Edouard Roger Vasselin,Teymuraz Gabashvili,,,,,,,,,,,1110
+10,2016,wimbledon,1111,Nicolas Almagro,Rogerio Dutra Silva,,,,,,,,,,,1111
+11,2016,wimbledon,1112,Denis Istomin,Kevin Anderson,,,,,,,,,,,1112
+12,2016,wimbledon,1113,Jack Sock,Ernests Gulbis,,,,,,,,,,,1113
+13,2016,wimbledon,1114,Diego Schwartzman,Robin Haase,,,,,,,,,,,1114
+14,2016,wimbledon,1115,Andreas Seppi,Guillermo Garcia Lopez,,,,,,,,,,,1115
+15,2016,wimbledon,1116,Pablo Carreno Busta,Milos Raonic,,,,,,,,,,,1116
+16,2016,wimbledon,1117,Roger Federer,Guido Pella,,,,,,,,,,,1117
+17,2016,wimbledon,1118,Ricardas Berankis,Marcus Willis,,,,,,,,,,,1118
+18,2016,wimbledon,1119,Daniel Evans,Jan Lennard Struff,,,,,,,,,,,1119
+19,2016,wimbledon,1120,Evgeny Donskoy,Alexandr Dolgopolov,,,,,,,,,,,1120
+20,2016,wimbledon,1121,Gael Monfils,Jeremy Chardy,,,,,,,,,,,1121
+21,2016,wimbledon,1122,Malek Jaziri,Steve Johnson,,,,,,,,,,,1122
+22,2016,wimbledon,1123,Bjorn Fratangelo,Grigor Dimitrov,,,,,,,,,,,1123
+23,2016,wimbledon,1124,Janko Tipsarevic,Gilles Simon,,,,,,,,,,,1124
+24,2016,wimbledon,1125,Marin Cilic,Brian Baker,,,,,,,,,,,1125
+25,2016,wimbledon,1126,Sergiy Stakhovsky,Yoshihito Nishioka,,,,,,,,,,,1126
+26,2016,wimbledon,1127,Paolo Lorenzi,Lukas Lacko,,,,,,,,,,,1127
+27,2016,wimbledon,1128,Borna Coric,Ivo Karlovic,,,,,,,,,,,1128
+28,2016,wimbledon,1129,Pablo Cuevas,Andrey Kuznetsov,,,,,,,,,,,1129
+29,2016,wimbledon,1130,Santiago Giraldo,Gilles Muller,,,,,,,,,,,1130
+30,2016,wimbledon,1131,Julien Benneteau,Illya Marchenko,,,,,,,,,,,1131
+31,2016,wimbledon,1132,Sam Groth,Kei Nishikori,,,,,,,,,,,1132
+32,2016,wimbledon,1133,Dominic Thiem,Florian Mayer,,,,,,,,,,,1133
+33,2016,wimbledon,1134,Jiri Vesely,Igor Sijsling,,,,,,,,,,,1134
+34,2016,wimbledon,1135,Luke Saville,Dennis Novikov,,,,,,,,,,,1135
+35,2016,wimbledon,1136,Dmitry Tursunov,Joao Sousa,,,,,,,,,,,1136
+36,2016,wimbledon,1137,Alexander Zverev,Paul Henri Mathieu,,,,,,,,,,,1137
+37,2016,wimbledon,1138,Horacio Zeballos,Mikhail Youzhny,,,,,,,,,,,1138
+38,2016,wimbledon,1139,Benjamin Becker,Facundo Bagnis,,,,,,,,,,,1139
+39,2016,wimbledon,1140,Ivan Dodig,Tomas Berdych,,,,,,,,,,,1140
+40,2016,wimbledon,1141,Roberto Bautista Agut,Jordan Thompson,,,,,,,,,,,1141
+41,2016,wimbledon,1142,Mikhail Kukushkin,Martin Klizan,,,,,,,,,,,1142
+42,2016,wimbledon,1143,Gastao Elias,Radu Albot,,,,,,,,,,,1143
+43,2016,wimbledon,1144,Fernando Verdasco,Bernard Tomic,,,,,,,,,,,1144
+44,2016,wimbledon,1145,Lucas Pouille,Marius Copil,,,,,,,,,,,1145
+45,2016,wimbledon,1146,Donald Young,Leonardo Mayer,,,,,,,,,,,1146
+46,2016,wimbledon,1147,Stephane Robert,Juan Martin Del Potro,,,,,,,,,,,1147
+47,2016,wimbledon,1148,Taylor Fritz,Stan Wawrinka,,,,,,,,,,,1148
+48,2016,wimbledon,1149,Richard Gasquet,Aljaz Bedene,,,,,,,,,,,1149
+49,2016,wimbledon,1150,Marcel Granollers,Victor Estrella Burgos,,,,,,,,,,,1150
+50,2016,wimbledon,1151,Vasek Pospisil,Albert Ramos Vinolas,,,,,,,,,,,1151
+51,2016,wimbledon,1152,Tristan Lamasine,Viktor Troicki,,,,,,,,,,,1152
+52,2016,wimbledon,1153,John Isner,Marcos Baghdatis,,,,,,,,,,,1153
+53,2016,wimbledon,1154,Albano Olivetti,Matthew Barton,,,,,,,,,,,1154
+54,2016,wimbledon,1155,Taro Daniel,Juan Monaco,,,,,,,,,,,1155
+55,2016,wimbledon,1156,Inigo Cervantes Huegun,Jo Wilfried Tsonga,,,,,,,,,,,1156
+56,2016,wimbledon,1157,Nick Kyrgios,Radek Stepanek,,,,,,,,,,,1157
+57,2016,wimbledon,1158,Dusan Lajovic,Dustin Brown,,,,,,,,,,,1158
+58,2016,wimbledon,1159,Federico Delbonis,Fabio Fognini,,,,,,,,,,,1159
+59,2016,wimbledon,1160,Rajeev Ram,Feliciano Lopez,,,,,,,,,,,1160
+60,2016,wimbledon,1161,Benoit Paire,Franko Skugor,,,,,,,,,,,1161
+61,2016,wimbledon,1162,John Millman,Albert Montanes,,,,,,,,,,,1162
+62,2016,wimbledon,1163,Yen Hsun Lu,Alexander Kudryavtsev,,,,,,,,,,,1163
+63,2016,wimbledon,1164,Liam Broady,Andy Murray,,,,,,,,,,,1164
+64,2016,wimbledon,1201,Novak Djokovic,Adrian Mannarino,,,,,,,,,,,1201
+65,2016,wimbledon,1202,Thomaz Bellucci,Sam Querrey,,,,,,,,,,,1202
+66,2016,wimbledon,1203,Pierre Hugues Herbert,Damir Dzumhur,,,,,,,,,,,1203
+67,2016,wimbledon,1204,Nicolas Mahut,David Ferrer,,,,,,,,,,,1204
+68,2016,wimbledon,1205,David Goffin,Edouard Roger Vasselin,,,,,,,,,,,1205
+69,2016,wimbledon,1206,Nicolas Almagro,Denis Istomin,,,,,,,,,,,1206
+70,2016,wimbledon,1207,Jack Sock,Robin Haase,,,,,,,,,,,1207
+71,2016,wimbledon,1208,Andreas Seppi,Milos Raonic,,,,,,,,,,,1208
+72,2016,wimbledon,1209,Roger Federer,Marcus Willis,,,,,,,,,,,1209
+73,2016,wimbledon,1210,Daniel Evans,Alexandr Dolgopolov,,,,,,,,,,,1210
+74,2016,wimbledon,1211,Jeremy Chardy,Steve Johnson,,,,,,,,,,,1211
+75,2016,wimbledon,1212,Grigor Dimitrov,Gilles Simon,,,,,,,,,,,1212
+76,2016,wimbledon,1213,Marin Cilic,Sergiy Stakhovsky,,,,,,,,,,,1213
+77,2016,wimbledon,1214,Lukas Lacko,Ivo Karlovic,,,,,,,,,,,1214
+78,2016,wimbledon,1215,Andrey Kuznetsov,Gilles Muller,,,,,,,,,,,1215
+79,2016,wimbledon,1216,Julien Benneteau,Kei Nishikori,,,,,,,,,,,1216
+80,2016,wimbledon,1217,Dominic Thiem,Jiri Vesely,,,,,,,,,,,1217
+81,2016,wimbledon,1218,Dennis Novikov,Joao Sousa,,,,,,,,,,,1218
+82,2016,wimbledon,1219,Alexander Zverev,Mikhail Youzhny,,,,,,,,,,,1219
+83,2016,wimbledon,1220,Benjamin Becker,Tomas Berdych,,,,,,,,,,,1220
+84,2016,wimbledon,1222,Radu Albot,Bernard Tomic,,,,,,,,,,,1222
+85,2016,wimbledon,1223,Lucas Pouille,Donald Young,,,,,,,,,,,1223
+86,2016,wimbledon,1224,Juan Martin Del Potro,Stan Wawrinka,,,,,,,,,,,1224
+87,2016,wimbledon,1225,Richard Gasquet,Marcel Granollers,,,,,,,,,,,1225
+88,2016,wimbledon,1226,Albert Ramos Vinolas,Viktor Troicki,,,,,,,,,,,1226
+89,2016,wimbledon,1227,John Isner,Matthew Barton,,,,,,,,,,,1227
+90,2016,wimbledon,1228,Juan Monaco,Jo Wilfried Tsonga,,,,,,,,,,,1228
+91,2016,wimbledon,1229,Nick Kyrgios,Dustin Brown,,,,,,,,,,,1229
+92,2016,wimbledon,1230,Fabio Fognini,Feliciano Lopez,,,,,,,,,,,1230
+93,2016,wimbledon,1231,Benoit Paire,John Millman,,,,,,,,,,,1231
+94,2016,wimbledon,1232,Yen Hsun Lu,Andy Murray,,,,,,,,,,,1232
+95,2016,wimbledon,1301,Novak Djokovic,Sam Querrey,,,,,,,,,,,1301
+96,2016,wimbledon,1302,Pierre Hugues Herbert,Nicolas Mahut,,,,,,,,,,,1302
+97,2016,wimbledon,1303,David Goffin,Denis Istomin,,,,,,,,,,,1303
+98,2016,wimbledon,1304,Jack Sock,Milos Raonic,,,,,,,,,,,1304
+99,2016,wimbledon,1305,Roger Federer,Daniel Evans,,,,,,,,,,,1305
+100,2016,wimbledon,1306,Steve Johnson,Grigor Dimitrov,,,,,,,,,,,1306
+101,2016,wimbledon,1307,Marin Cilic,Lukas Lacko,,,,,,,,,,,1307
+102,2016,wimbledon,1308,Andrey Kuznetsov,Kei Nishikori,,,,,,,,,,,1308
+103,2016,wimbledon,1309,Jiri Vesely,Joao Sousa,,,,,,,,,,,1309
+104,2016,wimbledon,1310,Alexander Zverev,Tomas Berdych,,,,,,,,,,,1310
+105,2016,wimbledon,1311,Roberto Bautista Agut,Bernard Tomic,,,,,,,,,,,1311
+106,2016,wimbledon,1312,Lucas Pouille,Juan Martin Del Potro,,,,,,,,,,,1312
+107,2016,wimbledon,1313,Richard Gasquet,Albert Ramos Vinolas,,,,,,,,,,,1313
+108,2016,wimbledon,1314,John Isner,Jo Wilfried Tsonga,,,,,,,,,,,1314
+109,2016,wimbledon,1315,Nick Kyrgios,Feliciano Lopez,,,,,,,,,,,1315
+110,2016,wimbledon,1316,John Millman,Andy Murray,,,,,,,,,,,1316
+111,2016,wimbledon,1401,Sam Querrey,Nicolas Mahut,,,,,,,,,,,1401
+112,2016,wimbledon,1402,David Goffin,Milos Raonic,,,,,,,,,,,1402
+113,2016,wimbledon,1403,Roger Federer,Steve Johnson,,,,,,,,,,,1403
+114,2016,wimbledon,1404,Marin Cilic,Kei Nishikori,,,,,,,,,,,1404
+115,2016,wimbledon,1405,Jiri Vesely,Tomas Berdych,,,,,,,,,,,1405
+116,2016,wimbledon,1406,Bernard Tomic,Lucas Pouille,,,,,,,,,,,1406
+117,2016,wimbledon,1407,Richard Gasquet,Jo Wilfried Tsonga,,,,,,,,,,,1407
+118,2016,wimbledon,1408,Nick Kyrgios,Andy Murray,,,,,,,,,,,1408
+119,2016,wimbledon,1501,Sam Querrey,Milos Raonic,,,,,,,,,,,1501
+120,2016,wimbledon,1502,Roger Federer,Marin Cilic,,,,,,,,,,,1502
+121,2016,wimbledon,1503,Tomas Berdych,Lucas Pouille,,,,,,,,,,,1503
+122,2016,wimbledon,1504,Jo Wilfried Tsonga,Andy Murray,,,,,,,,,,,1504
+123,2016,wimbledon,1601,Milos Raonic,Roger Federer,,,,,,,,,,,1601
+124,2016,wimbledon,1602,Tomas Berdych,Andy Murray,,,,,,,,,,,1602
+125,2016,wimbledon,1701,Milos Raonic,Andy Murray,,,,,,,,,,,1701
