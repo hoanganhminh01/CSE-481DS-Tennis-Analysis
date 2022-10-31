@@ -1,419 +1,419 @@
-,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num
-0,2015,ausopen,1101,Novak Djokovic,Aljaz Bedene,,,,,,,,,,,1101
-1,2015,ausopen,1103,Go Soeda,Elias Ymer,,,,,,,,,,,1103
-2,2015,ausopen,1104,James Ward,Fernando Verdasco,,,,,,,,,,,1104
-3,2015,ausopen,1105,John Isner,Jimmy Wang,,,,,,,,,,,1105
-4,2015,ausopen,1107,Pablo Carreno Busta,Gilles Muller,,,,,,,,,,,1107
-5,2015,ausopen,1108,Dominic Thiem,Roberto Bautista Agut,,,,,,,,,,,1108
-6,2015,ausopen,1109,Feliciano Lopez,Denis Kudla,,,,,,,,,,,1109
-7,2015,ausopen,1111,Hiroki Moriya,Jerzy Janowicz,,,,,,,,,,,1111
-8,2015,ausopen,1112,Lucas Pouille,Gael Monfils,,,,,,,,,,,1112
-9,2015,ausopen,1113,Julien Benneteau,Benjamin Becker,,,,,,,,,,,1113
-10,2015,ausopen,1114,Lleyton Hewitt,Ze Zhang,,,,,,,,,,,1114
-11,2015,ausopen,1116,Illya Marchenko,Milos Raonic,,,,,,,,,,,1116
-12,2015,ausopen,1117,Stan Wawrinka,Marsel Ilhan,,,,,,,,,,,1117
-13,2015,ausopen,1121,Alexandr Dolgopolov,Paolo Lorenzi,,,,,,,,,,,1121
-14,2015,ausopen,1122,Sam Querrey,Vasek Pospisil,,,,,,,,,,,1122
-15,2015,ausopen,1124,Alejandro Gonzalez,Fabio Fognini,,,,,,,,,,,1124
-16,2015,ausopen,1125,David Ferrer,Thomaz Bellucci,,,,,,,,,,,1125
-17,2015,ausopen,1128,Robin Haase,Gilles Simon,,,,,,,,,,,1128
-18,2015,ausopen,1129,Santiago Giraldo,Jan Hernych,,,,,,,,,,,1129
-19,2015,ausopen,1130,Kyle Edmund,Steve Johnson,,,,,,,,,,,1130
-20,2015,ausopen,1131,Ivan Dodig,Joao Souza,,,,,,,,,,,1131
-21,2015,ausopen,1132,Nicolas Almagro,Kei Nishikori,,,,,,,,,,,1132
-22,2015,ausopen,1133,Tomas Berdych,Alejandro Falla,,,,,,,,,,,1133
-23,2015,ausopen,1135,Jiri Vesely,Viktor Troicki,,,,,,,,,,,1135
-24,2015,ausopen,1136,John Millman,Leonardo Mayer,,,,,,,,,,,1136
-25,2015,ausopen,1138,Tobias Kamke,Bernard Tomic,,,,,,,,,,,1138
-26,2015,ausopen,1139,Sam Groth,Filip Krajinovic,,,,,,,,,,,1139
-27,2015,ausopen,1140,Thanasi Kokkinakis,Ernests Gulbis,,,,,,,,,,,1140
-28,2015,ausopen,1143,Blaz Kavcic,James Duckworth,,,,,,,,,,,1143
-29,2015,ausopen,1144,Carlos Berlocq,Richard Gasquet,,,,,,,,,,,1144
-30,2015,ausopen,1146,Jan-Lennard Struff,Dudi Sela,,,,,,,,,,,1146
-31,2015,ausopen,1147,Luke Saville,Tim Smyczek,,,,,,,,,,,1147
-32,2015,ausopen,1148,Mikhail Youzhny,Rafael Nadal,,,,,,,,,,,1148
-33,2015,ausopen,1149,Andy Murray,Yuki Bhambri,,,,,,,,,,,1149
-34,2015,ausopen,1150,Alexander Kudryavtsev,Marinko Matosevic,,,,,,,,,,,1150
-35,2015,ausopen,1151,Jordan Thompson,Joao Sousa,,,,,,,,,,,1151
-36,2015,ausopen,1152,Tatsuma Ito,Martin Klizan,,,,,,,,,,,1152
-37,2015,ausopen,1153,David Goffin,Michael Russell,,,,,,,,,,,1153
-38,2015,ausopen,1154,Marcos Baghdatis,Teymuraz Gabashvili,,,,,,,,,,,1154
-39,2015,ausopen,1156,Dustin Brown,Grigor Dimitrov,,,,,,,,,,,1156
-40,2015,ausopen,1159,Federico Delbonis,Nick Kyrgios,,,,,,,,,,,1159
-41,2015,ausopen,1162,Andreas Seppi,Denis Istomin,,,,,,,,,,,1162
-42,2015,ausopen,1163,Juan Monaco,Simone Bolelli,,,,,,,,,,,1163
-43,2015,ausopen,1164,Yen-Hsun Lu,Roger Federer,,,,,,,,,,,1164
-44,2015,ausopen,1201,Novak Djokovic,Andrey Kuznetsov,,,,,,,,,,,1201
-45,2015,ausopen,1202,Go Soeda,Fernando Verdasco,,,,,,,,,,,1202
-46,2015,ausopen,1203,John Isner,Andreas Haider-Maurer,,,,,,,,,,,1203
-47,2015,ausopen,1205,Feliciano Lopez,Adrian Mannarino,,,,,,,,,,,1205
-48,2015,ausopen,1206,Jerzy Janowicz,Gael Monfils,,,,,,,,,,,1206
-49,2015,ausopen,1207,Benjamin Becker,Lleyton Hewitt,,,,,,,,,,,1207
-50,2015,ausopen,1208,Donald Young,Milos Raonic,,,,,,,,,,,1208
-51,2015,ausopen,1209,Stan Wawrinka,Marius Copil,,,,,,,,,,,1209
-52,2015,ausopen,1210,Jarkko Nieminen,Matthias Bachinger,,,,,,,,,,,1210
-53,2015,ausopen,1211,Paolo Lorenzi,Vasek Pospisil,,,,,,,,,,,1211
-54,2015,ausopen,1212,Guillermo Garcia-Lopez,Alejandro Gonzalez,,,,,,,,,,,1212
-55,2015,ausopen,1213,David Ferrer,Sergiy Stakhovsky,,,,,,,,,,,1213
-56,2015,ausopen,1214,Marcel Granollers,Gilles Simon,,,,,,,,,,,1214
-57,2015,ausopen,1216,Ivan Dodig,Kei Nishikori,,,,,,,,,,,1216
-58,2015,ausopen,1217,Tomas Berdych,Jurgen Melzer,,,,,,,,,,,1217
-59,2015,ausopen,1218,Viktor Troicki,Leonardo Mayer,,,,,,,,,,,1218
-60,2015,ausopen,1219,Philipp Kohlschreiber,Bernard Tomic,,,,,,,,,,,1219
-61,2015,ausopen,1220,Sam Groth,Thanasi Kokkinakis,,,,,,,,,,,1220
-62,2015,ausopen,1221,Kevin Anderson,Ricardas Berankis,,,,,,,,,,,1221
-63,2015,ausopen,1222,James Duckworth,Richard Gasquet,,,,,,,,,,,1222
-64,2015,ausopen,1223,Lukas Rosol,Dudi Sela,,,,,,,,,,,1223
-65,2015,ausopen,1224,Tim Smyczek,Rafael Nadal,,,,,,,,,,,1224
-66,2015,ausopen,1225,Andy Murray,Marinko Matosevic,,,,,,,,,,,1225
-67,2015,ausopen,1227,David Goffin,Marcos Baghdatis,,,,,,,,,,,1227
-68,2015,ausopen,1228,Lukas Lacko,Grigor Dimitrov,,,,,,,,,,,1228
-69,2015,ausopen,1229,Edouard Roger-Vasselin,Malek Jaziri,,,,,,,,,,,1229
-70,2015,ausopen,1230,Nick Kyrgios,Ivo Karlovic,,,,,,,,,,,1230
-71,2015,ausopen,1231,Jeremy Chardy,Andreas Seppi,,,,,,,,,,,1231
-72,2015,ausopen,1232,Simone Bolelli,Roger Federer,,,,,,,,,,,1232
-73,2015,ausopen,1301,Novak Djokovic,Fernando Verdasco,,,,,,,,,,,1301
-74,2015,ausopen,1302,John Isner,Gilles Muller,,,,,,,,,,,1302
-75,2015,ausopen,1303,Feliciano Lopez,Jerzy Janowicz,,,,,,,,,,,1303
-76,2015,ausopen,1304,Benjamin Becker,Milos Raonic,,,,,,,,,,,1304
-77,2015,ausopen,1305,Stan Wawrinka,Jarkko Nieminen,,,,,,,,,,,1305
-78,2015,ausopen,1306,Vasek Pospisil,Guillermo Garcia-Lopez,,,,,,,,,,,1306
-79,2015,ausopen,1307,David Ferrer,Gilles Simon,,,,,,,,,,,1307
-80,2015,ausopen,1308,Steve Johnson,Kei Nishikori,,,,,,,,,,,1308
-81,2015,ausopen,1309,Tomas Berdych,Viktor Troicki,,,,,,,,,,,1309
-82,2015,ausopen,1310,Bernard Tomic,Sam Groth,,,,,,,,,,,1310
-83,2015,ausopen,1311,Kevin Anderson,Richard Gasquet,,,,,,,,,,,1311
-84,2015,ausopen,1312,Dudi Sela,Rafael Nadal,,,,,,,,,,,1312
-85,2015,ausopen,1313,Andy Murray,Joao Sousa,,,,,,,,,,,1313
-86,2015,ausopen,1314,Marcos Baghdatis,Grigor Dimitrov,,,,,,,,,,,1314
-87,2015,ausopen,1315,Malek Jaziri,Nick Kyrgios,,,,,,,,,,,1315
-88,2015,ausopen,1316,Andreas Seppi,Roger Federer,,,,,,,,,,,1316
-89,2015,ausopen,1401,Novak Djokovic,Gilles Muller,,,,,,,,,,,1401
-90,2015,ausopen,1402,Feliciano Lopez,Milos Raonic,,,,,,,,,,,1402
-91,2015,ausopen,1403,Stan Wawrinka,Guillermo Garcia-Lopez,,,,,,,,,,,1403
-92,2015,ausopen,1404,David Ferrer,Kei Nishikori,,,,,,,,,,,1404
-93,2015,ausopen,1405,Tomas Berdych,Bernard Tomic,,,,,,,,,,,1405
-94,2015,ausopen,1406,Kevin Anderson,Rafael Nadal,,,,,,,,,,,1406
-95,2015,ausopen,1407,Andy Murray,Grigor Dimitrov,,,,,,,,,,,1407
-96,2015,ausopen,1408,Nick Kyrgios,Andreas Seppi,,,,,,,,,,,1408
-97,2015,ausopen,1501,Novak Djokovic,Milos Raonic,,,,,,,,,,,1501
-98,2015,ausopen,1502,Stan Wawrinka,Kei Nishikori,,,,,,,,,,,1502
-99,2015,ausopen,1503,Tomas Berdych,Rafael Nadal,,,,,,,,,,,1503
-100,2015,ausopen,1504,Andy Murray,Nick Kyrgios,,,,,,,,,,,1504
-101,2015,ausopen,1601,Novak Djokovic,Stan Wawrinka,,,,,,,,,,,1601
-102,2015,ausopen,1602,Tomas Berdych,Andy Murray,,,,,,,,,,,1602
-103,2015,ausopen,1701,Novak Djokovic,Andy Murray,,,,,,,,,,,1701
-0,2015,frenchopen,1101,Novak Djokovic,Jarkko Nieminen,,,,,,,,,,,1101
-1,2015,frenchopen,1102,Gilles Muller,Paolo Lorenzi,,,,,,,,,,,1102
-2,2015,frenchopen,1104,Luca Vanni,Bernard Tomic,,,,,,,,,,,1104
-3,2015,frenchopen,1105,Richard Gasquet,Germain Gigounon,,,,,,,,,,,1105
-4,2015,frenchopen,1108,Tim Smyczek,Kevin Anderson,,,,,,,,,,,1108
-5,2015,frenchopen,1109,Grigor Dimitrov,Jack Sock,,,,,,,,,,,1109
-6,2015,frenchopen,1111,Borna Coric,Sam Querrey,,,,,,,,,,,1111
-7,2015,frenchopen,1113,Adrian Mannarino,Jurgen Melzer,,,,,,,,,,,1113
-8,2015,frenchopen,1115,Nicolas Almagro,Alexandr Dolgopolov,,,,,,,,,,,1115
-9,2015,frenchopen,1116,Quentin Halys,Rafael Nadal,,,,,,,,,,,1116
-10,2015,frenchopen,1117,Andy Murray,Facundo Arguello,,,,,,,,,,,1117
-11,2015,frenchopen,1118,Vasek Pospisil,Joao Sousa,,,,,,,,,,,1118
-12,2015,frenchopen,1119,Kyle Edmund,Stephane Robert,,,,,,,,,,,1119
-13,2015,frenchopen,1120,Denis Istomin,Nick Kyrgios,,,,,,,,,,,1120
-14,2015,frenchopen,1121,David Goffin,Filip Krajinovic,,,,,,,,,,,1121
-15,2015,frenchopen,1123,Jeremy Chardy,Michael Berrer,,,,,,,,,,,1123
-16,2015,frenchopen,1124,Andreas Seppi,John Isner,,,,,,,,,,,1124
-17,2015,frenchopen,1125,Marin Cilic,Robin Haase,,,,,,,,,,,1125
-18,2015,frenchopen,1126,James Duckworth,Andrea Arnaboldi,,,,,,,,,,,1126
-19,2015,frenchopen,1127,Jerzy Janowicz,Maxime Hamou,,,,,,,,,,,1127
-20,2015,frenchopen,1128,Jiri Vesely,Leonardo Mayer,,,,,,,,,,,1128
-21,2015,frenchopen,1132,Lukas Lacko,David Ferrer,,,,,,,,,,,1132
-22,2015,frenchopen,1133,Kei Nishikori,Paul Henri Mathieu,,,,,,,,,,,1133
-23,2015,frenchopen,1137,Roberto Bautista Agut,Florian Mayer,,,,,,,,,,,1137
-24,2015,frenchopen,1138,Elias Ymer,Lukas Rosol,,,,,,,,,,,1138
-25,2015,frenchopen,1140,Teymuraz Gabashvili,Feliciano Lopez,,,,,,,,,,,1140
-26,2015,frenchopen,1141,Jo Wilfried Tsonga,Christian Lindell,,,,,,,,,,,1141
-27,2015,frenchopen,1142,Mikhail Kukushkin,Dudi Sela,,,,,,,,,,,1142
-28,2015,frenchopen,1144,Go Soeda,Philipp Kohlschreiber,,,,,,,,,,,1144
-29,2015,frenchopen,1145,Fabio Fognini,Tatsuma Ito,,,,,,,,,,,1145
-30,2015,frenchopen,1146,Gastao Elias,Benoit Paire,,,,,,,,,,,1146
-31,2015,frenchopen,1148,Yoshihito Nishioka,Tomas Berdych,,,,,,,,,,,1148
-32,2015,frenchopen,1149,Stan Wawrinka,Marsel Ilhan,,,,,,,,,,,1149
-33,2015,frenchopen,1152,Steve Johnson,Guillermo Garcia Lopez,,,,,,,,,,,1152
-34,2015,frenchopen,1153,Ernests Gulbis,Igor Sijsling,,,,,,,,,,,1153
-35,2015,frenchopen,1154,Nicolas Mahut,Kimmer Coppejans,,,,,,,,,,,1154
-36,2015,frenchopen,1155,Frances Tiafoe,Martin Klizan,,,,,,,,,,,1155
-37,2015,frenchopen,1156,Lucas Pouille,Gilles Simon,,,,,,,,,,,1156
-38,2015,frenchopen,1157,Gael Monfils,Edouard Roger Vasselin,,,,,,,,,,,1157
-39,2015,frenchopen,1159,Dominic Thiem,Aljaz Bedene,,,,,,,,,,,1159
-40,2015,frenchopen,1160,Sam Groth,Pablo Cuevas,,,,,,,,,,,1160
-41,2015,frenchopen,1161,Ivo Karlovic,Marcos Baghdatis,,,,,,,,,,,1161
-42,2015,frenchopen,1162,Damir Dzumhur,Mikhail Youzhny,,,,,,,,,,,1162
-43,2015,frenchopen,1163,Marcel Granollers,Matthias Bachinger,,,,,,,,,,,1163
-44,2015,frenchopen,1164,Alejandro Falla,Roger Federer,,,,,,,,,,,1164
-45,2015,frenchopen,1201,Novak Djokovic,Gilles Muller,,,,,,,,,,,1201
-46,2015,frenchopen,1202,Thanasi Kokkinakis,Bernard Tomic,,,,,,,,,,,1202
-47,2015,frenchopen,1203,Richard Gasquet,Carlos Berlocq,,,,,,,,,,,1203
-48,2015,frenchopen,1204,Yen Hsun Lu,Kevin Anderson,,,,,,,,,,,1204
-49,2015,frenchopen,1205,Jack Sock,Pablo Carreno Busta,,,,,,,,,,,1205
-50,2015,frenchopen,1206,Borna Coric,Tommy Robredo,,,,,,,,,,,1206
-51,2015,frenchopen,1207,Jurgen Melzer,Andrey Kuznetsov,,,,,,,,,,,1207
-52,2015,frenchopen,1208,Nicolas Almagro,Rafael Nadal,,,,,,,,,,,1208
-53,2015,frenchopen,1209,Andy Murray,Joao Sousa,,,,,,,,,,,1209
-54,2015,frenchopen,1211,David Goffin,Santiago Giraldo,,,,,,,,,,,1211
-55,2015,frenchopen,1212,Jeremy Chardy,John Isner,,,,,,,,,,,1212
-56,2015,frenchopen,1213,Marin Cilic,Andrea Arnaboldi,,,,,,,,,,,1213
-57,2015,frenchopen,1216,Daniel Gimeno Traver,David Ferrer,,,,,,,,,,,1216
-58,2015,frenchopen,1217,Kei Nishikori,Thomaz Bellucci,,,,,,,,,,,1217
-59,2015,frenchopen,1218,Benjamin Becker,Fernando Verdasco,,,,,,,,,,,1218
-60,2015,frenchopen,1220,Juan Monaco,Teymuraz Gabashvili,,,,,,,,,,,1220
-61,2015,frenchopen,1221,Jo Wilfried Tsonga,Dudi Sela,,,,,,,,,,,1221
-62,2015,frenchopen,1222,Pablo Andujar,Philipp Kohlschreiber,,,,,,,,,,,1222
-63,2015,frenchopen,1223,Fabio Fognini,Benoit Paire,,,,,,,,,,,1223
-64,2015,frenchopen,1224,Radek Stepanek,Tomas Berdych,,,,,,,,,,,1224
-65,2015,frenchopen,1225,Stan Wawrinka,Dusan Lajovic,,,,,,,,,,,1225
-66,2015,frenchopen,1227,Ernests Gulbis,Nicolas Mahut,,,,,,,,,,,1227
-67,2015,frenchopen,1228,Martin Klizan,Gilles Simon,,,,,,,,,,,1228
-68,2015,frenchopen,1229,Gael Monfils,Diego Schwartzman,,,,,,,,,,,1229
-69,2015,frenchopen,1230,Dominic Thiem,Pablo Cuevas,,,,,,,,,,,1230
-70,2015,frenchopen,1231,Marcos Baghdatis,Damir Dzumhur,,,,,,,,,,,1231
-71,2015,frenchopen,1232,Marcel Granollers,Roger Federer,,,,,,,,,,,1232
-72,2015,frenchopen,1301,Novak Djokovic,Thanasi Kokkinakis,,,,,,,,,,,1301
-73,2015,frenchopen,1302,Richard Gasquet,Kevin Anderson,,,,,,,,,,,1302
-74,2015,frenchopen,1303,Jack Sock,Borna Coric,,,,,,,,,,,1303
-75,2015,frenchopen,1304,Andrey Kuznetsov,Rafael Nadal,,,,,,,,,,,1304
-76,2015,frenchopen,1305,Andy Murray,Nick Kyrgios,,,,,,,,,,,1305
-77,2015,frenchopen,1306,David Goffin,Jeremy Chardy,,,,,,,,,,,1306
-78,2015,frenchopen,1307,Marin Cilic,Leonardo Mayer,,,,,,,,,,,1307
-79,2015,frenchopen,1308,Simone Bolelli,David Ferrer,,,,,,,,,,,1308
-80,2015,frenchopen,1310,Lukas Rosol,Teymuraz Gabashvili,,,,,,,,,,,1310
-81,2015,frenchopen,1311,Jo Wilfried Tsonga,Pablo Andujar,,,,,,,,,,,1311
-82,2015,frenchopen,1312,Benoit Paire,Tomas Berdych,,,,,,,,,,,1312
-83,2015,frenchopen,1313,Stan Wawrinka,Steve Johnson,,,,,,,,,,,1313
-84,2015,frenchopen,1314,Nicolas Mahut,Gilles Simon,,,,,,,,,,,1314
-85,2015,frenchopen,1315,Gael Monfils,Pablo Cuevas,,,,,,,,,,,1315
-86,2015,frenchopen,1316,Damir Dzumhur,Roger Federer,,,,,,,,,,,1316
-87,2015,frenchopen,1401,Novak Djokovic,Richard Gasquet,,,,,,,,,,,1401
-88,2015,frenchopen,1402,Jack Sock,Rafael Nadal,,,,,,,,,,,1402
-89,2015,frenchopen,1403,Andy Murray,Jeremy Chardy,,,,,,,,,,,1403
-90,2015,frenchopen,1404,Marin Cilic,David Ferrer,,,,,,,,,,,1404
-91,2015,frenchopen,1405,Kei Nishikori,Teymuraz Gabashvili,,,,,,,,,,,1405
-92,2015,frenchopen,1406,Jo Wilfried Tsonga,Tomas Berdych,,,,,,,,,,,1406
-93,2015,frenchopen,1407,Stan Wawrinka,Gilles Simon,,,,,,,,,,,1407
-94,2015,frenchopen,1408,Gael Monfils,Roger Federer,,,,,,,,,,,1408
-95,2015,frenchopen,1501,Novak Djokovic,Rafael Nadal,,,,,,,,,,,1501
-96,2015,frenchopen,1502,Andy Murray,David Ferrer,,,,,,,,,,,1502
-97,2015,frenchopen,1503,Kei Nishikori,Jo Wilfried Tsonga,,,,,,,,,,,1503
-98,2015,frenchopen,1504,Stan Wawrinka,Roger Federer,,,,,,,,,,,1504
-99,2015,frenchopen,1601,Novak Djokovic,Andy Murray,,,,,,,,,,,1601
-100,2015,frenchopen,1602,Jo Wilfried Tsonga,Stan Wawrinka,,,,,,,,,,,1602
-101,2015,frenchopen,1701,Novak Djokovic,Stan Wawrinka,,,,,,,,,,,1701
-0,2015,usopen,1101,Novak Djokovic,Joao Souza,,,,,,,,,,,1101
-1,2015,usopen,1108,Simone Bolelli,David Goffin,,,,,,,,,,,1108
-2,2015,usopen,1109,Milos Raonic,Tim Smyczek,,,,,,,,,,,1109
-3,2015,usopen,1110,Fernando Verdasco,Tommy Haas,,,,,,,,,,,1110
-4,2015,usopen,1111,Marco Cecchinato,Mardy Fish,,,,,,,,,,,1111
-5,2015,usopen,1113,Fabio Fognini,Steve Johnson,,,,,,,,,,,1113
-6,2015,usopen,1116,Borna Coric,Rafael Nadal,,,,,,,,,,,1116
-7,2015,usopen,1117,Kei Nishikori,Benoit Paire,,,,,,,,,,,1117
-8,2015,usopen,1120,Michael Berrer,Tommy Robredo,,,,,,,,,,,1120
-9,2015,usopen,1121,Jo Wilfried Tsonga,Jarkko Nieminen,,,,,,,,,,,1121
-10,2015,usopen,1124,Illya Marchenko,Gael Monfils,,,,,,,,,,,1124
-11,2015,usopen,1125,Marin Cilic,Guido Pella,,,,,,,,,,,1125
-12,2015,usopen,1128,Matthew Ebden,Grigor Dimitrov,,,,,,,,,,,1128
-13,2015,usopen,1132,Radu Albot,David Ferrer,,,,,,,,,,,1132
-14,2015,usopen,1133,Stan Wawrinka,Albert Ramos Vinolas,,,,,,,,,,,1133
-15,2015,usopen,1136,Victor Estrella Burgos,Jack Sock,,,,,,,,,,,1136
-16,2015,usopen,1137,Viktor Troicki,Frances Tiafoe,,,,,,,,,,,1137
-17,2015,usopen,1140,Donald Young,Gilles Simon,,,,,,,,,,,1140
-18,2015,usopen,1141,Kevin Anderson,Andrey Rublev,,,,,,,,,,,1141
-19,2015,usopen,1146,Paul Henri Mathieu,Yoshihito Nishioka,,,,,,,,,,,1146
-20,2015,usopen,1148,Nick Kyrgios,Andy Murray,,,,,,,,,,,1148
-21,2015,usopen,1149,Tomas Berdych,Bjorn Fratangelo,,,,,,,,,,,1149
-22,2015,usopen,1151,Sam Querrey,Nicolas Mahut,,,,,,,,,,,1151
-23,2015,usopen,1153,Bernard Tomic,Damir Dzumhur,,,,,,,,,,,1153
-24,2015,usopen,1154,Aleksandr Nedovyesov,Lleyton Hewitt,,,,,,,,,,,1154
-25,2015,usopen,1156,Thanasi Kokkinakis,Richard Gasquet,,,,,,,,,,,1156
-26,2015,usopen,1157,John Isner,Malek Jaziri,,,,,,,,,,,1157
-27,2015,usopen,1164,Leonardo Mayer,Roger Federer,,,,,,,,,,,1164
-28,2015,usopen,1201,Novak Djokovic,Andreas Haider Maurer,,,,,,,,,,,1201
-29,2015,usopen,1202,Teymuraz Gabashvili,Andreas Seppi,,,,,,,,,,,1202
-30,2015,usopen,1204,Ricardas Berankis,David Goffin,,,,,,,,,,,1204
-31,2015,usopen,1205,Milos Raonic,Fernando Verdasco,,,,,,,,,,,1205
-32,2015,usopen,1206,Mardy Fish,Feliciano Lopez,,,,,,,,,,,1206
-33,2015,usopen,1207,Fabio Fognini,Pablo Cuevas,,,,,,,,,,,1207
-34,2015,usopen,1208,Diego Schwartzman,Rafael Nadal,,,,,,,,,,,1208
-35,2015,usopen,1209,Benoit Paire,Marsel Ilhan,,,,,,,,,,,1209
-36,2015,usopen,1210,Sam Groth,Tommy Robredo,,,,,,,,,,,1210
-37,2015,usopen,1211,Jo Wilfried Tsonga,Marcel Granollers,,,,,,,,,,,1211
-38,2015,usopen,1213,Marin Cilic,Evgeny Donskoy,,,,,,,,,,,1213
-39,2015,usopen,1214,Mikhail Kukushkin,Grigor Dimitrov,,,,,,,,,,,1214
-40,2015,usopen,1215,Jeremy Chardy,Martin Klizan,,,,,,,,,,,1215
-41,2015,usopen,1216,Filip Krajinovic,David Ferrer,,,,,,,,,,,1216
-42,2015,usopen,1217,Stan Wawrinka,Hyeon Chung,,,,,,,,,,,1217
-43,2015,usopen,1218,Ruben Bemelmans,Jack Sock,,,,,,,,,,,1218
-44,2015,usopen,1219,Viktor Troicki,Rajeev Ram,,,,,,,,,,,1219
-45,2015,usopen,1220,Aljaz Bedene,Donald Young,,,,,,,,,,,1220
-46,2015,usopen,1221,Kevin Anderson,Austin Krajicek,,,,,,,,,,,1221
-47,2015,usopen,1223,Thomaz Bellucci,Yoshihito Nishioka,,,,,,,,,,,1223
-48,2015,usopen,1224,Adrian Mannarino,Andy Murray,,,,,,,,,,,1224
-49,2015,usopen,1225,Tomas Berdych,Jurgen Melzer,,,,,,,,,,,1225
-50,2015,usopen,1226,Nicolas Mahut,Guillermo Garcia Lopez,,,,,,,,,,,1226
-51,2015,usopen,1227,Bernard Tomic,Lleyton Hewitt,,,,,,,,,,,1227
-52,2015,usopen,1228,Robin Haase,Richard Gasquet,,,,,,,,,,,1228
-53,2015,usopen,1229,John Isner,Mikhail Youzhny,,,,,,,,,,,1229
-54,2015,usopen,1231,Philipp Kohlschreiber,Lukas Rosol,,,,,,,,,,,1231
-55,2015,usopen,1232,Steve Darcis,Roger Federer,,,,,,,,,,,1232
-56,2015,usopen,1301,Novak Djokovic,Andreas Seppi,,,,,,,,,,,1301
-57,2015,usopen,1302,Roberto Bautista Agut,David Goffin,,,,,,,,,,,1302
-58,2015,usopen,1303,Milos Raonic,Feliciano Lopez,,,,,,,,,,,1303
-59,2015,usopen,1304,Fabio Fognini,Rafael Nadal,,,,,,,,,,,1304
-60,2015,usopen,1305,Benoit Paire,Tommy Robredo,,,,,,,,,,,1305
-61,2015,usopen,1306,Jo Wilfried Tsonga,Sergiy Stakhovsky,,,,,,,,,,,1306
-62,2015,usopen,1307,Marin Cilic,Mikhail Kukushkin,,,,,,,,,,,1307
-63,2015,usopen,1308,Jeremy Chardy,David Ferrer,,,,,,,,,,,1308
-64,2015,usopen,1309,Stan Wawrinka,Ruben Bemelmans,,,,,,,,,,,1309
-65,2015,usopen,1310,Viktor Troicki,Donald Young,,,,,,,,,,,1310
-66,2015,usopen,1311,Kevin Anderson,Dominic Thiem,,,,,,,,,,,1311
-67,2015,usopen,1312,Thomaz Bellucci,Andy Murray,,,,,,,,,,,1312
-68,2015,usopen,1313,Tomas Berdych,Guillermo Garcia Lopez,,,,,,,,,,,1313
-69,2015,usopen,1314,Bernard Tomic,Richard Gasquet,,,,,,,,,,,1314
-70,2015,usopen,1315,John Isner,Jiri Vesely,,,,,,,,,,,1315
-71,2015,usopen,1316,Philipp Kohlschreiber,Roger Federer,,,,,,,,,,,1316
-72,2015,usopen,1401,Novak Djokovic,Roberto Bautista Agut,,,,,,,,,,,1401
-73,2015,usopen,1402,Feliciano Lopez,Fabio Fognini,,,,,,,,,,,1402
-74,2015,usopen,1403,Benoit Paire,Jo Wilfried Tsonga,,,,,,,,,,,1403
-75,2015,usopen,1404,Marin Cilic,Jeremy Chardy,,,,,,,,,,,1404
-76,2015,usopen,1405,Stan Wawrinka,Donald Young,,,,,,,,,,,1405
-77,2015,usopen,1406,Kevin Anderson,Andy Murray,,,,,,,,,,,1406
-78,2015,usopen,1407,Tomas Berdych,Richard Gasquet,,,,,,,,,,,1407
-79,2015,usopen,1408,John Isner,Roger Federer,,,,,,,,,,,1408
-80,2015,usopen,1501,Novak Djokovic,Feliciano Lopez,,,,,,,,,,,1501
-81,2015,usopen,1502,Jo Wilfried Tsonga,Marin Cilic,,,,,,,,,,,1502
-82,2015,usopen,1503,Stan Wawrinka,Kevin Anderson,,,,,,,,,,,1503
-83,2015,usopen,1504,Richard Gasquet,Roger Federer,,,,,,,,,,,1504
-84,2015,usopen,1601,Novak Djokovic,Marin Cilic,,,,,,,,,,,1601
-85,2015,usopen,1602,Stan Wawrinka,Roger Federer,,,,,,,,,,,1602
-86,2015,usopen,1701,Novak Djokovic,Roger Federer,,,,,,,,,,,1701
-0,2015,wimbledon,1101,Novak Djokovic,Philipp Kohlschreiber,,,,,,,,,,,1101
-1,2015,wimbledon,1102,Jarkko Nieminen,Lleyton Hewitt,,,,,,,,,,,1102
-2,2015,wimbledon,1103,Pierre Hugues Herbert,Hyeon Chung,,,,,,,,,,,1103
-3,2015,wimbledon,1104,Jan Lennard Struff,Bernard Tomic,,,,,,,,,,,1104
-4,2015,wimbledon,1105,Leonardo Mayer,Thanasi Kokkinakis,,,,,,,,,,,1105
-5,2015,wimbledon,1106,Janko Tipsarevic,Marcel Granollers,,,,,,,,,,,1106
-6,2015,wimbledon,1107,Marsel Ilhan,Jerzy Janowicz,,,,,,,,,,,1107
-7,2015,wimbledon,1108,Lucas Pouille,Kevin Anderson,,,,,,,,,,,1108
-8,2015,wimbledon,1109,Marin Cilic,Hiroki Moriya,,,,,,,,,,,1109
-9,2015,wimbledon,1110,Andreas Haider Maurer,Ricardas Berankis,,,,,,,,,,,1110
-10,2015,wimbledon,1111,Matthew Ebden,Blaz Rola,,,,,,,,,,,1111
-11,2015,wimbledon,1112,Go Soeda,John Isner,,,,,,,,,,,1112
-12,2015,wimbledon,1113,Pablo Cuevas,Denis Kudla,,,,,,,,,,,1113
-13,2015,wimbledon,1114,Teymuraz Gabashvili,Alexander Zverev,,,,,,,,,,,1114
-14,2015,wimbledon,1115,Joao Souza,Santiago Giraldo,,,,,,,,,,,1115
-15,2015,wimbledon,1116,Simone Bolelli,Kei Nishikori,,,,,,,,,,,1116
-16,2015,wimbledon,1117,Stan Wawrinka,Joao Sousa,,,,,,,,,,,1117
-17,2015,wimbledon,1118,Victor Estrella Burgos,Benjamin Becker,,,,,,,,,,,1118
-18,2015,wimbledon,1119,Martin Klizan,Fernando Verdasco,,,,,,,,,,,1119
-19,2015,wimbledon,1120,Dudi Sela,Dominic Thiem,,,,,,,,,,,1120
-20,2015,wimbledon,1121,Tommy Robredo,John Millman,,,,,,,,,,,1121
-21,2015,wimbledon,1122,Donald Young,Marcos Baghdatis,,,,,,,,,,,1122
-22,2015,wimbledon,1123,Liam Broady,Marinko Matosevic,,,,,,,,,,,1123
-23,2015,wimbledon,1124,Horacio Zeballos,David Goffin,,,,,,,,,,,1124
-24,2015,wimbledon,1125,Grigor Dimitrov,Federico Delbonis,,,,,,,,,,,1125
-25,2015,wimbledon,1126,Lukas Lacko,Steve Johnson,,,,,,,,,,,1126
-26,2015,wimbledon,1127,Kenny De Schepper,John Patrick Smith,,,,,,,,,,,1127
-27,2015,wimbledon,1128,Luke Saville,Richard Gasquet,,,,,,,,,,,1128
-28,2015,wimbledon,1129,Nick Kyrgios,Diego Schwartzman,,,,,,,,,,,1129
-29,2015,wimbledon,1130,Juan Monaco,Florian Mayer,,,,,,,,,,,1130
-30,2015,wimbledon,1131,Dusan Lajovic,Tommy Haas,,,,,,,,,,,1131
-31,2015,wimbledon,1132,Daniel Gimeno Traver,Milos Raonic,,,,,,,,,,,1132
-32,2015,wimbledon,1133,Luca Vanni,James Ward,,,,,,,,,,,1133
-33,2015,wimbledon,1134,Jiri Vesely,Paolo Lorenzi,,,,,,,,,,,1134
-34,2015,wimbledon,1135,Vasek Pospisil,Vincent Millot,,,,,,,,,,,1135
-35,2015,wimbledon,1136,Tim Smyczek,Fabio Fognini,,,,,,,,,,,1136
-36,2015,wimbledon,1137,Viktor Troicki,Aleksandr Nedovyesov,,,,,,,,,,,1137
-37,2015,wimbledon,1138,Radek Stepanek,Aljaz Bedene,,,,,,,,,,,1138
-38,2015,wimbledon,1139,Dustin Brown,Yen Hsun Lu,,,,,,,,,,,1139
-39,2015,wimbledon,1140,Thomaz Bellucci,Rafael Nadal,,,,,,,,,,,1140
-40,2015,wimbledon,1141,Jo Wilfried Tsonga,Gilles Muller,,,,,,,,,,,1141
-41,2015,wimbledon,1142,Denis Istomin,Albert Ramos Vinolas,,,,,,,,,,,1142
-42,2015,wimbledon,1143,Alexandr Dolgopolov,Kyle Edmund,,,,,,,,,,,1143
-43,2015,wimbledon,1144,Elias Ymer,Ivo Karlovic,,,,,,,,,,,1144
-44,2015,wimbledon,1145,Andreas Seppi,Brydan Klein,,,,,,,,,,,1145
-45,2015,wimbledon,1146,Sergiy Stakhovsky,Borna Coric,,,,,,,,,,,1146
-46,2015,wimbledon,1147,Robin Haase,Alejandro Falla,,,,,,,,,,,1147
-47,2015,wimbledon,1148,Mikhail Kukushkin,Andy Murray,,,,,,,,,,,1148
-48,2015,wimbledon,1149,Tomas Berdych,Jeremy Chardy,,,,,,,,,,,1149
-49,2015,wimbledon,1150,Filip Krajinovic,Nicolas Mahut,,,,,,,,,,,1150
-50,2015,wimbledon,1151,Ernests Gulbis,Lukas Rosol,,,,,,,,,,,1151
-51,2015,wimbledon,1152,Pablo Andujar,Guillermo Garcia Lopez,,,,,,,,,,,1152
-52,2015,wimbledon,1153,Gael Monfils,Pablo Carreno Busta,,,,,,,,,,,1153
-53,2015,wimbledon,1154,Adrian Mannarino,Michael Berrer,,,,,,,,,,,1154
-54,2015,wimbledon,1155,Yuichi Sugita,Blaz Kavcic,,,,,,,,,,,1155
-55,2015,wimbledon,1156,Nicolas Almagro,Gilles Simon,,,,,,,,,,,1156
-56,2015,wimbledon,1157,Feliciano Lopez,Steve Darcis,,,,,,,,,,,1157
-57,2015,wimbledon,1158,Nikoloz Basilashvili,Facundo Bagnis,,,,,,,,,,,1158
-58,2015,wimbledon,1159,Benoit Paire,Mikhail Youzhny,,,,,,,,,,,1159
-59,2015,wimbledon,1160,Ruben Bemelmans,Roberto Bautista Agut,,,,,,,,,,,1160
-60,2015,wimbledon,1161,Jack Sock,Sam Groth,,,,,,,,,,,1161
-61,2015,wimbledon,1162,Malek Jaziri,James Duckworth,,,,,,,,,,,1162
-62,2015,wimbledon,1163,Sam Querrey,Igor Sijsling,,,,,,,,,,,1163
-63,2015,wimbledon,1164,Damir Dzumhur,Roger Federer,,,,,,,,,,,1164
-64,2015,wimbledon,1201,Novak Djokovic,Jarkko Nieminen,,,,,,,,,,,1201
-65,2015,wimbledon,1202,Pierre Hugues Herbert,Bernard Tomic,,,,,,,,,,,1202
-66,2015,wimbledon,1203,Leonardo Mayer,Marcel Granollers,,,,,,,,,,,1203
-67,2015,wimbledon,1204,Marsel Ilhan,Kevin Anderson,,,,,,,,,,,1204
-68,2015,wimbledon,1205,Marin Cilic,Ricardas Berankis,,,,,,,,,,,1205
-69,2015,wimbledon,1207,Denis Kudla,Alexander Zverev,,,,,,,,,,,1207
-70,2015,wimbledon,1209,Stan Wawrinka,Victor Estrella Burgos,,,,,,,,,,,1209
-71,2015,wimbledon,1210,Fernando Verdasco,Dominic Thiem,,,,,,,,,,,1210
-72,2015,wimbledon,1211,John Millman,Marcos Baghdatis,,,,,,,,,,,1211
-73,2015,wimbledon,1212,Liam Broady,David Goffin,,,,,,,,,,,1212
-74,2015,wimbledon,1213,Grigor Dimitrov,Steve Johnson,,,,,,,,,,,1213
-75,2015,wimbledon,1214,Kenny De Schepper,Richard Gasquet,,,,,,,,,,,1214
-76,2015,wimbledon,1215,Nick Kyrgios,Juan Monaco,,,,,,,,,,,1215
-77,2015,wimbledon,1216,Tommy Haas,Milos Raonic,,,,,,,,,,,1216
-78,2015,wimbledon,1217,James Ward,Jiri Vesely,,,,,,,,,,,1217
-79,2015,wimbledon,1218,Vasek Pospisil,Fabio Fognini,,,,,,,,,,,1218
-80,2015,wimbledon,1219,Viktor Troicki,Aljaz Bedene,,,,,,,,,,,1219
-81,2015,wimbledon,1220,Dustin Brown,Rafael Nadal,,,,,,,,,,,1220
-82,2015,wimbledon,1221,Jo Wilfried Tsonga,Albert Ramos Vinolas,,,,,,,,,,,1221
-83,2015,wimbledon,1222,Alexandr Dolgopolov,Ivo Karlovic,,,,,,,,,,,1222
-84,2015,wimbledon,1223,Andreas Seppi,Borna Coric,,,,,,,,,,,1223
-85,2015,wimbledon,1224,Robin Haase,Andy Murray,,,,,,,,,,,1224
-86,2015,wimbledon,1225,Tomas Berdych,Nicolas Mahut,,,,,,,,,,,1225
-87,2015,wimbledon,1226,Lukas Rosol,Pablo Andujar,,,,,,,,,,,1226
-88,2015,wimbledon,1227,Gael Monfils,Adrian Mannarino,,,,,,,,,,,1227
-89,2015,wimbledon,1228,Blaz Kavcic,Gilles Simon,,,,,,,,,,,1228
-90,2015,wimbledon,1229,Feliciano Lopez,Nikoloz Basilashvili,,,,,,,,,,,1229
-91,2015,wimbledon,1230,Benoit Paire,Roberto Bautista Agut,,,,,,,,,,,1230
-92,2015,wimbledon,1231,Sam Groth,James Duckworth,,,,,,,,,,,1231
-93,2015,wimbledon,1232,Sam Querrey,Roger Federer,,,,,,,,,,,1232
-94,2015,wimbledon,1301,Novak Djokovic,Bernard Tomic,,,,,,,,,,,1301
-95,2015,wimbledon,1302,Leonardo Mayer,Kevin Anderson,,,,,,,,,,,1302
-96,2015,wimbledon,1303,Marin Cilic,John Isner,,,,,,,,,,,1303
-97,2015,wimbledon,1304,Denis Kudla,Santiago Giraldo,,,,,,,,,,,1304
-98,2015,wimbledon,1305,Stan Wawrinka,Fernando Verdasco,,,,,,,,,,,1305
-99,2015,wimbledon,1306,Marcos Baghdatis,David Goffin,,,,,,,,,,,1306
-100,2015,wimbledon,1307,Grigor Dimitrov,Richard Gasquet,,,,,,,,,,,1307
-101,2015,wimbledon,1308,Nick Kyrgios,Milos Raonic,,,,,,,,,,,1308
-102,2015,wimbledon,1309,James Ward,Vasek Pospisil,,,,,,,,,,,1309
-103,2015,wimbledon,1310,Viktor Troicki,Dustin Brown,,,,,,,,,,,1310
-104,2015,wimbledon,1311,Jo Wilfried Tsonga,Ivo Karlovic,,,,,,,,,,,1311
-105,2015,wimbledon,1312,Andreas Seppi,Andy Murray,,,,,,,,,,,1312
-106,2015,wimbledon,1313,Tomas Berdych,Pablo Andujar,,,,,,,,,,,1313
-107,2015,wimbledon,1314,Gael Monfils,Gilles Simon,,,,,,,,,,,1314
-108,2015,wimbledon,1315,Nikoloz Basilashvili,Roberto Bautista Agut,,,,,,,,,,,1315
-109,2015,wimbledon,1316,Sam Groth,Roger Federer,,,,,,,,,,,1316
-110,2015,wimbledon,1401,Novak Djokovic,Kevin Anderson,,,,,,,,,,,1401
-111,2015,wimbledon,1402,Marin Cilic,Denis Kudla,,,,,,,,,,,1402
-112,2015,wimbledon,1403,Stan Wawrinka,David Goffin,,,,,,,,,,,1403
-113,2015,wimbledon,1404,Richard Gasquet,Nick Kyrgios,,,,,,,,,,,1404
-114,2015,wimbledon,1405,Vasek Pospisil,Viktor Troicki,,,,,,,,,,,1405
-115,2015,wimbledon,1406,Ivo Karlovic,Andy Murray,,,,,,,,,,,1406
-116,2015,wimbledon,1407,Tomas Berdych,Gilles Simon,,,,,,,,,,,1407
-117,2015,wimbledon,1408,Roberto Bautista Agut,Roger Federer,,,,,,,,,,,1408
-118,2015,wimbledon,1501,Novak Djokovic,Marin Cilic,,,,,,,,,,,1501
-119,2015,wimbledon,1502,Stan Wawrinka,Richard Gasquet,,,,,,,,,,,1502
-120,2015,wimbledon,1503,Vasek Pospisil,Andy Murray,,,,,,,,,,,1503
-121,2015,wimbledon,1504,Gilles Simon,Roger Federer,,,,,,,,,,,1504
-122,2015,wimbledon,1601,Novak Djokovic,Richard Gasquet,,,,,,,,,,,1601
-123,2015,wimbledon,1602,Andy Murray,Roger Federer,,,,,,,,,,,1602
-124,2015,wimbledon,1701,Novak Djokovic,Roger Federer,,,,,,,,,,,1701
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num
+0,2015-ausopen-1101,2015,ausopen,1101,Novak Djokovic,Aljaz Bedene,,,,,,,,,,,1101
+1,2015-ausopen-1103,2015,ausopen,1103,Go Soeda,Elias Ymer,,,,,,,,,,,1103
+2,2015-ausopen-1104,2015,ausopen,1104,James Ward,Fernando Verdasco,,,,,,,,,,,1104
+3,2015-ausopen-1105,2015,ausopen,1105,John Isner,Jimmy Wang,,,,,,,,,,,1105
+4,2015-ausopen-1107,2015,ausopen,1107,Pablo Carreno Busta,Gilles Muller,,,,,,,,,,,1107
+5,2015-ausopen-1108,2015,ausopen,1108,Dominic Thiem,Roberto Bautista Agut,,,,,,,,,,,1108
+6,2015-ausopen-1109,2015,ausopen,1109,Feliciano Lopez,Denis Kudla,,,,,,,,,,,1109
+7,2015-ausopen-1111,2015,ausopen,1111,Hiroki Moriya,Jerzy Janowicz,,,,,,,,,,,1111
+8,2015-ausopen-1112,2015,ausopen,1112,Lucas Pouille,Gael Monfils,,,,,,,,,,,1112
+9,2015-ausopen-1113,2015,ausopen,1113,Julien Benneteau,Benjamin Becker,,,,,,,,,,,1113
+10,2015-ausopen-1114,2015,ausopen,1114,Lleyton Hewitt,Ze Zhang,,,,,,,,,,,1114
+11,2015-ausopen-1116,2015,ausopen,1116,Illya Marchenko,Milos Raonic,,,,,,,,,,,1116
+12,2015-ausopen-1117,2015,ausopen,1117,Stan Wawrinka,Marsel Ilhan,,,,,,,,,,,1117
+13,2015-ausopen-1121,2015,ausopen,1121,Alexandr Dolgopolov,Paolo Lorenzi,,,,,,,,,,,1121
+14,2015-ausopen-1122,2015,ausopen,1122,Sam Querrey,Vasek Pospisil,,,,,,,,,,,1122
+15,2015-ausopen-1124,2015,ausopen,1124,Alejandro Gonzalez,Fabio Fognini,,,,,,,,,,,1124
+16,2015-ausopen-1125,2015,ausopen,1125,David Ferrer,Thomaz Bellucci,,,,,,,,,,,1125
+17,2015-ausopen-1128,2015,ausopen,1128,Robin Haase,Gilles Simon,,,,,,,,,,,1128
+18,2015-ausopen-1129,2015,ausopen,1129,Santiago Giraldo,Jan Hernych,,,,,,,,,,,1129
+19,2015-ausopen-1130,2015,ausopen,1130,Kyle Edmund,Steve Johnson,,,,,,,,,,,1130
+20,2015-ausopen-1131,2015,ausopen,1131,Ivan Dodig,Joao Souza,,,,,,,,,,,1131
+21,2015-ausopen-1132,2015,ausopen,1132,Nicolas Almagro,Kei Nishikori,,,,,,,,,,,1132
+22,2015-ausopen-1133,2015,ausopen,1133,Tomas Berdych,Alejandro Falla,,,,,,,,,,,1133
+23,2015-ausopen-1135,2015,ausopen,1135,Jiri Vesely,Viktor Troicki,,,,,,,,,,,1135
+24,2015-ausopen-1136,2015,ausopen,1136,John Millman,Leonardo Mayer,,,,,,,,,,,1136
+25,2015-ausopen-1138,2015,ausopen,1138,Tobias Kamke,Bernard Tomic,,,,,,,,,,,1138
+26,2015-ausopen-1139,2015,ausopen,1139,Sam Groth,Filip Krajinovic,,,,,,,,,,,1139
+27,2015-ausopen-1140,2015,ausopen,1140,Thanasi Kokkinakis,Ernests Gulbis,,,,,,,,,,,1140
+28,2015-ausopen-1143,2015,ausopen,1143,Blaz Kavcic,James Duckworth,,,,,,,,,,,1143
+29,2015-ausopen-1144,2015,ausopen,1144,Carlos Berlocq,Richard Gasquet,,,,,,,,,,,1144
+30,2015-ausopen-1146,2015,ausopen,1146,Jan-Lennard Struff,Dudi Sela,,,,,,,,,,,1146
+31,2015-ausopen-1147,2015,ausopen,1147,Luke Saville,Tim Smyczek,,,,,,,,,,,1147
+32,2015-ausopen-1148,2015,ausopen,1148,Mikhail Youzhny,Rafael Nadal,,,,,,,,,,,1148
+33,2015-ausopen-1149,2015,ausopen,1149,Andy Murray,Yuki Bhambri,,,,,,,,,,,1149
+34,2015-ausopen-1150,2015,ausopen,1150,Alexander Kudryavtsev,Marinko Matosevic,,,,,,,,,,,1150
+35,2015-ausopen-1151,2015,ausopen,1151,Jordan Thompson,Joao Sousa,,,,,,,,,,,1151
+36,2015-ausopen-1152,2015,ausopen,1152,Tatsuma Ito,Martin Klizan,,,,,,,,,,,1152
+37,2015-ausopen-1153,2015,ausopen,1153,David Goffin,Michael Russell,,,,,,,,,,,1153
+38,2015-ausopen-1154,2015,ausopen,1154,Marcos Baghdatis,Teymuraz Gabashvili,,,,,,,,,,,1154
+39,2015-ausopen-1156,2015,ausopen,1156,Dustin Brown,Grigor Dimitrov,,,,,,,,,,,1156
+40,2015-ausopen-1159,2015,ausopen,1159,Federico Delbonis,Nick Kyrgios,,,,,,,,,,,1159
+41,2015-ausopen-1162,2015,ausopen,1162,Andreas Seppi,Denis Istomin,,,,,,,,,,,1162
+42,2015-ausopen-1163,2015,ausopen,1163,Juan Monaco,Simone Bolelli,,,,,,,,,,,1163
+43,2015-ausopen-1164,2015,ausopen,1164,Yen-Hsun Lu,Roger Federer,,,,,,,,,,,1164
+44,2015-ausopen-1201,2015,ausopen,1201,Novak Djokovic,Andrey Kuznetsov,,,,,,,,,,,1201
+45,2015-ausopen-1202,2015,ausopen,1202,Go Soeda,Fernando Verdasco,,,,,,,,,,,1202
+46,2015-ausopen-1203,2015,ausopen,1203,John Isner,Andreas Haider-Maurer,,,,,,,,,,,1203
+47,2015-ausopen-1205,2015,ausopen,1205,Feliciano Lopez,Adrian Mannarino,,,,,,,,,,,1205
+48,2015-ausopen-1206,2015,ausopen,1206,Jerzy Janowicz,Gael Monfils,,,,,,,,,,,1206
+49,2015-ausopen-1207,2015,ausopen,1207,Benjamin Becker,Lleyton Hewitt,,,,,,,,,,,1207
+50,2015-ausopen-1208,2015,ausopen,1208,Donald Young,Milos Raonic,,,,,,,,,,,1208
+51,2015-ausopen-1209,2015,ausopen,1209,Stan Wawrinka,Marius Copil,,,,,,,,,,,1209
+52,2015-ausopen-1210,2015,ausopen,1210,Jarkko Nieminen,Matthias Bachinger,,,,,,,,,,,1210
+53,2015-ausopen-1211,2015,ausopen,1211,Paolo Lorenzi,Vasek Pospisil,,,,,,,,,,,1211
+54,2015-ausopen-1212,2015,ausopen,1212,Guillermo Garcia-Lopez,Alejandro Gonzalez,,,,,,,,,,,1212
+55,2015-ausopen-1213,2015,ausopen,1213,David Ferrer,Sergiy Stakhovsky,,,,,,,,,,,1213
+56,2015-ausopen-1214,2015,ausopen,1214,Marcel Granollers,Gilles Simon,,,,,,,,,,,1214
+57,2015-ausopen-1216,2015,ausopen,1216,Ivan Dodig,Kei Nishikori,,,,,,,,,,,1216
+58,2015-ausopen-1217,2015,ausopen,1217,Tomas Berdych,Jurgen Melzer,,,,,,,,,,,1217
+59,2015-ausopen-1218,2015,ausopen,1218,Viktor Troicki,Leonardo Mayer,,,,,,,,,,,1218
+60,2015-ausopen-1219,2015,ausopen,1219,Philipp Kohlschreiber,Bernard Tomic,,,,,,,,,,,1219
+61,2015-ausopen-1220,2015,ausopen,1220,Sam Groth,Thanasi Kokkinakis,,,,,,,,,,,1220
+62,2015-ausopen-1221,2015,ausopen,1221,Kevin Anderson,Ricardas Berankis,,,,,,,,,,,1221
+63,2015-ausopen-1222,2015,ausopen,1222,James Duckworth,Richard Gasquet,,,,,,,,,,,1222
+64,2015-ausopen-1223,2015,ausopen,1223,Lukas Rosol,Dudi Sela,,,,,,,,,,,1223
+65,2015-ausopen-1224,2015,ausopen,1224,Tim Smyczek,Rafael Nadal,,,,,,,,,,,1224
+66,2015-ausopen-1225,2015,ausopen,1225,Andy Murray,Marinko Matosevic,,,,,,,,,,,1225
+67,2015-ausopen-1227,2015,ausopen,1227,David Goffin,Marcos Baghdatis,,,,,,,,,,,1227
+68,2015-ausopen-1228,2015,ausopen,1228,Lukas Lacko,Grigor Dimitrov,,,,,,,,,,,1228
+69,2015-ausopen-1229,2015,ausopen,1229,Edouard Roger-Vasselin,Malek Jaziri,,,,,,,,,,,1229
+70,2015-ausopen-1230,2015,ausopen,1230,Nick Kyrgios,Ivo Karlovic,,,,,,,,,,,1230
+71,2015-ausopen-1231,2015,ausopen,1231,Jeremy Chardy,Andreas Seppi,,,,,,,,,,,1231
+72,2015-ausopen-1232,2015,ausopen,1232,Simone Bolelli,Roger Federer,,,,,,,,,,,1232
+73,2015-ausopen-1301,2015,ausopen,1301,Novak Djokovic,Fernando Verdasco,,,,,,,,,,,1301
+74,2015-ausopen-1302,2015,ausopen,1302,John Isner,Gilles Muller,,,,,,,,,,,1302
+75,2015-ausopen-1303,2015,ausopen,1303,Feliciano Lopez,Jerzy Janowicz,,,,,,,,,,,1303
+76,2015-ausopen-1304,2015,ausopen,1304,Benjamin Becker,Milos Raonic,,,,,,,,,,,1304
+77,2015-ausopen-1305,2015,ausopen,1305,Stan Wawrinka,Jarkko Nieminen,,,,,,,,,,,1305
+78,2015-ausopen-1306,2015,ausopen,1306,Vasek Pospisil,Guillermo Garcia-Lopez,,,,,,,,,,,1306
+79,2015-ausopen-1307,2015,ausopen,1307,David Ferrer,Gilles Simon,,,,,,,,,,,1307
+80,2015-ausopen-1308,2015,ausopen,1308,Steve Johnson,Kei Nishikori,,,,,,,,,,,1308
+81,2015-ausopen-1309,2015,ausopen,1309,Tomas Berdych,Viktor Troicki,,,,,,,,,,,1309
+82,2015-ausopen-1310,2015,ausopen,1310,Bernard Tomic,Sam Groth,,,,,,,,,,,1310
+83,2015-ausopen-1311,2015,ausopen,1311,Kevin Anderson,Richard Gasquet,,,,,,,,,,,1311
+84,2015-ausopen-1312,2015,ausopen,1312,Dudi Sela,Rafael Nadal,,,,,,,,,,,1312
+85,2015-ausopen-1313,2015,ausopen,1313,Andy Murray,Joao Sousa,,,,,,,,,,,1313
+86,2015-ausopen-1314,2015,ausopen,1314,Marcos Baghdatis,Grigor Dimitrov,,,,,,,,,,,1314
+87,2015-ausopen-1315,2015,ausopen,1315,Malek Jaziri,Nick Kyrgios,,,,,,,,,,,1315
+88,2015-ausopen-1316,2015,ausopen,1316,Andreas Seppi,Roger Federer,,,,,,,,,,,1316
+89,2015-ausopen-1401,2015,ausopen,1401,Novak Djokovic,Gilles Muller,,,,,,,,,,,1401
+90,2015-ausopen-1402,2015,ausopen,1402,Feliciano Lopez,Milos Raonic,,,,,,,,,,,1402
+91,2015-ausopen-1403,2015,ausopen,1403,Stan Wawrinka,Guillermo Garcia-Lopez,,,,,,,,,,,1403
+92,2015-ausopen-1404,2015,ausopen,1404,David Ferrer,Kei Nishikori,,,,,,,,,,,1404
+93,2015-ausopen-1405,2015,ausopen,1405,Tomas Berdych,Bernard Tomic,,,,,,,,,,,1405
+94,2015-ausopen-1406,2015,ausopen,1406,Kevin Anderson,Rafael Nadal,,,,,,,,,,,1406
+95,2015-ausopen-1407,2015,ausopen,1407,Andy Murray,Grigor Dimitrov,,,,,,,,,,,1407
+96,2015-ausopen-1408,2015,ausopen,1408,Nick Kyrgios,Andreas Seppi,,,,,,,,,,,1408
+97,2015-ausopen-1501,2015,ausopen,1501,Novak Djokovic,Milos Raonic,,,,,,,,,,,1501
+98,2015-ausopen-1502,2015,ausopen,1502,Stan Wawrinka,Kei Nishikori,,,,,,,,,,,1502
+99,2015-ausopen-1503,2015,ausopen,1503,Tomas Berdych,Rafael Nadal,,,,,,,,,,,1503
+100,2015-ausopen-1504,2015,ausopen,1504,Andy Murray,Nick Kyrgios,,,,,,,,,,,1504
+101,2015-ausopen-1601,2015,ausopen,1601,Novak Djokovic,Stan Wawrinka,,,,,,,,,,,1601
+102,2015-ausopen-1602,2015,ausopen,1602,Tomas Berdych,Andy Murray,,,,,,,,,,,1602
+103,2015-ausopen-1701,2015,ausopen,1701,Novak Djokovic,Andy Murray,,,,,,,,,,,1701
+0,2015-frenchopen-1101,2015,frenchopen,1101,Novak Djokovic,Jarkko Nieminen,,,,,,,,,,,1101
+1,2015-frenchopen-1102,2015,frenchopen,1102,Gilles Muller,Paolo Lorenzi,,,,,,,,,,,1102
+2,2015-frenchopen-1104,2015,frenchopen,1104,Luca Vanni,Bernard Tomic,,,,,,,,,,,1104
+3,2015-frenchopen-1105,2015,frenchopen,1105,Richard Gasquet,Germain Gigounon,,,,,,,,,,,1105
+4,2015-frenchopen-1108,2015,frenchopen,1108,Tim Smyczek,Kevin Anderson,,,,,,,,,,,1108
+5,2015-frenchopen-1109,2015,frenchopen,1109,Grigor Dimitrov,Jack Sock,,,,,,,,,,,1109
+6,2015-frenchopen-1111,2015,frenchopen,1111,Borna Coric,Sam Querrey,,,,,,,,,,,1111
+7,2015-frenchopen-1113,2015,frenchopen,1113,Adrian Mannarino,Jurgen Melzer,,,,,,,,,,,1113
+8,2015-frenchopen-1115,2015,frenchopen,1115,Nicolas Almagro,Alexandr Dolgopolov,,,,,,,,,,,1115
+9,2015-frenchopen-1116,2015,frenchopen,1116,Quentin Halys,Rafael Nadal,,,,,,,,,,,1116
+10,2015-frenchopen-1117,2015,frenchopen,1117,Andy Murray,Facundo Arguello,,,,,,,,,,,1117
+11,2015-frenchopen-1118,2015,frenchopen,1118,Vasek Pospisil,Joao Sousa,,,,,,,,,,,1118
+12,2015-frenchopen-1119,2015,frenchopen,1119,Kyle Edmund,Stephane Robert,,,,,,,,,,,1119
+13,2015-frenchopen-1120,2015,frenchopen,1120,Denis Istomin,Nick Kyrgios,,,,,,,,,,,1120
+14,2015-frenchopen-1121,2015,frenchopen,1121,David Goffin,Filip Krajinovic,,,,,,,,,,,1121
+15,2015-frenchopen-1123,2015,frenchopen,1123,Jeremy Chardy,Michael Berrer,,,,,,,,,,,1123
+16,2015-frenchopen-1124,2015,frenchopen,1124,Andreas Seppi,John Isner,,,,,,,,,,,1124
+17,2015-frenchopen-1125,2015,frenchopen,1125,Marin Cilic,Robin Haase,,,,,,,,,,,1125
+18,2015-frenchopen-1126,2015,frenchopen,1126,James Duckworth,Andrea Arnaboldi,,,,,,,,,,,1126
+19,2015-frenchopen-1127,2015,frenchopen,1127,Jerzy Janowicz,Maxime Hamou,,,,,,,,,,,1127
+20,2015-frenchopen-1128,2015,frenchopen,1128,Jiri Vesely,Leonardo Mayer,,,,,,,,,,,1128
+21,2015-frenchopen-1132,2015,frenchopen,1132,Lukas Lacko,David Ferrer,,,,,,,,,,,1132
+22,2015-frenchopen-1133,2015,frenchopen,1133,Kei Nishikori,Paul Henri Mathieu,,,,,,,,,,,1133
+23,2015-frenchopen-1137,2015,frenchopen,1137,Roberto Bautista Agut,Florian Mayer,,,,,,,,,,,1137
+24,2015-frenchopen-1138,2015,frenchopen,1138,Elias Ymer,Lukas Rosol,,,,,,,,,,,1138
+25,2015-frenchopen-1140,2015,frenchopen,1140,Teymuraz Gabashvili,Feliciano Lopez,,,,,,,,,,,1140
+26,2015-frenchopen-1141,2015,frenchopen,1141,Jo Wilfried Tsonga,Christian Lindell,,,,,,,,,,,1141
+27,2015-frenchopen-1142,2015,frenchopen,1142,Mikhail Kukushkin,Dudi Sela,,,,,,,,,,,1142
+28,2015-frenchopen-1144,2015,frenchopen,1144,Go Soeda,Philipp Kohlschreiber,,,,,,,,,,,1144
+29,2015-frenchopen-1145,2015,frenchopen,1145,Fabio Fognini,Tatsuma Ito,,,,,,,,,,,1145
+30,2015-frenchopen-1146,2015,frenchopen,1146,Gastao Elias,Benoit Paire,,,,,,,,,,,1146
+31,2015-frenchopen-1148,2015,frenchopen,1148,Yoshihito Nishioka,Tomas Berdych,,,,,,,,,,,1148
+32,2015-frenchopen-1149,2015,frenchopen,1149,Stan Wawrinka,Marsel Ilhan,,,,,,,,,,,1149
+33,2015-frenchopen-1152,2015,frenchopen,1152,Steve Johnson,Guillermo Garcia Lopez,,,,,,,,,,,1152
+34,2015-frenchopen-1153,2015,frenchopen,1153,Ernests Gulbis,Igor Sijsling,,,,,,,,,,,1153
+35,2015-frenchopen-1154,2015,frenchopen,1154,Nicolas Mahut,Kimmer Coppejans,,,,,,,,,,,1154
+36,2015-frenchopen-1155,2015,frenchopen,1155,Frances Tiafoe,Martin Klizan,,,,,,,,,,,1155
+37,2015-frenchopen-1156,2015,frenchopen,1156,Lucas Pouille,Gilles Simon,,,,,,,,,,,1156
+38,2015-frenchopen-1157,2015,frenchopen,1157,Gael Monfils,Edouard Roger Vasselin,,,,,,,,,,,1157
+39,2015-frenchopen-1159,2015,frenchopen,1159,Dominic Thiem,Aljaz Bedene,,,,,,,,,,,1159
+40,2015-frenchopen-1160,2015,frenchopen,1160,Sam Groth,Pablo Cuevas,,,,,,,,,,,1160
+41,2015-frenchopen-1161,2015,frenchopen,1161,Ivo Karlovic,Marcos Baghdatis,,,,,,,,,,,1161
+42,2015-frenchopen-1162,2015,frenchopen,1162,Damir Dzumhur,Mikhail Youzhny,,,,,,,,,,,1162
+43,2015-frenchopen-1163,2015,frenchopen,1163,Marcel Granollers,Matthias Bachinger,,,,,,,,,,,1163
+44,2015-frenchopen-1164,2015,frenchopen,1164,Alejandro Falla,Roger Federer,,,,,,,,,,,1164
+45,2015-frenchopen-1201,2015,frenchopen,1201,Novak Djokovic,Gilles Muller,,,,,,,,,,,1201
+46,2015-frenchopen-1202,2015,frenchopen,1202,Thanasi Kokkinakis,Bernard Tomic,,,,,,,,,,,1202
+47,2015-frenchopen-1203,2015,frenchopen,1203,Richard Gasquet,Carlos Berlocq,,,,,,,,,,,1203
+48,2015-frenchopen-1204,2015,frenchopen,1204,Yen Hsun Lu,Kevin Anderson,,,,,,,,,,,1204
+49,2015-frenchopen-1205,2015,frenchopen,1205,Jack Sock,Pablo Carreno Busta,,,,,,,,,,,1205
+50,2015-frenchopen-1206,2015,frenchopen,1206,Borna Coric,Tommy Robredo,,,,,,,,,,,1206
+51,2015-frenchopen-1207,2015,frenchopen,1207,Jurgen Melzer,Andrey Kuznetsov,,,,,,,,,,,1207
+52,2015-frenchopen-1208,2015,frenchopen,1208,Nicolas Almagro,Rafael Nadal,,,,,,,,,,,1208
+53,2015-frenchopen-1209,2015,frenchopen,1209,Andy Murray,Joao Sousa,,,,,,,,,,,1209
+54,2015-frenchopen-1211,2015,frenchopen,1211,David Goffin,Santiago Giraldo,,,,,,,,,,,1211
+55,2015-frenchopen-1212,2015,frenchopen,1212,Jeremy Chardy,John Isner,,,,,,,,,,,1212
+56,2015-frenchopen-1213,2015,frenchopen,1213,Marin Cilic,Andrea Arnaboldi,,,,,,,,,,,1213
+57,2015-frenchopen-1216,2015,frenchopen,1216,Daniel Gimeno Traver,David Ferrer,,,,,,,,,,,1216
+58,2015-frenchopen-1217,2015,frenchopen,1217,Kei Nishikori,Thomaz Bellucci,,,,,,,,,,,1217
+59,2015-frenchopen-1218,2015,frenchopen,1218,Benjamin Becker,Fernando Verdasco,,,,,,,,,,,1218
+60,2015-frenchopen-1220,2015,frenchopen,1220,Juan Monaco,Teymuraz Gabashvili,,,,,,,,,,,1220
+61,2015-frenchopen-1221,2015,frenchopen,1221,Jo Wilfried Tsonga,Dudi Sela,,,,,,,,,,,1221
+62,2015-frenchopen-1222,2015,frenchopen,1222,Pablo Andujar,Philipp Kohlschreiber,,,,,,,,,,,1222
+63,2015-frenchopen-1223,2015,frenchopen,1223,Fabio Fognini,Benoit Paire,,,,,,,,,,,1223
+64,2015-frenchopen-1224,2015,frenchopen,1224,Radek Stepanek,Tomas Berdych,,,,,,,,,,,1224
+65,2015-frenchopen-1225,2015,frenchopen,1225,Stan Wawrinka,Dusan Lajovic,,,,,,,,,,,1225
+66,2015-frenchopen-1227,2015,frenchopen,1227,Ernests Gulbis,Nicolas Mahut,,,,,,,,,,,1227
+67,2015-frenchopen-1228,2015,frenchopen,1228,Martin Klizan,Gilles Simon,,,,,,,,,,,1228
+68,2015-frenchopen-1229,2015,frenchopen,1229,Gael Monfils,Diego Schwartzman,,,,,,,,,,,1229
+69,2015-frenchopen-1230,2015,frenchopen,1230,Dominic Thiem,Pablo Cuevas,,,,,,,,,,,1230
+70,2015-frenchopen-1231,2015,frenchopen,1231,Marcos Baghdatis,Damir Dzumhur,,,,,,,,,,,1231
+71,2015-frenchopen-1232,2015,frenchopen,1232,Marcel Granollers,Roger Federer,,,,,,,,,,,1232
+72,2015-frenchopen-1301,2015,frenchopen,1301,Novak Djokovic,Thanasi Kokkinakis,,,,,,,,,,,1301
+73,2015-frenchopen-1302,2015,frenchopen,1302,Richard Gasquet,Kevin Anderson,,,,,,,,,,,1302
+74,2015-frenchopen-1303,2015,frenchopen,1303,Jack Sock,Borna Coric,,,,,,,,,,,1303
+75,2015-frenchopen-1304,2015,frenchopen,1304,Andrey Kuznetsov,Rafael Nadal,,,,,,,,,,,1304
+76,2015-frenchopen-1305,2015,frenchopen,1305,Andy Murray,Nick Kyrgios,,,,,,,,,,,1305
+77,2015-frenchopen-1306,2015,frenchopen,1306,David Goffin,Jeremy Chardy,,,,,,,,,,,1306
+78,2015-frenchopen-1307,2015,frenchopen,1307,Marin Cilic,Leonardo Mayer,,,,,,,,,,,1307
+79,2015-frenchopen-1308,2015,frenchopen,1308,Simone Bolelli,David Ferrer,,,,,,,,,,,1308
+80,2015-frenchopen-1310,2015,frenchopen,1310,Lukas Rosol,Teymuraz Gabashvili,,,,,,,,,,,1310
+81,2015-frenchopen-1311,2015,frenchopen,1311,Jo Wilfried Tsonga,Pablo Andujar,,,,,,,,,,,1311
+82,2015-frenchopen-1312,2015,frenchopen,1312,Benoit Paire,Tomas Berdych,,,,,,,,,,,1312
+83,2015-frenchopen-1313,2015,frenchopen,1313,Stan Wawrinka,Steve Johnson,,,,,,,,,,,1313
+84,2015-frenchopen-1314,2015,frenchopen,1314,Nicolas Mahut,Gilles Simon,,,,,,,,,,,1314
+85,2015-frenchopen-1315,2015,frenchopen,1315,Gael Monfils,Pablo Cuevas,,,,,,,,,,,1315
+86,2015-frenchopen-1316,2015,frenchopen,1316,Damir Dzumhur,Roger Federer,,,,,,,,,,,1316
+87,2015-frenchopen-1401,2015,frenchopen,1401,Novak Djokovic,Richard Gasquet,,,,,,,,,,,1401
+88,2015-frenchopen-1402,2015,frenchopen,1402,Jack Sock,Rafael Nadal,,,,,,,,,,,1402
+89,2015-frenchopen-1403,2015,frenchopen,1403,Andy Murray,Jeremy Chardy,,,,,,,,,,,1403
+90,2015-frenchopen-1404,2015,frenchopen,1404,Marin Cilic,David Ferrer,,,,,,,,,,,1404
+91,2015-frenchopen-1405,2015,frenchopen,1405,Kei Nishikori,Teymuraz Gabashvili,,,,,,,,,,,1405
+92,2015-frenchopen-1406,2015,frenchopen,1406,Jo Wilfried Tsonga,Tomas Berdych,,,,,,,,,,,1406
+93,2015-frenchopen-1407,2015,frenchopen,1407,Stan Wawrinka,Gilles Simon,,,,,,,,,,,1407
+94,2015-frenchopen-1408,2015,frenchopen,1408,Gael Monfils,Roger Federer,,,,,,,,,,,1408
+95,2015-frenchopen-1501,2015,frenchopen,1501,Novak Djokovic,Rafael Nadal,,,,,,,,,,,1501
+96,2015-frenchopen-1502,2015,frenchopen,1502,Andy Murray,David Ferrer,,,,,,,,,,,1502
+97,2015-frenchopen-1503,2015,frenchopen,1503,Kei Nishikori,Jo Wilfried Tsonga,,,,,,,,,,,1503
+98,2015-frenchopen-1504,2015,frenchopen,1504,Stan Wawrinka,Roger Federer,,,,,,,,,,,1504
+99,2015-frenchopen-1601,2015,frenchopen,1601,Novak Djokovic,Andy Murray,,,,,,,,,,,1601
+100,2015-frenchopen-1602,2015,frenchopen,1602,Jo Wilfried Tsonga,Stan Wawrinka,,,,,,,,,,,1602
+101,2015-frenchopen-1701,2015,frenchopen,1701,Novak Djokovic,Stan Wawrinka,,,,,,,,,,,1701
+0,2015-usopen-1101,2015,usopen,1101,Novak Djokovic,Joao Souza,,,,,,,,,,,1101
+1,2015-usopen-1108,2015,usopen,1108,Simone Bolelli,David Goffin,,,,,,,,,,,1108
+2,2015-usopen-1109,2015,usopen,1109,Milos Raonic,Tim Smyczek,,,,,,,,,,,1109
+3,2015-usopen-1110,2015,usopen,1110,Fernando Verdasco,Tommy Haas,,,,,,,,,,,1110
+4,2015-usopen-1111,2015,usopen,1111,Marco Cecchinato,Mardy Fish,,,,,,,,,,,1111
+5,2015-usopen-1113,2015,usopen,1113,Fabio Fognini,Steve Johnson,,,,,,,,,,,1113
+6,2015-usopen-1116,2015,usopen,1116,Borna Coric,Rafael Nadal,,,,,,,,,,,1116
+7,2015-usopen-1117,2015,usopen,1117,Kei Nishikori,Benoit Paire,,,,,,,,,,,1117
+8,2015-usopen-1120,2015,usopen,1120,Michael Berrer,Tommy Robredo,,,,,,,,,,,1120
+9,2015-usopen-1121,2015,usopen,1121,Jo Wilfried Tsonga,Jarkko Nieminen,,,,,,,,,,,1121
+10,2015-usopen-1124,2015,usopen,1124,Illya Marchenko,Gael Monfils,,,,,,,,,,,1124
+11,2015-usopen-1125,2015,usopen,1125,Marin Cilic,Guido Pella,,,,,,,,,,,1125
+12,2015-usopen-1128,2015,usopen,1128,Matthew Ebden,Grigor Dimitrov,,,,,,,,,,,1128
+13,2015-usopen-1132,2015,usopen,1132,Radu Albot,David Ferrer,,,,,,,,,,,1132
+14,2015-usopen-1133,2015,usopen,1133,Stan Wawrinka,Albert Ramos Vinolas,,,,,,,,,,,1133
+15,2015-usopen-1136,2015,usopen,1136,Victor Estrella Burgos,Jack Sock,,,,,,,,,,,1136
+16,2015-usopen-1137,2015,usopen,1137,Viktor Troicki,Frances Tiafoe,,,,,,,,,,,1137
+17,2015-usopen-1140,2015,usopen,1140,Donald Young,Gilles Simon,,,,,,,,,,,1140
+18,2015-usopen-1141,2015,usopen,1141,Kevin Anderson,Andrey Rublev,,,,,,,,,,,1141
+19,2015-usopen-1146,2015,usopen,1146,Paul Henri Mathieu,Yoshihito Nishioka,,,,,,,,,,,1146
+20,2015-usopen-1148,2015,usopen,1148,Nick Kyrgios,Andy Murray,,,,,,,,,,,1148
+21,2015-usopen-1149,2015,usopen,1149,Tomas Berdych,Bjorn Fratangelo,,,,,,,,,,,1149
+22,2015-usopen-1151,2015,usopen,1151,Sam Querrey,Nicolas Mahut,,,,,,,,,,,1151
+23,2015-usopen-1153,2015,usopen,1153,Bernard Tomic,Damir Dzumhur,,,,,,,,,,,1153
+24,2015-usopen-1154,2015,usopen,1154,Aleksandr Nedovyesov,Lleyton Hewitt,,,,,,,,,,,1154
+25,2015-usopen-1156,2015,usopen,1156,Thanasi Kokkinakis,Richard Gasquet,,,,,,,,,,,1156
+26,2015-usopen-1157,2015,usopen,1157,John Isner,Malek Jaziri,,,,,,,,,,,1157
+27,2015-usopen-1164,2015,usopen,1164,Leonardo Mayer,Roger Federer,,,,,,,,,,,1164
+28,2015-usopen-1201,2015,usopen,1201,Novak Djokovic,Andreas Haider Maurer,,,,,,,,,,,1201
+29,2015-usopen-1202,2015,usopen,1202,Teymuraz Gabashvili,Andreas Seppi,,,,,,,,,,,1202
+30,2015-usopen-1204,2015,usopen,1204,Ricardas Berankis,David Goffin,,,,,,,,,,,1204
+31,2015-usopen-1205,2015,usopen,1205,Milos Raonic,Fernando Verdasco,,,,,,,,,,,1205
+32,2015-usopen-1206,2015,usopen,1206,Mardy Fish,Feliciano Lopez,,,,,,,,,,,1206
+33,2015-usopen-1207,2015,usopen,1207,Fabio Fognini,Pablo Cuevas,,,,,,,,,,,1207
+34,2015-usopen-1208,2015,usopen,1208,Diego Schwartzman,Rafael Nadal,,,,,,,,,,,1208
+35,2015-usopen-1209,2015,usopen,1209,Benoit Paire,Marsel Ilhan,,,,,,,,,,,1209
+36,2015-usopen-1210,2015,usopen,1210,Sam Groth,Tommy Robredo,,,,,,,,,,,1210
+37,2015-usopen-1211,2015,usopen,1211,Jo Wilfried Tsonga,Marcel Granollers,,,,,,,,,,,1211
+38,2015-usopen-1213,2015,usopen,1213,Marin Cilic,Evgeny Donskoy,,,,,,,,,,,1213
+39,2015-usopen-1214,2015,usopen,1214,Mikhail Kukushkin,Grigor Dimitrov,,,,,,,,,,,1214
+40,2015-usopen-1215,2015,usopen,1215,Jeremy Chardy,Martin Klizan,,,,,,,,,,,1215
+41,2015-usopen-1216,2015,usopen,1216,Filip Krajinovic,David Ferrer,,,,,,,,,,,1216
+42,2015-usopen-1217,2015,usopen,1217,Stan Wawrinka,Hyeon Chung,,,,,,,,,,,1217
+43,2015-usopen-1218,2015,usopen,1218,Ruben Bemelmans,Jack Sock,,,,,,,,,,,1218
+44,2015-usopen-1219,2015,usopen,1219,Viktor Troicki,Rajeev Ram,,,,,,,,,,,1219
+45,2015-usopen-1220,2015,usopen,1220,Aljaz Bedene,Donald Young,,,,,,,,,,,1220
+46,2015-usopen-1221,2015,usopen,1221,Kevin Anderson,Austin Krajicek,,,,,,,,,,,1221
+47,2015-usopen-1223,2015,usopen,1223,Thomaz Bellucci,Yoshihito Nishioka,,,,,,,,,,,1223
+48,2015-usopen-1224,2015,usopen,1224,Adrian Mannarino,Andy Murray,,,,,,,,,,,1224
+49,2015-usopen-1225,2015,usopen,1225,Tomas Berdych,Jurgen Melzer,,,,,,,,,,,1225
+50,2015-usopen-1226,2015,usopen,1226,Nicolas Mahut,Guillermo Garcia Lopez,,,,,,,,,,,1226
+51,2015-usopen-1227,2015,usopen,1227,Bernard Tomic,Lleyton Hewitt,,,,,,,,,,,1227
+52,2015-usopen-1228,2015,usopen,1228,Robin Haase,Richard Gasquet,,,,,,,,,,,1228
+53,2015-usopen-1229,2015,usopen,1229,John Isner,Mikhail Youzhny,,,,,,,,,,,1229
+54,2015-usopen-1231,2015,usopen,1231,Philipp Kohlschreiber,Lukas Rosol,,,,,,,,,,,1231
+55,2015-usopen-1232,2015,usopen,1232,Steve Darcis,Roger Federer,,,,,,,,,,,1232
+56,2015-usopen-1301,2015,usopen,1301,Novak Djokovic,Andreas Seppi,,,,,,,,,,,1301
+57,2015-usopen-1302,2015,usopen,1302,Roberto Bautista Agut,David Goffin,,,,,,,,,,,1302
+58,2015-usopen-1303,2015,usopen,1303,Milos Raonic,Feliciano Lopez,,,,,,,,,,,1303
+59,2015-usopen-1304,2015,usopen,1304,Fabio Fognini,Rafael Nadal,,,,,,,,,,,1304
+60,2015-usopen-1305,2015,usopen,1305,Benoit Paire,Tommy Robredo,,,,,,,,,,,1305
+61,2015-usopen-1306,2015,usopen,1306,Jo Wilfried Tsonga,Sergiy Stakhovsky,,,,,,,,,,,1306
+62,2015-usopen-1307,2015,usopen,1307,Marin Cilic,Mikhail Kukushkin,,,,,,,,,,,1307
+63,2015-usopen-1308,2015,usopen,1308,Jeremy Chardy,David Ferrer,,,,,,,,,,,1308
+64,2015-usopen-1309,2015,usopen,1309,Stan Wawrinka,Ruben Bemelmans,,,,,,,,,,,1309
+65,2015-usopen-1310,2015,usopen,1310,Viktor Troicki,Donald Young,,,,,,,,,,,1310
+66,2015-usopen-1311,2015,usopen,1311,Kevin Anderson,Dominic Thiem,,,,,,,,,,,1311
+67,2015-usopen-1312,2015,usopen,1312,Thomaz Bellucci,Andy Murray,,,,,,,,,,,1312
+68,2015-usopen-1313,2015,usopen,1313,Tomas Berdych,Guillermo Garcia Lopez,,,,,,,,,,,1313
+69,2015-usopen-1314,2015,usopen,1314,Bernard Tomic,Richard Gasquet,,,,,,,,,,,1314
+70,2015-usopen-1315,2015,usopen,1315,John Isner,Jiri Vesely,,,,,,,,,,,1315
+71,2015-usopen-1316,2015,usopen,1316,Philipp Kohlschreiber,Roger Federer,,,,,,,,,,,1316
+72,2015-usopen-1401,2015,usopen,1401,Novak Djokovic,Roberto Bautista Agut,,,,,,,,,,,1401
+73,2015-usopen-1402,2015,usopen,1402,Feliciano Lopez,Fabio Fognini,,,,,,,,,,,1402
+74,2015-usopen-1403,2015,usopen,1403,Benoit Paire,Jo Wilfried Tsonga,,,,,,,,,,,1403
+75,2015-usopen-1404,2015,usopen,1404,Marin Cilic,Jeremy Chardy,,,,,,,,,,,1404
+76,2015-usopen-1405,2015,usopen,1405,Stan Wawrinka,Donald Young,,,,,,,,,,,1405
+77,2015-usopen-1406,2015,usopen,1406,Kevin Anderson,Andy Murray,,,,,,,,,,,1406
+78,2015-usopen-1407,2015,usopen,1407,Tomas Berdych,Richard Gasquet,,,,,,,,,,,1407
+79,2015-usopen-1408,2015,usopen,1408,John Isner,Roger Federer,,,,,,,,,,,1408
+80,2015-usopen-1501,2015,usopen,1501,Novak Djokovic,Feliciano Lopez,,,,,,,,,,,1501
+81,2015-usopen-1502,2015,usopen,1502,Jo Wilfried Tsonga,Marin Cilic,,,,,,,,,,,1502
+82,2015-usopen-1503,2015,usopen,1503,Stan Wawrinka,Kevin Anderson,,,,,,,,,,,1503
+83,2015-usopen-1504,2015,usopen,1504,Richard Gasquet,Roger Federer,,,,,,,,,,,1504
+84,2015-usopen-1601,2015,usopen,1601,Novak Djokovic,Marin Cilic,,,,,,,,,,,1601
+85,2015-usopen-1602,2015,usopen,1602,Stan Wawrinka,Roger Federer,,,,,,,,,,,1602
+86,2015-usopen-1701,2015,usopen,1701,Novak Djokovic,Roger Federer,,,,,,,,,,,1701
+0,2015-wimbledon-1101,2015,wimbledon,1101,Novak Djokovic,Philipp Kohlschreiber,,,,,,,,,,,1101
+1,2015-wimbledon-1102,2015,wimbledon,1102,Jarkko Nieminen,Lleyton Hewitt,,,,,,,,,,,1102
+2,2015-wimbledon-1103,2015,wimbledon,1103,Pierre Hugues Herbert,Hyeon Chung,,,,,,,,,,,1103
+3,2015-wimbledon-1104,2015,wimbledon,1104,Jan Lennard Struff,Bernard Tomic,,,,,,,,,,,1104
+4,2015-wimbledon-1105,2015,wimbledon,1105,Leonardo Mayer,Thanasi Kokkinakis,,,,,,,,,,,1105
+5,2015-wimbledon-1106,2015,wimbledon,1106,Janko Tipsarevic,Marcel Granollers,,,,,,,,,,,1106
+6,2015-wimbledon-1107,2015,wimbledon,1107,Marsel Ilhan,Jerzy Janowicz,,,,,,,,,,,1107
+7,2015-wimbledon-1108,2015,wimbledon,1108,Lucas Pouille,Kevin Anderson,,,,,,,,,,,1108
+8,2015-wimbledon-1109,2015,wimbledon,1109,Marin Cilic,Hiroki Moriya,,,,,,,,,,,1109
+9,2015-wimbledon-1110,2015,wimbledon,1110,Andreas Haider Maurer,Ricardas Berankis,,,,,,,,,,,1110
+10,2015-wimbledon-1111,2015,wimbledon,1111,Matthew Ebden,Blaz Rola,,,,,,,,,,,1111
+11,2015-wimbledon-1112,2015,wimbledon,1112,Go Soeda,John Isner,,,,,,,,,,,1112
+12,2015-wimbledon-1113,2015,wimbledon,1113,Pablo Cuevas,Denis Kudla,,,,,,,,,,,1113
+13,2015-wimbledon-1114,2015,wimbledon,1114,Teymuraz Gabashvili,Alexander Zverev,,,,,,,,,,,1114
+14,2015-wimbledon-1115,2015,wimbledon,1115,Joao Souza,Santiago Giraldo,,,,,,,,,,,1115
+15,2015-wimbledon-1116,2015,wimbledon,1116,Simone Bolelli,Kei Nishikori,,,,,,,,,,,1116
+16,2015-wimbledon-1117,2015,wimbledon,1117,Stan Wawrinka,Joao Sousa,,,,,,,,,,,1117
+17,2015-wimbledon-1118,2015,wimbledon,1118,Victor Estrella Burgos,Benjamin Becker,,,,,,,,,,,1118
+18,2015-wimbledon-1119,2015,wimbledon,1119,Martin Klizan,Fernando Verdasco,,,,,,,,,,,1119
+19,2015-wimbledon-1120,2015,wimbledon,1120,Dudi Sela,Dominic Thiem,,,,,,,,,,,1120
+20,2015-wimbledon-1121,2015,wimbledon,1121,Tommy Robredo,John Millman,,,,,,,,,,,1121
+21,2015-wimbledon-1122,2015,wimbledon,1122,Donald Young,Marcos Baghdatis,,,,,,,,,,,1122
+22,2015-wimbledon-1123,2015,wimbledon,1123,Liam Broady,Marinko Matosevic,,,,,,,,,,,1123
+23,2015-wimbledon-1124,2015,wimbledon,1124,Horacio Zeballos,David Goffin,,,,,,,,,,,1124
+24,2015-wimbledon-1125,2015,wimbledon,1125,Grigor Dimitrov,Federico Delbonis,,,,,,,,,,,1125
+25,2015-wimbledon-1126,2015,wimbledon,1126,Lukas Lacko,Steve Johnson,,,,,,,,,,,1126
+26,2015-wimbledon-1127,2015,wimbledon,1127,Kenny De Schepper,John Patrick Smith,,,,,,,,,,,1127
+27,2015-wimbledon-1128,2015,wimbledon,1128,Luke Saville,Richard Gasquet,,,,,,,,,,,1128
+28,2015-wimbledon-1129,2015,wimbledon,1129,Nick Kyrgios,Diego Schwartzman,,,,,,,,,,,1129
+29,2015-wimbledon-1130,2015,wimbledon,1130,Juan Monaco,Florian Mayer,,,,,,,,,,,1130
+30,2015-wimbledon-1131,2015,wimbledon,1131,Dusan Lajovic,Tommy Haas,,,,,,,,,,,1131
+31,2015-wimbledon-1132,2015,wimbledon,1132,Daniel Gimeno Traver,Milos Raonic,,,,,,,,,,,1132
+32,2015-wimbledon-1133,2015,wimbledon,1133,Luca Vanni,James Ward,,,,,,,,,,,1133
+33,2015-wimbledon-1134,2015,wimbledon,1134,Jiri Vesely,Paolo Lorenzi,,,,,,,,,,,1134
+34,2015-wimbledon-1135,2015,wimbledon,1135,Vasek Pospisil,Vincent Millot,,,,,,,,,,,1135
+35,2015-wimbledon-1136,2015,wimbledon,1136,Tim Smyczek,Fabio Fognini,,,,,,,,,,,1136
+36,2015-wimbledon-1137,2015,wimbledon,1137,Viktor Troicki,Aleksandr Nedovyesov,,,,,,,,,,,1137
+37,2015-wimbledon-1138,2015,wimbledon,1138,Radek Stepanek,Aljaz Bedene,,,,,,,,,,,1138
+38,2015-wimbledon-1139,2015,wimbledon,1139,Dustin Brown,Yen Hsun Lu,,,,,,,,,,,1139
+39,2015-wimbledon-1140,2015,wimbledon,1140,Thomaz Bellucci,Rafael Nadal,,,,,,,,,,,1140
+40,2015-wimbledon-1141,2015,wimbledon,1141,Jo Wilfried Tsonga,Gilles Muller,,,,,,,,,,,1141
+41,2015-wimbledon-1142,2015,wimbledon,1142,Denis Istomin,Albert Ramos Vinolas,,,,,,,,,,,1142
+42,2015-wimbledon-1143,2015,wimbledon,1143,Alexandr Dolgopolov,Kyle Edmund,,,,,,,,,,,1143
+43,2015-wimbledon-1144,2015,wimbledon,1144,Elias Ymer,Ivo Karlovic,,,,,,,,,,,1144
+44,2015-wimbledon-1145,2015,wimbledon,1145,Andreas Seppi,Brydan Klein,,,,,,,,,,,1145
+45,2015-wimbledon-1146,2015,wimbledon,1146,Sergiy Stakhovsky,Borna Coric,,,,,,,,,,,1146
+46,2015-wimbledon-1147,2015,wimbledon,1147,Robin Haase,Alejandro Falla,,,,,,,,,,,1147
+47,2015-wimbledon-1148,2015,wimbledon,1148,Mikhail Kukushkin,Andy Murray,,,,,,,,,,,1148
+48,2015-wimbledon-1149,2015,wimbledon,1149,Tomas Berdych,Jeremy Chardy,,,,,,,,,,,1149
+49,2015-wimbledon-1150,2015,wimbledon,1150,Filip Krajinovic,Nicolas Mahut,,,,,,,,,,,1150
+50,2015-wimbledon-1151,2015,wimbledon,1151,Ernests Gulbis,Lukas Rosol,,,,,,,,,,,1151
+51,2015-wimbledon-1152,2015,wimbledon,1152,Pablo Andujar,Guillermo Garcia Lopez,,,,,,,,,,,1152
+52,2015-wimbledon-1153,2015,wimbledon,1153,Gael Monfils,Pablo Carreno Busta,,,,,,,,,,,1153
+53,2015-wimbledon-1154,2015,wimbledon,1154,Adrian Mannarino,Michael Berrer,,,,,,,,,,,1154
+54,2015-wimbledon-1155,2015,wimbledon,1155,Yuichi Sugita,Blaz Kavcic,,,,,,,,,,,1155
+55,2015-wimbledon-1156,2015,wimbledon,1156,Nicolas Almagro,Gilles Simon,,,,,,,,,,,1156
+56,2015-wimbledon-1157,2015,wimbledon,1157,Feliciano Lopez,Steve Darcis,,,,,,,,,,,1157
+57,2015-wimbledon-1158,2015,wimbledon,1158,Nikoloz Basilashvili,Facundo Bagnis,,,,,,,,,,,1158
+58,2015-wimbledon-1159,2015,wimbledon,1159,Benoit Paire,Mikhail Youzhny,,,,,,,,,,,1159
+59,2015-wimbledon-1160,2015,wimbledon,1160,Ruben Bemelmans,Roberto Bautista Agut,,,,,,,,,,,1160
+60,2015-wimbledon-1161,2015,wimbledon,1161,Jack Sock,Sam Groth,,,,,,,,,,,1161
+61,2015-wimbledon-1162,2015,wimbledon,1162,Malek Jaziri,James Duckworth,,,,,,,,,,,1162
+62,2015-wimbledon-1163,2015,wimbledon,1163,Sam Querrey,Igor Sijsling,,,,,,,,,,,1163
+63,2015-wimbledon-1164,2015,wimbledon,1164,Damir Dzumhur,Roger Federer,,,,,,,,,,,1164
+64,2015-wimbledon-1201,2015,wimbledon,1201,Novak Djokovic,Jarkko Nieminen,,,,,,,,,,,1201
+65,2015-wimbledon-1202,2015,wimbledon,1202,Pierre Hugues Herbert,Bernard Tomic,,,,,,,,,,,1202
+66,2015-wimbledon-1203,2015,wimbledon,1203,Leonardo Mayer,Marcel Granollers,,,,,,,,,,,1203
+67,2015-wimbledon-1204,2015,wimbledon,1204,Marsel Ilhan,Kevin Anderson,,,,,,,,,,,1204
+68,2015-wimbledon-1205,2015,wimbledon,1205,Marin Cilic,Ricardas Berankis,,,,,,,,,,,1205
+69,2015-wimbledon-1207,2015,wimbledon,1207,Denis Kudla,Alexander Zverev,,,,,,,,,,,1207
+70,2015-wimbledon-1209,2015,wimbledon,1209,Stan Wawrinka,Victor Estrella Burgos,,,,,,,,,,,1209
+71,2015-wimbledon-1210,2015,wimbledon,1210,Fernando Verdasco,Dominic Thiem,,,,,,,,,,,1210
+72,2015-wimbledon-1211,2015,wimbledon,1211,John Millman,Marcos Baghdatis,,,,,,,,,,,1211
+73,2015-wimbledon-1212,2015,wimbledon,1212,Liam Broady,David Goffin,,,,,,,,,,,1212
+74,2015-wimbledon-1213,2015,wimbledon,1213,Grigor Dimitrov,Steve Johnson,,,,,,,,,,,1213
+75,2015-wimbledon-1214,2015,wimbledon,1214,Kenny De Schepper,Richard Gasquet,,,,,,,,,,,1214
+76,2015-wimbledon-1215,2015,wimbledon,1215,Nick Kyrgios,Juan Monaco,,,,,,,,,,,1215
+77,2015-wimbledon-1216,2015,wimbledon,1216,Tommy Haas,Milos Raonic,,,,,,,,,,,1216
+78,2015-wimbledon-1217,2015,wimbledon,1217,James Ward,Jiri Vesely,,,,,,,,,,,1217
+79,2015-wimbledon-1218,2015,wimbledon,1218,Vasek Pospisil,Fabio Fognini,,,,,,,,,,,1218
+80,2015-wimbledon-1219,2015,wimbledon,1219,Viktor Troicki,Aljaz Bedene,,,,,,,,,,,1219
+81,2015-wimbledon-1220,2015,wimbledon,1220,Dustin Brown,Rafael Nadal,,,,,,,,,,,1220
+82,2015-wimbledon-1221,2015,wimbledon,1221,Jo Wilfried Tsonga,Albert Ramos Vinolas,,,,,,,,,,,1221
+83,2015-wimbledon-1222,2015,wimbledon,1222,Alexandr Dolgopolov,Ivo Karlovic,,,,,,,,,,,1222
+84,2015-wimbledon-1223,2015,wimbledon,1223,Andreas Seppi,Borna Coric,,,,,,,,,,,1223
+85,2015-wimbledon-1224,2015,wimbledon,1224,Robin Haase,Andy Murray,,,,,,,,,,,1224
+86,2015-wimbledon-1225,2015,wimbledon,1225,Tomas Berdych,Nicolas Mahut,,,,,,,,,,,1225
+87,2015-wimbledon-1226,2015,wimbledon,1226,Lukas Rosol,Pablo Andujar,,,,,,,,,,,1226
+88,2015-wimbledon-1227,2015,wimbledon,1227,Gael Monfils,Adrian Mannarino,,,,,,,,,,,1227
+89,2015-wimbledon-1228,2015,wimbledon,1228,Blaz Kavcic,Gilles Simon,,,,,,,,,,,1228
+90,2015-wimbledon-1229,2015,wimbledon,1229,Feliciano Lopez,Nikoloz Basilashvili,,,,,,,,,,,1229
+91,2015-wimbledon-1230,2015,wimbledon,1230,Benoit Paire,Roberto Bautista Agut,,,,,,,,,,,1230
+92,2015-wimbledon-1231,2015,wimbledon,1231,Sam Groth,James Duckworth,,,,,,,,,,,1231
+93,2015-wimbledon-1232,2015,wimbledon,1232,Sam Querrey,Roger Federer,,,,,,,,,,,1232
+94,2015-wimbledon-1301,2015,wimbledon,1301,Novak Djokovic,Bernard Tomic,,,,,,,,,,,1301
+95,2015-wimbledon-1302,2015,wimbledon,1302,Leonardo Mayer,Kevin Anderson,,,,,,,,,,,1302
+96,2015-wimbledon-1303,2015,wimbledon,1303,Marin Cilic,John Isner,,,,,,,,,,,1303
+97,2015-wimbledon-1304,2015,wimbledon,1304,Denis Kudla,Santiago Giraldo,,,,,,,,,,,1304
+98,2015-wimbledon-1305,2015,wimbledon,1305,Stan Wawrinka,Fernando Verdasco,,,,,,,,,,,1305
+99,2015-wimbledon-1306,2015,wimbledon,1306,Marcos Baghdatis,David Goffin,,,,,,,,,,,1306
+100,2015-wimbledon-1307,2015,wimbledon,1307,Grigor Dimitrov,Richard Gasquet,,,,,,,,,,,1307
+101,2015-wimbledon-1308,2015,wimbledon,1308,Nick Kyrgios,Milos Raonic,,,,,,,,,,,1308
+102,2015-wimbledon-1309,2015,wimbledon,1309,James Ward,Vasek Pospisil,,,,,,,,,,,1309
+103,2015-wimbledon-1310,2015,wimbledon,1310,Viktor Troicki,Dustin Brown,,,,,,,,,,,1310
+104,2015-wimbledon-1311,2015,wimbledon,1311,Jo Wilfried Tsonga,Ivo Karlovic,,,,,,,,,,,1311
+105,2015-wimbledon-1312,2015,wimbledon,1312,Andreas Seppi,Andy Murray,,,,,,,,,,,1312
+106,2015-wimbledon-1313,2015,wimbledon,1313,Tomas Berdych,Pablo Andujar,,,,,,,,,,,1313
+107,2015-wimbledon-1314,2015,wimbledon,1314,Gael Monfils,Gilles Simon,,,,,,,,,,,1314
+108,2015-wimbledon-1315,2015,wimbledon,1315,Nikoloz Basilashvili,Roberto Bautista Agut,,,,,,,,,,,1315
+109,2015-wimbledon-1316,2015,wimbledon,1316,Sam Groth,Roger Federer,,,,,,,,,,,1316
+110,2015-wimbledon-1401,2015,wimbledon,1401,Novak Djokovic,Kevin Anderson,,,,,,,,,,,1401
+111,2015-wimbledon-1402,2015,wimbledon,1402,Marin Cilic,Denis Kudla,,,,,,,,,,,1402
+112,2015-wimbledon-1403,2015,wimbledon,1403,Stan Wawrinka,David Goffin,,,,,,,,,,,1403
+113,2015-wimbledon-1404,2015,wimbledon,1404,Richard Gasquet,Nick Kyrgios,,,,,,,,,,,1404
+114,2015-wimbledon-1405,2015,wimbledon,1405,Vasek Pospisil,Viktor Troicki,,,,,,,,,,,1405
+115,2015-wimbledon-1406,2015,wimbledon,1406,Ivo Karlovic,Andy Murray,,,,,,,,,,,1406
+116,2015-wimbledon-1407,2015,wimbledon,1407,Tomas Berdych,Gilles Simon,,,,,,,,,,,1407
+117,2015-wimbledon-1408,2015,wimbledon,1408,Roberto Bautista Agut,Roger Federer,,,,,,,,,,,1408
+118,2015-wimbledon-1501,2015,wimbledon,1501,Novak Djokovic,Marin Cilic,,,,,,,,,,,1501
+119,2015-wimbledon-1502,2015,wimbledon,1502,Stan Wawrinka,Richard Gasquet,,,,,,,,,,,1502
+120,2015-wimbledon-1503,2015,wimbledon,1503,Vasek Pospisil,Andy Murray,,,,,,,,,,,1503
+121,2015-wimbledon-1504,2015,wimbledon,1504,Gilles Simon,Roger Federer,,,,,,,,,,,1504
+122,2015-wimbledon-1601,2015,wimbledon,1601,Novak Djokovic,Richard Gasquet,,,,,,,,,,,1601
+123,2015-wimbledon-1602,2015,wimbledon,1602,Andy Murray,Roger Federer,,,,,,,,,,,1602
+124,2015-wimbledon-1701,2015,wimbledon,1701,Novak Djokovic,Roger Federer,,,,,,,,,,,1701

@@ -1,381 +1,381 @@
-,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num
-0,2021,frenchopen,1101,N Djokovic,T Sandgren,,,,,,,,,,,1101.0
-1,2021,frenchopen,1102,L Pouille,P Cuevas,,,,,,,,,,,1102.0
-2,2021,frenchopen,1103,S Caruso,J Duckworth,,,,,,,,,,,1103.0
-3,2021,frenchopen,1104,R Berankis,U Humbert,,,,,,,,,,,1104.0
-4,2021,frenchopen,1105,A De Minaur,S Travaglia,,,,,,,,,,,1105.0
-5,2021,frenchopen,1106,Y Uchiyama,M Cecchinato,,,,,,,,,,,1106.0
-6,2021,frenchopen,1107,Jw Tsonga,Y Nishioka,,,,,,,,,,,1107.0
-7,2021,frenchopen,1108,L Musetti,D Goffin,,,,,,,,,,,1108.0
-8,2021,frenchopen,1109,M Berrettini,T Daniel,,,,,,,,,,,1109.0
-9,2021,frenchopen,1110,F Coria,F Lopez,,,,,,,,,,,1110.0
-10,2021,frenchopen,1111,K Anderson,S Kwon,,,,,,,,,,,1111.0
-11,2021,frenchopen,1112,A Seppi,F Auger-Aliassime,,,,,,,,,,,1112.0
-12,2021,frenchopen,1113,T Fritz,J Sousa,,,,,,,,,,,1113.0
-13,2021,frenchopen,1114,M Bourgue,D Koepfer,,,,,,,,,,,1114.0
-14,2021,frenchopen,1115,M Cilic,A Rinderknech,,,,,,,,,,,1115.0
-15,2021,frenchopen,1116,D Istomin,R Federer,,,,,,,,,,,1116.0
-16,2021,frenchopen,1117,R Nadal,A Popyrin,,,,,,,,,,,1117.0
-17,2021,frenchopen,1118,H Gaston,R Gasquet,,,,,,,,,,,1118.0
-18,2021,frenchopen,1119,C Norrie,B Fratangelo,,,,,,,,,,,1119.0
-19,2021,frenchopen,1120,L Harris,L Sonego,,,,,,,,,,,1120.0
-20,2021,frenchopen,1121,J Sinner,Ph Herbert,,,,,,,,,,,1121.0
-21,2021,frenchopen,1122,G Mager,P Gojowczyk,,,,,,,,,,,1122.0
-22,2021,frenchopen,1123,M Ymer,R Carballes Baena,,,,,,,,,,,1123.0
-23,2021,frenchopen,1124,A Ramos-Vinolas,G Monfils,,,,,,,,,,,1124.0
-24,2021,frenchopen,1125,D Schwartzman,Yh Lu,,,,,,,,,,,1125.0
-25,2021,frenchopen,1126,A Mannarino,A Bedene,,,,,,,,,,,1126.0
-26,2021,frenchopen,1127,P Kohlschreiber,F Verdasco,,,,,,,,,,,1127.0
-27,2021,frenchopen,1128,J Brooksby,A Karatsev,,,,,,,,,,,1128.0
-28,2021,frenchopen,1129,N Basilashvili,D Lajovic,,,,,,,,,,,1129.0
-29,2021,frenchopen,1130,C Alcaraz,B Zapata Miralles,,,,,,,,,,,1130.0
-30,2021,frenchopen,1131,F Bagnis,B Bonzi,,,,,,,,,,,1131.0
-31,2021,frenchopen,1132,Jl Struff,A Rublev,,,,,,,,,,,1132.0
-32,2021,frenchopen,1133,A Zverev,O Otte,,,,,,,,,,,1133.0
-33,2021,frenchopen,1134,R Safiullin,C Taberner,,,,,,,,,,,1134.0
-34,2021,frenchopen,1135,C Moutet,L Djere,,,,,,,,,,,1135.0
-35,2021,frenchopen,1136,M Kecmanovic,D Evans,,,,,,,,,,,1136.0
-36,2021,frenchopen,1137,K Khachanov,J Vesely,,,,,,,,,,,1137.0
-37,2021,frenchopen,1138,K Nishikori,A Giannessi,,,,,,,,,,,1138.0
-38,2021,frenchopen,1139,Y Hanfmann,H Laaksonen,,,,,,,,,,,1139.0
-39,2021,frenchopen,1140,M Vilella Martinez,R Bautista Agut,,,,,,,,,,,1140.0
-40,2021,frenchopen,1141,C Ruud,B Paire,,,,,,,,,,,1141.0
-41,2021,frenchopen,1142,K Majchrzak,A Cazaux,,,,,,,,,,,1142.0
-42,2021,frenchopen,1143,A Davidovich Fokina,M Kukushkin,,,,,,,,,,,1143.0
-43,2021,frenchopen,1144,B Van De Zandschulp,H Hurkacz,,,,,,,,,,,1144.0
-44,2021,frenchopen,1145,F Fognini,G Barrere,,,,,,,,,,,1145.0
-45,2021,frenchopen,1146,M Fucsovics,G Simon,,,,,,,,,,,1146.0
-46,2021,frenchopen,1147,R Albot,F Delbonis,,,,,,,,,,,1147.0
-47,2021,frenchopen,1148,P Andujar,D Thiem,,,,,,,,,,,1148.0
-48,2021,frenchopen,1149,S Tsitsipas,J Chardy,,,,,,,,,,,1149.0
-49,2021,frenchopen,1150,S Korda,P Martinez,,,,,,,,,,,1150.0
-50,2021,frenchopen,1151,M Marterer,F Krajinovic,,,,,,,,,,,1151.0
-51,2021,frenchopen,1152,S Querrey,J Isner,,,,,,,,,,,1152.0
-52,2021,frenchopen,1153,F Cerundolo,T Monteiro,,,,,,,,,,,1153.0
-53,2021,frenchopen,1154,S Johnson,F Tiafoe,,,,,,,,,,,1154.0
-54,2021,frenchopen,1155,E Gerasimov,E Couacaud,,,,,,,,,,,1155.0
-55,2021,frenchopen,1156,N Gombos,P Carreno Busta,,,,,,,,,,,1156.0
-56,2021,frenchopen,1157,G Dimitrov,M Giron,,,,,,,,,,,1157.0
-57,2021,frenchopen,1158,G Pella,De Galan,,,,,,,,,,,1158.0
-58,2021,frenchopen,1159,E Ruusuvuori,M Mcdonald,,,,,,,,,,,1159.0
-59,2021,frenchopen,1160,Ji Londero,C Garin,,,,,,,,,,,1160.0
-60,2021,frenchopen,1161,R Opelka,A Martin,,,,,,,,,,,1161.0
-61,2021,frenchopen,1162,J Munar,J Thompson,,,,,,,,,,,1162.0
-62,2021,frenchopen,1163,T Paul,C O'Connell,,,,,,,,,,,1163.0
-63,2021,frenchopen,1164,A Bublik,D Medvedev,,,,,,,,,,,1164.0
-64,2021,frenchopen,1201,N Djokovic,P Cuevas,,,,,,,,,,,1201.0
-65,2021,frenchopen,1202,J Duckworth,R Berankis,,,,,,,,,,,1202.0
-66,2021,frenchopen,1203,A De Minaur,M Cecchinato,,,,,,,,,,,1203.0
-67,2021,frenchopen,1204,Y Nishioka,L Musetti,,,,,,,,,,,1204.0
-68,2021,frenchopen,1205,M Berrettini,F Coria,,,,,,,,,,,1205.0
-69,2021,frenchopen,1206,S Kwon,A Seppi,,,,,,,,,,,1206.0
-70,2021,frenchopen,1207,T Fritz,D Koepfer,,,,,,,,,,,1207.0
-71,2021,frenchopen,1208,M Cilic,R Federer,,,,,,,,,,,1208.0
-72,2021,frenchopen,1209,R Nadal,R Gasquet,,,,,,,,,,,1209.0
-73,2021,frenchopen,1210,C Norrie,L Harris,,,,,,,,,,,1210.0
-74,2021,frenchopen,1211,J Sinner,G Mager,,,,,,,,,,,1211.0
-75,2021,frenchopen,1212,M Ymer,G Monfils,,,,,,,,,,,1212.0
-76,2021,frenchopen,1213,D Schwartzman,A Bedene,,,,,,,,,,,1213.0
-77,2021,frenchopen,1214,P Kohlschreiber,A Karatsev,,,,,,,,,,,1214.0
-78,2021,frenchopen,1215,N Basilashvili,C Alcaraz,,,,,,,,,,,1215.0
-79,2021,frenchopen,1216,F Bagnis,Jl Struff,,,,,,,,,,,1216.0
-80,2021,frenchopen,1217,A Zverev,R Safiullin,,,,,,,,,,,1217.0
-81,2021,frenchopen,1218,L Djere,M Kecmanovic,,,,,,,,,,,1218.0
-82,2021,frenchopen,1219,K Khachanov,K Nishikori,,,,,,,,,,,1219.0
-83,2021,frenchopen,1220,H Laaksonen,R Bautista Agut,,,,,,,,,,,1220.0
-84,2021,frenchopen,1221,C Ruud,K Majchrzak,,,,,,,,,,,1221.0
-85,2021,frenchopen,1222,A Davidovich Fokina,B Van De Zandschulp,,,,,,,,,,,1222.0
-86,2021,frenchopen,1223,F Fognini,M Fucsovics,,,,,,,,,,,1223.0
-87,2021,frenchopen,1224,F Delbonis,P Andujar,,,,,,,,,,,1224.0
-88,2021,frenchopen,1225,S Tsitsipas,P Martinez,,,,,,,,,,,1225.0
-89,2021,frenchopen,1226,F Krajinovic,J Isner,,,,,,,,,,,1226.0
-90,2021,frenchopen,1227,T Monteiro,S Johnson,,,,,,,,,,,1227.0
-91,2021,frenchopen,1228,E Couacaud,P Carreno Busta,,,,,,,,,,,1228.0
-92,2021,frenchopen,1229,M Giron,G Pella,,,,,,,,,,,1229.0
-93,2021,frenchopen,1230,M Mcdonald,C Garin,,,,,,,,,,,1230.0
-94,2021,frenchopen,1231,R Opelka,J Munar,,,,,,,,,,,1231.0
-95,2021,frenchopen,1232,T Paul,D Medvedev,,,,,,,,,,,1232.0
-96,2021,frenchopen,1301,N Djokovic,R Berankis,,,,,,,,,,,1301.0
-97,2021,frenchopen,1302,M Cecchinato,L Musetti,,,,,,,,,,,1302.0
-98,2021,frenchopen,1303,M Berrettini,S Kwon,,,,,,,,,,,1303.0
-99,2021,frenchopen,1304,D Koepfer,R Federer,,,,,,,,,,,1304.0
-100,2021,frenchopen,1305,R Nadal,C Norrie,,,,,,,,,,,1305.0
-101,2021,frenchopen,1306,J Sinner,M Ymer,,,,,,,,,,,1306.0
-102,2021,frenchopen,1307,D Schwartzman,P Kohlschreiber,,,,,,,,,,,1307.0
-103,2021,frenchopen,1308,C Alcaraz,Jl Struff,,,,,,,,,,,1308.0
-104,2021,frenchopen,1309,A Zverev,L Djere,,,,,,,,,,,1309.0
-105,2021,frenchopen,1310,K Nishikori,H Laaksonen,,,,,,,,,,,1310.0
-106,2021,frenchopen,1311,C Ruud,A Davidovich Fokina,,,,,,,,,,,1311.0
-107,2021,frenchopen,1312,F Fognini,F Delbonis,,,,,,,,,,,1312.0
-108,2021,frenchopen,1313,S Tsitsipas,J Isner,,,,,,,,,,,1313.0
-109,2021,frenchopen,1314,S Johnson,P Carreno Busta,,,,,,,,,,,1314.0
-110,2021,frenchopen,1315,M Giron,C Garin,,,,,,,,,,,1315.0
-111,2021,frenchopen,1316,R Opelka,D Medvedev,,,,,,,,,,,1316.0
-112,2021,frenchopen,1401,N Djokovic,L Musetti,,,,,,,,,,,1401.0
-113,2021,frenchopen,1402,M Berrettini,R Federer,,,,,,,,,,,1402.0
-114,2021,frenchopen,1403,R Nadal,J Sinner,,,,,,,,,,,1403.0
-115,2021,frenchopen,1404,D Schwartzman,Jl Struff,,,,,,,,,,,1404.0
-116,2021,frenchopen,1405,A Zverev,K Nishikori,,,,,,,,,,,1405.0
-117,2021,frenchopen,1406,A Davidovich Fokina,F Delbonis,,,,,,,,,,,1406.0
-118,2021,frenchopen,1407,S Tsitsipas,P Carreno Busta,,,,,,,,,,,1407.0
-119,2021,frenchopen,1408,C Garin,D Medvedev,,,,,,,,,,,1408.0
-120,2021,frenchopen,1501,N Djokovic,M Berrettini,,,,,,,,,,,1501.0
-121,2021,frenchopen,1502,R Nadal,D Schwartzman,,,,,,,,,,,1502.0
-122,2021,frenchopen,1503,A Zverev,A Davidovich Fokina,,,,,,,,,,,1503.0
-123,2021,frenchopen,1504,S Tsitsipas,D Medvedev,,,,,,,,,,,1504.0
-124,2021,frenchopen,1601,N Djokovic,R Nadal,,,,,,,,,,,1601.0
-125,2021,frenchopen,1602,A Zverev,S Tsitsipas,,,,,,,,,,,1602.0
-126,2021,frenchopen,1701,N Djokovic,S Tsitsipas,,,,,,,,,,,1701.0
-0,2021,usopen,1101,Novak Djokovic,Holger Vitus Nodskov Rune,,,,,,,,,,,1101.0
-1,2021,usopen,1102,Tallon Griekspoor,Jan Lennard Struff,,,,,,,,,,,1102.0
-2,2021,usopen,1103,Salvatore Caruso,Kei Nishikori,,,,,,,,,,,1103.0
-3,2021,usopen,1104,Mackenzie McDonald,David Goffin,,,,,,,,,,,1104.0
-4,2021,usopen,1105,Aslan Karatsev,Jaume Munar,,,,,,,,,,,1105.0
-5,2021,usopen,1106,Jordan Thompson,Gianluca Mager,,,,,,,,,,,1106.0
-6,2021,usopen,1107,Jenson Brooksby,Mikael Ymer,,,,,,,,,,,1107.0
-7,2021,usopen,1108,Taylor Fritz,Alex de Minaur,,,,,,,,,,,1108.0
-8,2021,usopen,1109,Hubert Hurkacz,Egor Gerasimov,,,,,,,,,,,1109.0
-9,2021,usopen,1110,Andreas Seppi,Marton Fucsovics,,,,,,,,,,,1110.0
-10,2021,usopen,1111,Denis Kudla,Laslo Djere,,,,,,,,,,,1111.0
-11,2021,usopen,1112,Oscar Otte,Lorenzo Sonego,,,,,,,,,,,1112.0
-12,2021,usopen,1113,Fabio Fognini,Vasek Pospisil,,,,,,,,,,,1113.0
-13,2021,usopen,1114,Tennys Sandgren,Ilya Ivashka,,,,,,,,,,,1114.0
-14,2021,usopen,1115,Corentin Moutet,Stefano Travaglia,,,,,,,,,,,1115.0
-15,2021,usopen,1116,Jeremy Chardy,Matteo Berrettini,,,,,,,,,,,1116.0
-16,2021,usopen,1117,Alexander Zverev,Sam Querrey,,,,,,,,,,,1117.0
-17,2021,usopen,1118,Albert Ramos Vinolas,Lucas Pouille,,,,,,,,,,,1118.0
-18,2021,usopen,1119,Yoshihito Nishioka,Jack Sock,,,,,,,,,,,1119.0
-19,2021,usopen,1120,Yannick Hanfmann,Alexander Bublik,,,,,,,,,,,1120.0
-20,2021,usopen,1121,Gael Monfils,Federico Coria,,,,,,,,,,,1121.0
-21,2021,usopen,1122,Steve Johnson,Maximilian Marterer,,,,,,,,,,,1122.0
-22,2021,usopen,1123,Marco Cecchinato,Zachary Svajda,,,,,,,,,,,1123.0
-23,2021,usopen,1124,Max Purcell,Jannik Sinner,,,,,,,,,,,1124.0
-24,2021,usopen,1125,Pablo Carreno Busta,Maxime Cressy,,,,,,,,,,,1125.0
-25,2021,usopen,1126,Sebastian Korda,Nikoloz Basilashvili,,,,,,,,,,,1126.0
-26,2021,usopen,1127,Lorenzo Musetti,Emilio Nava,,,,,,,,,,,1127.0
-27,2021,usopen,1128,Soonwoo Kwon,Reilly Opelka,,,,,,,,,,,1128.0
-28,2021,usopen,1129,Karen Khachanov,Lloyd Harris,,,,,,,,,,,1129.0
-29,2021,usopen,1130,Pablo Cuevas,Ernesto Escobedo,,,,,,,,,,,1130.0
-30,2021,usopen,1131,Roberto Carballes Baena,Tommy Paul,,,,,,,,,,,1131.0
-31,2021,usopen,1132,Federico Delbonis,Denis Shapovalov,,,,,,,,,,,1132.0
-32,2021,usopen,1133,Andrey Rublev,Ivo Karlovic,,,,,,,,,,,1133.0
-33,2021,usopen,1134,Pedro Martinez,James Duckworth,,,,,,,,,,,1134.0
-34,2021,usopen,1135,Frances Tiafoe,Christopher Eubanks,,,,,,,,,,,1135.0
-35,2021,usopen,1136,Guido Pella,Filip Krajinovic,,,,,,,,,,,1136.0
-36,2021,usopen,1137,Roberto Bautista Agut,Nick Kyrgios,,,,,,,,,,,1137.0
-37,2021,usopen,1138,Kamil Majchrzak,Emil Ruusuvuori,,,,,,,,,,,1138.0
-38,2021,usopen,1139,Feliciano Lopez,Bernabe Zapata Miralles,,,,,,,,,,,1139.0
-39,2021,usopen,1140,Evgeny Donskoy,Felix Auger Aliassime,,,,,,,,,,,1140.0
-40,2021,usopen,1141,Cristian Garin,Norbert Gombos,,,,,,,,,,,1141.0
-41,2021,usopen,1142,Henri Laaksonen,John Millman,,,,,,,,,,,1142.0
-42,2021,usopen,1143,Dusan Lajovic,Benoit Paire,,,,,,,,,,,1143.0
-43,2021,usopen,1144,Peter Gojowczyk,Ugo Humbert,,,,,,,,,,,1144.0
-44,2021,usopen,1145,Cameron Norrie,Carlos Alcaraz,,,,,,,,,,,1145.0
-45,2021,usopen,1146,Miomir Kecmanovic,Arthur Rinderknech,,,,,,,,,,,1146.0
-46,2021,usopen,1147,Pierre Hugues Herbert,Adrian Mannarino,,,,,,,,,,,1147.0
-47,2021,usopen,1148,Andy Murray,Stefanos Tsitsipas,,,,,,,,,,,1148.0
-48,2021,usopen,1149,Casper Ruud,Yuichi Sugita,,,,,,,,,,,1149.0
-49,2021,usopen,1150,Botic Van De Zandschulp,Carlos Taberner,,,,,,,,,,,1150.0
-50,2021,usopen,1151,Facundo Bagnis,Taro Daniel,,,,,,,,,,,1151.0
-51,2021,usopen,1152,Marco Trungelliti,Alejandro Davidovich Fokina,,,,,,,,,,,1152.0
-52,2021,usopen,1153,John Isner,Brandon Nakashima,,,,,,,,,,,1153.0
-53,2021,usopen,1154,Alex Molcan,Cem Ilkel,,,,,,,,,,,1154.0
-54,2021,usopen,1155,Jiri Vesely,Kevin Anderson,,,,,,,,,,,1155.0
-55,2021,usopen,1156,Ricardas Berankis,Diego Schwartzman,,,,,,,,,,,1156.0
-56,2021,usopen,1157,Grigor Dimitrov,Sam Riffice,,,,,,,,,,,1157.0
-57,2021,usopen,1158,Alexei Popyrin,Radu Albot,,,,,,,,,,,1158.0
-58,2021,usopen,1159,Marcos Giron,Antoine Hoang,,,,,,,,,,,1159.0
-59,2021,usopen,1160,Thiago Monteiro,Daniel Evans,,,,,,,,,,,1160.0
-60,2021,usopen,1161,Marin Cilic,Philipp Kohlschreiber,,,,,,,,,,,1161.0
-61,2021,usopen,1162,Mikhail Kukushkin,Pablo Andujar,,,,,,,,,,,1162.0
-62,2021,usopen,1163,Dominik Koepfer,Quentin Halys,,,,,,,,,,,1163.0
-63,2021,usopen,1164,Richard Gasquet,Daniil Medvedev,,,,,,,,,,,1164.0
-64,2021,usopen,1201,Novak Djokovic,Tallon Griekspoor,,,,,,,,,,,1201.0
-65,2021,usopen,1202,Kei Nishikori,Mackenzie McDonald,,,,,,,,,,,1202.0
-66,2021,usopen,1203,Aslan Karatsev,Jordan Thompson,,,,,,,,,,,1203.0
-67,2021,usopen,1204,Jenson Brooksby,Taylor Fritz,,,,,,,,,,,1204.0
-68,2021,usopen,1205,Hubert Hurkacz,Andreas Seppi,,,,,,,,,,,1205.0
-69,2021,usopen,1206,Denis Kudla,Oscar Otte,,,,,,,,,,,1206.0
-70,2021,usopen,1207,Vasek Pospisil,Ilya Ivashka,,,,,,,,,,,1207.0
-71,2021,usopen,1208,Corentin Moutet,Matteo Berrettini,,,,,,,,,,,1208.0
-72,2021,usopen,1209,Alexander Zverev,Albert Ramos Vinolas,,,,,,,,,,,1209.0
-73,2021,usopen,1210,Jack Sock,Alexander Bublik,,,,,,,,,,,1210.0
-74,2021,usopen,1211,Gael Monfils,Steve Johnson,,,,,,,,,,,1211.0
-75,2021,usopen,1212,Zachary Svajda,Jannik Sinner,,,,,,,,,,,1212.0
-76,2021,usopen,1213,Maxime Cressy,Nikoloz Basilashvili,,,,,,,,,,,1213.0
-77,2021,usopen,1214,Lorenzo Musetti,Reilly Opelka,,,,,,,,,,,1214.0
-78,2021,usopen,1215,Lloyd Harris,Ernesto Escobedo,,,,,,,,,,,1215.0
-79,2021,usopen,1216,Roberto Carballes Baena,Denis Shapovalov,,,,,,,,,,,1216.0
-80,2021,usopen,1217,Andrey Rublev,Pedro Martinez,,,,,,,,,,,1217.0
-81,2021,usopen,1218,Frances Tiafoe,Guido Pella,,,,,,,,,,,1218.0
-82,2021,usopen,1219,Roberto Bautista Agut,Emil Ruusuvuori,,,,,,,,,,,1219.0
-83,2021,usopen,1220,Bernabe Zapata Miralles,Felix Auger Aliassime,,,,,,,,,,,1220.0
-84,2021,usopen,1221,Cristian Garin,Henri Laaksonen,,,,,,,,,,,1221.0
-85,2021,usopen,1222,Dusan Lajovic,Peter Gojowczyk,,,,,,,,,,,1222.0
-86,2021,usopen,1223,Carlos Alcaraz,Arthur Rinderknech,,,,,,,,,,,1223.0
-87,2021,usopen,1224,Adrian Mannarino,Stefanos Tsitsipas,,,,,,,,,,,1224.0
-88,2021,usopen,1225,Casper Ruud,Botic Van De Zandschulp,,,,,,,,,,,1225.0
-89,2021,usopen,1226,Facundo Bagnis,Marco Trungelliti,,,,,,,,,,,1226.0
-90,2021,usopen,1227,Brandon Nakashima,Alex Molcan,,,,,,,,,,,1227.0
-91,2021,usopen,1228,Kevin Anderson,Diego Schwartzman,,,,,,,,,,,1228.0
-92,2021,usopen,1229,Grigor Dimitrov,Alexei Popyrin,,,,,,,,,,,1229.0
-93,2021,usopen,1230,Marcos Giron,Daniel Evans,,,,,,,,,,,1230.0
-94,2021,usopen,1231,Philipp Kohlschreiber,Pablo Andujar,,,,,,,,,,,1231.0
-95,2021,usopen,1232,Dominik Koepfer,Daniil Medvedev,,,,,,,,,,,1232.0
-96,2021,usopen,1301,Novak Djokovic,Kei Nishikori,,,,,,,,,,,1301.0
-97,2021,usopen,1302,Aslan Karatsev,Jenson Brooksby,,,,,,,,,,,1302.0
-98,2021,usopen,1303,Andreas Seppi,Oscar Otte,,,,,,,,,,,1303.0
-99,2021,usopen,1304,Ilya Ivashka,Matteo Berrettini,,,,,,,,,,,1304.0
-100,2021,usopen,1305,Alexander Zverev,Jack Sock,,,,,,,,,,,1305.0
-101,2021,usopen,1306,Gael Monfils,Jannik Sinner,,,,,,,,,,,1306.0
-102,2021,usopen,1307,Nikoloz Basilashvili,Reilly Opelka,,,,,,,,,,,1307.0
-103,2021,usopen,1308,Lloyd Harris,Denis Shapovalov,,,,,,,,,,,1308.0
-104,2021,usopen,1309,Andrey Rublev,Frances Tiafoe,,,,,,,,,,,1309.0
-105,2021,usopen,1310,Roberto Bautista Agut,Felix Auger Aliassime,,,,,,,,,,,1310.0
-106,2021,usopen,1311,Henri Laaksonen,Peter Gojowczyk,,,,,,,,,,,1311.0
-107,2021,usopen,1312,Carlos Alcaraz,Stefanos Tsitsipas,,,,,,,,,,,1312.0
-108,2021,usopen,1313,Botic Van De Zandschulp,Facundo Bagnis,,,,,,,,,,,1313.0
-109,2021,usopen,1314,Alex Molcan,Diego Schwartzman,,,,,,,,,,,1314.0
-110,2021,usopen,1315,Alexei Popyrin,Daniel Evans,,,,,,,,,,,1315.0
-111,2021,usopen,1316,Pablo Andujar,Daniil Medvedev,,,,,,,,,,,1316.0
-112,2021,usopen,1401,Novak Djokovic,Jenson Brooksby,,,,,,,,,,,1401.0
-113,2021,usopen,1402,Oscar Otte,Matteo Berrettini,,,,,,,,,,,1402.0
-114,2021,usopen,1403,Alexander Zverev,Jannik Sinner,,,,,,,,,,,1403.0
-115,2021,usopen,1404,Reilly Opelka,Lloyd Harris,,,,,,,,,,,1404.0
-116,2021,usopen,1405,Frances Tiafoe,Felix Auger Aliassime,,,,,,,,,,,1405.0
-117,2021,usopen,1406,Peter Gojowczyk,Carlos Alcaraz,,,,,,,,,,,1406.0
-118,2021,usopen,1407,Botic Van De Zandschulp,Diego Schwartzman,,,,,,,,,,,1407.0
-119,2021,usopen,1408,Daniel Evans,Daniil Medvedev,,,,,,,,,,,1408.0
-120,2021,usopen,1501,Novak Djokovic,Matteo Berrettini,,,,,,,,,,,1501.0
-121,2021,usopen,1502,Alexander Zverev,Lloyd Harris,,,,,,,,,,,1502.0
-122,2021,usopen,1503,Felix Auger Aliassime,Carlos Alcaraz,,,,,,,,,,,1503.0
-123,2021,usopen,1504,Botic Van De Zandschulp,Daniil Medvedev,,,,,,,,,,,1504.0
-124,2021,usopen,1601,Novak Djokovic,Alexander Zverev,,,,,,,,,,,1601.0
-125,2021,usopen,1602,Felix Auger Aliassime,Daniil Medvedev,,,,,,,,,,,1602.0
-126,2021,usopen,1701,Novak Djokovic,Daniil Medvedev,,,,,,,,,,,1701.0
-0,2021,wimbledon,1101,Novak Djokovic,Jack Draper,,,,,,,,,,,1101.0
-1,2021,wimbledon,1102,Marcelo Tomas Barrios Vera,Kevin Anderson,,,,,,,,,,,1102.0
-2,2021,wimbledon,1103,Andreas Seppi,Joao Sousa,,,,,,,,,,,1103.0
-3,2021,wimbledon,1104,Denis Kudla,Alejandro Davidovich Fokina,,,,,,,,,,,1104.0
-4,2021,wimbledon,1105,Cristian Garin,Bernabe Zapata Miralles,,,,,,,,,,,1105.0
-5,2021,wimbledon,1106,Marc Polmans,Yen Hsun Lu,,,,,,,,,,,1106.0
-6,2021,wimbledon,1107,Pedro Martinez,Stefano Travaglia,,,,,,,,,,,1107.0
-7,2021,wimbledon,1108,Christopher O'Connell,Gael Monfils,,,,,,,,,,,1108.0
-8,2021,wimbledon,1109,Diego Schwartzman,Benoit Paire,,,,,,,,,,,1109.0
-9,2021,wimbledon,1110,Marco Cecchinato,Liam Broady,,,,,,,,,,,1110.0
-10,2021,wimbledon,1111,Jiri Vesely,Yannick Hanfmann,,,,,,,,,,,1111.0
-11,2021,wimbledon,1112,Marton Fucsovics,Jannik Sinner,,,,,,,,,,,1112.0
-12,2021,wimbledon,1113,Fabio Fognini,Albert Ramos Vinolas,,,,,,,,,,,1113.0
-13,2021,wimbledon,1114,Pablo Cuevas,Laslo Djere,,,,,,,,,,,1114.0
-14,2021,wimbledon,1115,Lloyd Harris,Ricardas Berankis,,,,,,,,,,,1115.0
-15,2021,wimbledon,1116,Federico Delbonis,Andrey Rublev,,,,,,,,,,,1116.0
-16,2021,wimbledon,1117,Stefanos Tsitsipas,Frances Tiafoe,,,,,,,,,,,1117.0
-17,2021,wimbledon,1118,Roberto Carballes Baena,Vasek Pospisil,,,,,,,,,,,1118.0
-18,2021,wimbledon,1119,Egor Gerasimov,Jay Clarke,,,,,,,,,,,1119.0
-19,2021,wimbledon,1120,Mackenzie McDonald,Karen Khachanov,,,,,,,,,,,1120.0
-20,2021,wimbledon,1121,Daniel Evans,Feliciano Lopez,,,,,,,,,,,1121.0
-21,2021,wimbledon,1122,Dusan Lajovic,Gilles Simon,,,,,,,,,,,1122.0
-22,2021,wimbledon,1123,Zhizhen Zhang,Antoine Hoang,,,,,,,,,,,1123.0
-23,2021,wimbledon,1124,Sebastian Korda,Alex De Minaur,,,,,,,,,,,1124.0
-24,2021,wimbledon,1125,Denis Shapovalov,Philipp Kohlschreiber,,,,,,,,,,,1125.0
-25,2021,wimbledon,1126,Pierre Hugues Herbert,Pablo Andujar,,,,,,,,,,,1126.0
-26,2021,wimbledon,1127,Oscar Otte,Arthur Rinderknech,,,,,,,,,,,1127.0
-27,2021,wimbledon,1128,Andy Murray,Nikoloz Basilashvili,,,,,,,,,,,1128.0
-28,2021,wimbledon,1129,Reilly Opelka,Dominik Koepfer,,,,,,,,,,,1129.0
-29,2021,wimbledon,1130,Soonwoo Kwon,Daniel Masur,,,,,,,,,,,1130.0
-30,2021,wimbledon,1131,Facundo Bagnis,Miomir Kecmanovic,,,,,,,,,,,1131.0
-31,2021,wimbledon,1132,John Millman,Roberto Bautista Agut,,,,,,,,,,,1132.0
-32,2021,wimbledon,1133,Matteo Berrettini,Guido Pella,,,,,,,,,,,1133.0
-33,2021,wimbledon,1134,Botic Van De Zandschulp,Gregoire Barrere,,,,,,,,,,,1134.0
-34,2021,wimbledon,1135,Corentin Moutet,Aljaz Bedene,,,,,,,,,,,1135.0
-35,2021,wimbledon,1136,Yoshihito Nishioka,John Isner,,,,,,,,,,,1136.0
-36,2021,wimbledon,1137,Aslan Karatsev,Jeremy Chardy,,,,,,,,,,,1137.0
-37,2021,wimbledon,1138,Jaume Munar,Ilya Ivashka,,,,,,,,,,,1138.0
-38,2021,wimbledon,1139,Kei Nishikori,Alexei Popyrin,,,,,,,,,,,1139.0
-39,2021,wimbledon,1140,Jordan Thompson,Casper Ruud,,,,,,,,,,,1140.0
-40,2021,wimbledon,1141,Felix Auger Aliassime,Thiago Monteiro,,,,,,,,,,,1141.0
-41,2021,wimbledon,1142,Jo Wilfried Tsonga,Mikael Ymer,,,,,,,,,,,1142.0
-42,2021,wimbledon,1143,Juan Ignacio Londero,Gianluca Mager,,,,,,,,,,,1143.0
-43,2021,wimbledon,1144,Nick Kyrgios,Ugo Humbert,,,,,,,,,,,1144.0
-44,2021,wimbledon,1145,Taylor Fritz,Brandon Nakashima,,,,,,,,,,,1145.0
-45,2021,wimbledon,1146,Steve Johnson,Dennis Novak,,,,,,,,,,,1146.0
-46,2021,wimbledon,1147,Tennys Sandgren,Norbert Gombos,,,,,,,,,,,1147.0
-47,2021,wimbledon,1148,Tallon Griekspoor,Alexander Zverev,,,,,,,,,,,1148.0
-48,2021,wimbledon,1149,Roger Federer,Adrian Mannarino,,,,,,,,,,,1149.0
-49,2021,wimbledon,1150,Richard Gasquet,Yuichi Sugita,,,,,,,,,,,1150.0
-50,2021,wimbledon,1151,Filip Krajinovic,Alex Bolt,,,,,,,,,,,1151.0
-51,2021,wimbledon,1152,Lucas Pouille,Cameron Norrie,,,,,,,,,,,1152.0
-52,2021,wimbledon,1153,Lorenzo Sonego,Pedro Sousa,,,,,,,,,,,1153.0
-53,2021,wimbledon,1154,Daniel Elahi Galan,Federico Coria,,,,,,,,,,,1154.0
-54,2021,wimbledon,1155,James Duckworth,Radu Albot,,,,,,,,,,,1155.0
-55,2021,wimbledon,1156,Sam Querrey,Pablo Carreno Busta,,,,,,,,,,,1156.0
-56,2021,wimbledon,1157,Hubert Hurkacz,Lorenzo Musetti,,,,,,,,,,,1157.0
-57,2021,wimbledon,1158,Emil Ruusuvuori,Marcos Giron,,,,,,,,,,,1158.0
-58,2021,wimbledon,1159,Mikhail Kukushkin,Alexander Bublik,,,,,,,,,,,1159.0
-59,2021,wimbledon,1160,Fernando Verdasco,Grigor Dimitrov,,,,,,,,,,,1160.0
-60,2021,wimbledon,1161,Marin Cilic,Salvatore Caruso,,,,,,,,,,,1161.0
-61,2021,wimbledon,1162,Marco Trungelliti,Benjamin Bonzi,,,,,,,,,,,1162.0
-62,2021,wimbledon,1163,Yasutaka Uchiyama,Carlos Alcaraz,,,,,,,,,,,1163.0
-63,2021,wimbledon,1164,Jan Lennard Struff,Daniil Medvedev,,,,,,,,,,,1164.0
-64,2021,wimbledon,1201,Novak Djokovic,Kevin Anderson,,,,,,,,,,,1201.0
-65,2021,wimbledon,1202,Andreas Seppi,Denis Kudla,,,,,,,,,,,1202.0
-66,2021,wimbledon,1203,Cristian Garin,Marc Polmans,,,,,,,,,,,1203.0
-67,2021,wimbledon,1204,Pedro Martinez,Gael Monfils,,,,,,,,,,,1204.0
-68,2021,wimbledon,1205,Diego Schwartzman,Liam Broady,,,,,,,,,,,1205.0
-69,2021,wimbledon,1206,Jiri Vesely,Marton Fucsovics,,,,,,,,,,,1206.0
-70,2021,wimbledon,1207,Fabio Fognini,Laslo Djere,,,,,,,,,,,1207.0
-71,2021,wimbledon,1208,Lloyd Harris,Andrey Rublev,,,,,,,,,,,1208.0
-72,2021,wimbledon,1209,Frances Tiafoe,Vasek Pospisil,,,,,,,,,,,1209.0
-73,2021,wimbledon,1210,Egor Gerasimov,Karen Khachanov,,,,,,,,,,,1210.0
-74,2021,wimbledon,1211,Daniel Evans,Dusan Lajovic,,,,,,,,,,,1211.0
-75,2021,wimbledon,1212,Antoine Hoang,Sebastian Korda,,,,,,,,,,,1212.0
-76,2021,wimbledon,1214,Oscar Otte,Andy Murray,,,,,,,,,,,1214.0
-77,2021,wimbledon,1215,Dominik Koepfer,Soonwoo Kwon,,,,,,,,,,,1215.0
-78,2021,wimbledon,1216,Miomir Kecmanovic,Roberto Bautista Agut,,,,,,,,,,,1216.0
-79,2021,wimbledon,1217,Matteo Berrettini,Botic Van De Zandschulp,,,,,,,,,,,1217.0
-80,2021,wimbledon,1218,Aljaz Bedene,Yoshihito Nishioka,,,,,,,,,,,1218.0
-81,2021,wimbledon,1219,Jeremy Chardy,Ilya Ivashka,,,,,,,,,,,1219.0
-82,2021,wimbledon,1220,Kei Nishikori,Jordan Thompson,,,,,,,,,,,1220.0
-83,2021,wimbledon,1221,Felix Auger Aliassime,Mikael Ymer,,,,,,,,,,,1221.0
-84,2021,wimbledon,1222,Gianluca Mager,Nick Kyrgios,,,,,,,,,,,1222.0
-85,2021,wimbledon,1223,Taylor Fritz,Steve Johnson,,,,,,,,,,,1223.0
-86,2021,wimbledon,1224,Tennys Sandgren,Alexander Zverev,,,,,,,,,,,1224.0
-87,2021,wimbledon,1225,Roger Federer,Richard Gasquet,,,,,,,,,,,1225.0
-88,2021,wimbledon,1226,Alex Bolt,Cameron Norrie,,,,,,,,,,,1226.0
-89,2021,wimbledon,1227,Lorenzo Sonego,Daniel Elahi Galan,,,,,,,,,,,1227.0
-90,2021,wimbledon,1228,James Duckworth,Sam Querrey,,,,,,,,,,,1228.0
-91,2021,wimbledon,1229,Hubert Hurkacz,Marcos Giron,,,,,,,,,,,1229.0
-92,2021,wimbledon,1230,Alexander Bublik,Grigor Dimitrov,,,,,,,,,,,1230.0
-93,2021,wimbledon,1231,Marin Cilic,Benjamin Bonzi,,,,,,,,,,,1231.0
-94,2021,wimbledon,1232,Carlos Alcaraz,Daniil Medvedev,,,,,,,,,,,1232.0
-95,2021,wimbledon,1301,Novak Djokovic,Denis Kudla,,,,,,,,,,,1301.0
-96,2021,wimbledon,1302,Cristian Garin,Pedro Martinez,,,,,,,,,,,1302.0
-97,2021,wimbledon,1303,Diego Schwartzman,Marton Fucsovics,,,,,,,,,,,1303.0
-98,2021,wimbledon,1304,Fabio Fognini,Andrey Rublev,,,,,,,,,,,1304.0
-99,2021,wimbledon,1305,Frances Tiafoe,Karen Khachanov,,,,,,,,,,,1305.0
-100,2021,wimbledon,1306,Daniel Evans,Sebastian Korda,,,,,,,,,,,1306.0
-101,2021,wimbledon,1307,Denis Shapovalov,Andy Murray,,,,,,,,,,,1307.0
-102,2021,wimbledon,1308,Dominik Koepfer,Roberto Bautista Agut,,,,,,,,,,,1308.0
-103,2021,wimbledon,1309,Matteo Berrettini,Aljaz Bedene,,,,,,,,,,,1309.0
-104,2021,wimbledon,1310,Ilya Ivashka,Jordan Thompson,,,,,,,,,,,1310.0
-105,2021,wimbledon,1311,Felix Auger Aliassime,Nick Kyrgios,,,,,,,,,,,1311.0
-106,2021,wimbledon,1312,Taylor Fritz,Alexander Zverev,,,,,,,,,,,1312.0
-107,2021,wimbledon,1313,Roger Federer,Cameron Norrie,,,,,,,,,,,1313.0
-108,2021,wimbledon,1314,Lorenzo Sonego,James Duckworth,,,,,,,,,,,1314.0
-109,2021,wimbledon,1315,Hubert Hurkacz,Alexander Bublik,,,,,,,,,,,1315.0
-110,2021,wimbledon,1316,Marin Cilic,Daniil Medvedev,,,,,,,,,,,1316.0
-111,2021,wimbledon,1401,Novak Djokovic,Cristian Garin,,,,,,,,,,,1401.0
-112,2021,wimbledon,1402,Marton Fucsovics,Andrey Rublev,,,,,,,,,,,1402.0
-113,2021,wimbledon,1403,Karen Khachanov,Sebastian Korda,,,,,,,,,,,1403.0
-114,2021,wimbledon,1404,Denis Shapovalov,Roberto Bautista Agut,,,,,,,,,,,1404.0
-115,2021,wimbledon,1405,Matteo Berrettini,Ilya Ivashka,,,,,,,,,,,1405.0
-116,2021,wimbledon,1406,Felix Auger Aliassime,Alexander Zverev,,,,,,,,,,,1406.0
-117,2021,wimbledon,1407,Roger Federer,Lorenzo Sonego,,,,,,,,,,,1407.0
-118,2021,wimbledon,1408,Hubert Hurkacz,Daniil Medvedev,,,,,,,,,,,1408.0
-119,2021,wimbledon,1501,Novak Djokovic,Marton Fucsovics,,,,,,,,,,,1501.0
-120,2021,wimbledon,1502,Karen Khachanov,Denis Shapovalov,,,,,,,,,,,1502.0
-121,2021,wimbledon,1503,Matteo Berrettini,Felix Auger Aliassime,,,,,,,,,,,1503.0
-122,2021,wimbledon,1504,Roger Federer,Hubert Hurkacz,,,,,,,,,,,1504.0
-123,2021,wimbledon,1601,Novak Djokovic,Denis Shapovalov,,,,,,,,,,,1601.0
-124,2021,wimbledon,1602,Matteo Berrettini,Hubert Hurkacz,,,,,,,,,,,1602.0
-125,2021,wimbledon,1701,Novak Djokovic,Matteo Berrettini,,,,,,,,,,,1701.0
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num
+0,2021-frenchopen-1101,2021,frenchopen,1101,N Djokovic,T Sandgren,,,,,,,,,,,1101.0
+1,2021-frenchopen-1102,2021,frenchopen,1102,L Pouille,P Cuevas,,,,,,,,,,,1102.0
+2,2021-frenchopen-1103,2021,frenchopen,1103,S Caruso,J Duckworth,,,,,,,,,,,1103.0
+3,2021-frenchopen-1104,2021,frenchopen,1104,R Berankis,U Humbert,,,,,,,,,,,1104.0
+4,2021-frenchopen-1105,2021,frenchopen,1105,A De Minaur,S Travaglia,,,,,,,,,,,1105.0
+5,2021-frenchopen-1106,2021,frenchopen,1106,Y Uchiyama,M Cecchinato,,,,,,,,,,,1106.0
+6,2021-frenchopen-1107,2021,frenchopen,1107,Jw Tsonga,Y Nishioka,,,,,,,,,,,1107.0
+7,2021-frenchopen-1108,2021,frenchopen,1108,L Musetti,D Goffin,,,,,,,,,,,1108.0
+8,2021-frenchopen-1109,2021,frenchopen,1109,M Berrettini,T Daniel,,,,,,,,,,,1109.0
+9,2021-frenchopen-1110,2021,frenchopen,1110,F Coria,F Lopez,,,,,,,,,,,1110.0
+10,2021-frenchopen-1111,2021,frenchopen,1111,K Anderson,S Kwon,,,,,,,,,,,1111.0
+11,2021-frenchopen-1112,2021,frenchopen,1112,A Seppi,F Auger-Aliassime,,,,,,,,,,,1112.0
+12,2021-frenchopen-1113,2021,frenchopen,1113,T Fritz,J Sousa,,,,,,,,,,,1113.0
+13,2021-frenchopen-1114,2021,frenchopen,1114,M Bourgue,D Koepfer,,,,,,,,,,,1114.0
+14,2021-frenchopen-1115,2021,frenchopen,1115,M Cilic,A Rinderknech,,,,,,,,,,,1115.0
+15,2021-frenchopen-1116,2021,frenchopen,1116,D Istomin,R Federer,,,,,,,,,,,1116.0
+16,2021-frenchopen-1117,2021,frenchopen,1117,R Nadal,A Popyrin,,,,,,,,,,,1117.0
+17,2021-frenchopen-1118,2021,frenchopen,1118,H Gaston,R Gasquet,,,,,,,,,,,1118.0
+18,2021-frenchopen-1119,2021,frenchopen,1119,C Norrie,B Fratangelo,,,,,,,,,,,1119.0
+19,2021-frenchopen-1120,2021,frenchopen,1120,L Harris,L Sonego,,,,,,,,,,,1120.0
+20,2021-frenchopen-1121,2021,frenchopen,1121,J Sinner,Ph Herbert,,,,,,,,,,,1121.0
+21,2021-frenchopen-1122,2021,frenchopen,1122,G Mager,P Gojowczyk,,,,,,,,,,,1122.0
+22,2021-frenchopen-1123,2021,frenchopen,1123,M Ymer,R Carballes Baena,,,,,,,,,,,1123.0
+23,2021-frenchopen-1124,2021,frenchopen,1124,A Ramos-Vinolas,G Monfils,,,,,,,,,,,1124.0
+24,2021-frenchopen-1125,2021,frenchopen,1125,D Schwartzman,Yh Lu,,,,,,,,,,,1125.0
+25,2021-frenchopen-1126,2021,frenchopen,1126,A Mannarino,A Bedene,,,,,,,,,,,1126.0
+26,2021-frenchopen-1127,2021,frenchopen,1127,P Kohlschreiber,F Verdasco,,,,,,,,,,,1127.0
+27,2021-frenchopen-1128,2021,frenchopen,1128,J Brooksby,A Karatsev,,,,,,,,,,,1128.0
+28,2021-frenchopen-1129,2021,frenchopen,1129,N Basilashvili,D Lajovic,,,,,,,,,,,1129.0
+29,2021-frenchopen-1130,2021,frenchopen,1130,C Alcaraz,B Zapata Miralles,,,,,,,,,,,1130.0
+30,2021-frenchopen-1131,2021,frenchopen,1131,F Bagnis,B Bonzi,,,,,,,,,,,1131.0
+31,2021-frenchopen-1132,2021,frenchopen,1132,Jl Struff,A Rublev,,,,,,,,,,,1132.0
+32,2021-frenchopen-1133,2021,frenchopen,1133,A Zverev,O Otte,,,,,,,,,,,1133.0
+33,2021-frenchopen-1134,2021,frenchopen,1134,R Safiullin,C Taberner,,,,,,,,,,,1134.0
+34,2021-frenchopen-1135,2021,frenchopen,1135,C Moutet,L Djere,,,,,,,,,,,1135.0
+35,2021-frenchopen-1136,2021,frenchopen,1136,M Kecmanovic,D Evans,,,,,,,,,,,1136.0
+36,2021-frenchopen-1137,2021,frenchopen,1137,K Khachanov,J Vesely,,,,,,,,,,,1137.0
+37,2021-frenchopen-1138,2021,frenchopen,1138,K Nishikori,A Giannessi,,,,,,,,,,,1138.0
+38,2021-frenchopen-1139,2021,frenchopen,1139,Y Hanfmann,H Laaksonen,,,,,,,,,,,1139.0
+39,2021-frenchopen-1140,2021,frenchopen,1140,M Vilella Martinez,R Bautista Agut,,,,,,,,,,,1140.0
+40,2021-frenchopen-1141,2021,frenchopen,1141,C Ruud,B Paire,,,,,,,,,,,1141.0
+41,2021-frenchopen-1142,2021,frenchopen,1142,K Majchrzak,A Cazaux,,,,,,,,,,,1142.0
+42,2021-frenchopen-1143,2021,frenchopen,1143,A Davidovich Fokina,M Kukushkin,,,,,,,,,,,1143.0
+43,2021-frenchopen-1144,2021,frenchopen,1144,B Van De Zandschulp,H Hurkacz,,,,,,,,,,,1144.0
+44,2021-frenchopen-1145,2021,frenchopen,1145,F Fognini,G Barrere,,,,,,,,,,,1145.0
+45,2021-frenchopen-1146,2021,frenchopen,1146,M Fucsovics,G Simon,,,,,,,,,,,1146.0
+46,2021-frenchopen-1147,2021,frenchopen,1147,R Albot,F Delbonis,,,,,,,,,,,1147.0
+47,2021-frenchopen-1148,2021,frenchopen,1148,P Andujar,D Thiem,,,,,,,,,,,1148.0
+48,2021-frenchopen-1149,2021,frenchopen,1149,S Tsitsipas,J Chardy,,,,,,,,,,,1149.0
+49,2021-frenchopen-1150,2021,frenchopen,1150,S Korda,P Martinez,,,,,,,,,,,1150.0
+50,2021-frenchopen-1151,2021,frenchopen,1151,M Marterer,F Krajinovic,,,,,,,,,,,1151.0
+51,2021-frenchopen-1152,2021,frenchopen,1152,S Querrey,J Isner,,,,,,,,,,,1152.0
+52,2021-frenchopen-1153,2021,frenchopen,1153,F Cerundolo,T Monteiro,,,,,,,,,,,1153.0
+53,2021-frenchopen-1154,2021,frenchopen,1154,S Johnson,F Tiafoe,,,,,,,,,,,1154.0
+54,2021-frenchopen-1155,2021,frenchopen,1155,E Gerasimov,E Couacaud,,,,,,,,,,,1155.0
+55,2021-frenchopen-1156,2021,frenchopen,1156,N Gombos,P Carreno Busta,,,,,,,,,,,1156.0
+56,2021-frenchopen-1157,2021,frenchopen,1157,G Dimitrov,M Giron,,,,,,,,,,,1157.0
+57,2021-frenchopen-1158,2021,frenchopen,1158,G Pella,De Galan,,,,,,,,,,,1158.0
+58,2021-frenchopen-1159,2021,frenchopen,1159,E Ruusuvuori,M Mcdonald,,,,,,,,,,,1159.0
+59,2021-frenchopen-1160,2021,frenchopen,1160,Ji Londero,C Garin,,,,,,,,,,,1160.0
+60,2021-frenchopen-1161,2021,frenchopen,1161,R Opelka,A Martin,,,,,,,,,,,1161.0
+61,2021-frenchopen-1162,2021,frenchopen,1162,J Munar,J Thompson,,,,,,,,,,,1162.0
+62,2021-frenchopen-1163,2021,frenchopen,1163,T Paul,C O'Connell,,,,,,,,,,,1163.0
+63,2021-frenchopen-1164,2021,frenchopen,1164,A Bublik,D Medvedev,,,,,,,,,,,1164.0
+64,2021-frenchopen-1201,2021,frenchopen,1201,N Djokovic,P Cuevas,,,,,,,,,,,1201.0
+65,2021-frenchopen-1202,2021,frenchopen,1202,J Duckworth,R Berankis,,,,,,,,,,,1202.0
+66,2021-frenchopen-1203,2021,frenchopen,1203,A De Minaur,M Cecchinato,,,,,,,,,,,1203.0
+67,2021-frenchopen-1204,2021,frenchopen,1204,Y Nishioka,L Musetti,,,,,,,,,,,1204.0
+68,2021-frenchopen-1205,2021,frenchopen,1205,M Berrettini,F Coria,,,,,,,,,,,1205.0
+69,2021-frenchopen-1206,2021,frenchopen,1206,S Kwon,A Seppi,,,,,,,,,,,1206.0
+70,2021-frenchopen-1207,2021,frenchopen,1207,T Fritz,D Koepfer,,,,,,,,,,,1207.0
+71,2021-frenchopen-1208,2021,frenchopen,1208,M Cilic,R Federer,,,,,,,,,,,1208.0
+72,2021-frenchopen-1209,2021,frenchopen,1209,R Nadal,R Gasquet,,,,,,,,,,,1209.0
+73,2021-frenchopen-1210,2021,frenchopen,1210,C Norrie,L Harris,,,,,,,,,,,1210.0
+74,2021-frenchopen-1211,2021,frenchopen,1211,J Sinner,G Mager,,,,,,,,,,,1211.0
+75,2021-frenchopen-1212,2021,frenchopen,1212,M Ymer,G Monfils,,,,,,,,,,,1212.0
+76,2021-frenchopen-1213,2021,frenchopen,1213,D Schwartzman,A Bedene,,,,,,,,,,,1213.0
+77,2021-frenchopen-1214,2021,frenchopen,1214,P Kohlschreiber,A Karatsev,,,,,,,,,,,1214.0
+78,2021-frenchopen-1215,2021,frenchopen,1215,N Basilashvili,C Alcaraz,,,,,,,,,,,1215.0
+79,2021-frenchopen-1216,2021,frenchopen,1216,F Bagnis,Jl Struff,,,,,,,,,,,1216.0
+80,2021-frenchopen-1217,2021,frenchopen,1217,A Zverev,R Safiullin,,,,,,,,,,,1217.0
+81,2021-frenchopen-1218,2021,frenchopen,1218,L Djere,M Kecmanovic,,,,,,,,,,,1218.0
+82,2021-frenchopen-1219,2021,frenchopen,1219,K Khachanov,K Nishikori,,,,,,,,,,,1219.0
+83,2021-frenchopen-1220,2021,frenchopen,1220,H Laaksonen,R Bautista Agut,,,,,,,,,,,1220.0
+84,2021-frenchopen-1221,2021,frenchopen,1221,C Ruud,K Majchrzak,,,,,,,,,,,1221.0
+85,2021-frenchopen-1222,2021,frenchopen,1222,A Davidovich Fokina,B Van De Zandschulp,,,,,,,,,,,1222.0
+86,2021-frenchopen-1223,2021,frenchopen,1223,F Fognini,M Fucsovics,,,,,,,,,,,1223.0
+87,2021-frenchopen-1224,2021,frenchopen,1224,F Delbonis,P Andujar,,,,,,,,,,,1224.0
+88,2021-frenchopen-1225,2021,frenchopen,1225,S Tsitsipas,P Martinez,,,,,,,,,,,1225.0
+89,2021-frenchopen-1226,2021,frenchopen,1226,F Krajinovic,J Isner,,,,,,,,,,,1226.0
+90,2021-frenchopen-1227,2021,frenchopen,1227,T Monteiro,S Johnson,,,,,,,,,,,1227.0
+91,2021-frenchopen-1228,2021,frenchopen,1228,E Couacaud,P Carreno Busta,,,,,,,,,,,1228.0
+92,2021-frenchopen-1229,2021,frenchopen,1229,M Giron,G Pella,,,,,,,,,,,1229.0
+93,2021-frenchopen-1230,2021,frenchopen,1230,M Mcdonald,C Garin,,,,,,,,,,,1230.0
+94,2021-frenchopen-1231,2021,frenchopen,1231,R Opelka,J Munar,,,,,,,,,,,1231.0
+95,2021-frenchopen-1232,2021,frenchopen,1232,T Paul,D Medvedev,,,,,,,,,,,1232.0
+96,2021-frenchopen-1301,2021,frenchopen,1301,N Djokovic,R Berankis,,,,,,,,,,,1301.0
+97,2021-frenchopen-1302,2021,frenchopen,1302,M Cecchinato,L Musetti,,,,,,,,,,,1302.0
+98,2021-frenchopen-1303,2021,frenchopen,1303,M Berrettini,S Kwon,,,,,,,,,,,1303.0
+99,2021-frenchopen-1304,2021,frenchopen,1304,D Koepfer,R Federer,,,,,,,,,,,1304.0
+100,2021-frenchopen-1305,2021,frenchopen,1305,R Nadal,C Norrie,,,,,,,,,,,1305.0
+101,2021-frenchopen-1306,2021,frenchopen,1306,J Sinner,M Ymer,,,,,,,,,,,1306.0
+102,2021-frenchopen-1307,2021,frenchopen,1307,D Schwartzman,P Kohlschreiber,,,,,,,,,,,1307.0
+103,2021-frenchopen-1308,2021,frenchopen,1308,C Alcaraz,Jl Struff,,,,,,,,,,,1308.0
+104,2021-frenchopen-1309,2021,frenchopen,1309,A Zverev,L Djere,,,,,,,,,,,1309.0
+105,2021-frenchopen-1310,2021,frenchopen,1310,K Nishikori,H Laaksonen,,,,,,,,,,,1310.0
+106,2021-frenchopen-1311,2021,frenchopen,1311,C Ruud,A Davidovich Fokina,,,,,,,,,,,1311.0
+107,2021-frenchopen-1312,2021,frenchopen,1312,F Fognini,F Delbonis,,,,,,,,,,,1312.0
+108,2021-frenchopen-1313,2021,frenchopen,1313,S Tsitsipas,J Isner,,,,,,,,,,,1313.0
+109,2021-frenchopen-1314,2021,frenchopen,1314,S Johnson,P Carreno Busta,,,,,,,,,,,1314.0
+110,2021-frenchopen-1315,2021,frenchopen,1315,M Giron,C Garin,,,,,,,,,,,1315.0
+111,2021-frenchopen-1316,2021,frenchopen,1316,R Opelka,D Medvedev,,,,,,,,,,,1316.0
+112,2021-frenchopen-1401,2021,frenchopen,1401,N Djokovic,L Musetti,,,,,,,,,,,1401.0
+113,2021-frenchopen-1402,2021,frenchopen,1402,M Berrettini,R Federer,,,,,,,,,,,1402.0
+114,2021-frenchopen-1403,2021,frenchopen,1403,R Nadal,J Sinner,,,,,,,,,,,1403.0
+115,2021-frenchopen-1404,2021,frenchopen,1404,D Schwartzman,Jl Struff,,,,,,,,,,,1404.0
+116,2021-frenchopen-1405,2021,frenchopen,1405,A Zverev,K Nishikori,,,,,,,,,,,1405.0
+117,2021-frenchopen-1406,2021,frenchopen,1406,A Davidovich Fokina,F Delbonis,,,,,,,,,,,1406.0
+118,2021-frenchopen-1407,2021,frenchopen,1407,S Tsitsipas,P Carreno Busta,,,,,,,,,,,1407.0
+119,2021-frenchopen-1408,2021,frenchopen,1408,C Garin,D Medvedev,,,,,,,,,,,1408.0
+120,2021-frenchopen-1501,2021,frenchopen,1501,N Djokovic,M Berrettini,,,,,,,,,,,1501.0
+121,2021-frenchopen-1502,2021,frenchopen,1502,R Nadal,D Schwartzman,,,,,,,,,,,1502.0
+122,2021-frenchopen-1503,2021,frenchopen,1503,A Zverev,A Davidovich Fokina,,,,,,,,,,,1503.0
+123,2021-frenchopen-1504,2021,frenchopen,1504,S Tsitsipas,D Medvedev,,,,,,,,,,,1504.0
+124,2021-frenchopen-1601,2021,frenchopen,1601,N Djokovic,R Nadal,,,,,,,,,,,1601.0
+125,2021-frenchopen-1602,2021,frenchopen,1602,A Zverev,S Tsitsipas,,,,,,,,,,,1602.0
+126,2021-frenchopen-1701,2021,frenchopen,1701,N Djokovic,S Tsitsipas,,,,,,,,,,,1701.0
+0,2021-usopen-1101,2021,usopen,1101,Novak Djokovic,Holger Vitus Nodskov Rune,,,,,,,,,,,1101.0
+1,2021-usopen-1102,2021,usopen,1102,Tallon Griekspoor,Jan Lennard Struff,,,,,,,,,,,1102.0
+2,2021-usopen-1103,2021,usopen,1103,Salvatore Caruso,Kei Nishikori,,,,,,,,,,,1103.0
+3,2021-usopen-1104,2021,usopen,1104,Mackenzie McDonald,David Goffin,,,,,,,,,,,1104.0
+4,2021-usopen-1105,2021,usopen,1105,Aslan Karatsev,Jaume Munar,,,,,,,,,,,1105.0
+5,2021-usopen-1106,2021,usopen,1106,Jordan Thompson,Gianluca Mager,,,,,,,,,,,1106.0
+6,2021-usopen-1107,2021,usopen,1107,Jenson Brooksby,Mikael Ymer,,,,,,,,,,,1107.0
+7,2021-usopen-1108,2021,usopen,1108,Taylor Fritz,Alex de Minaur,,,,,,,,,,,1108.0
+8,2021-usopen-1109,2021,usopen,1109,Hubert Hurkacz,Egor Gerasimov,,,,,,,,,,,1109.0
+9,2021-usopen-1110,2021,usopen,1110,Andreas Seppi,Marton Fucsovics,,,,,,,,,,,1110.0
+10,2021-usopen-1111,2021,usopen,1111,Denis Kudla,Laslo Djere,,,,,,,,,,,1111.0
+11,2021-usopen-1112,2021,usopen,1112,Oscar Otte,Lorenzo Sonego,,,,,,,,,,,1112.0
+12,2021-usopen-1113,2021,usopen,1113,Fabio Fognini,Vasek Pospisil,,,,,,,,,,,1113.0
+13,2021-usopen-1114,2021,usopen,1114,Tennys Sandgren,Ilya Ivashka,,,,,,,,,,,1114.0
+14,2021-usopen-1115,2021,usopen,1115,Corentin Moutet,Stefano Travaglia,,,,,,,,,,,1115.0
+15,2021-usopen-1116,2021,usopen,1116,Jeremy Chardy,Matteo Berrettini,,,,,,,,,,,1116.0
+16,2021-usopen-1117,2021,usopen,1117,Alexander Zverev,Sam Querrey,,,,,,,,,,,1117.0
+17,2021-usopen-1118,2021,usopen,1118,Albert Ramos Vinolas,Lucas Pouille,,,,,,,,,,,1118.0
+18,2021-usopen-1119,2021,usopen,1119,Yoshihito Nishioka,Jack Sock,,,,,,,,,,,1119.0
+19,2021-usopen-1120,2021,usopen,1120,Yannick Hanfmann,Alexander Bublik,,,,,,,,,,,1120.0
+20,2021-usopen-1121,2021,usopen,1121,Gael Monfils,Federico Coria,,,,,,,,,,,1121.0
+21,2021-usopen-1122,2021,usopen,1122,Steve Johnson,Maximilian Marterer,,,,,,,,,,,1122.0
+22,2021-usopen-1123,2021,usopen,1123,Marco Cecchinato,Zachary Svajda,,,,,,,,,,,1123.0
+23,2021-usopen-1124,2021,usopen,1124,Max Purcell,Jannik Sinner,,,,,,,,,,,1124.0
+24,2021-usopen-1125,2021,usopen,1125,Pablo Carreno Busta,Maxime Cressy,,,,,,,,,,,1125.0
+25,2021-usopen-1126,2021,usopen,1126,Sebastian Korda,Nikoloz Basilashvili,,,,,,,,,,,1126.0
+26,2021-usopen-1127,2021,usopen,1127,Lorenzo Musetti,Emilio Nava,,,,,,,,,,,1127.0
+27,2021-usopen-1128,2021,usopen,1128,Soonwoo Kwon,Reilly Opelka,,,,,,,,,,,1128.0
+28,2021-usopen-1129,2021,usopen,1129,Karen Khachanov,Lloyd Harris,,,,,,,,,,,1129.0
+29,2021-usopen-1130,2021,usopen,1130,Pablo Cuevas,Ernesto Escobedo,,,,,,,,,,,1130.0
+30,2021-usopen-1131,2021,usopen,1131,Roberto Carballes Baena,Tommy Paul,,,,,,,,,,,1131.0
+31,2021-usopen-1132,2021,usopen,1132,Federico Delbonis,Denis Shapovalov,,,,,,,,,,,1132.0
+32,2021-usopen-1133,2021,usopen,1133,Andrey Rublev,Ivo Karlovic,,,,,,,,,,,1133.0
+33,2021-usopen-1134,2021,usopen,1134,Pedro Martinez,James Duckworth,,,,,,,,,,,1134.0
+34,2021-usopen-1135,2021,usopen,1135,Frances Tiafoe,Christopher Eubanks,,,,,,,,,,,1135.0
+35,2021-usopen-1136,2021,usopen,1136,Guido Pella,Filip Krajinovic,,,,,,,,,,,1136.0
+36,2021-usopen-1137,2021,usopen,1137,Roberto Bautista Agut,Nick Kyrgios,,,,,,,,,,,1137.0
+37,2021-usopen-1138,2021,usopen,1138,Kamil Majchrzak,Emil Ruusuvuori,,,,,,,,,,,1138.0
+38,2021-usopen-1139,2021,usopen,1139,Feliciano Lopez,Bernabe Zapata Miralles,,,,,,,,,,,1139.0
+39,2021-usopen-1140,2021,usopen,1140,Evgeny Donskoy,Felix Auger Aliassime,,,,,,,,,,,1140.0
+40,2021-usopen-1141,2021,usopen,1141,Cristian Garin,Norbert Gombos,,,,,,,,,,,1141.0
+41,2021-usopen-1142,2021,usopen,1142,Henri Laaksonen,John Millman,,,,,,,,,,,1142.0
+42,2021-usopen-1143,2021,usopen,1143,Dusan Lajovic,Benoit Paire,,,,,,,,,,,1143.0
+43,2021-usopen-1144,2021,usopen,1144,Peter Gojowczyk,Ugo Humbert,,,,,,,,,,,1144.0
+44,2021-usopen-1145,2021,usopen,1145,Cameron Norrie,Carlos Alcaraz,,,,,,,,,,,1145.0
+45,2021-usopen-1146,2021,usopen,1146,Miomir Kecmanovic,Arthur Rinderknech,,,,,,,,,,,1146.0
+46,2021-usopen-1147,2021,usopen,1147,Pierre Hugues Herbert,Adrian Mannarino,,,,,,,,,,,1147.0
+47,2021-usopen-1148,2021,usopen,1148,Andy Murray,Stefanos Tsitsipas,,,,,,,,,,,1148.0
+48,2021-usopen-1149,2021,usopen,1149,Casper Ruud,Yuichi Sugita,,,,,,,,,,,1149.0
+49,2021-usopen-1150,2021,usopen,1150,Botic Van De Zandschulp,Carlos Taberner,,,,,,,,,,,1150.0
+50,2021-usopen-1151,2021,usopen,1151,Facundo Bagnis,Taro Daniel,,,,,,,,,,,1151.0
+51,2021-usopen-1152,2021,usopen,1152,Marco Trungelliti,Alejandro Davidovich Fokina,,,,,,,,,,,1152.0
+52,2021-usopen-1153,2021,usopen,1153,John Isner,Brandon Nakashima,,,,,,,,,,,1153.0
+53,2021-usopen-1154,2021,usopen,1154,Alex Molcan,Cem Ilkel,,,,,,,,,,,1154.0
+54,2021-usopen-1155,2021,usopen,1155,Jiri Vesely,Kevin Anderson,,,,,,,,,,,1155.0
+55,2021-usopen-1156,2021,usopen,1156,Ricardas Berankis,Diego Schwartzman,,,,,,,,,,,1156.0
+56,2021-usopen-1157,2021,usopen,1157,Grigor Dimitrov,Sam Riffice,,,,,,,,,,,1157.0
+57,2021-usopen-1158,2021,usopen,1158,Alexei Popyrin,Radu Albot,,,,,,,,,,,1158.0
+58,2021-usopen-1159,2021,usopen,1159,Marcos Giron,Antoine Hoang,,,,,,,,,,,1159.0
+59,2021-usopen-1160,2021,usopen,1160,Thiago Monteiro,Daniel Evans,,,,,,,,,,,1160.0
+60,2021-usopen-1161,2021,usopen,1161,Marin Cilic,Philipp Kohlschreiber,,,,,,,,,,,1161.0
+61,2021-usopen-1162,2021,usopen,1162,Mikhail Kukushkin,Pablo Andujar,,,,,,,,,,,1162.0
+62,2021-usopen-1163,2021,usopen,1163,Dominik Koepfer,Quentin Halys,,,,,,,,,,,1163.0
+63,2021-usopen-1164,2021,usopen,1164,Richard Gasquet,Daniil Medvedev,,,,,,,,,,,1164.0
+64,2021-usopen-1201,2021,usopen,1201,Novak Djokovic,Tallon Griekspoor,,,,,,,,,,,1201.0
+65,2021-usopen-1202,2021,usopen,1202,Kei Nishikori,Mackenzie McDonald,,,,,,,,,,,1202.0
+66,2021-usopen-1203,2021,usopen,1203,Aslan Karatsev,Jordan Thompson,,,,,,,,,,,1203.0
+67,2021-usopen-1204,2021,usopen,1204,Jenson Brooksby,Taylor Fritz,,,,,,,,,,,1204.0
+68,2021-usopen-1205,2021,usopen,1205,Hubert Hurkacz,Andreas Seppi,,,,,,,,,,,1205.0
+69,2021-usopen-1206,2021,usopen,1206,Denis Kudla,Oscar Otte,,,,,,,,,,,1206.0
+70,2021-usopen-1207,2021,usopen,1207,Vasek Pospisil,Ilya Ivashka,,,,,,,,,,,1207.0
+71,2021-usopen-1208,2021,usopen,1208,Corentin Moutet,Matteo Berrettini,,,,,,,,,,,1208.0
+72,2021-usopen-1209,2021,usopen,1209,Alexander Zverev,Albert Ramos Vinolas,,,,,,,,,,,1209.0
+73,2021-usopen-1210,2021,usopen,1210,Jack Sock,Alexander Bublik,,,,,,,,,,,1210.0
+74,2021-usopen-1211,2021,usopen,1211,Gael Monfils,Steve Johnson,,,,,,,,,,,1211.0
+75,2021-usopen-1212,2021,usopen,1212,Zachary Svajda,Jannik Sinner,,,,,,,,,,,1212.0
+76,2021-usopen-1213,2021,usopen,1213,Maxime Cressy,Nikoloz Basilashvili,,,,,,,,,,,1213.0
+77,2021-usopen-1214,2021,usopen,1214,Lorenzo Musetti,Reilly Opelka,,,,,,,,,,,1214.0
+78,2021-usopen-1215,2021,usopen,1215,Lloyd Harris,Ernesto Escobedo,,,,,,,,,,,1215.0
+79,2021-usopen-1216,2021,usopen,1216,Roberto Carballes Baena,Denis Shapovalov,,,,,,,,,,,1216.0
+80,2021-usopen-1217,2021,usopen,1217,Andrey Rublev,Pedro Martinez,,,,,,,,,,,1217.0
+81,2021-usopen-1218,2021,usopen,1218,Frances Tiafoe,Guido Pella,,,,,,,,,,,1218.0
+82,2021-usopen-1219,2021,usopen,1219,Roberto Bautista Agut,Emil Ruusuvuori,,,,,,,,,,,1219.0
+83,2021-usopen-1220,2021,usopen,1220,Bernabe Zapata Miralles,Felix Auger Aliassime,,,,,,,,,,,1220.0
+84,2021-usopen-1221,2021,usopen,1221,Cristian Garin,Henri Laaksonen,,,,,,,,,,,1221.0
+85,2021-usopen-1222,2021,usopen,1222,Dusan Lajovic,Peter Gojowczyk,,,,,,,,,,,1222.0
+86,2021-usopen-1223,2021,usopen,1223,Carlos Alcaraz,Arthur Rinderknech,,,,,,,,,,,1223.0
+87,2021-usopen-1224,2021,usopen,1224,Adrian Mannarino,Stefanos Tsitsipas,,,,,,,,,,,1224.0
+88,2021-usopen-1225,2021,usopen,1225,Casper Ruud,Botic Van De Zandschulp,,,,,,,,,,,1225.0
+89,2021-usopen-1226,2021,usopen,1226,Facundo Bagnis,Marco Trungelliti,,,,,,,,,,,1226.0
+90,2021-usopen-1227,2021,usopen,1227,Brandon Nakashima,Alex Molcan,,,,,,,,,,,1227.0
+91,2021-usopen-1228,2021,usopen,1228,Kevin Anderson,Diego Schwartzman,,,,,,,,,,,1228.0
+92,2021-usopen-1229,2021,usopen,1229,Grigor Dimitrov,Alexei Popyrin,,,,,,,,,,,1229.0
+93,2021-usopen-1230,2021,usopen,1230,Marcos Giron,Daniel Evans,,,,,,,,,,,1230.0
+94,2021-usopen-1231,2021,usopen,1231,Philipp Kohlschreiber,Pablo Andujar,,,,,,,,,,,1231.0
+95,2021-usopen-1232,2021,usopen,1232,Dominik Koepfer,Daniil Medvedev,,,,,,,,,,,1232.0
+96,2021-usopen-1301,2021,usopen,1301,Novak Djokovic,Kei Nishikori,,,,,,,,,,,1301.0
+97,2021-usopen-1302,2021,usopen,1302,Aslan Karatsev,Jenson Brooksby,,,,,,,,,,,1302.0
+98,2021-usopen-1303,2021,usopen,1303,Andreas Seppi,Oscar Otte,,,,,,,,,,,1303.0
+99,2021-usopen-1304,2021,usopen,1304,Ilya Ivashka,Matteo Berrettini,,,,,,,,,,,1304.0
+100,2021-usopen-1305,2021,usopen,1305,Alexander Zverev,Jack Sock,,,,,,,,,,,1305.0
+101,2021-usopen-1306,2021,usopen,1306,Gael Monfils,Jannik Sinner,,,,,,,,,,,1306.0
+102,2021-usopen-1307,2021,usopen,1307,Nikoloz Basilashvili,Reilly Opelka,,,,,,,,,,,1307.0
+103,2021-usopen-1308,2021,usopen,1308,Lloyd Harris,Denis Shapovalov,,,,,,,,,,,1308.0
+104,2021-usopen-1309,2021,usopen,1309,Andrey Rublev,Frances Tiafoe,,,,,,,,,,,1309.0
+105,2021-usopen-1310,2021,usopen,1310,Roberto Bautista Agut,Felix Auger Aliassime,,,,,,,,,,,1310.0
+106,2021-usopen-1311,2021,usopen,1311,Henri Laaksonen,Peter Gojowczyk,,,,,,,,,,,1311.0
+107,2021-usopen-1312,2021,usopen,1312,Carlos Alcaraz,Stefanos Tsitsipas,,,,,,,,,,,1312.0
+108,2021-usopen-1313,2021,usopen,1313,Botic Van De Zandschulp,Facundo Bagnis,,,,,,,,,,,1313.0
+109,2021-usopen-1314,2021,usopen,1314,Alex Molcan,Diego Schwartzman,,,,,,,,,,,1314.0
+110,2021-usopen-1315,2021,usopen,1315,Alexei Popyrin,Daniel Evans,,,,,,,,,,,1315.0
+111,2021-usopen-1316,2021,usopen,1316,Pablo Andujar,Daniil Medvedev,,,,,,,,,,,1316.0
+112,2021-usopen-1401,2021,usopen,1401,Novak Djokovic,Jenson Brooksby,,,,,,,,,,,1401.0
+113,2021-usopen-1402,2021,usopen,1402,Oscar Otte,Matteo Berrettini,,,,,,,,,,,1402.0
+114,2021-usopen-1403,2021,usopen,1403,Alexander Zverev,Jannik Sinner,,,,,,,,,,,1403.0
+115,2021-usopen-1404,2021,usopen,1404,Reilly Opelka,Lloyd Harris,,,,,,,,,,,1404.0
+116,2021-usopen-1405,2021,usopen,1405,Frances Tiafoe,Felix Auger Aliassime,,,,,,,,,,,1405.0
+117,2021-usopen-1406,2021,usopen,1406,Peter Gojowczyk,Carlos Alcaraz,,,,,,,,,,,1406.0
+118,2021-usopen-1407,2021,usopen,1407,Botic Van De Zandschulp,Diego Schwartzman,,,,,,,,,,,1407.0
+119,2021-usopen-1408,2021,usopen,1408,Daniel Evans,Daniil Medvedev,,,,,,,,,,,1408.0
+120,2021-usopen-1501,2021,usopen,1501,Novak Djokovic,Matteo Berrettini,,,,,,,,,,,1501.0
+121,2021-usopen-1502,2021,usopen,1502,Alexander Zverev,Lloyd Harris,,,,,,,,,,,1502.0
+122,2021-usopen-1503,2021,usopen,1503,Felix Auger Aliassime,Carlos Alcaraz,,,,,,,,,,,1503.0
+123,2021-usopen-1504,2021,usopen,1504,Botic Van De Zandschulp,Daniil Medvedev,,,,,,,,,,,1504.0
+124,2021-usopen-1601,2021,usopen,1601,Novak Djokovic,Alexander Zverev,,,,,,,,,,,1601.0
+125,2021-usopen-1602,2021,usopen,1602,Felix Auger Aliassime,Daniil Medvedev,,,,,,,,,,,1602.0
+126,2021-usopen-1701,2021,usopen,1701,Novak Djokovic,Daniil Medvedev,,,,,,,,,,,1701.0
+0,2021-wimbledon-1101,2021,wimbledon,1101,Novak Djokovic,Jack Draper,,,,,,,,,,,1101.0
+1,2021-wimbledon-1102,2021,wimbledon,1102,Marcelo Tomas Barrios Vera,Kevin Anderson,,,,,,,,,,,1102.0
+2,2021-wimbledon-1103,2021,wimbledon,1103,Andreas Seppi,Joao Sousa,,,,,,,,,,,1103.0
+3,2021-wimbledon-1104,2021,wimbledon,1104,Denis Kudla,Alejandro Davidovich Fokina,,,,,,,,,,,1104.0
+4,2021-wimbledon-1105,2021,wimbledon,1105,Cristian Garin,Bernabe Zapata Miralles,,,,,,,,,,,1105.0
+5,2021-wimbledon-1106,2021,wimbledon,1106,Marc Polmans,Yen Hsun Lu,,,,,,,,,,,1106.0
+6,2021-wimbledon-1107,2021,wimbledon,1107,Pedro Martinez,Stefano Travaglia,,,,,,,,,,,1107.0
+7,2021-wimbledon-1108,2021,wimbledon,1108,Christopher O'Connell,Gael Monfils,,,,,,,,,,,1108.0
+8,2021-wimbledon-1109,2021,wimbledon,1109,Diego Schwartzman,Benoit Paire,,,,,,,,,,,1109.0
+9,2021-wimbledon-1110,2021,wimbledon,1110,Marco Cecchinato,Liam Broady,,,,,,,,,,,1110.0
+10,2021-wimbledon-1111,2021,wimbledon,1111,Jiri Vesely,Yannick Hanfmann,,,,,,,,,,,1111.0
+11,2021-wimbledon-1112,2021,wimbledon,1112,Marton Fucsovics,Jannik Sinner,,,,,,,,,,,1112.0
+12,2021-wimbledon-1113,2021,wimbledon,1113,Fabio Fognini,Albert Ramos Vinolas,,,,,,,,,,,1113.0
+13,2021-wimbledon-1114,2021,wimbledon,1114,Pablo Cuevas,Laslo Djere,,,,,,,,,,,1114.0
+14,2021-wimbledon-1115,2021,wimbledon,1115,Lloyd Harris,Ricardas Berankis,,,,,,,,,,,1115.0
+15,2021-wimbledon-1116,2021,wimbledon,1116,Federico Delbonis,Andrey Rublev,,,,,,,,,,,1116.0
+16,2021-wimbledon-1117,2021,wimbledon,1117,Stefanos Tsitsipas,Frances Tiafoe,,,,,,,,,,,1117.0
+17,2021-wimbledon-1118,2021,wimbledon,1118,Roberto Carballes Baena,Vasek Pospisil,,,,,,,,,,,1118.0
+18,2021-wimbledon-1119,2021,wimbledon,1119,Egor Gerasimov,Jay Clarke,,,,,,,,,,,1119.0
+19,2021-wimbledon-1120,2021,wimbledon,1120,Mackenzie McDonald,Karen Khachanov,,,,,,,,,,,1120.0
+20,2021-wimbledon-1121,2021,wimbledon,1121,Daniel Evans,Feliciano Lopez,,,,,,,,,,,1121.0
+21,2021-wimbledon-1122,2021,wimbledon,1122,Dusan Lajovic,Gilles Simon,,,,,,,,,,,1122.0
+22,2021-wimbledon-1123,2021,wimbledon,1123,Zhizhen Zhang,Antoine Hoang,,,,,,,,,,,1123.0
+23,2021-wimbledon-1124,2021,wimbledon,1124,Sebastian Korda,Alex De Minaur,,,,,,,,,,,1124.0
+24,2021-wimbledon-1125,2021,wimbledon,1125,Denis Shapovalov,Philipp Kohlschreiber,,,,,,,,,,,1125.0
+25,2021-wimbledon-1126,2021,wimbledon,1126,Pierre Hugues Herbert,Pablo Andujar,,,,,,,,,,,1126.0
+26,2021-wimbledon-1127,2021,wimbledon,1127,Oscar Otte,Arthur Rinderknech,,,,,,,,,,,1127.0
+27,2021-wimbledon-1128,2021,wimbledon,1128,Andy Murray,Nikoloz Basilashvili,,,,,,,,,,,1128.0
+28,2021-wimbledon-1129,2021,wimbledon,1129,Reilly Opelka,Dominik Koepfer,,,,,,,,,,,1129.0
+29,2021-wimbledon-1130,2021,wimbledon,1130,Soonwoo Kwon,Daniel Masur,,,,,,,,,,,1130.0
+30,2021-wimbledon-1131,2021,wimbledon,1131,Facundo Bagnis,Miomir Kecmanovic,,,,,,,,,,,1131.0
+31,2021-wimbledon-1132,2021,wimbledon,1132,John Millman,Roberto Bautista Agut,,,,,,,,,,,1132.0
+32,2021-wimbledon-1133,2021,wimbledon,1133,Matteo Berrettini,Guido Pella,,,,,,,,,,,1133.0
+33,2021-wimbledon-1134,2021,wimbledon,1134,Botic Van De Zandschulp,Gregoire Barrere,,,,,,,,,,,1134.0
+34,2021-wimbledon-1135,2021,wimbledon,1135,Corentin Moutet,Aljaz Bedene,,,,,,,,,,,1135.0
+35,2021-wimbledon-1136,2021,wimbledon,1136,Yoshihito Nishioka,John Isner,,,,,,,,,,,1136.0
+36,2021-wimbledon-1137,2021,wimbledon,1137,Aslan Karatsev,Jeremy Chardy,,,,,,,,,,,1137.0
+37,2021-wimbledon-1138,2021,wimbledon,1138,Jaume Munar,Ilya Ivashka,,,,,,,,,,,1138.0
+38,2021-wimbledon-1139,2021,wimbledon,1139,Kei Nishikori,Alexei Popyrin,,,,,,,,,,,1139.0
+39,2021-wimbledon-1140,2021,wimbledon,1140,Jordan Thompson,Casper Ruud,,,,,,,,,,,1140.0
+40,2021-wimbledon-1141,2021,wimbledon,1141,Felix Auger Aliassime,Thiago Monteiro,,,,,,,,,,,1141.0
+41,2021-wimbledon-1142,2021,wimbledon,1142,Jo Wilfried Tsonga,Mikael Ymer,,,,,,,,,,,1142.0
+42,2021-wimbledon-1143,2021,wimbledon,1143,Juan Ignacio Londero,Gianluca Mager,,,,,,,,,,,1143.0
+43,2021-wimbledon-1144,2021,wimbledon,1144,Nick Kyrgios,Ugo Humbert,,,,,,,,,,,1144.0
+44,2021-wimbledon-1145,2021,wimbledon,1145,Taylor Fritz,Brandon Nakashima,,,,,,,,,,,1145.0
+45,2021-wimbledon-1146,2021,wimbledon,1146,Steve Johnson,Dennis Novak,,,,,,,,,,,1146.0
+46,2021-wimbledon-1147,2021,wimbledon,1147,Tennys Sandgren,Norbert Gombos,,,,,,,,,,,1147.0
+47,2021-wimbledon-1148,2021,wimbledon,1148,Tallon Griekspoor,Alexander Zverev,,,,,,,,,,,1148.0
+48,2021-wimbledon-1149,2021,wimbledon,1149,Roger Federer,Adrian Mannarino,,,,,,,,,,,1149.0
+49,2021-wimbledon-1150,2021,wimbledon,1150,Richard Gasquet,Yuichi Sugita,,,,,,,,,,,1150.0
+50,2021-wimbledon-1151,2021,wimbledon,1151,Filip Krajinovic,Alex Bolt,,,,,,,,,,,1151.0
+51,2021-wimbledon-1152,2021,wimbledon,1152,Lucas Pouille,Cameron Norrie,,,,,,,,,,,1152.0
+52,2021-wimbledon-1153,2021,wimbledon,1153,Lorenzo Sonego,Pedro Sousa,,,,,,,,,,,1153.0
+53,2021-wimbledon-1154,2021,wimbledon,1154,Daniel Elahi Galan,Federico Coria,,,,,,,,,,,1154.0
+54,2021-wimbledon-1155,2021,wimbledon,1155,James Duckworth,Radu Albot,,,,,,,,,,,1155.0
+55,2021-wimbledon-1156,2021,wimbledon,1156,Sam Querrey,Pablo Carreno Busta,,,,,,,,,,,1156.0
+56,2021-wimbledon-1157,2021,wimbledon,1157,Hubert Hurkacz,Lorenzo Musetti,,,,,,,,,,,1157.0
+57,2021-wimbledon-1158,2021,wimbledon,1158,Emil Ruusuvuori,Marcos Giron,,,,,,,,,,,1158.0
+58,2021-wimbledon-1159,2021,wimbledon,1159,Mikhail Kukushkin,Alexander Bublik,,,,,,,,,,,1159.0
+59,2021-wimbledon-1160,2021,wimbledon,1160,Fernando Verdasco,Grigor Dimitrov,,,,,,,,,,,1160.0
+60,2021-wimbledon-1161,2021,wimbledon,1161,Marin Cilic,Salvatore Caruso,,,,,,,,,,,1161.0
+61,2021-wimbledon-1162,2021,wimbledon,1162,Marco Trungelliti,Benjamin Bonzi,,,,,,,,,,,1162.0
+62,2021-wimbledon-1163,2021,wimbledon,1163,Yasutaka Uchiyama,Carlos Alcaraz,,,,,,,,,,,1163.0
+63,2021-wimbledon-1164,2021,wimbledon,1164,Jan Lennard Struff,Daniil Medvedev,,,,,,,,,,,1164.0
+64,2021-wimbledon-1201,2021,wimbledon,1201,Novak Djokovic,Kevin Anderson,,,,,,,,,,,1201.0
+65,2021-wimbledon-1202,2021,wimbledon,1202,Andreas Seppi,Denis Kudla,,,,,,,,,,,1202.0
+66,2021-wimbledon-1203,2021,wimbledon,1203,Cristian Garin,Marc Polmans,,,,,,,,,,,1203.0
+67,2021-wimbledon-1204,2021,wimbledon,1204,Pedro Martinez,Gael Monfils,,,,,,,,,,,1204.0
+68,2021-wimbledon-1205,2021,wimbledon,1205,Diego Schwartzman,Liam Broady,,,,,,,,,,,1205.0
+69,2021-wimbledon-1206,2021,wimbledon,1206,Jiri Vesely,Marton Fucsovics,,,,,,,,,,,1206.0
+70,2021-wimbledon-1207,2021,wimbledon,1207,Fabio Fognini,Laslo Djere,,,,,,,,,,,1207.0
+71,2021-wimbledon-1208,2021,wimbledon,1208,Lloyd Harris,Andrey Rublev,,,,,,,,,,,1208.0
+72,2021-wimbledon-1209,2021,wimbledon,1209,Frances Tiafoe,Vasek Pospisil,,,,,,,,,,,1209.0
+73,2021-wimbledon-1210,2021,wimbledon,1210,Egor Gerasimov,Karen Khachanov,,,,,,,,,,,1210.0
+74,2021-wimbledon-1211,2021,wimbledon,1211,Daniel Evans,Dusan Lajovic,,,,,,,,,,,1211.0
+75,2021-wimbledon-1212,2021,wimbledon,1212,Antoine Hoang,Sebastian Korda,,,,,,,,,,,1212.0
+76,2021-wimbledon-1214,2021,wimbledon,1214,Oscar Otte,Andy Murray,,,,,,,,,,,1214.0
+77,2021-wimbledon-1215,2021,wimbledon,1215,Dominik Koepfer,Soonwoo Kwon,,,,,,,,,,,1215.0
+78,2021-wimbledon-1216,2021,wimbledon,1216,Miomir Kecmanovic,Roberto Bautista Agut,,,,,,,,,,,1216.0
+79,2021-wimbledon-1217,2021,wimbledon,1217,Matteo Berrettini,Botic Van De Zandschulp,,,,,,,,,,,1217.0
+80,2021-wimbledon-1218,2021,wimbledon,1218,Aljaz Bedene,Yoshihito Nishioka,,,,,,,,,,,1218.0
+81,2021-wimbledon-1219,2021,wimbledon,1219,Jeremy Chardy,Ilya Ivashka,,,,,,,,,,,1219.0
+82,2021-wimbledon-1220,2021,wimbledon,1220,Kei Nishikori,Jordan Thompson,,,,,,,,,,,1220.0
+83,2021-wimbledon-1221,2021,wimbledon,1221,Felix Auger Aliassime,Mikael Ymer,,,,,,,,,,,1221.0
+84,2021-wimbledon-1222,2021,wimbledon,1222,Gianluca Mager,Nick Kyrgios,,,,,,,,,,,1222.0
+85,2021-wimbledon-1223,2021,wimbledon,1223,Taylor Fritz,Steve Johnson,,,,,,,,,,,1223.0
+86,2021-wimbledon-1224,2021,wimbledon,1224,Tennys Sandgren,Alexander Zverev,,,,,,,,,,,1224.0
+87,2021-wimbledon-1225,2021,wimbledon,1225,Roger Federer,Richard Gasquet,,,,,,,,,,,1225.0
+88,2021-wimbledon-1226,2021,wimbledon,1226,Alex Bolt,Cameron Norrie,,,,,,,,,,,1226.0
+89,2021-wimbledon-1227,2021,wimbledon,1227,Lorenzo Sonego,Daniel Elahi Galan,,,,,,,,,,,1227.0
+90,2021-wimbledon-1228,2021,wimbledon,1228,James Duckworth,Sam Querrey,,,,,,,,,,,1228.0
+91,2021-wimbledon-1229,2021,wimbledon,1229,Hubert Hurkacz,Marcos Giron,,,,,,,,,,,1229.0
+92,2021-wimbledon-1230,2021,wimbledon,1230,Alexander Bublik,Grigor Dimitrov,,,,,,,,,,,1230.0
+93,2021-wimbledon-1231,2021,wimbledon,1231,Marin Cilic,Benjamin Bonzi,,,,,,,,,,,1231.0
+94,2021-wimbledon-1232,2021,wimbledon,1232,Carlos Alcaraz,Daniil Medvedev,,,,,,,,,,,1232.0
+95,2021-wimbledon-1301,2021,wimbledon,1301,Novak Djokovic,Denis Kudla,,,,,,,,,,,1301.0
+96,2021-wimbledon-1302,2021,wimbledon,1302,Cristian Garin,Pedro Martinez,,,,,,,,,,,1302.0
+97,2021-wimbledon-1303,2021,wimbledon,1303,Diego Schwartzman,Marton Fucsovics,,,,,,,,,,,1303.0
+98,2021-wimbledon-1304,2021,wimbledon,1304,Fabio Fognini,Andrey Rublev,,,,,,,,,,,1304.0
+99,2021-wimbledon-1305,2021,wimbledon,1305,Frances Tiafoe,Karen Khachanov,,,,,,,,,,,1305.0
+100,2021-wimbledon-1306,2021,wimbledon,1306,Daniel Evans,Sebastian Korda,,,,,,,,,,,1306.0
+101,2021-wimbledon-1307,2021,wimbledon,1307,Denis Shapovalov,Andy Murray,,,,,,,,,,,1307.0
+102,2021-wimbledon-1308,2021,wimbledon,1308,Dominik Koepfer,Roberto Bautista Agut,,,,,,,,,,,1308.0
+103,2021-wimbledon-1309,2021,wimbledon,1309,Matteo Berrettini,Aljaz Bedene,,,,,,,,,,,1309.0
+104,2021-wimbledon-1310,2021,wimbledon,1310,Ilya Ivashka,Jordan Thompson,,,,,,,,,,,1310.0
+105,2021-wimbledon-1311,2021,wimbledon,1311,Felix Auger Aliassime,Nick Kyrgios,,,,,,,,,,,1311.0
+106,2021-wimbledon-1312,2021,wimbledon,1312,Taylor Fritz,Alexander Zverev,,,,,,,,,,,1312.0
+107,2021-wimbledon-1313,2021,wimbledon,1313,Roger Federer,Cameron Norrie,,,,,,,,,,,1313.0
+108,2021-wimbledon-1314,2021,wimbledon,1314,Lorenzo Sonego,James Duckworth,,,,,,,,,,,1314.0
+109,2021-wimbledon-1315,2021,wimbledon,1315,Hubert Hurkacz,Alexander Bublik,,,,,,,,,,,1315.0
+110,2021-wimbledon-1316,2021,wimbledon,1316,Marin Cilic,Daniil Medvedev,,,,,,,,,,,1316.0
+111,2021-wimbledon-1401,2021,wimbledon,1401,Novak Djokovic,Cristian Garin,,,,,,,,,,,1401.0
+112,2021-wimbledon-1402,2021,wimbledon,1402,Marton Fucsovics,Andrey Rublev,,,,,,,,,,,1402.0
+113,2021-wimbledon-1403,2021,wimbledon,1403,Karen Khachanov,Sebastian Korda,,,,,,,,,,,1403.0
+114,2021-wimbledon-1404,2021,wimbledon,1404,Denis Shapovalov,Roberto Bautista Agut,,,,,,,,,,,1404.0
+115,2021-wimbledon-1405,2021,wimbledon,1405,Matteo Berrettini,Ilya Ivashka,,,,,,,,,,,1405.0
+116,2021-wimbledon-1406,2021,wimbledon,1406,Felix Auger Aliassime,Alexander Zverev,,,,,,,,,,,1406.0
+117,2021-wimbledon-1407,2021,wimbledon,1407,Roger Federer,Lorenzo Sonego,,,,,,,,,,,1407.0
+118,2021-wimbledon-1408,2021,wimbledon,1408,Hubert Hurkacz,Daniil Medvedev,,,,,,,,,,,1408.0
+119,2021-wimbledon-1501,2021,wimbledon,1501,Novak Djokovic,Marton Fucsovics,,,,,,,,,,,1501.0
+120,2021-wimbledon-1502,2021,wimbledon,1502,Karen Khachanov,Denis Shapovalov,,,,,,,,,,,1502.0
+121,2021-wimbledon-1503,2021,wimbledon,1503,Matteo Berrettini,Felix Auger Aliassime,,,,,,,,,,,1503.0
+122,2021-wimbledon-1504,2021,wimbledon,1504,Roger Federer,Hubert Hurkacz,,,,,,,,,,,1504.0
+123,2021-wimbledon-1601,2021,wimbledon,1601,Novak Djokovic,Denis Shapovalov,,,,,,,,,,,1601.0
+124,2021-wimbledon-1602,2021,wimbledon,1602,Matteo Berrettini,Hubert Hurkacz,,,,,,,,,,,1602.0
+125,2021-wimbledon-1701,2021,wimbledon,1701,Novak Djokovic,Matteo Berrettini,,,,,,,,,,,1701.0
