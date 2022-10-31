@@ -20,6 +20,5 @@ for year in range(11):
     # Filter only men's singles matches
     result['match_id_num'] = result['match_id'].str.split('-').str[2]
     result['match_id_num'] = pd.to_numeric(result['match_id_num'], errors='coerce')
-    result.drop(columns=result.columns[0], inplace=True, axis=1)
     result = result[result['match_id_num'] < 2000]
     result.to_csv(f"../data/grand-slam-point-data/combined-matches/{filename}")
