@@ -1,467 +1,467 @@
-,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num
-0,2018-ausopen-1101,2018,ausopen,1101,R. Nadal,V. Estrella Burgos,,,,,,,,,ESP,DOM,1101
-1,2018-ausopen-1102,2018,ausopen,1102,N. Jarry,L. Mayer,,,,,,,,,CHI,ARG,1102
-2,2018-ausopen-1103,2018,ausopen,1103,J. Millman,B. Coric,,,,,,,,,AUS,CRO,1103
-3,2018-ausopen-1104,2018,ausopen,1104,P. Lorenzi,D. Dzumhur,,,,,,,,,ITA,BIH,1104
-4,2018-ausopen-1105,2018,ausopen,1105,D. Schwartzman,D. Lajovic,,,,,,,,,ARG,SRB,1105
-5,2018-ausopen-1106,2018,ausopen,1106,C. Ruud,Q. Halys,,,,,,,,,NOR,FRA,1106
-6,2018-ausopen-1107,2018,ausopen,1107,A. Dolgopolov,A. Haider-Maurer,,,,,,,,,UKR,AUT,1107
-7,2018-ausopen-1108,2018,ausopen,1108,M. Ebden,J. Isner,,,,,,,,,AUS,USA,1108
-8,2018-ausopen-1109,2018,ausopen,1109,P. Carreno Busta,J. Kubler,,,,,,,,,ESP,AUS,1109
-9,2018-ausopen-1110,2018,ausopen,1110,G. Simon,M. Copil,,,,,,,,,FRA,ROU,1110
-10,2018-ausopen-1111,2018,ausopen,1111,S. Caruso,M. Jaziri,,,,,,,,,ITA,TUN,1111
-11,2018-ausopen-1112,2018,ausopen,1112,F. Delbonis,G. Muller,,,,,,,,,ARG,LUX,1112
-12,2018-ausopen-1113,2018,ausopen,1113,P. Cuevas,M. Youzhny,,,,,,,,,URU,RUS,1113
-13,2018-ausopen-1114,2018,ausopen,1114,D. Sela,R. Harrison,,,,,,,,,ISR,USA,1114
-14,2018-ausopen-1115,2018,ausopen,1115,D. Brown,J. Sousa,,,,,,,,,GER,POR,1115
-15,2018-ausopen-1116,2018,ausopen,1116,V. Pospisil,M. Cilic,,,,,,,,,CAN,CRO,1116
-16,2018-ausopen-1117,2018,ausopen,1117,G. Dimitrov,D. Novak,,,,,,,,,BUL,AUT,1117
-17,2018-ausopen-1118,2018,ausopen,1118,M. Mcdonald,E. Ymer,,,,,,,,,USA,SWE,1118
-18,2018-ausopen-1119,2018,ausopen,1119,M. Baghdatis,Y. Bhambri,,,,,,,,,CYP,IND,1119
-19,2018-ausopen-1120,2018,ausopen,1120,D. Ferrer,A. Rublev,,,,,,,,,ESP,RUS,1120
-20,2018-ausopen-1121,2018,ausopen,1121,N. Kyrgios,R. Dutra Silva,,,,,,,,,AUS,BRA,1121
-21,2018-ausopen-1122,2018,ausopen,1122,V. Troicki,A. Bolt,,,,,,,,,SRB,AUS,1122
-22,2018-ausopen-1123,2018,ausopen,1123,S. Tsitsipas,D. Shapovalov,,,,,,,,,GRE,CAN,1123
-23,2018-ausopen-1124,2018,ausopen,1124,K. King,J. Tsonga,,,,,,,,,USA,FRA,1124
-24,2018-ausopen-1125,2018,ausopen,1125,K. Anderson,K. Edmund,,,,,,,,,RSA,GBR,1125
-25,2018-ausopen-1126,2018,ausopen,1126,P. Herbert,D. Istomin,,,,,,,,,FRA,UZB,1126
-26,2018-ausopen-1127,2018,ausopen,1127,G. Melzer,N. Basilashvili,,,,,,,,,AUT,GEO,1127
-27,2018-ausopen-1128,2018,ausopen,1128,R. Bemelmans,L. Pouille,,,,,,,,,BEL,FRA,1128
-28,2018-ausopen-1129,2018,ausopen,1129,P. Kohlschreiber,Y. Nishioka,,,,,,,,,GER,JPN,1129
-29,2018-ausopen-1130,2018,ausopen,1130,A. Seppi,C. Moutet,,,,,,,,,ITA,FRA,1130
-30,2018-ausopen-1131,2018,ausopen,1131,I. Karlovic,L. Djere,,,,,,,,,CRO,SRB,1131
-31,2018-ausopen-1132,2018,ausopen,1132,Y. Sugita,J. Sock,,,,,,,,,JPN,USA,1132
-32,2018-ausopen-1133,2018,ausopen,1133,D. Thiem,G. Pella,,,,,,,,,AUT,ARG,1133
-33,2018-ausopen-1134,2018,ausopen,1134,S. Johnson,D. Kudla,,,,,,,,,USA,USA,1134
-34,2018-ausopen-1135,2018,ausopen,1135,V. Safranek,J. Vesely,,,,,,,,,CZE,CZE,1135
-35,2018-ausopen-1136,2018,ausopen,1136,M. Berrettini,A. Mannarino,,,,,,,,,ITA,FRA,1136
-36,2018-ausopen-1137,2018,ausopen,1137,R. Bautista Agut,F. Verdasco,,,,,,,,,ESP,ESP,1137
-37,2018-ausopen-1138,2018,ausopen,1138,C. Stebe,M. Marterer,,,,,,,,,GER,GER,1138
-38,2018-ausopen-1139,2018,ausopen,1139,J. Chardy,T. Sandgren,,,,,,,,,FRA,USA,1139
-39,2018-ausopen-1140,2018,ausopen,1140,R. Berankis,S. Wawrinka,,,,,,,,,LTU,SUI,1140
-40,2018-ausopen-1141,2018,ausopen,1141,N. Djokovic,D. Young,,,,,,,,,SRB,USA,1141
-41,2018-ausopen-1142,2018,ausopen,1142,G. Monfils,J. Munar,,,,,,,,,FRA,ESP,1142
-42,2018-ausopen-1143,2018,ausopen,1143,T. Smyczek,A. Popyrin,,,,,,,,,USA,AUS,1143
-43,2018-ausopen-1144,2018,ausopen,1144,J. Donaldson,A. Ramos-Vinolas,,,,,,,,,USA,ESP,1144
-44,2018-ausopen-1145,2018,ausopen,1145,M. Zverev,H. Chung,,,,,,,,,GER,KOR,1145
-45,2018-ausopen-1146,2018,ausopen,1146,T. Kokkinakis,D. Medvedev,,,,,,,,,AUS,RUS,1146
-46,2018-ausopen-1147,2018,ausopen,1147,M. Kukushkin,P. Gojowczyk,,,,,,,,,KAZ,GER,1147
-47,2018-ausopen-1148,2018,ausopen,1148,T. Fabbiano,A. Zverev,,,,,,,,,ITA,GER,1148
-48,2018-ausopen-1149,2018,ausopen,1149,D. Goffin,M. Bachinger,,,,,,,,,BEL,GER,1149
-49,2018-ausopen-1150,2018,ausopen,1150,J. Benneteau,T. Daniel,,,,,,,,,FRA,JPN,1150
-50,2018-ausopen-1151,2018,ausopen,1151,E. Donskoy,F. Mayer,,,,,,,,,RUS,GER,1151
-51,2018-ausopen-1152,2018,ausopen,1152,H. Zeballos,F. Fognini,,,,,,,,,ARG,ITA,1152
-52,2018-ausopen-1153,2018,ausopen,1153,T. Berdych,A. De Minaur,,,,,,,,,CZE,AUS,1153
-53,2018-ausopen-1154,2018,ausopen,1154,G. Garcia-Lopez,B. Paire,,,,,,,,,ESP,FRA,1154
-54,2018-ausopen-1155,2018,ausopen,1155,K. Khachanov,P. Polansky,,,,,,,,,RUS,CAN,1155
-55,2018-ausopen-1156,2018,ausopen,1156,F. Tiafoe,J. Del Potro,,,,,,,,,USA,ARG,1156
-56,2018-ausopen-1157,2018,ausopen,1157,S. Querrey,F. Lopez,,,,,,,,,USA,ESP,1157
-57,2018-ausopen-1158,2018,ausopen,1158,R. Albot,M. Fucsovics,,,,,,,,,MDA,HUN,1158
-58,2018-ausopen-1159,2018,ausopen,1159,N. Kicker,J. Thompson,,,,,,,,,ARG,AUS,1159
-59,2018-ausopen-1160,2018,ausopen,1160,L. Lacko,M. Raonic,,,,,,,,,SVK,CAN,1160
-60,2018-ausopen-1161,2018,ausopen,1161,R. Gasquet,B. Kavcic,,,,,,,,,FRA,SLO,1161
-61,2018-ausopen-1162,2018,ausopen,1162,L. Sonego,R. Haase,,,,,,,,,ITA,NED,1162
-62,2018-ausopen-1163,2018,ausopen,1163,S. Kwon,J. Struff,,,,,,,,,KOR,GER,1163
-63,2018-ausopen-1164,2018,ausopen,1164,A. Bedene,R. Federer,,,,,,,,,SLO,SUI,1164
-64,2018-ausopen-1201,2018,ausopen,1201,R. Nadal,L. Mayer,,,,,,,,,ESP,ARG,1201
-65,2018-ausopen-1202,2018,ausopen,1202,J. Millman,D. Dzumhur,,,,,,,,,AUS,BIH,1202
-66,2018-ausopen-1203,2018,ausopen,1203,D. Schwartzman,C. Ruud,,,,,,,,,ARG,NOR,1203
-67,2018-ausopen-1204,2018,ausopen,1204,A. Dolgopolov,M. Ebden,,,,,,,,,UKR,AUS,1204
-68,2018-ausopen-1205,2018,ausopen,1205,P. Carreno Busta,G. Simon,,,,,,,,,ESP,FRA,1205
-69,2018-ausopen-1206,2018,ausopen,1206,M. Jaziri,G. Muller,,,,,,,,,TUN,LUX,1206
-70,2018-ausopen-1207,2018,ausopen,1207,P. Cuevas,R. Harrison,,,,,,,,,URU,USA,1207
-71,2018-ausopen-1208,2018,ausopen,1208,J. Sousa,M. Cilic,,,,,,,,,POR,CRO,1208
-72,2018-ausopen-1209,2018,ausopen,1209,G. Dimitrov,M. Mcdonald,,,,,,,,,BUL,USA,1209
-73,2018-ausopen-1210,2018,ausopen,1210,M. Baghdatis,A. Rublev,,,,,,,,,CYP,RUS,1210
-74,2018-ausopen-1211,2018,ausopen,1211,N. Kyrgios,V. Troicki,,,,,,,,,AUS,SRB,1211
-75,2018-ausopen-1212,2018,ausopen,1212,D. Shapovalov,J. Tsonga,,,,,,,,,CAN,FRA,1212
-76,2018-ausopen-1213,2018,ausopen,1213,K. Edmund,D. Istomin,,,,,,,,,GBR,UZB,1213
-77,2018-ausopen-1214,2018,ausopen,1214,N. Basilashvili,R. Bemelmans,,,,,,,,,GEO,BEL,1214
-78,2018-ausopen-1215,2018,ausopen,1215,Y. Nishioka,A. Seppi,,,,,,,,,JPN,ITA,1215
-79,2018-ausopen-1216,2018,ausopen,1216,I. Karlovic,Y. Sugita,,,,,,,,,CRO,JPN,1216
-80,2018-ausopen-1217,2018,ausopen,1217,D. Thiem,D. Kudla,,,,,,,,,AUT,USA,1217
-81,2018-ausopen-1218,2018,ausopen,1218,J. Vesely,A. Mannarino,,,,,,,,,CZE,FRA,1218
-82,2018-ausopen-1219,2018,ausopen,1219,F. Verdasco,M. Marterer,,,,,,,,,ESP,GER,1219
-83,2018-ausopen-1220,2018,ausopen,1220,T. Sandgren,S. Wawrinka,,,,,,,,,USA,SUI,1220
-84,2018-ausopen-1221,2018,ausopen,1221,N. Djokovic,G. Monfils,,,,,,,,,SRB,FRA,1221
-85,2018-ausopen-1222,2018,ausopen,1222,T. Smyczek,A. Ramos-Vinolas,,,,,,,,,USA,ESP,1222
-86,2018-ausopen-1223,2018,ausopen,1223,H. Chung,D. Medvedev,,,,,,,,,KOR,RUS,1223
-87,2018-ausopen-1224,2018,ausopen,1224,P. Gojowczyk,A. Zverev,,,,,,,,,GER,GER,1224
-88,2018-ausopen-1225,2018,ausopen,1225,D. Goffin,J. Benneteau,,,,,,,,,BEL,FRA,1225
-89,2018-ausopen-1227,2018,ausopen,1227,T. Berdych,G. Garcia-Lopez,,,,,,,,,CZE,ESP,1227
-90,2018-ausopen-1228,2018,ausopen,1228,K. Khachanov,J. Del Potro,,,,,,,,,RUS,ARG,1228
-91,2018-ausopen-1229,2018,ausopen,1229,S. Querrey,M. Fucsovics,,,,,,,,,USA,HUN,1229
-92,2018-ausopen-1230,2018,ausopen,1230,N. Kicker,L. Lacko,,,,,,,,,ARG,SVK,1230
-93,2018-ausopen-1231,2018,ausopen,1231,R. Gasquet,L. Sonego,,,,,,,,,FRA,ITA,1231
-94,2018-ausopen-1232,2018,ausopen,1232,J. Struff,R. Federer,,,,,,,,,GER,SUI,1232
-95,2018-ausopen-1301,2018,ausopen,1301,R. Nadal,D. Dzumhur,,,,,,,,,ESP,BIH,1301
-96,2018-ausopen-1302,2018,ausopen,1302,D. Schwartzman,A. Dolgopolov,,,,,,,,,ARG,UKR,1302
-97,2018-ausopen-1303,2018,ausopen,1303,P. Carreno Busta,G. Muller,,,,,,,,,ESP,LUX,1303
-98,2018-ausopen-1304,2018,ausopen,1304,R. Harrison,M. Cilic,,,,,,,,,USA,CRO,1304
-99,2018-ausopen-1305,2018,ausopen,1305,G. Dimitrov,A. Rublev,,,,,,,,,BUL,RUS,1305
-100,2018-ausopen-1306,2018,ausopen,1306,N. Kyrgios,J. Tsonga,,,,,,,,,AUS,FRA,1306
-101,2018-ausopen-1307,2018,ausopen,1307,K. Edmund,N. Basilashvili,,,,,,,,,GBR,GEO,1307
-102,2018-ausopen-1308,2018,ausopen,1308,A. Seppi,I. Karlovic,,,,,,,,,ITA,CRO,1308
-103,2018-ausopen-1309,2018,ausopen,1309,D. Thiem,A. Mannarino,,,,,,,,,AUT,FRA,1309
-104,2018-ausopen-1310,2018,ausopen,1310,M. Marterer,T. Sandgren,,,,,,,,,GER,USA,1310
-105,2018-ausopen-1311,2018,ausopen,1311,N. Djokovic,A. Ramos-Vinolas,,,,,,,,,SRB,ESP,1311
-106,2018-ausopen-1312,2018,ausopen,1312,H. Chung,A. Zverev,,,,,,,,,KOR,GER,1312
-107,2018-ausopen-1313,2018,ausopen,1313,J. Benneteau,F. Fognini,,,,,,,,,FRA,ITA,1313
-108,2018-ausopen-1314,2018,ausopen,1314,T. Berdych,J. Del Potro,,,,,,,,,CZE,ARG,1314
-109,2018-ausopen-1315,2018,ausopen,1315,M. Fucsovics,N. Kicker,,,,,,,,,HUN,ARG,1315
-110,2018-ausopen-1316,2018,ausopen,1316,R. Gasquet,R. Federer,,,,,,,,,FRA,SUI,1316
-111,2018-ausopen-1401,2018,ausopen,1401,R. Nadal,D. Schwartzman,,,,,,,,,ESP,ARG,1401
-112,2018-ausopen-1402,2018,ausopen,1402,P. Carreno Busta,M. Cilic,,,,,,,,,ESP,CRO,1402
-113,2018-ausopen-1403,2018,ausopen,1403,G. Dimitrov,N. Kyrgios,,,,,,,,,BUL,AUS,1403
-114,2018-ausopen-1404,2018,ausopen,1404,K. Edmund,A. Seppi,,,,,,,,,GBR,ITA,1404
-115,2018-ausopen-1405,2018,ausopen,1405,D. Thiem,T. Sandgren,,,,,,,,,AUT,USA,1405
-116,2018-ausopen-1406,2018,ausopen,1406,N. Djokovic,H. Chung,,,,,,,,,SRB,KOR,1406
-117,2018-ausopen-1407,2018,ausopen,1407,F. Fognini,T. Berdych,,,,,,,,,ITA,CZE,1407
-118,2018-ausopen-1408,2018,ausopen,1408,M. Fucsovics,R. Federer,,,,,,,,,HUN,SUI,1408
-119,2018-ausopen-1501,2018,ausopen,1501,R. Nadal,M. Cilic,,,,,,,,,ESP,CRO,1501
-120,2018-ausopen-1502,2018,ausopen,1502,G. Dimitrov,K. Edmund,,,,,,,,,BUL,GBR,1502
-121,2018-ausopen-1503,2018,ausopen,1503,T. Sandgren,H. Chung,,,,,,,,,USA,KOR,1503
-122,2018-ausopen-1504,2018,ausopen,1504,T. Berdych,R. Federer,,,,,,,,,CZE,SUI,1504
-123,2018-ausopen-1601,2018,ausopen,1601,M. Cilic,K. Edmund,,,,,,,,,CRO,GBR,1601
-124,2018-ausopen-1602,2018,ausopen,1602,H. Chung,R. Federer,,,,,,,,,KOR,SUI,1602
-125,2018-ausopen-1701,2018,ausopen,1701,M. Cilic,R. Federer,,,,,,,,,CRO,SUI,1701
-0,2018-frenchopen-1101,2018,frenchopen,1101,R. Nadal,S. Bolelli,,,,,,,,,ESP,ITA,1101
-1,2018-frenchopen-1102,2018,frenchopen,1102,J. Sousa,G. Pella,,,,,,,,,POR,ARG,1102
-2,2018-frenchopen-1103,2018,frenchopen,1103,M. Jaziri,M. Youzhny,,,,,,,,,TUN,RUS,1103
-3,2018-frenchopen-1104,2018,frenchopen,1104,A. Seppi,R. Gasquet,,,,,,,,,ITA,FRA,1104
-4,2018-frenchopen-1105,2018,frenchopen,1105,D. Shapovalov,J. Millman,,,,,,,,,CAN,AUS,1105
-5,2018-frenchopen-1106,2018,frenchopen,1106,R. Harrison,M. Marterer,,,,,,,,,USA,GER,1106
-6,2018-frenchopen-1107,2018,frenchopen,1107,Y. Bhambri,R. Bemelmans,,,,,,,,,IND,BEL,1107
-7,2018-frenchopen-1108,2018,frenchopen,1108,J. Zopp,J. Sock,,,,,,,,,EST,USA,1108
-8,2018-frenchopen-1109,2018,frenchopen,1109,D. Schwartzman,C. Hemery,,,,,,,,,ARG,FRA,1109
-9,2018-frenchopen-1110,2018,frenchopen,1110,M. Basic,A. Pavlasek,,,,,,,,,BIH,CZE,1110
-10,2018-frenchopen-1111,2018,frenchopen,1111,M. Ebden,T. Fabbiano,,,,,,,,,AUS,ITA,1111
-11,2018-frenchopen-1112,2018,frenchopen,1112,B. Coric,P. Kohlschreiber,,,,,,,,,CRO,GER,1112
-12,2018-frenchopen-1113,2018,frenchopen,1113,F. Lopez,S. Stakhovsky,,,,,,,,,ESP,UKR,1113
-13,2018-frenchopen-1114,2018,frenchopen,1114,M. Zverev,F. Mayer,,,,,,,,,GER,GER,1114
-14,2018-frenchopen-1115,2018,frenchopen,1115,A. Bedene,P. Cuevas,,,,,,,,,SLO,URU,1115
-15,2018-frenchopen-1116,2018,frenchopen,1116,P. Lorenzi,K. Anderson,,,,,,,,,ITA,RSA,1116
-16,2018-frenchopen-1117,2018,frenchopen,1117,M. Cilic,J. Duckworth,,,,,,,,,CRO,AUS,1117
-17,2018-frenchopen-1118,2018,frenchopen,1118,H. Hurkacz,T. Sandgren,,,,,,,,,POL,USA,1118
-18,2018-frenchopen-1119,2018,frenchopen,1119,E. Donskoy,J. Struff,,,,,,,,,RUS,GER,1119
-19,2018-frenchopen-1120,2018,frenchopen,1120,S. Johnson,A. Mannarino,,,,,,,,,USA,FRA,1120
-20,2018-frenchopen-1121,2018,frenchopen,1121,F. Fognini,P. Andujar,,,,,,,,,ITA,ESP,1121
-21,2018-frenchopen-1122,2018,frenchopen,1122,D. Sela,E. Ymer,,,,,,,,,ISR,SWE,1122
-22,2018-frenchopen-1123,2018,frenchopen,1123,V. Pospisil,M. Fucsovics,,,,,,,,,CAN,HUN,1123
-23,2018-frenchopen-1124,2018,frenchopen,1124,A. De Minaur,K. Edmund,,,,,,,,,AUS,GBR,1124
-24,2018-frenchopen-1125,2018,frenchopen,1125,J. Isner,N. Rubin,,,,,,,,,USA,USA,1125
-25,2018-frenchopen-1126,2018,frenchopen,1126,H. Zeballos,Y. Sugita,,,,,,,,,ARG,JPN,1126
-26,2018-frenchopen-1127,2018,frenchopen,1127,P. Polansky,P. Herbert,,,,,,,,,CAN,FRA,1127
-27,2018-frenchopen-1128,2018,frenchopen,1128,J. Chardy,T. Berdych,,,,,,,,,FRA,CZE,1128
-28,2018-frenchopen-1129,2018,frenchopen,1129,A. Ramos-Vinolas,M. Kukushkin,,,,,,,,,ESP,KAZ,1129
-29,2018-frenchopen-1130,2018,frenchopen,1130,J. Thompson,C. Ruud,,,,,,,,,AUS,NOR,1130
-30,2018-frenchopen-1131,2018,frenchopen,1131,L. Mayer,J. Benneteau,,,,,,,,,ARG,FRA,1131
-31,2018-frenchopen-1132,2018,frenchopen,1132,N. Mahut,J. Del Potro,,,,,,,,,FRA,ARG,1132
-32,2018-frenchopen-1133,2018,frenchopen,1133,D. Goffin,R. Haase,,,,,,,,,BEL,NED,1133
-33,2018-frenchopen-1134,2018,frenchopen,1134,I. Karlovic,C. Moutet,,,,,,,,,CRO,FRA,1134
-34,2018-frenchopen-1135,2018,frenchopen,1135,M. Klizan,L. Djere,,,,,,,,,SVK,SRB,1135
-35,2018-frenchopen-1136,2018,frenchopen,1136,E. Benchetrit,G. Monfils,,,,,,,,,FRA,FRA,1136
-36,2018-frenchopen-1137,2018,frenchopen,1137,M. Trungelliti,B. Tomic,,,,,,,,,ARG,AUS,1137
-37,2018-frenchopen-1138,2018,frenchopen,1138,M. Cecchinato,M. Copil,,,,,,,,,ITA,ROU,1138
-38,2018-frenchopen-1139,2018,frenchopen,1139,F. Delbonis,T. Bellucci,,,,,,,,,ARG,BRA,1139
-39,2018-frenchopen-1140,2018,frenchopen,1140,J. Kovalik,P. Carreno Busta,,,,,,,,,SVK,ESP,1140
-40,2018-frenchopen-1141,2018,frenchopen,1141,R. Bautista Agut,D. Istomin,,,,,,,,,ESP,UZB,1141
-41,2018-frenchopen-1142,2018,frenchopen,1142,M. Baghdatis,S. Giraldo,,,,,,,,,CYP,COL,1142
-42,2018-frenchopen-1143,2018,frenchopen,1143,J. Munar,D. Ferrer,,,,,,,,,ESP,ESP,1143
-43,2018-frenchopen-1144,2018,frenchopen,1144,R. Dutra Silva,N. Djokovic,,,,,,,,,BRA,SRB,1144
-44,2018-frenchopen-1145,2018,frenchopen,1145,F. Verdasco,Y. Nishioka,,,,,,,,,ESP,JPN,1145
-45,2018-frenchopen-1146,2018,frenchopen,1146,G. Andreozzi,T. Fritz,,,,,,,,,ARG,USA,1146
-46,2018-frenchopen-1147,2018,frenchopen,1147,N. Jarry,J. Donaldson,,,,,,,,,CHI,USA,1147
-47,2018-frenchopen-1148,2018,frenchopen,1148,M. Safwat,G. Dimitrov,,,,,,,,,EGY,BUL,1148
-48,2018-frenchopen-1149,2018,frenchopen,1149,D. Thiem,I. Ivashka,,,,,,,,,AUT,BLR,1149
-49,2018-frenchopen-1150,2018,frenchopen,1150,S. Tsitsipas,C. Taberner,,,,,,,,,GRE,ESP,1150
-50,2018-frenchopen-1151,2018,frenchopen,1151,O. Otte,M. Berrettini,,,,,,,,,GER,ITA,1151
-51,2018-frenchopen-1152,2018,frenchopen,1152,E. Gulbis,G. Muller,,,,,,,,,LAT,LUX,1152
-52,2018-frenchopen-1153,2018,frenchopen,1153,K. Nishikori,M. Janvier,,,,,,,,,JPN,FRA,1153
-53,2018-frenchopen-1154,2018,frenchopen,1154,B. Paire,R. Carballes Baena,,,,,,,,,FRA,ESP,1154
-54,2018-frenchopen-1155,2018,frenchopen,1155,N. Basilashvili,G. Simon,,,,,,,,,GEO,FRA,1155
-55,2018-frenchopen-1156,2018,frenchopen,1156,F. Tiafoe,S. Querrey,,,,,,,,,USA,USA,1156
-56,2018-frenchopen-1157,2018,frenchopen,1157,L. Pouille,D. Medvedev,,,,,,,,,FRA,RUS,1157
-57,2018-frenchopen-1158,2018,frenchopen,1158,P. Gojowczyk,C. Norrie,,,,,,,,,GER,GBR,1158
-58,2018-frenchopen-1159,2018,frenchopen,1159,K. Khachanov,A. Haider-Maurer,,,,,,,,,RUS,AUT,1159
-59,2018-frenchopen-1160,2018,frenchopen,1160,G. Garcia-Lopez,S. Wawrinka,,,,,,,,,ESP,SUI,1160
-60,2018-frenchopen-1161,2018,frenchopen,1161,D. Dzumhur,D. Kudla,,,,,,,,,BIH,USA,1161
-61,2018-frenchopen-1162,2018,frenchopen,1162,G. Barrere,R. Albot,,,,,,,,,FRA,MDA,1162
-62,2018-frenchopen-1163,2018,frenchopen,1163,J. Vesely,D. Lajovic,,,,,,,,,CZE,SRB,1163
-63,2018-frenchopen-1164,2018,frenchopen,1164,R. Berankis,A. Zverev,,,,,,,,,LTU,GER,1164
-64,2018-frenchopen-1201,2018,frenchopen,1201,R. Nadal,G. Pella,,,,,,,,,ESP,ARG,1201
-65,2018-frenchopen-1202,2018,frenchopen,1202,M. Jaziri,R. Gasquet,,,,,,,,,TUN,FRA,1202
-66,2018-frenchopen-1203,2018,frenchopen,1203,D. Shapovalov,M. Marterer,,,,,,,,,CAN,GER,1203
-67,2018-frenchopen-1204,2018,frenchopen,1204,R. Bemelmans,J. Zopp,,,,,,,,,BEL,EST,1204
-68,2018-frenchopen-1205,2018,frenchopen,1205,D. Schwartzman,A. Pavlasek,,,,,,,,,ARG,CZE,1205
-69,2018-frenchopen-1206,2018,frenchopen,1206,T. Fabbiano,B. Coric,,,,,,,,,ITA,CRO,1206
-70,2018-frenchopen-1207,2018,frenchopen,1207,S. Stakhovsky,M. Zverev,,,,,,,,,UKR,GER,1207
-71,2018-frenchopen-1208,2018,frenchopen,1208,P. Cuevas,K. Anderson,,,,,,,,,URU,RSA,1208
-72,2018-frenchopen-1209,2018,frenchopen,1209,M. Cilic,H. Hurkacz,,,,,,,,,CRO,POL,1209
-73,2018-frenchopen-1210,2018,frenchopen,1210,J. Struff,S. Johnson,,,,,,,,,GER,USA,1210
-74,2018-frenchopen-1211,2018,frenchopen,1211,F. Fognini,E. Ymer,,,,,,,,,ITA,SWE,1211
-75,2018-frenchopen-1212,2018,frenchopen,1212,M. Fucsovics,K. Edmund,,,,,,,,,HUN,GBR,1212
-76,2018-frenchopen-1213,2018,frenchopen,1213,J. Isner,H. Zeballos,,,,,,,,,USA,ARG,1213
-77,2018-frenchopen-1214,2018,frenchopen,1214,P. Herbert,J. Chardy,,,,,,,,,FRA,FRA,1214
-78,2018-frenchopen-1215,2018,frenchopen,1215,A. Ramos-Vinolas,C. Ruud,,,,,,,,,ESP,NOR,1215
-79,2018-frenchopen-1216,2018,frenchopen,1216,J. Benneteau,J. Del Potro,,,,,,,,,FRA,ARG,1216
-80,2018-frenchopen-1217,2018,frenchopen,1217,D. Goffin,C. Moutet,,,,,,,,,BEL,FRA,1217
-81,2018-frenchopen-1218,2018,frenchopen,1218,M. Klizan,G. Monfils,,,,,,,,,SVK,FRA,1218
-82,2018-frenchopen-1219,2018,frenchopen,1219,M. Trungelliti,M. Cecchinato,,,,,,,,,ARG,ITA,1219
-83,2018-frenchopen-1220,2018,frenchopen,1220,F. Delbonis,P. Carreno Busta,,,,,,,,,ARG,ESP,1220
-84,2018-frenchopen-1221,2018,frenchopen,1221,R. Bautista Agut,S. Giraldo,,,,,,,,,ESP,COL,1221
-85,2018-frenchopen-1222,2018,frenchopen,1222,J. Munar,N. Djokovic,,,,,,,,,ESP,SRB,1222
-86,2018-frenchopen-1223,2018,frenchopen,1223,F. Verdasco,G. Andreozzi,,,,,,,,,ESP,ARG,1223
-87,2018-frenchopen-1224,2018,frenchopen,1224,J. Donaldson,G. Dimitrov,,,,,,,,,USA,BUL,1224
-88,2018-frenchopen-1225,2018,frenchopen,1225,D. Thiem,S. Tsitsipas,,,,,,,,,AUT,GRE,1225
-89,2018-frenchopen-1226,2018,frenchopen,1226,M. Berrettini,E. Gulbis,,,,,,,,,ITA,LAT,1226
-90,2018-frenchopen-1227,2018,frenchopen,1227,K. Nishikori,B. Paire,,,,,,,,,JPN,FRA,1227
-91,2018-frenchopen-1228,2018,frenchopen,1228,G. Simon,S. Querrey,,,,,,,,,FRA,USA,1228
-92,2018-frenchopen-1229,2018,frenchopen,1229,L. Pouille,C. Norrie,,,,,,,,,FRA,GBR,1229
-93,2018-frenchopen-1230,2018,frenchopen,1230,K. Khachanov,G. Garcia-Lopez,,,,,,,,,RUS,ESP,1230
-94,2018-frenchopen-1231,2018,frenchopen,1231,D. Dzumhur,R. Albot,,,,,,,,,BIH,MDA,1231
-95,2018-frenchopen-1232,2018,frenchopen,1232,D. Lajovic,A. Zverev,,,,,,,,,SRB,GER,1232
-96,2018-frenchopen-1301,2018,frenchopen,1301,R. Nadal,R. Gasquet,,,,,,,,,ESP,FRA,1301
-97,2018-frenchopen-1302,2018,frenchopen,1302,M. Marterer,J. Zopp,,,,,,,,,GER,EST,1302
-98,2018-frenchopen-1303,2018,frenchopen,1303,D. Schwartzman,B. Coric,,,,,,,,,ARG,CRO,1303
-99,2018-frenchopen-1304,2018,frenchopen,1304,M. Zverev,K. Anderson,,,,,,,,,GER,RSA,1304
-100,2018-frenchopen-1305,2018,frenchopen,1305,M. Cilic,S. Johnson,,,,,,,,,CRO,USA,1305
-101,2018-frenchopen-1306,2018,frenchopen,1306,F. Fognini,K. Edmund,,,,,,,,,ITA,GBR,1306
-102,2018-frenchopen-1307,2018,frenchopen,1307,J. Isner,P. Herbert,,,,,,,,,USA,FRA,1307
-103,2018-frenchopen-1308,2018,frenchopen,1308,A. Ramos-Vinolas,J. Del Potro,,,,,,,,,ESP,ARG,1308
-104,2018-frenchopen-1309,2018,frenchopen,1309,D. Goffin,G. Monfils,,,,,,,,,BEL,FRA,1309
-105,2018-frenchopen-1310,2018,frenchopen,1310,M. Cecchinato,P. Carreno Busta,,,,,,,,,ITA,ESP,1310
-106,2018-frenchopen-1311,2018,frenchopen,1311,R. Bautista Agut,N. Djokovic,,,,,,,,,ESP,SRB,1311
-107,2018-frenchopen-1312,2018,frenchopen,1312,F. Verdasco,G. Dimitrov,,,,,,,,,ESP,BUL,1312
-108,2018-frenchopen-1313,2018,frenchopen,1313,D. Thiem,M. Berrettini,,,,,,,,,AUT,ITA,1313
-109,2018-frenchopen-1314,2018,frenchopen,1314,K. Nishikori,G. Simon,,,,,,,,,JPN,FRA,1314
-110,2018-frenchopen-1315,2018,frenchopen,1315,L. Pouille,K. Khachanov,,,,,,,,,FRA,RUS,1315
-111,2018-frenchopen-1316,2018,frenchopen,1316,D. Dzumhur,A. Zverev,,,,,,,,,BIH,GER,1316
-112,2018-frenchopen-1401,2018,frenchopen,1401,R. Nadal,M. Marterer,,,,,,,,,ESP,GER,1401
-113,2018-frenchopen-1402,2018,frenchopen,1402,D. Schwartzman,K. Anderson,,,,,,,,,ARG,RSA,1402
-114,2018-frenchopen-1403,2018,frenchopen,1403,M. Cilic,F. Fognini,,,,,,,,,CRO,ITA,1403
-115,2018-frenchopen-1404,2018,frenchopen,1404,J. Isner,J. Del Potro,,,,,,,,,USA,ARG,1404
-116,2018-frenchopen-1405,2018,frenchopen,1405,D. Goffin,M. Cecchinato,,,,,,,,,BEL,ITA,1405
-117,2018-frenchopen-1406,2018,frenchopen,1406,N. Djokovic,F. Verdasco,,,,,,,,,SRB,ESP,1406
-118,2018-frenchopen-1407,2018,frenchopen,1407,D. Thiem,K. Nishikori,,,,,,,,,AUT,JPN,1407
-119,2018-frenchopen-1408,2018,frenchopen,1408,K. Khachanov,A. Zverev,,,,,,,,,RUS,GER,1408
-120,2018-frenchopen-1501,2018,frenchopen,1501,R. Nadal,D. Schwartzman,,,,,,,,,ESP,ARG,1501
-121,2018-frenchopen-1502,2018,frenchopen,1502,M. Cilic,J. Del Potro,,,,,,,,,CRO,ARG,1502
-122,2018-frenchopen-1503,2018,frenchopen,1503,M. Cecchinato,N. Djokovic,,,,,,,,,ITA,SRB,1503
-123,2018-frenchopen-1504,2018,frenchopen,1504,D. Thiem,A. Zverev,,,,,,,,,AUT,GER,1504
-124,2018-frenchopen-1601,2018,frenchopen,1601,R. Nadal,J. Del Potro,,,,,,,,,ESP,ARG,1601
-125,2018-frenchopen-1602,2018,frenchopen,1602,M. Cecchinato,D. Thiem,,,,,,,,,ITA,AUT,1602
-126,2018-frenchopen-1701,2018,frenchopen,1701,R. Nadal,D. Thiem,,,,,,,,,ESP,AUT,1701
-0,2018-usopen-1101,2018,usopen,1101,Rafael Nadal,David Ferrer,,,,,,,,,,,1101
-1,2018-usopen-1105,2018,usopen,1105,Jack Sock,Guido Andreozzi,,,,,,,,,,,1105
-2,2018-usopen-1108,2018,usopen,1108,Paolo Lorenzi,Kyle Edmund,,,,,,,,,,,1108
-3,2018-usopen-1109,2018,usopen,1109,Dominic Thiem,Mirza Basic,,,,,,,,,,,1109
-4,2018-usopen-1111,2018,usopen,1111,Mischa Zverev,Taylor Fritz,,,,,,,,,,,1111
-5,2018-usopen-1113,2018,usopen,1113,Denis Shapovalov,Felix Auger Aliassime,,,,,,,,,,,1113
-6,2018-usopen-1114,2018,usopen,1114,Sam Querrey,Andreas Seppi,,,,,,,,,,,1114
-7,2018-usopen-1116,2018,usopen,1116,Ryan Harrison,Kevin Anderson,,,,,,,,,,,1116
-8,2018-usopen-1117,2018,usopen,1117,Juan Martin Del Potro,Donald Young,,,,,,,,,,,1117
-9,2018-usopen-1119,2018,usopen,1119,Andy Murray,James Duckworth,,,,,,,,,,,1119
-10,2018-usopen-1125,2018,usopen,1125,John Isner,Bradley Klahn,,,,,,,,,,,1125
-11,2018-usopen-1127,2018,usopen,1127,Cameron Norrie,Jordan Thompson,,,,,,,,,,,1127
-12,2018-usopen-1129,2018,usopen,1129,Milos Raonic,Carlos Berlocq,,,,,,,,,,,1129
-13,2018-usopen-1132,2018,usopen,1132,Stan Wawrinka,Grigor Dimitrov,,,,,,,,,,,1132
-14,2018-usopen-1133,2018,usopen,1133,Marin Cilic,Marius Copil,,,,,,,,,,,1133
-15,2018-usopen-1135,2018,usopen,1135,Alex de Minaur,Taro Daniel,,,,,,,,,,,1135
-16,2018-usopen-1136,2018,usopen,1136,Frances Tiafoe,Adrian Mannarino,,,,,,,,,,,1136
-17,2018-usopen-1137,2018,usopen,1137,Marco Cecchinato,Julien Benneteau,,,,,,,,,,,1137
-18,2018-usopen-1141,2018,usopen,1141,Diego Schwartzman,Federico Delbonis,,,,,,,,,,,1141
-19,2018-usopen-1143,2018,usopen,1143,Facundo Bagnis,Gael Monfils,,,,,,,,,,,1143
-20,2018-usopen-1144,2018,usopen,1144,Maximilian Marterer,Kei Nishikori,,,,,,,,,,,1144
-21,2018-usopen-1148,2018,usopen,1148,Peter Polansky,Alexander Zverev,,,,,,,,,,,1148
-22,2018-usopen-1149,2018,usopen,1149,Novak Djokovic,Marton Fucsovics,,,,,,,,,,,1149
-23,2018-usopen-1152,2018,usopen,1152,Yuichi Sugita,Richard Gasquet,,,,,,,,,,,1152
-24,2018-usopen-1157,2018,usopen,1157,Fabio Fognini,Michael Mmoh,,,,,,,,,,,1157
-25,2018-usopen-1160,2018,usopen,1160,Ricardas Berankis,Hyeon Chung,,,,,,,,,,,1160
-26,2018-usopen-1161,2018,usopen,1161,Nick Kyrgios,Radu Albot,,,,,,,,,,,1161
-27,2018-usopen-1164,2018,usopen,1164,Yoshihito Nishioka,Roger Federer,,,,,,,,,,,1164
-28,2018-usopen-1201,2018,usopen,1201,Rafael Nadal,Vasek Pospisil,,,,,,,,,,,1201
-29,2018-usopen-1203,2018,usopen,1203,Jack Sock,Nikoloz Basilashvili,,,,,,,,,,,1203
-30,2018-usopen-1204,2018,usopen,1204,Guido Pella,Paolo Lorenzi,,,,,,,,,,,1204
-31,2018-usopen-1205,2018,usopen,1205,Dominic Thiem,Steve Johnson,,,,,,,,,,,1205
-32,2018-usopen-1206,2018,usopen,1206,Taylor Fritz,Jason Kubler,,,,,,,,,,,1206
-33,2018-usopen-1207,2018,usopen,1207,Denis Shapovalov,Andreas Seppi,,,,,,,,,,,1207
-34,2018-usopen-1208,2018,usopen,1208,Jeremy Chardy,Kevin Anderson,,,,,,,,,,,1208
-35,2018-usopen-1209,2018,usopen,1209,Juan Martin Del Potro,Denis Kudla,,,,,,,,,,,1209
-36,2018-usopen-1210,2018,usopen,1210,Andy Murray,Fernando Verdasco,,,,,,,,,,,1210
-37,2018-usopen-1212,2018,usopen,1212,Daniil Medvedev,Stefanos Tsitsipas,,,,,,,,,,,1212
-38,2018-usopen-1213,2018,usopen,1213,John Isner,Nicolas Jarry,,,,,,,,,,,1213
-39,2018-usopen-1214,2018,usopen,1214,Cameron Norrie,Dusan Lajovic,,,,,,,,,,,1214
-40,2018-usopen-1215,2018,usopen,1215,Milos Raonic,Gilles Simon,,,,,,,,,,,1215
-41,2018-usopen-1216,2018,usopen,1216,Ugo Humbert,Stan Wawrinka,,,,,,,,,,,1216
-42,2018-usopen-1217,2018,usopen,1217,Marin Cilic,Hubert Hurkacz,,,,,,,,,,,1217
-43,2018-usopen-1218,2018,usopen,1218,Alex de Minaur,Frances Tiafoe,,,,,,,,,,,1218
-44,2018-usopen-1220,2018,usopen,1220,Robin Haase,David Goffin,,,,,,,,,,,1220
-45,2018-usopen-1221,2018,usopen,1221,Diego Schwartzman,Jaume Munar,,,,,,,,,,,1221
-46,2018-usopen-1222,2018,usopen,1222,Gael Monfils,Kei Nishikori,,,,,,,,,,,1222
-47,2018-usopen-1224,2018,usopen,1224,Nicolas Mahut,Alexander Zverev,,,,,,,,,,,1224
-48,2018-usopen-1225,2018,usopen,1225,Novak Djokovic,Tennys Sandgren,,,,,,,,,,,1225
-49,2018-usopen-1226,2018,usopen,1226,Laslo Djere,Richard Gasquet,,,,,,,,,,,1226
-50,2018-usopen-1227,2018,usopen,1227,Lucas Pouille,Marcos Baghdatis,,,,,,,,,,,1227
-51,2018-usopen-1229,2018,usopen,1229,Fabio Fognini,John Millman,,,,,,,,,,,1229
-52,2018-usopen-1230,2018,usopen,1230,Mikhail Kukushkin,Hyeon Chung,,,,,,,,,,,1230
-53,2018-usopen-1231,2018,usopen,1231,Nick Kyrgios,Pierre Hugues Herbert,,,,,,,,,,,1231
-54,2018-usopen-1232,2018,usopen,1232,Benoit Paire,Roger Federer,,,,,,,,,,,1232
-55,2018-usopen-1301,2018,usopen,1301,Rafael Nadal,Karen Khachanov,,,,,,,,,,,1301
-56,2018-usopen-1302,2018,usopen,1302,Nikoloz Basilashvili,Guido Pella,,,,,,,,,,,1302
-57,2018-usopen-1303,2018,usopen,1303,Dominic Thiem,Taylor Fritz,,,,,,,,,,,1303
-58,2018-usopen-1304,2018,usopen,1304,Denis Shapovalov,Kevin Anderson,,,,,,,,,,,1304
-59,2018-usopen-1305,2018,usopen,1305,Juan Martin Del Potro,Fernando Verdasco,,,,,,,,,,,1305
-60,2018-usopen-1306,2018,usopen,1306,Borna Coric,Daniil Medvedev,,,,,,,,,,,1306
-61,2018-usopen-1307,2018,usopen,1307,John Isner,Dusan Lajovic,,,,,,,,,,,1307
-62,2018-usopen-1308,2018,usopen,1308,Milos Raonic,Stan Wawrinka,,,,,,,,,,,1308
-63,2018-usopen-1309,2018,usopen,1309,Marin Cilic,Alex de Minaur,,,,,,,,,,,1309
-64,2018-usopen-1310,2018,usopen,1310,Jan Lennard Struff,David Goffin,,,,,,,,,,,1310
-65,2018-usopen-1311,2018,usopen,1311,Diego Schwartzman,Kei Nishikori,,,,,,,,,,,1311
-66,2018-usopen-1312,2018,usopen,1312,Philipp Kohlschreiber,Alexander Zverev,,,,,,,,,,,1312
-67,2018-usopen-1313,2018,usopen,1313,Novak Djokovic,Richard Gasquet,,,,,,,,,,,1313
-68,2018-usopen-1314,2018,usopen,1314,Lucas Pouille,Joao Sousa,,,,,,,,,,,1314
-69,2018-usopen-1315,2018,usopen,1315,John Millman,Mikhail Kukushkin,,,,,,,,,,,1315
-70,2018-usopen-1316,2018,usopen,1316,Nick Kyrgios,Roger Federer,,,,,,,,,,,1316
-71,2018-usopen-1401,2018,usopen,1401,Rafael Nadal,Nikoloz Basilashvili,,,,,,,,,,,1401
-72,2018-usopen-1402,2018,usopen,1402,Dominic Thiem,Kevin Anderson,,,,,,,,,,,1402
-73,2018-usopen-1403,2018,usopen,1403,Juan Martin Del Potro,Borna Coric,,,,,,,,,,,1403
-74,2018-usopen-1404,2018,usopen,1404,John Isner,Milos Raonic,,,,,,,,,,,1404
-75,2018-usopen-1405,2018,usopen,1405,Marin Cilic,David Goffin,,,,,,,,,,,1405
-76,2018-usopen-1406,2018,usopen,1406,Kei Nishikori,Philipp Kohlschreiber,,,,,,,,,,,1406
-77,2018-usopen-1407,2018,usopen,1407,Novak Djokovic,Joao Sousa,,,,,,,,,,,1407
-78,2018-usopen-1408,2018,usopen,1408,John Millman,Roger Federer,,,,,,,,,,,1408
-79,2018-usopen-1501,2018,usopen,1501,Rafael Nadal,Dominic Thiem,,,,,,,,,,,1501
-80,2018-usopen-1502,2018,usopen,1502,Juan Martin Del Potro,John Isner,,,,,,,,,,,1502
-81,2018-usopen-1503,2018,usopen,1503,Marin Cilic,Kei Nishikori,,,,,,,,,,,1503
-82,2018-usopen-1504,2018,usopen,1504,Novak Djokovic,John Millman,,,,,,,,,,,1504
-83,2018-usopen-1601,2018,usopen,1601,Rafael Nadal,Juan Martin Del Potro,,,,,,,,,,,1601
-84,2018-usopen-1602,2018,usopen,1602,Kei Nishikori,Novak Djokovic,,,,,,,,,,,1602
-85,2018-usopen-1701,2018,usopen,1701,Juan Martin Del Potro,Novak Djokovic,,,,,,,,,,,1701
-0,2018-wimbledon-1101,2018,wimbledon,1101,Roger Federer,Dusan Lajovic,,,,,,,,,,,1101
-1,2018-wimbledon-1102,2018,wimbledon,1102,Lukas Lacko,Benjamin Bonzi,,,,,,,,,,,1102
-2,2018-wimbledon-1103,2018,wimbledon,1103,Ivo Karlovic,Mikhail Youzhny,,,,,,,,,,,1103
-3,2018-wimbledon-1104,2018,wimbledon,1104,Jan Lennard Struff,Leonardo Mayer,,,,,,,,,,,1104
-4,2018-wimbledon-1105,2018,wimbledon,1105,Adrian Mannarino,Christian Garin,,,,,,,,,,,1105
-5,2018-wimbledon-1106,2018,wimbledon,1106,Ryan Harrison,Roberto Carballes Baena,,,,,,,,,,,1106
-6,2018-wimbledon-1107,2018,wimbledon,1107,Guillermo Garcia Lopez,Gastao Elias,,,,,,,,,,,1107
-7,2018-wimbledon-1108,2018,wimbledon,1108,Daniil Medvedev,Borna Coric,,,,,,,,,,,1108
-8,2018-wimbledon-1109,2018,wimbledon,1109,Sam Querrey,Jordan Thompson,,,,,,,,,,,1109
-9,2018-wimbledon-1110,2018,wimbledon,1110,Sergiy Stakhovsky,Joao Sousa,,,,,,,,,,,1110
-10,2018-wimbledon-1111,2018,wimbledon,1111,Laslo Djere,Paolo Lorenzi,,,,,,,,,,,1111
-11,2018-wimbledon-1112,2018,wimbledon,1112,Gael Monfils,Richard Gasquet,,,,,,,,,,,1112
-12,2018-wimbledon-1113,2018,wimbledon,1113,Philipp Kohlschreiber,Evgeny Donskoy,,,,,,,,,,,1113
-13,2018-wimbledon-1114,2018,wimbledon,1114,Gilles Muller,Michael Mmoh,,,,,,,,,,,1114
-14,2018-wimbledon-1115,2018,wimbledon,1115,John Patrick Smith,Andreas Seppi,,,,,,,,,,,1115
-15,2018-wimbledon-1116,2018,wimbledon,1116,Norbert Gombos,Kevin Anderson,,,,,,,,,,,1116
-16,2018-wimbledon-1117,2018,wimbledon,1117,Marin Cilic,Yoshihito Nishioka,,,,,,,,,,,1117
-17,2018-wimbledon-1118,2018,wimbledon,1118,Jason Kubler,Guido Pella,,,,,,,,,,,1118
-18,2018-wimbledon-1119,2018,wimbledon,1119,Ricardas Berankis,Mackenzie McDonald,,,,,,,,,,,1119
-19,2018-wimbledon-1120,2018,wimbledon,1120,Nicolas Jarry,Filip Krajinovic,,,,,,,,,,,1120
-20,2018-wimbledon-1121,2018,wimbledon,1121,Lucas Pouille,Denis Kudla,,,,,,,,,,,1121
-21,2018-wimbledon-1122,2018,wimbledon,1122,Peter Polansky,Dennis Novak,,,,,,,,,,,1122
-22,2018-wimbledon-1123,2018,wimbledon,1123,John Millman,Stefano Travaglia,,,,,,,,,,,1123
-23,2018-wimbledon-1124,2018,wimbledon,1124,Liam Broady,Milos Raonic,,,,,,,,,,,1124
-24,2018-wimbledon-1125,2018,wimbledon,1125,John Isner,Yannick Maden,,,,,,,,,,,1125
-25,2018-wimbledon-1126,2018,wimbledon,1126,Steve Johnson,Ruben Bemelmans,,,,,,,,,,,1126
-26,2018-wimbledon-1127,2018,wimbledon,1127,Aljaz Bedene,Cameron Norrie,,,,,,,,,,,1127
-27,2018-wimbledon-1128,2018,wimbledon,1128,Radu Albot,Pablo Carreno Busta,,,,,,,,,,,1128
-28,2018-wimbledon-1129,2018,wimbledon,1129,Stefanos Tsitsipas,Gregoire Barrere,,,,,,,,,,,1129
-29,2018-wimbledon-1130,2018,wimbledon,1130,Malek Jaziri,Jared Donaldson,,,,,,,,,,,1130
-30,2018-wimbledon-1131,2018,wimbledon,1131,Yuki Bhambri,Thomas Fabbiano,,,,,,,,,,,1131
-31,2018-wimbledon-1132,2018,wimbledon,1132,Stan Wawrinka,Grigor Dimitrov,,,,,,,,,,,1132
-32,2018-wimbledon-1133,2018,wimbledon,1133,Dominic Thiem,Marcos Baghdatis,,,,,,,,,,,1133
-33,2018-wimbledon-1134,2018,wimbledon,1134,David Ferrer,Karen Khachanov,,,,,,,,,,,1134
-34,2018-wimbledon-1135,2018,wimbledon,1135,Julien Benneteau,Marton Fucsovics,,,,,,,,,,,1135
-35,2018-wimbledon-1136,2018,wimbledon,1136,Frances Tiafoe,Fernando Verdasco,,,,,,,,,,,1136
-36,2018-wimbledon-1137,2018,wimbledon,1137,Kyle Edmund,Alex Bolt,,,,,,,,,,,1137
-37,2018-wimbledon-1138,2018,wimbledon,1138,Yuichi Sugita,Bradley Klahn,,,,,,,,,,,1138
-38,2018-wimbledon-1139,2018,wimbledon,1139,Guido Andreozzi,Horacio Zeballos,,,,,,,,,,,1139
-39,2018-wimbledon-1140,2018,wimbledon,1140,Tennys Sandgren,Novak Djokovic,,,,,,,,,,,1140
-40,2018-wimbledon-1141,2018,wimbledon,1141,Nick Kyrgios,Denis Istomin,,,,,,,,,,,1141
-41,2018-wimbledon-1142,2018,wimbledon,1142,Marius Copil,Robin Haase,,,,,,,,,,,1142
-42,2018-wimbledon-1143,2018,wimbledon,1143,Bernard Tomic,Hubert Hurkacz,,,,,,,,,,,1143
-43,2018-wimbledon-1144,2018,wimbledon,1144,Christian Harrison,Kei Nishikori,,,,,,,,,,,1144
-44,2018-wimbledon-1145,2018,wimbledon,1145,Damir Dzumhur,Maximilian Marterer,,,,,,,,,,,1145
-45,2018-wimbledon-1146,2018,wimbledon,1146,Ernests Gulbis,Jay Clarke,,,,,,,,,,,1146
-46,2018-wimbledon-1147,2018,wimbledon,1147,Lorenzo Sonego,Taylor Fritz,,,,,,,,,,,1147
-47,2018-wimbledon-1148,2018,wimbledon,1148,James Duckworth,Alexander Zverev,,,,,,,,,,,1148
-48,2018-wimbledon-1149,2018,wimbledon,1149,Juan Martin Del Potro,Peter Gojowczyk,,,,,,,,,,,1149
-49,2018-wimbledon-1150,2018,wimbledon,1150,Feliciano Lopez,Federico Delbonis,,,,,,,,,,,1150
-50,2018-wimbledon-1151,2018,wimbledon,1151,Benoit Paire,Jason Jung,,,,,,,,,,,1151
-51,2018-wimbledon-1152,2018,wimbledon,1152,Jeremy Chardy,Denis Shapovalov,,,,,,,,,,,1152
-52,2018-wimbledon-1153,2018,wimbledon,1153,Jack Sock,Matteo Berrettini,,,,,,,,,,,1153
-53,2018-wimbledon-1154,2018,wimbledon,1154,Gilles Simon,Nikoloz Basilashvili,,,,,,,,,,,1154
-54,2018-wimbledon-1155,2018,wimbledon,1155,Albert Ramos Vinolas,Stephane Robert,,,,,,,,,,,1155
-55,2018-wimbledon-1156,2018,wimbledon,1156,Matthew Ebden,David Goffin,,,,,,,,,,,1156
-56,2018-wimbledon-1157,2018,wimbledon,1157,Diego Schwartzman,Mirza Basic,,,,,,,,,,,1157
-57,2018-wimbledon-1158,2018,wimbledon,1158,Jiri Vesely,Florian Mayer,,,,,,,,,,,1158
-58,2018-wimbledon-1159,2018,wimbledon,1159,Pablo Cuevas,Simone Bolelli,,,,,,,,,,,1159
-59,2018-wimbledon-1160,2018,wimbledon,1160,Taro Daniel,Fabio Fognini,,,,,,,,,,,1160
-60,2018-wimbledon-1161,2018,wimbledon,1161,Marco Cecchinato,Alex De Minaur,,,,,,,,,,,1161
-61,2018-wimbledon-1162,2018,wimbledon,1162,Pierre Hugues Herbert,Mischa Zverev,,,,,,,,,,,1162
-62,2018-wimbledon-1163,2018,wimbledon,1163,Vasek Pospisil,Mikhail Kukushkin,,,,,,,,,,,1163
-63,2018-wimbledon-1164,2018,wimbledon,1164,Dudi Sela,Rafael Nadal,,,,,,,,,,,1164
-64,2018-wimbledon-1201,2018,wimbledon,1201,Roger Federer,Lukas Lacko,,,,,,,,,,,1201
-65,2018-wimbledon-1202,2018,wimbledon,1202,Ivo Karlovic,Jan Lennard Struff,,,,,,,,,,,1202
-66,2018-wimbledon-1203,2018,wimbledon,1203,Adrian Mannarino,Ryan Harrison,,,,,,,,,,,1203
-67,2018-wimbledon-1204,2018,wimbledon,1204,Guillermo Garcia Lopez,Daniil Medvedev,,,,,,,,,,,1204
-68,2018-wimbledon-1205,2018,wimbledon,1205,Sam Querrey,Sergiy Stakhovsky,,,,,,,,,,,1205
-69,2018-wimbledon-1206,2018,wimbledon,1206,Paolo Lorenzi,Gael Monfils,,,,,,,,,,,1206
-70,2018-wimbledon-1207,2018,wimbledon,1207,Philipp Kohlschreiber,Gilles Muller,,,,,,,,,,,1207
-71,2018-wimbledon-1208,2018,wimbledon,1208,Andreas Seppi,Kevin Anderson,,,,,,,,,,,1208
-72,2018-wimbledon-1209,2018,wimbledon,1209,Marin Cilic,Guido Pella,,,,,,,,,,,1209
-73,2018-wimbledon-1210,2018,wimbledon,1210,Mackenzie McDonald,Nicolas Jarry,,,,,,,,,,,1210
-74,2018-wimbledon-1211,2018,wimbledon,1211,Lucas Pouille,Dennis Novak,,,,,,,,,,,1211
-75,2018-wimbledon-1212,2018,wimbledon,1212,John Millman,Milos Raonic,,,,,,,,,,,1212
-76,2018-wimbledon-1213,2018,wimbledon,1213,John Isner,Ruben Bemelmans,,,,,,,,,,,1213
-77,2018-wimbledon-1214,2018,wimbledon,1214,Aljaz Bedene,Radu Albot,,,,,,,,,,,1214
-78,2018-wimbledon-1215,2018,wimbledon,1215,Stefanos Tsitsipas,Jared Donaldson,,,,,,,,,,,1215
-79,2018-wimbledon-1216,2018,wimbledon,1216,Thomas Fabbiano,Stan Wawrinka,,,,,,,,,,,1216
-80,2018-wimbledon-1217,2018,wimbledon,1217,Marcos Baghdatis,Karen Khachanov,,,,,,,,,,,1217
-81,2018-wimbledon-1218,2018,wimbledon,1218,Julien Benneteau,Frances Tiafoe,,,,,,,,,,,1218
-82,2018-wimbledon-1219,2018,wimbledon,1219,Kyle Edmund,Bradley Klahn,,,,,,,,,,,1219
-83,2018-wimbledon-1220,2018,wimbledon,1220,Horacio Zeballos,Novak Djokovic,,,,,,,,,,,1220
-84,2018-wimbledon-1221,2018,wimbledon,1221,Nick Kyrgios,Robin Haase,,,,,,,,,,,1221
-85,2018-wimbledon-1222,2018,wimbledon,1222,Bernard Tomic,Kei Nishikori,,,,,,,,,,,1222
-86,2018-wimbledon-1223,2018,wimbledon,1223,Damir Dzumhur,Ernests Gulbis,,,,,,,,,,,1223
-87,2018-wimbledon-1224,2018,wimbledon,1224,Taylor Fritz,Alexander Zverev,,,,,,,,,,,1224
-88,2018-wimbledon-1225,2018,wimbledon,1225,Juan Martin Del Potro,Feliciano Lopez,,,,,,,,,,,1225
-89,2018-wimbledon-1226,2018,wimbledon,1226,Benoit Paire,Denis Shapovalov,,,,,,,,,,,1226
-90,2018-wimbledon-1227,2018,wimbledon,1227,Matteo Berrettini,Gilles Simon,,,,,,,,,,,1227
-91,2018-wimbledon-1228,2018,wimbledon,1228,Stephane Robert,Matthew Ebden,,,,,,,,,,,1228
-92,2018-wimbledon-1229,2018,wimbledon,1229,Diego Schwartzman,Jiri Vesely,,,,,,,,,,,1229
-93,2018-wimbledon-1230,2018,wimbledon,1230,Simone Bolelli,Fabio Fognini,,,,,,,,,,,1230
-94,2018-wimbledon-1231,2018,wimbledon,1231,Alex De Minaur,Pierre Hugues Herbert,,,,,,,,,,,1231
-95,2018-wimbledon-1232,2018,wimbledon,1232,Mikhail Kukushkin,Rafael Nadal,,,,,,,,,,,1232
-96,2018-wimbledon-1301,2018,wimbledon,1301,Roger Federer,Jan Lennard Struff,,,,,,,,,,,1301
-97,2018-wimbledon-1302,2018,wimbledon,1302,Adrian Mannarino,Daniil Medvedev,,,,,,,,,,,1302
-98,2018-wimbledon-1303,2018,wimbledon,1303,Sam Querrey,Gael Monfils,,,,,,,,,,,1303
-99,2018-wimbledon-1304,2018,wimbledon,1304,Philipp Kohlschreiber,Kevin Anderson,,,,,,,,,,,1304
-100,2018-wimbledon-1305,2018,wimbledon,1305,Guido Pella,Mackenzie McDonald,,,,,,,,,,,1305
-101,2018-wimbledon-1306,2018,wimbledon,1306,Dennis Novak,Milos Raonic,,,,,,,,,,,1306
-102,2018-wimbledon-1307,2018,wimbledon,1307,John Isner,Radu Albot,,,,,,,,,,,1307
-103,2018-wimbledon-1308,2018,wimbledon,1308,Stefanos Tsitsipas,Thomas Fabbiano,,,,,,,,,,,1308
-104,2018-wimbledon-1309,2018,wimbledon,1309,Karen Khachanov,Frances Tiafoe,,,,,,,,,,,1309
-105,2018-wimbledon-1310,2018,wimbledon,1310,Kyle Edmund,Novak Djokovic,,,,,,,,,,,1310
-106,2018-wimbledon-1311,2018,wimbledon,1311,Nick Kyrgios,Kei Nishikori,,,,,,,,,,,1311
-107,2018-wimbledon-1312,2018,wimbledon,1312,Ernests Gulbis,Alexander Zverev,,,,,,,,,,,1312
-108,2018-wimbledon-1313,2018,wimbledon,1313,Juan Martin Del Potro,Benoit Paire,,,,,,,,,,,1313
-109,2018-wimbledon-1314,2018,wimbledon,1314,Gilles Simon,Matthew Ebden,,,,,,,,,,,1314
-110,2018-wimbledon-1315,2018,wimbledon,1315,Jiri Vesely,Fabio Fognini,,,,,,,,,,,1315
-111,2018-wimbledon-1316,2018,wimbledon,1316,Alex De Minaur,Rafael Nadal,,,,,,,,,,,1316
-112,2018-wimbledon-1401,2018,wimbledon,1401,Roger Federer,Adrian Mannarino,,,,,,,,,,,1401
-113,2018-wimbledon-1402,2018,wimbledon,1402,Gael Monfils,Kevin Anderson,,,,,,,,,,,1402
-114,2018-wimbledon-1403,2018,wimbledon,1403,Mackenzie McDonald,Milos Raonic,,,,,,,,,,,1403
-115,2018-wimbledon-1404,2018,wimbledon,1404,John Isner,Stefanos Tsitsipas,,,,,,,,,,,1404
-116,2018-wimbledon-1405,2018,wimbledon,1405,Karen Khachanov,Novak Djokovic,,,,,,,,,,,1405
-117,2018-wimbledon-1406,2018,wimbledon,1406,Kei Nishikori,Ernests Gulbis,,,,,,,,,,,1406
-118,2018-wimbledon-1407,2018,wimbledon,1407,Juan Martin Del Potro,Gilles Simon,,,,,,,,,,,1407
-119,2018-wimbledon-1408,2018,wimbledon,1408,Jiri Vesely,Rafael Nadal,,,,,,,,,,,1408
-120,2018-wimbledon-1501,2018,wimbledon,1501,Roger Federer,Kevin Anderson,,,,,,,,,,,1501
-121,2018-wimbledon-1502,2018,wimbledon,1502,Milos Raonic,John Isner,,,,,,,,,,,1502
-122,2018-wimbledon-1503,2018,wimbledon,1503,Novak Djokovic,Kei Nishikori,,,,,,,,,,,1503
-123,2018-wimbledon-1504,2018,wimbledon,1504,Juan Martin Del Potro,Rafael Nadal,,,,,,,,,,,1504
-124,2018-wimbledon-1601,2018,wimbledon,1601,Kevin Anderson,John Isner,,,,,,,,,,,1601
-125,2018-wimbledon-1602,2018,wimbledon,1602,Novak Djokovic,Rafael Nadal,,,,,,,,,,,1602
-126,2018-wimbledon-1701,2018,wimbledon,1701,Kevin Anderson,Novak Djokovic,,,,,,,,,,,1701
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num,,player1_new,player2_new
+0,2018-ausopen-1101,2018,ausopen,1101,R. Nadal,V. Estrella Burgos,,,,,,,,,ESP,DOM,1101,,R Nadal,V Estrella Burgos
+1,2018-ausopen-1102,2018,ausopen,1102,N. Jarry,L. Mayer,,,,,,,,,CHI,ARG,1102,,N Jarry,L Mayer
+2,2018-ausopen-1103,2018,ausopen,1103,J. Millman,B. Coric,,,,,,,,,AUS,CRO,1103,,J Millman,B Coric
+3,2018-ausopen-1104,2018,ausopen,1104,P. Lorenzi,D. Dzumhur,,,,,,,,,ITA,BIH,1104,,P Lorenzi,D Dzumhur
+4,2018-ausopen-1105,2018,ausopen,1105,D. Schwartzman,D. Lajovic,,,,,,,,,ARG,SRB,1105,,D Schwartzman,D Lajovic
+5,2018-ausopen-1106,2018,ausopen,1106,C. Ruud,Q. Halys,,,,,,,,,NOR,FRA,1106,,C Ruud,Q Halys
+6,2018-ausopen-1107,2018,ausopen,1107,A. Dolgopolov,A. Haider-Maurer,,,,,,,,,UKR,AUT,1107,,A Dolgopolov,A Haider-Maurer
+7,2018-ausopen-1108,2018,ausopen,1108,M. Ebden,J. Isner,,,,,,,,,AUS,USA,1108,,M Ebden,J Isner
+8,2018-ausopen-1109,2018,ausopen,1109,P. Carreno Busta,J. Kubler,,,,,,,,,ESP,AUS,1109,,P Carreno Busta,J Kubler
+9,2018-ausopen-1110,2018,ausopen,1110,G. Simon,M. Copil,,,,,,,,,FRA,ROU,1110,,G Simon,M Copil
+10,2018-ausopen-1111,2018,ausopen,1111,S. Caruso,M. Jaziri,,,,,,,,,ITA,TUN,1111,,S Caruso,M Jaziri
+11,2018-ausopen-1112,2018,ausopen,1112,F. Delbonis,G. Muller,,,,,,,,,ARG,LUX,1112,,F Delbonis,G Muller
+12,2018-ausopen-1113,2018,ausopen,1113,P. Cuevas,M. Youzhny,,,,,,,,,URU,RUS,1113,,P Cuevas,M Youzhny
+13,2018-ausopen-1114,2018,ausopen,1114,D. Sela,R. Harrison,,,,,,,,,ISR,USA,1114,,D Sela,R Harrison
+14,2018-ausopen-1115,2018,ausopen,1115,D. Brown,J. Sousa,,,,,,,,,GER,POR,1115,,D Brown,J Sousa
+15,2018-ausopen-1116,2018,ausopen,1116,V. Pospisil,M. Cilic,,,,,,,,,CAN,CRO,1116,,V Pospisil,M Cilic
+16,2018-ausopen-1117,2018,ausopen,1117,G. Dimitrov,D. Novak,,,,,,,,,BUL,AUT,1117,,G Dimitrov,D Novak
+17,2018-ausopen-1118,2018,ausopen,1118,M. Mcdonald,E. Ymer,,,,,,,,,USA,SWE,1118,,M Mcdonald,E Ymer
+18,2018-ausopen-1119,2018,ausopen,1119,M. Baghdatis,Y. Bhambri,,,,,,,,,CYP,IND,1119,,M Baghdatis,Y Bhambri
+19,2018-ausopen-1120,2018,ausopen,1120,D. Ferrer,A. Rublev,,,,,,,,,ESP,RUS,1120,,D Ferrer,A Rublev
+20,2018-ausopen-1121,2018,ausopen,1121,N. Kyrgios,R. Dutra Silva,,,,,,,,,AUS,BRA,1121,,N Kyrgios,R Dutra Silva
+21,2018-ausopen-1122,2018,ausopen,1122,V. Troicki,A. Bolt,,,,,,,,,SRB,AUS,1122,,V Troicki,A Bolt
+22,2018-ausopen-1123,2018,ausopen,1123,S. Tsitsipas,D. Shapovalov,,,,,,,,,GRE,CAN,1123,,S Tsitsipas,D Shapovalov
+23,2018-ausopen-1124,2018,ausopen,1124,K. King,J. Tsonga,,,,,,,,,USA,FRA,1124,,K King,J Tsonga
+24,2018-ausopen-1125,2018,ausopen,1125,K. Anderson,K. Edmund,,,,,,,,,RSA,GBR,1125,,K Anderson,K Edmund
+25,2018-ausopen-1126,2018,ausopen,1126,P. Herbert,D. Istomin,,,,,,,,,FRA,UZB,1126,,P Herbert,D Istomin
+26,2018-ausopen-1127,2018,ausopen,1127,G. Melzer,N. Basilashvili,,,,,,,,,AUT,GEO,1127,,G Melzer,N Basilashvili
+27,2018-ausopen-1128,2018,ausopen,1128,R. Bemelmans,L. Pouille,,,,,,,,,BEL,FRA,1128,,R Bemelmans,L Pouille
+28,2018-ausopen-1129,2018,ausopen,1129,P. Kohlschreiber,Y. Nishioka,,,,,,,,,GER,JPN,1129,,P Kohlschreiber,Y Nishioka
+29,2018-ausopen-1130,2018,ausopen,1130,A. Seppi,C. Moutet,,,,,,,,,ITA,FRA,1130,,A Seppi,C Moutet
+30,2018-ausopen-1131,2018,ausopen,1131,I. Karlovic,L. Djere,,,,,,,,,CRO,SRB,1131,,I Karlovic,L Djere
+31,2018-ausopen-1132,2018,ausopen,1132,Y. Sugita,J. Sock,,,,,,,,,JPN,USA,1132,,Y Sugita,J Sock
+32,2018-ausopen-1133,2018,ausopen,1133,D. Thiem,G. Pella,,,,,,,,,AUT,ARG,1133,,D Thiem,G Pella
+33,2018-ausopen-1134,2018,ausopen,1134,S. Johnson,D. Kudla,,,,,,,,,USA,USA,1134,,S Johnson,D Kudla
+34,2018-ausopen-1135,2018,ausopen,1135,V. Safranek,J. Vesely,,,,,,,,,CZE,CZE,1135,,V Safranek,J Vesely
+35,2018-ausopen-1136,2018,ausopen,1136,M. Berrettini,A. Mannarino,,,,,,,,,ITA,FRA,1136,,M Berrettini,A Mannarino
+36,2018-ausopen-1137,2018,ausopen,1137,R. Bautista Agut,F. Verdasco,,,,,,,,,ESP,ESP,1137,,R Bautista Agut,F Verdasco
+37,2018-ausopen-1138,2018,ausopen,1138,C. Stebe,M. Marterer,,,,,,,,,GER,GER,1138,,C Stebe,M Marterer
+38,2018-ausopen-1139,2018,ausopen,1139,J. Chardy,T. Sandgren,,,,,,,,,FRA,USA,1139,,J Chardy,T Sandgren
+39,2018-ausopen-1140,2018,ausopen,1140,R. Berankis,S. Wawrinka,,,,,,,,,LTU,SUI,1140,,R Berankis,S Wawrinka
+40,2018-ausopen-1141,2018,ausopen,1141,N. Djokovic,D. Young,,,,,,,,,SRB,USA,1141,,N Djokovic,D Young
+41,2018-ausopen-1142,2018,ausopen,1142,G. Monfils,J. Munar,,,,,,,,,FRA,ESP,1142,,G Monfils,J Munar
+42,2018-ausopen-1143,2018,ausopen,1143,T. Smyczek,A. Popyrin,,,,,,,,,USA,AUS,1143,,T Smyczek,A Popyrin
+43,2018-ausopen-1144,2018,ausopen,1144,J. Donaldson,A. Ramos-Vinolas,,,,,,,,,USA,ESP,1144,,J Donaldson,A Ramos-Vinolas
+44,2018-ausopen-1145,2018,ausopen,1145,M. Zverev,H. Chung,,,,,,,,,GER,KOR,1145,,M Zverev,H Chung
+45,2018-ausopen-1146,2018,ausopen,1146,T. Kokkinakis,D. Medvedev,,,,,,,,,AUS,RUS,1146,,T Kokkinakis,D Medvedev
+46,2018-ausopen-1147,2018,ausopen,1147,M. Kukushkin,P. Gojowczyk,,,,,,,,,KAZ,GER,1147,,M Kukushkin,P Gojowczyk
+47,2018-ausopen-1148,2018,ausopen,1148,T. Fabbiano,A. Zverev,,,,,,,,,ITA,GER,1148,,T Fabbiano,A Zverev
+48,2018-ausopen-1149,2018,ausopen,1149,D. Goffin,M. Bachinger,,,,,,,,,BEL,GER,1149,,D Goffin,M Bachinger
+49,2018-ausopen-1150,2018,ausopen,1150,J. Benneteau,T. Daniel,,,,,,,,,FRA,JPN,1150,,J Benneteau,T Daniel
+50,2018-ausopen-1151,2018,ausopen,1151,E. Donskoy,F. Mayer,,,,,,,,,RUS,GER,1151,,E Donskoy,F Mayer
+51,2018-ausopen-1152,2018,ausopen,1152,H. Zeballos,F. Fognini,,,,,,,,,ARG,ITA,1152,,H Zeballos,F Fognini
+52,2018-ausopen-1153,2018,ausopen,1153,T. Berdych,A. De Minaur,,,,,,,,,CZE,AUS,1153,,T Berdych,A De Minaur
+53,2018-ausopen-1154,2018,ausopen,1154,G. Garcia-Lopez,B. Paire,,,,,,,,,ESP,FRA,1154,,G Garcia-Lopez,B Paire
+54,2018-ausopen-1155,2018,ausopen,1155,K. Khachanov,P. Polansky,,,,,,,,,RUS,CAN,1155,,K Khachanov,P Polansky
+55,2018-ausopen-1156,2018,ausopen,1156,F. Tiafoe,J. Del Potro,,,,,,,,,USA,ARG,1156,,F Tiafoe,J Del Potro
+56,2018-ausopen-1157,2018,ausopen,1157,S. Querrey,F. Lopez,,,,,,,,,USA,ESP,1157,,S Querrey,F Lopez
+57,2018-ausopen-1158,2018,ausopen,1158,R. Albot,M. Fucsovics,,,,,,,,,MDA,HUN,1158,,R Albot,M Fucsovics
+58,2018-ausopen-1159,2018,ausopen,1159,N. Kicker,J. Thompson,,,,,,,,,ARG,AUS,1159,,N Kicker,J Thompson
+59,2018-ausopen-1160,2018,ausopen,1160,L. Lacko,M. Raonic,,,,,,,,,SVK,CAN,1160,,L Lacko,M Raonic
+60,2018-ausopen-1161,2018,ausopen,1161,R. Gasquet,B. Kavcic,,,,,,,,,FRA,SLO,1161,,R Gasquet,B Kavcic
+61,2018-ausopen-1162,2018,ausopen,1162,L. Sonego,R. Haase,,,,,,,,,ITA,NED,1162,,L Sonego,R Haase
+62,2018-ausopen-1163,2018,ausopen,1163,S. Kwon,J. Struff,,,,,,,,,KOR,GER,1163,,S Kwon,J Struff
+63,2018-ausopen-1164,2018,ausopen,1164,A. Bedene,R. Federer,,,,,,,,,SLO,SUI,1164,,A Bedene,R Federer
+64,2018-ausopen-1201,2018,ausopen,1201,R. Nadal,L. Mayer,,,,,,,,,ESP,ARG,1201,,R Nadal,L Mayer
+65,2018-ausopen-1202,2018,ausopen,1202,J. Millman,D. Dzumhur,,,,,,,,,AUS,BIH,1202,,J Millman,D Dzumhur
+66,2018-ausopen-1203,2018,ausopen,1203,D. Schwartzman,C. Ruud,,,,,,,,,ARG,NOR,1203,,D Schwartzman,C Ruud
+67,2018-ausopen-1204,2018,ausopen,1204,A. Dolgopolov,M. Ebden,,,,,,,,,UKR,AUS,1204,,A Dolgopolov,M Ebden
+68,2018-ausopen-1205,2018,ausopen,1205,P. Carreno Busta,G. Simon,,,,,,,,,ESP,FRA,1205,,P Carreno Busta,G Simon
+69,2018-ausopen-1206,2018,ausopen,1206,M. Jaziri,G. Muller,,,,,,,,,TUN,LUX,1206,,M Jaziri,G Muller
+70,2018-ausopen-1207,2018,ausopen,1207,P. Cuevas,R. Harrison,,,,,,,,,URU,USA,1207,,P Cuevas,R Harrison
+71,2018-ausopen-1208,2018,ausopen,1208,J. Sousa,M. Cilic,,,,,,,,,POR,CRO,1208,,J Sousa,M Cilic
+72,2018-ausopen-1209,2018,ausopen,1209,G. Dimitrov,M. Mcdonald,,,,,,,,,BUL,USA,1209,,G Dimitrov,M Mcdonald
+73,2018-ausopen-1210,2018,ausopen,1210,M. Baghdatis,A. Rublev,,,,,,,,,CYP,RUS,1210,,M Baghdatis,A Rublev
+74,2018-ausopen-1211,2018,ausopen,1211,N. Kyrgios,V. Troicki,,,,,,,,,AUS,SRB,1211,,N Kyrgios,V Troicki
+75,2018-ausopen-1212,2018,ausopen,1212,D. Shapovalov,J. Tsonga,,,,,,,,,CAN,FRA,1212,,D Shapovalov,J Tsonga
+76,2018-ausopen-1213,2018,ausopen,1213,K. Edmund,D. Istomin,,,,,,,,,GBR,UZB,1213,,K Edmund,D Istomin
+77,2018-ausopen-1214,2018,ausopen,1214,N. Basilashvili,R. Bemelmans,,,,,,,,,GEO,BEL,1214,,N Basilashvili,R Bemelmans
+78,2018-ausopen-1215,2018,ausopen,1215,Y. Nishioka,A. Seppi,,,,,,,,,JPN,ITA,1215,,Y Nishioka,A Seppi
+79,2018-ausopen-1216,2018,ausopen,1216,I. Karlovic,Y. Sugita,,,,,,,,,CRO,JPN,1216,,I Karlovic,Y Sugita
+80,2018-ausopen-1217,2018,ausopen,1217,D. Thiem,D. Kudla,,,,,,,,,AUT,USA,1217,,D Thiem,D Kudla
+81,2018-ausopen-1218,2018,ausopen,1218,J. Vesely,A. Mannarino,,,,,,,,,CZE,FRA,1218,,J Vesely,A Mannarino
+82,2018-ausopen-1219,2018,ausopen,1219,F. Verdasco,M. Marterer,,,,,,,,,ESP,GER,1219,,F Verdasco,M Marterer
+83,2018-ausopen-1220,2018,ausopen,1220,T. Sandgren,S. Wawrinka,,,,,,,,,USA,SUI,1220,,T Sandgren,S Wawrinka
+84,2018-ausopen-1221,2018,ausopen,1221,N. Djokovic,G. Monfils,,,,,,,,,SRB,FRA,1221,,N Djokovic,G Monfils
+85,2018-ausopen-1222,2018,ausopen,1222,T. Smyczek,A. Ramos-Vinolas,,,,,,,,,USA,ESP,1222,,T Smyczek,A Ramos-Vinolas
+86,2018-ausopen-1223,2018,ausopen,1223,H. Chung,D. Medvedev,,,,,,,,,KOR,RUS,1223,,H Chung,D Medvedev
+87,2018-ausopen-1224,2018,ausopen,1224,P. Gojowczyk,A. Zverev,,,,,,,,,GER,GER,1224,,P Gojowczyk,A Zverev
+88,2018-ausopen-1225,2018,ausopen,1225,D. Goffin,J. Benneteau,,,,,,,,,BEL,FRA,1225,,D Goffin,J Benneteau
+89,2018-ausopen-1227,2018,ausopen,1227,T. Berdych,G. Garcia-Lopez,,,,,,,,,CZE,ESP,1227,,T Berdych,G Garcia-Lopez
+90,2018-ausopen-1228,2018,ausopen,1228,K. Khachanov,J. Del Potro,,,,,,,,,RUS,ARG,1228,,K Khachanov,J Del Potro
+91,2018-ausopen-1229,2018,ausopen,1229,S. Querrey,M. Fucsovics,,,,,,,,,USA,HUN,1229,,S Querrey,M Fucsovics
+92,2018-ausopen-1230,2018,ausopen,1230,N. Kicker,L. Lacko,,,,,,,,,ARG,SVK,1230,,N Kicker,L Lacko
+93,2018-ausopen-1231,2018,ausopen,1231,R. Gasquet,L. Sonego,,,,,,,,,FRA,ITA,1231,,R Gasquet,L Sonego
+94,2018-ausopen-1232,2018,ausopen,1232,J. Struff,R. Federer,,,,,,,,,GER,SUI,1232,,J Struff,R Federer
+95,2018-ausopen-1301,2018,ausopen,1301,R. Nadal,D. Dzumhur,,,,,,,,,ESP,BIH,1301,,R Nadal,D Dzumhur
+96,2018-ausopen-1302,2018,ausopen,1302,D. Schwartzman,A. Dolgopolov,,,,,,,,,ARG,UKR,1302,,D Schwartzman,A Dolgopolov
+97,2018-ausopen-1303,2018,ausopen,1303,P. Carreno Busta,G. Muller,,,,,,,,,ESP,LUX,1303,,P Carreno Busta,G Muller
+98,2018-ausopen-1304,2018,ausopen,1304,R. Harrison,M. Cilic,,,,,,,,,USA,CRO,1304,,R Harrison,M Cilic
+99,2018-ausopen-1305,2018,ausopen,1305,G. Dimitrov,A. Rublev,,,,,,,,,BUL,RUS,1305,,G Dimitrov,A Rublev
+100,2018-ausopen-1306,2018,ausopen,1306,N. Kyrgios,J. Tsonga,,,,,,,,,AUS,FRA,1306,,N Kyrgios,J Tsonga
+101,2018-ausopen-1307,2018,ausopen,1307,K. Edmund,N. Basilashvili,,,,,,,,,GBR,GEO,1307,,K Edmund,N Basilashvili
+102,2018-ausopen-1308,2018,ausopen,1308,A. Seppi,I. Karlovic,,,,,,,,,ITA,CRO,1308,,A Seppi,I Karlovic
+103,2018-ausopen-1309,2018,ausopen,1309,D. Thiem,A. Mannarino,,,,,,,,,AUT,FRA,1309,,D Thiem,A Mannarino
+104,2018-ausopen-1310,2018,ausopen,1310,M. Marterer,T. Sandgren,,,,,,,,,GER,USA,1310,,M Marterer,T Sandgren
+105,2018-ausopen-1311,2018,ausopen,1311,N. Djokovic,A. Ramos-Vinolas,,,,,,,,,SRB,ESP,1311,,N Djokovic,A Ramos-Vinolas
+106,2018-ausopen-1312,2018,ausopen,1312,H. Chung,A. Zverev,,,,,,,,,KOR,GER,1312,,H Chung,A Zverev
+107,2018-ausopen-1313,2018,ausopen,1313,J. Benneteau,F. Fognini,,,,,,,,,FRA,ITA,1313,,J Benneteau,F Fognini
+108,2018-ausopen-1314,2018,ausopen,1314,T. Berdych,J. Del Potro,,,,,,,,,CZE,ARG,1314,,T Berdych,J Del Potro
+109,2018-ausopen-1315,2018,ausopen,1315,M. Fucsovics,N. Kicker,,,,,,,,,HUN,ARG,1315,,M Fucsovics,N Kicker
+110,2018-ausopen-1316,2018,ausopen,1316,R. Gasquet,R. Federer,,,,,,,,,FRA,SUI,1316,,R Gasquet,R Federer
+111,2018-ausopen-1401,2018,ausopen,1401,R. Nadal,D. Schwartzman,,,,,,,,,ESP,ARG,1401,,R Nadal,D Schwartzman
+112,2018-ausopen-1402,2018,ausopen,1402,P. Carreno Busta,M. Cilic,,,,,,,,,ESP,CRO,1402,,P Carreno Busta,M Cilic
+113,2018-ausopen-1403,2018,ausopen,1403,G. Dimitrov,N. Kyrgios,,,,,,,,,BUL,AUS,1403,,G Dimitrov,N Kyrgios
+114,2018-ausopen-1404,2018,ausopen,1404,K. Edmund,A. Seppi,,,,,,,,,GBR,ITA,1404,,K Edmund,A Seppi
+115,2018-ausopen-1405,2018,ausopen,1405,D. Thiem,T. Sandgren,,,,,,,,,AUT,USA,1405,,D Thiem,T Sandgren
+116,2018-ausopen-1406,2018,ausopen,1406,N. Djokovic,H. Chung,,,,,,,,,SRB,KOR,1406,,N Djokovic,H Chung
+117,2018-ausopen-1407,2018,ausopen,1407,F. Fognini,T. Berdych,,,,,,,,,ITA,CZE,1407,,F Fognini,T Berdych
+118,2018-ausopen-1408,2018,ausopen,1408,M. Fucsovics,R. Federer,,,,,,,,,HUN,SUI,1408,,M Fucsovics,R Federer
+119,2018-ausopen-1501,2018,ausopen,1501,R. Nadal,M. Cilic,,,,,,,,,ESP,CRO,1501,,R Nadal,M Cilic
+120,2018-ausopen-1502,2018,ausopen,1502,G. Dimitrov,K. Edmund,,,,,,,,,BUL,GBR,1502,,G Dimitrov,K Edmund
+121,2018-ausopen-1503,2018,ausopen,1503,T. Sandgren,H. Chung,,,,,,,,,USA,KOR,1503,,T Sandgren,H Chung
+122,2018-ausopen-1504,2018,ausopen,1504,T. Berdych,R. Federer,,,,,,,,,CZE,SUI,1504,,T Berdych,R Federer
+123,2018-ausopen-1601,2018,ausopen,1601,M. Cilic,K. Edmund,,,,,,,,,CRO,GBR,1601,,M Cilic,K Edmund
+124,2018-ausopen-1602,2018,ausopen,1602,H. Chung,R. Federer,,,,,,,,,KOR,SUI,1602,,H Chung,R Federer
+125,2018-ausopen-1701,2018,ausopen,1701,M. Cilic,R. Federer,,,,,,,,,CRO,SUI,1701,,M Cilic,R Federer
+0,2018-frenchopen-1101,2018,frenchopen,1101,R. Nadal,S. Bolelli,,,,,,,,,ESP,ITA,1101,,R Nadal,S Bolelli
+1,2018-frenchopen-1102,2018,frenchopen,1102,J. Sousa,G. Pella,,,,,,,,,POR,ARG,1102,,J Sousa,G Pella
+2,2018-frenchopen-1103,2018,frenchopen,1103,M. Jaziri,M. Youzhny,,,,,,,,,TUN,RUS,1103,,M Jaziri,M Youzhny
+3,2018-frenchopen-1104,2018,frenchopen,1104,A. Seppi,R. Gasquet,,,,,,,,,ITA,FRA,1104,,A Seppi,R Gasquet
+4,2018-frenchopen-1105,2018,frenchopen,1105,D. Shapovalov,J. Millman,,,,,,,,,CAN,AUS,1105,,D Shapovalov,J Millman
+5,2018-frenchopen-1106,2018,frenchopen,1106,R. Harrison,M. Marterer,,,,,,,,,USA,GER,1106,,R Harrison,M Marterer
+6,2018-frenchopen-1107,2018,frenchopen,1107,Y. Bhambri,R. Bemelmans,,,,,,,,,IND,BEL,1107,,Y Bhambri,R Bemelmans
+7,2018-frenchopen-1108,2018,frenchopen,1108,J. Zopp,J. Sock,,,,,,,,,EST,USA,1108,,J Zopp,J Sock
+8,2018-frenchopen-1109,2018,frenchopen,1109,D. Schwartzman,C. Hemery,,,,,,,,,ARG,FRA,1109,,D Schwartzman,C Hemery
+9,2018-frenchopen-1110,2018,frenchopen,1110,M. Basic,A. Pavlasek,,,,,,,,,BIH,CZE,1110,,M Basic,A Pavlasek
+10,2018-frenchopen-1111,2018,frenchopen,1111,M. Ebden,T. Fabbiano,,,,,,,,,AUS,ITA,1111,,M Ebden,T Fabbiano
+11,2018-frenchopen-1112,2018,frenchopen,1112,B. Coric,P. Kohlschreiber,,,,,,,,,CRO,GER,1112,,B Coric,P Kohlschreiber
+12,2018-frenchopen-1113,2018,frenchopen,1113,F. Lopez,S. Stakhovsky,,,,,,,,,ESP,UKR,1113,,F Lopez,S Stakhovsky
+13,2018-frenchopen-1114,2018,frenchopen,1114,M. Zverev,F. Mayer,,,,,,,,,GER,GER,1114,,M Zverev,F Mayer
+14,2018-frenchopen-1115,2018,frenchopen,1115,A. Bedene,P. Cuevas,,,,,,,,,SLO,URU,1115,,A Bedene,P Cuevas
+15,2018-frenchopen-1116,2018,frenchopen,1116,P. Lorenzi,K. Anderson,,,,,,,,,ITA,RSA,1116,,P Lorenzi,K Anderson
+16,2018-frenchopen-1117,2018,frenchopen,1117,M. Cilic,J. Duckworth,,,,,,,,,CRO,AUS,1117,,M Cilic,J Duckworth
+17,2018-frenchopen-1118,2018,frenchopen,1118,H. Hurkacz,T. Sandgren,,,,,,,,,POL,USA,1118,,H Hurkacz,T Sandgren
+18,2018-frenchopen-1119,2018,frenchopen,1119,E. Donskoy,J. Struff,,,,,,,,,RUS,GER,1119,,E Donskoy,J Struff
+19,2018-frenchopen-1120,2018,frenchopen,1120,S. Johnson,A. Mannarino,,,,,,,,,USA,FRA,1120,,S Johnson,A Mannarino
+20,2018-frenchopen-1121,2018,frenchopen,1121,F. Fognini,P. Andujar,,,,,,,,,ITA,ESP,1121,,F Fognini,P Andujar
+21,2018-frenchopen-1122,2018,frenchopen,1122,D. Sela,E. Ymer,,,,,,,,,ISR,SWE,1122,,D Sela,E Ymer
+22,2018-frenchopen-1123,2018,frenchopen,1123,V. Pospisil,M. Fucsovics,,,,,,,,,CAN,HUN,1123,,V Pospisil,M Fucsovics
+23,2018-frenchopen-1124,2018,frenchopen,1124,A. De Minaur,K. Edmund,,,,,,,,,AUS,GBR,1124,,A De Minaur,K Edmund
+24,2018-frenchopen-1125,2018,frenchopen,1125,J. Isner,N. Rubin,,,,,,,,,USA,USA,1125,,J Isner,N Rubin
+25,2018-frenchopen-1126,2018,frenchopen,1126,H. Zeballos,Y. Sugita,,,,,,,,,ARG,JPN,1126,,H Zeballos,Y Sugita
+26,2018-frenchopen-1127,2018,frenchopen,1127,P. Polansky,P. Herbert,,,,,,,,,CAN,FRA,1127,,P Polansky,P Herbert
+27,2018-frenchopen-1128,2018,frenchopen,1128,J. Chardy,T. Berdych,,,,,,,,,FRA,CZE,1128,,J Chardy,T Berdych
+28,2018-frenchopen-1129,2018,frenchopen,1129,A. Ramos-Vinolas,M. Kukushkin,,,,,,,,,ESP,KAZ,1129,,A Ramos-Vinolas,M Kukushkin
+29,2018-frenchopen-1130,2018,frenchopen,1130,J. Thompson,C. Ruud,,,,,,,,,AUS,NOR,1130,,J Thompson,C Ruud
+30,2018-frenchopen-1131,2018,frenchopen,1131,L. Mayer,J. Benneteau,,,,,,,,,ARG,FRA,1131,,L Mayer,J Benneteau
+31,2018-frenchopen-1132,2018,frenchopen,1132,N. Mahut,J. Del Potro,,,,,,,,,FRA,ARG,1132,,N Mahut,J Del Potro
+32,2018-frenchopen-1133,2018,frenchopen,1133,D. Goffin,R. Haase,,,,,,,,,BEL,NED,1133,,D Goffin,R Haase
+33,2018-frenchopen-1134,2018,frenchopen,1134,I. Karlovic,C. Moutet,,,,,,,,,CRO,FRA,1134,,I Karlovic,C Moutet
+34,2018-frenchopen-1135,2018,frenchopen,1135,M. Klizan,L. Djere,,,,,,,,,SVK,SRB,1135,,M Klizan,L Djere
+35,2018-frenchopen-1136,2018,frenchopen,1136,E. Benchetrit,G. Monfils,,,,,,,,,FRA,FRA,1136,,E Benchetrit,G Monfils
+36,2018-frenchopen-1137,2018,frenchopen,1137,M. Trungelliti,B. Tomic,,,,,,,,,ARG,AUS,1137,,M Trungelliti,B Tomic
+37,2018-frenchopen-1138,2018,frenchopen,1138,M. Cecchinato,M. Copil,,,,,,,,,ITA,ROU,1138,,M Cecchinato,M Copil
+38,2018-frenchopen-1139,2018,frenchopen,1139,F. Delbonis,T. Bellucci,,,,,,,,,ARG,BRA,1139,,F Delbonis,T Bellucci
+39,2018-frenchopen-1140,2018,frenchopen,1140,J. Kovalik,P. Carreno Busta,,,,,,,,,SVK,ESP,1140,,J Kovalik,P Carreno Busta
+40,2018-frenchopen-1141,2018,frenchopen,1141,R. Bautista Agut,D. Istomin,,,,,,,,,ESP,UZB,1141,,R Bautista Agut,D Istomin
+41,2018-frenchopen-1142,2018,frenchopen,1142,M. Baghdatis,S. Giraldo,,,,,,,,,CYP,COL,1142,,M Baghdatis,S Giraldo
+42,2018-frenchopen-1143,2018,frenchopen,1143,J. Munar,D. Ferrer,,,,,,,,,ESP,ESP,1143,,J Munar,D Ferrer
+43,2018-frenchopen-1144,2018,frenchopen,1144,R. Dutra Silva,N. Djokovic,,,,,,,,,BRA,SRB,1144,,R Dutra Silva,N Djokovic
+44,2018-frenchopen-1145,2018,frenchopen,1145,F. Verdasco,Y. Nishioka,,,,,,,,,ESP,JPN,1145,,F Verdasco,Y Nishioka
+45,2018-frenchopen-1146,2018,frenchopen,1146,G. Andreozzi,T. Fritz,,,,,,,,,ARG,USA,1146,,G Andreozzi,T Fritz
+46,2018-frenchopen-1147,2018,frenchopen,1147,N. Jarry,J. Donaldson,,,,,,,,,CHI,USA,1147,,N Jarry,J Donaldson
+47,2018-frenchopen-1148,2018,frenchopen,1148,M. Safwat,G. Dimitrov,,,,,,,,,EGY,BUL,1148,,M Safwat,G Dimitrov
+48,2018-frenchopen-1149,2018,frenchopen,1149,D. Thiem,I. Ivashka,,,,,,,,,AUT,BLR,1149,,D Thiem,I Ivashka
+49,2018-frenchopen-1150,2018,frenchopen,1150,S. Tsitsipas,C. Taberner,,,,,,,,,GRE,ESP,1150,,S Tsitsipas,C Taberner
+50,2018-frenchopen-1151,2018,frenchopen,1151,O. Otte,M. Berrettini,,,,,,,,,GER,ITA,1151,,O Otte,M Berrettini
+51,2018-frenchopen-1152,2018,frenchopen,1152,E. Gulbis,G. Muller,,,,,,,,,LAT,LUX,1152,,E Gulbis,G Muller
+52,2018-frenchopen-1153,2018,frenchopen,1153,K. Nishikori,M. Janvier,,,,,,,,,JPN,FRA,1153,,K Nishikori,M Janvier
+53,2018-frenchopen-1154,2018,frenchopen,1154,B. Paire,R. Carballes Baena,,,,,,,,,FRA,ESP,1154,,B Paire,R Carballes Baena
+54,2018-frenchopen-1155,2018,frenchopen,1155,N. Basilashvili,G. Simon,,,,,,,,,GEO,FRA,1155,,N Basilashvili,G Simon
+55,2018-frenchopen-1156,2018,frenchopen,1156,F. Tiafoe,S. Querrey,,,,,,,,,USA,USA,1156,,F Tiafoe,S Querrey
+56,2018-frenchopen-1157,2018,frenchopen,1157,L. Pouille,D. Medvedev,,,,,,,,,FRA,RUS,1157,,L Pouille,D Medvedev
+57,2018-frenchopen-1158,2018,frenchopen,1158,P. Gojowczyk,C. Norrie,,,,,,,,,GER,GBR,1158,,P Gojowczyk,C Norrie
+58,2018-frenchopen-1159,2018,frenchopen,1159,K. Khachanov,A. Haider-Maurer,,,,,,,,,RUS,AUT,1159,,K Khachanov,A Haider-Maurer
+59,2018-frenchopen-1160,2018,frenchopen,1160,G. Garcia-Lopez,S. Wawrinka,,,,,,,,,ESP,SUI,1160,,G Garcia-Lopez,S Wawrinka
+60,2018-frenchopen-1161,2018,frenchopen,1161,D. Dzumhur,D. Kudla,,,,,,,,,BIH,USA,1161,,D Dzumhur,D Kudla
+61,2018-frenchopen-1162,2018,frenchopen,1162,G. Barrere,R. Albot,,,,,,,,,FRA,MDA,1162,,G Barrere,R Albot
+62,2018-frenchopen-1163,2018,frenchopen,1163,J. Vesely,D. Lajovic,,,,,,,,,CZE,SRB,1163,,J Vesely,D Lajovic
+63,2018-frenchopen-1164,2018,frenchopen,1164,R. Berankis,A. Zverev,,,,,,,,,LTU,GER,1164,,R Berankis,A Zverev
+64,2018-frenchopen-1201,2018,frenchopen,1201,R. Nadal,G. Pella,,,,,,,,,ESP,ARG,1201,,R Nadal,G Pella
+65,2018-frenchopen-1202,2018,frenchopen,1202,M. Jaziri,R. Gasquet,,,,,,,,,TUN,FRA,1202,,M Jaziri,R Gasquet
+66,2018-frenchopen-1203,2018,frenchopen,1203,D. Shapovalov,M. Marterer,,,,,,,,,CAN,GER,1203,,D Shapovalov,M Marterer
+67,2018-frenchopen-1204,2018,frenchopen,1204,R. Bemelmans,J. Zopp,,,,,,,,,BEL,EST,1204,,R Bemelmans,J Zopp
+68,2018-frenchopen-1205,2018,frenchopen,1205,D. Schwartzman,A. Pavlasek,,,,,,,,,ARG,CZE,1205,,D Schwartzman,A Pavlasek
+69,2018-frenchopen-1206,2018,frenchopen,1206,T. Fabbiano,B. Coric,,,,,,,,,ITA,CRO,1206,,T Fabbiano,B Coric
+70,2018-frenchopen-1207,2018,frenchopen,1207,S. Stakhovsky,M. Zverev,,,,,,,,,UKR,GER,1207,,S Stakhovsky,M Zverev
+71,2018-frenchopen-1208,2018,frenchopen,1208,P. Cuevas,K. Anderson,,,,,,,,,URU,RSA,1208,,P Cuevas,K Anderson
+72,2018-frenchopen-1209,2018,frenchopen,1209,M. Cilic,H. Hurkacz,,,,,,,,,CRO,POL,1209,,M Cilic,H Hurkacz
+73,2018-frenchopen-1210,2018,frenchopen,1210,J. Struff,S. Johnson,,,,,,,,,GER,USA,1210,,J Struff,S Johnson
+74,2018-frenchopen-1211,2018,frenchopen,1211,F. Fognini,E. Ymer,,,,,,,,,ITA,SWE,1211,,F Fognini,E Ymer
+75,2018-frenchopen-1212,2018,frenchopen,1212,M. Fucsovics,K. Edmund,,,,,,,,,HUN,GBR,1212,,M Fucsovics,K Edmund
+76,2018-frenchopen-1213,2018,frenchopen,1213,J. Isner,H. Zeballos,,,,,,,,,USA,ARG,1213,,J Isner,H Zeballos
+77,2018-frenchopen-1214,2018,frenchopen,1214,P. Herbert,J. Chardy,,,,,,,,,FRA,FRA,1214,,P Herbert,J Chardy
+78,2018-frenchopen-1215,2018,frenchopen,1215,A. Ramos-Vinolas,C. Ruud,,,,,,,,,ESP,NOR,1215,,A Ramos-Vinolas,C Ruud
+79,2018-frenchopen-1216,2018,frenchopen,1216,J. Benneteau,J. Del Potro,,,,,,,,,FRA,ARG,1216,,J Benneteau,J Del Potro
+80,2018-frenchopen-1217,2018,frenchopen,1217,D. Goffin,C. Moutet,,,,,,,,,BEL,FRA,1217,,D Goffin,C Moutet
+81,2018-frenchopen-1218,2018,frenchopen,1218,M. Klizan,G. Monfils,,,,,,,,,SVK,FRA,1218,,M Klizan,G Monfils
+82,2018-frenchopen-1219,2018,frenchopen,1219,M. Trungelliti,M. Cecchinato,,,,,,,,,ARG,ITA,1219,,M Trungelliti,M Cecchinato
+83,2018-frenchopen-1220,2018,frenchopen,1220,F. Delbonis,P. Carreno Busta,,,,,,,,,ARG,ESP,1220,,F Delbonis,P Carreno Busta
+84,2018-frenchopen-1221,2018,frenchopen,1221,R. Bautista Agut,S. Giraldo,,,,,,,,,ESP,COL,1221,,R Bautista Agut,S Giraldo
+85,2018-frenchopen-1222,2018,frenchopen,1222,J. Munar,N. Djokovic,,,,,,,,,ESP,SRB,1222,,J Munar,N Djokovic
+86,2018-frenchopen-1223,2018,frenchopen,1223,F. Verdasco,G. Andreozzi,,,,,,,,,ESP,ARG,1223,,F Verdasco,G Andreozzi
+87,2018-frenchopen-1224,2018,frenchopen,1224,J. Donaldson,G. Dimitrov,,,,,,,,,USA,BUL,1224,,J Donaldson,G Dimitrov
+88,2018-frenchopen-1225,2018,frenchopen,1225,D. Thiem,S. Tsitsipas,,,,,,,,,AUT,GRE,1225,,D Thiem,S Tsitsipas
+89,2018-frenchopen-1226,2018,frenchopen,1226,M. Berrettini,E. Gulbis,,,,,,,,,ITA,LAT,1226,,M Berrettini,E Gulbis
+90,2018-frenchopen-1227,2018,frenchopen,1227,K. Nishikori,B. Paire,,,,,,,,,JPN,FRA,1227,,K Nishikori,B Paire
+91,2018-frenchopen-1228,2018,frenchopen,1228,G. Simon,S. Querrey,,,,,,,,,FRA,USA,1228,,G Simon,S Querrey
+92,2018-frenchopen-1229,2018,frenchopen,1229,L. Pouille,C. Norrie,,,,,,,,,FRA,GBR,1229,,L Pouille,C Norrie
+93,2018-frenchopen-1230,2018,frenchopen,1230,K. Khachanov,G. Garcia-Lopez,,,,,,,,,RUS,ESP,1230,,K Khachanov,G Garcia-Lopez
+94,2018-frenchopen-1231,2018,frenchopen,1231,D. Dzumhur,R. Albot,,,,,,,,,BIH,MDA,1231,,D Dzumhur,R Albot
+95,2018-frenchopen-1232,2018,frenchopen,1232,D. Lajovic,A. Zverev,,,,,,,,,SRB,GER,1232,,D Lajovic,A Zverev
+96,2018-frenchopen-1301,2018,frenchopen,1301,R. Nadal,R. Gasquet,,,,,,,,,ESP,FRA,1301,,R Nadal,R Gasquet
+97,2018-frenchopen-1302,2018,frenchopen,1302,M. Marterer,J. Zopp,,,,,,,,,GER,EST,1302,,M Marterer,J Zopp
+98,2018-frenchopen-1303,2018,frenchopen,1303,D. Schwartzman,B. Coric,,,,,,,,,ARG,CRO,1303,,D Schwartzman,B Coric
+99,2018-frenchopen-1304,2018,frenchopen,1304,M. Zverev,K. Anderson,,,,,,,,,GER,RSA,1304,,M Zverev,K Anderson
+100,2018-frenchopen-1305,2018,frenchopen,1305,M. Cilic,S. Johnson,,,,,,,,,CRO,USA,1305,,M Cilic,S Johnson
+101,2018-frenchopen-1306,2018,frenchopen,1306,F. Fognini,K. Edmund,,,,,,,,,ITA,GBR,1306,,F Fognini,K Edmund
+102,2018-frenchopen-1307,2018,frenchopen,1307,J. Isner,P. Herbert,,,,,,,,,USA,FRA,1307,,J Isner,P Herbert
+103,2018-frenchopen-1308,2018,frenchopen,1308,A. Ramos-Vinolas,J. Del Potro,,,,,,,,,ESP,ARG,1308,,A Ramos-Vinolas,J Del Potro
+104,2018-frenchopen-1309,2018,frenchopen,1309,D. Goffin,G. Monfils,,,,,,,,,BEL,FRA,1309,,D Goffin,G Monfils
+105,2018-frenchopen-1310,2018,frenchopen,1310,M. Cecchinato,P. Carreno Busta,,,,,,,,,ITA,ESP,1310,,M Cecchinato,P Carreno Busta
+106,2018-frenchopen-1311,2018,frenchopen,1311,R. Bautista Agut,N. Djokovic,,,,,,,,,ESP,SRB,1311,,R Bautista Agut,N Djokovic
+107,2018-frenchopen-1312,2018,frenchopen,1312,F. Verdasco,G. Dimitrov,,,,,,,,,ESP,BUL,1312,,F Verdasco,G Dimitrov
+108,2018-frenchopen-1313,2018,frenchopen,1313,D. Thiem,M. Berrettini,,,,,,,,,AUT,ITA,1313,,D Thiem,M Berrettini
+109,2018-frenchopen-1314,2018,frenchopen,1314,K. Nishikori,G. Simon,,,,,,,,,JPN,FRA,1314,,K Nishikori,G Simon
+110,2018-frenchopen-1315,2018,frenchopen,1315,L. Pouille,K. Khachanov,,,,,,,,,FRA,RUS,1315,,L Pouille,K Khachanov
+111,2018-frenchopen-1316,2018,frenchopen,1316,D. Dzumhur,A. Zverev,,,,,,,,,BIH,GER,1316,,D Dzumhur,A Zverev
+112,2018-frenchopen-1401,2018,frenchopen,1401,R. Nadal,M. Marterer,,,,,,,,,ESP,GER,1401,,R Nadal,M Marterer
+113,2018-frenchopen-1402,2018,frenchopen,1402,D. Schwartzman,K. Anderson,,,,,,,,,ARG,RSA,1402,,D Schwartzman,K Anderson
+114,2018-frenchopen-1403,2018,frenchopen,1403,M. Cilic,F. Fognini,,,,,,,,,CRO,ITA,1403,,M Cilic,F Fognini
+115,2018-frenchopen-1404,2018,frenchopen,1404,J. Isner,J. Del Potro,,,,,,,,,USA,ARG,1404,,J Isner,J Del Potro
+116,2018-frenchopen-1405,2018,frenchopen,1405,D. Goffin,M. Cecchinato,,,,,,,,,BEL,ITA,1405,,D Goffin,M Cecchinato
+117,2018-frenchopen-1406,2018,frenchopen,1406,N. Djokovic,F. Verdasco,,,,,,,,,SRB,ESP,1406,,N Djokovic,F Verdasco
+118,2018-frenchopen-1407,2018,frenchopen,1407,D. Thiem,K. Nishikori,,,,,,,,,AUT,JPN,1407,,D Thiem,K Nishikori
+119,2018-frenchopen-1408,2018,frenchopen,1408,K. Khachanov,A. Zverev,,,,,,,,,RUS,GER,1408,,K Khachanov,A Zverev
+120,2018-frenchopen-1501,2018,frenchopen,1501,R. Nadal,D. Schwartzman,,,,,,,,,ESP,ARG,1501,,R Nadal,D Schwartzman
+121,2018-frenchopen-1502,2018,frenchopen,1502,M. Cilic,J. Del Potro,,,,,,,,,CRO,ARG,1502,,M Cilic,J Del Potro
+122,2018-frenchopen-1503,2018,frenchopen,1503,M. Cecchinato,N. Djokovic,,,,,,,,,ITA,SRB,1503,,M Cecchinato,N Djokovic
+123,2018-frenchopen-1504,2018,frenchopen,1504,D. Thiem,A. Zverev,,,,,,,,,AUT,GER,1504,,D Thiem,A Zverev
+124,2018-frenchopen-1601,2018,frenchopen,1601,R. Nadal,J. Del Potro,,,,,,,,,ESP,ARG,1601,,R Nadal,J Del Potro
+125,2018-frenchopen-1602,2018,frenchopen,1602,M. Cecchinato,D. Thiem,,,,,,,,,ITA,AUT,1602,,M Cecchinato,D Thiem
+126,2018-frenchopen-1701,2018,frenchopen,1701,R. Nadal,D. Thiem,,,,,,,,,ESP,AUT,1701,,R Nadal,D Thiem
+0,2018-usopen-1101,2018,usopen,1101,Rafael Nadal,David Ferrer,,,,,,,,,,,1101,,R Nadal,D Ferrer
+1,2018-usopen-1105,2018,usopen,1105,Jack Sock,Guido Andreozzi,,,,,,,,,,,1105,,J Sock,G Andreozzi
+2,2018-usopen-1108,2018,usopen,1108,Paolo Lorenzi,Kyle Edmund,,,,,,,,,,,1108,,P Lorenzi,K Edmund
+3,2018-usopen-1109,2018,usopen,1109,Dominic Thiem,Mirza Basic,,,,,,,,,,,1109,,D Thiem,M Basic
+4,2018-usopen-1111,2018,usopen,1111,Mischa Zverev,Taylor Fritz,,,,,,,,,,,1111,,M Zverev,T Fritz
+5,2018-usopen-1113,2018,usopen,1113,Denis Shapovalov,Felix Auger Aliassime,,,,,,,,,,,1113,,D Shapovalov,F Auger Aliassime
+6,2018-usopen-1114,2018,usopen,1114,Sam Querrey,Andreas Seppi,,,,,,,,,,,1114,,S Querrey,A Seppi
+7,2018-usopen-1116,2018,usopen,1116,Ryan Harrison,Kevin Anderson,,,,,,,,,,,1116,,R Harrison,K Anderson
+8,2018-usopen-1117,2018,usopen,1117,Juan Martin Del Potro,Donald Young,,,,,,,,,,,1117,,J Martin Del Potro,D Young
+9,2018-usopen-1119,2018,usopen,1119,Andy Murray,James Duckworth,,,,,,,,,,,1119,,A Murray,J Duckworth
+10,2018-usopen-1125,2018,usopen,1125,John Isner,Bradley Klahn,,,,,,,,,,,1125,,J Isner,B Klahn
+11,2018-usopen-1127,2018,usopen,1127,Cameron Norrie,Jordan Thompson,,,,,,,,,,,1127,,C Norrie,J Thompson
+12,2018-usopen-1129,2018,usopen,1129,Milos Raonic,Carlos Berlocq,,,,,,,,,,,1129,,M Raonic,C Berlocq
+13,2018-usopen-1132,2018,usopen,1132,Stan Wawrinka,Grigor Dimitrov,,,,,,,,,,,1132,,S Wawrinka,G Dimitrov
+14,2018-usopen-1133,2018,usopen,1133,Marin Cilic,Marius Copil,,,,,,,,,,,1133,,M Cilic,M Copil
+15,2018-usopen-1135,2018,usopen,1135,Alex de Minaur,Taro Daniel,,,,,,,,,,,1135,,A de Minaur,T Daniel
+16,2018-usopen-1136,2018,usopen,1136,Frances Tiafoe,Adrian Mannarino,,,,,,,,,,,1136,,F Tiafoe,A Mannarino
+17,2018-usopen-1137,2018,usopen,1137,Marco Cecchinato,Julien Benneteau,,,,,,,,,,,1137,,M Cecchinato,J Benneteau
+18,2018-usopen-1141,2018,usopen,1141,Diego Schwartzman,Federico Delbonis,,,,,,,,,,,1141,,D Schwartzman,F Delbonis
+19,2018-usopen-1143,2018,usopen,1143,Facundo Bagnis,Gael Monfils,,,,,,,,,,,1143,,F Bagnis,G Monfils
+20,2018-usopen-1144,2018,usopen,1144,Maximilian Marterer,Kei Nishikori,,,,,,,,,,,1144,,M Marterer,K Nishikori
+21,2018-usopen-1148,2018,usopen,1148,Peter Polansky,Alexander Zverev,,,,,,,,,,,1148,,P Polansky,A Zverev
+22,2018-usopen-1149,2018,usopen,1149,Novak Djokovic,Marton Fucsovics,,,,,,,,,,,1149,,N Djokovic,M Fucsovics
+23,2018-usopen-1152,2018,usopen,1152,Yuichi Sugita,Richard Gasquet,,,,,,,,,,,1152,,Y Sugita,R Gasquet
+24,2018-usopen-1157,2018,usopen,1157,Fabio Fognini,Michael Mmoh,,,,,,,,,,,1157,,F Fognini,M Mmoh
+25,2018-usopen-1160,2018,usopen,1160,Ricardas Berankis,Hyeon Chung,,,,,,,,,,,1160,,R Berankis,H Chung
+26,2018-usopen-1161,2018,usopen,1161,Nick Kyrgios,Radu Albot,,,,,,,,,,,1161,,N Kyrgios,R Albot
+27,2018-usopen-1164,2018,usopen,1164,Yoshihito Nishioka,Roger Federer,,,,,,,,,,,1164,,Y Nishioka,R Federer
+28,2018-usopen-1201,2018,usopen,1201,Rafael Nadal,Vasek Pospisil,,,,,,,,,,,1201,,R Nadal,V Pospisil
+29,2018-usopen-1203,2018,usopen,1203,Jack Sock,Nikoloz Basilashvili,,,,,,,,,,,1203,,J Sock,N Basilashvili
+30,2018-usopen-1204,2018,usopen,1204,Guido Pella,Paolo Lorenzi,,,,,,,,,,,1204,,G Pella,P Lorenzi
+31,2018-usopen-1205,2018,usopen,1205,Dominic Thiem,Steve Johnson,,,,,,,,,,,1205,,D Thiem,S Johnson
+32,2018-usopen-1206,2018,usopen,1206,Taylor Fritz,Jason Kubler,,,,,,,,,,,1206,,T Fritz,J Kubler
+33,2018-usopen-1207,2018,usopen,1207,Denis Shapovalov,Andreas Seppi,,,,,,,,,,,1207,,D Shapovalov,A Seppi
+34,2018-usopen-1208,2018,usopen,1208,Jeremy Chardy,Kevin Anderson,,,,,,,,,,,1208,,J Chardy,K Anderson
+35,2018-usopen-1209,2018,usopen,1209,Juan Martin Del Potro,Denis Kudla,,,,,,,,,,,1209,,J Martin Del Potro,D Kudla
+36,2018-usopen-1210,2018,usopen,1210,Andy Murray,Fernando Verdasco,,,,,,,,,,,1210,,A Murray,F Verdasco
+37,2018-usopen-1212,2018,usopen,1212,Daniil Medvedev,Stefanos Tsitsipas,,,,,,,,,,,1212,,D Medvedev,S Tsitsipas
+38,2018-usopen-1213,2018,usopen,1213,John Isner,Nicolas Jarry,,,,,,,,,,,1213,,J Isner,N Jarry
+39,2018-usopen-1214,2018,usopen,1214,Cameron Norrie,Dusan Lajovic,,,,,,,,,,,1214,,C Norrie,D Lajovic
+40,2018-usopen-1215,2018,usopen,1215,Milos Raonic,Gilles Simon,,,,,,,,,,,1215,,M Raonic,G Simon
+41,2018-usopen-1216,2018,usopen,1216,Ugo Humbert,Stan Wawrinka,,,,,,,,,,,1216,,U Humbert,S Wawrinka
+42,2018-usopen-1217,2018,usopen,1217,Marin Cilic,Hubert Hurkacz,,,,,,,,,,,1217,,M Cilic,H Hurkacz
+43,2018-usopen-1218,2018,usopen,1218,Alex de Minaur,Frances Tiafoe,,,,,,,,,,,1218,,A de Minaur,F Tiafoe
+44,2018-usopen-1220,2018,usopen,1220,Robin Haase,David Goffin,,,,,,,,,,,1220,,R Haase,D Goffin
+45,2018-usopen-1221,2018,usopen,1221,Diego Schwartzman,Jaume Munar,,,,,,,,,,,1221,,D Schwartzman,J Munar
+46,2018-usopen-1222,2018,usopen,1222,Gael Monfils,Kei Nishikori,,,,,,,,,,,1222,,G Monfils,K Nishikori
+47,2018-usopen-1224,2018,usopen,1224,Nicolas Mahut,Alexander Zverev,,,,,,,,,,,1224,,N Mahut,A Zverev
+48,2018-usopen-1225,2018,usopen,1225,Novak Djokovic,Tennys Sandgren,,,,,,,,,,,1225,,N Djokovic,T Sandgren
+49,2018-usopen-1226,2018,usopen,1226,Laslo Djere,Richard Gasquet,,,,,,,,,,,1226,,L Djere,R Gasquet
+50,2018-usopen-1227,2018,usopen,1227,Lucas Pouille,Marcos Baghdatis,,,,,,,,,,,1227,,L Pouille,M Baghdatis
+51,2018-usopen-1229,2018,usopen,1229,Fabio Fognini,John Millman,,,,,,,,,,,1229,,F Fognini,J Millman
+52,2018-usopen-1230,2018,usopen,1230,Mikhail Kukushkin,Hyeon Chung,,,,,,,,,,,1230,,M Kukushkin,H Chung
+53,2018-usopen-1231,2018,usopen,1231,Nick Kyrgios,Pierre Hugues Herbert,,,,,,,,,,,1231,,N Kyrgios,P Hugues Herbert
+54,2018-usopen-1232,2018,usopen,1232,Benoit Paire,Roger Federer,,,,,,,,,,,1232,,B Paire,R Federer
+55,2018-usopen-1301,2018,usopen,1301,Rafael Nadal,Karen Khachanov,,,,,,,,,,,1301,,R Nadal,K Khachanov
+56,2018-usopen-1302,2018,usopen,1302,Nikoloz Basilashvili,Guido Pella,,,,,,,,,,,1302,,N Basilashvili,G Pella
+57,2018-usopen-1303,2018,usopen,1303,Dominic Thiem,Taylor Fritz,,,,,,,,,,,1303,,D Thiem,T Fritz
+58,2018-usopen-1304,2018,usopen,1304,Denis Shapovalov,Kevin Anderson,,,,,,,,,,,1304,,D Shapovalov,K Anderson
+59,2018-usopen-1305,2018,usopen,1305,Juan Martin Del Potro,Fernando Verdasco,,,,,,,,,,,1305,,J Martin Del Potro,F Verdasco
+60,2018-usopen-1306,2018,usopen,1306,Borna Coric,Daniil Medvedev,,,,,,,,,,,1306,,B Coric,D Medvedev
+61,2018-usopen-1307,2018,usopen,1307,John Isner,Dusan Lajovic,,,,,,,,,,,1307,,J Isner,D Lajovic
+62,2018-usopen-1308,2018,usopen,1308,Milos Raonic,Stan Wawrinka,,,,,,,,,,,1308,,M Raonic,S Wawrinka
+63,2018-usopen-1309,2018,usopen,1309,Marin Cilic,Alex de Minaur,,,,,,,,,,,1309,,M Cilic,A de Minaur
+64,2018-usopen-1310,2018,usopen,1310,Jan Lennard Struff,David Goffin,,,,,,,,,,,1310,,J Lennard Struff,D Goffin
+65,2018-usopen-1311,2018,usopen,1311,Diego Schwartzman,Kei Nishikori,,,,,,,,,,,1311,,D Schwartzman,K Nishikori
+66,2018-usopen-1312,2018,usopen,1312,Philipp Kohlschreiber,Alexander Zverev,,,,,,,,,,,1312,,P Kohlschreiber,A Zverev
+67,2018-usopen-1313,2018,usopen,1313,Novak Djokovic,Richard Gasquet,,,,,,,,,,,1313,,N Djokovic,R Gasquet
+68,2018-usopen-1314,2018,usopen,1314,Lucas Pouille,Joao Sousa,,,,,,,,,,,1314,,L Pouille,J Sousa
+69,2018-usopen-1315,2018,usopen,1315,John Millman,Mikhail Kukushkin,,,,,,,,,,,1315,,J Millman,M Kukushkin
+70,2018-usopen-1316,2018,usopen,1316,Nick Kyrgios,Roger Federer,,,,,,,,,,,1316,,N Kyrgios,R Federer
+71,2018-usopen-1401,2018,usopen,1401,Rafael Nadal,Nikoloz Basilashvili,,,,,,,,,,,1401,,R Nadal,N Basilashvili
+72,2018-usopen-1402,2018,usopen,1402,Dominic Thiem,Kevin Anderson,,,,,,,,,,,1402,,D Thiem,K Anderson
+73,2018-usopen-1403,2018,usopen,1403,Juan Martin Del Potro,Borna Coric,,,,,,,,,,,1403,,J Martin Del Potro,B Coric
+74,2018-usopen-1404,2018,usopen,1404,John Isner,Milos Raonic,,,,,,,,,,,1404,,J Isner,M Raonic
+75,2018-usopen-1405,2018,usopen,1405,Marin Cilic,David Goffin,,,,,,,,,,,1405,,M Cilic,D Goffin
+76,2018-usopen-1406,2018,usopen,1406,Kei Nishikori,Philipp Kohlschreiber,,,,,,,,,,,1406,,K Nishikori,P Kohlschreiber
+77,2018-usopen-1407,2018,usopen,1407,Novak Djokovic,Joao Sousa,,,,,,,,,,,1407,,N Djokovic,J Sousa
+78,2018-usopen-1408,2018,usopen,1408,John Millman,Roger Federer,,,,,,,,,,,1408,,J Millman,R Federer
+79,2018-usopen-1501,2018,usopen,1501,Rafael Nadal,Dominic Thiem,,,,,,,,,,,1501,,R Nadal,D Thiem
+80,2018-usopen-1502,2018,usopen,1502,Juan Martin Del Potro,John Isner,,,,,,,,,,,1502,,J Martin Del Potro,J Isner
+81,2018-usopen-1503,2018,usopen,1503,Marin Cilic,Kei Nishikori,,,,,,,,,,,1503,,M Cilic,K Nishikori
+82,2018-usopen-1504,2018,usopen,1504,Novak Djokovic,John Millman,,,,,,,,,,,1504,,N Djokovic,J Millman
+83,2018-usopen-1601,2018,usopen,1601,Rafael Nadal,Juan Martin Del Potro,,,,,,,,,,,1601,,R Nadal,J Martin Del Potro
+84,2018-usopen-1602,2018,usopen,1602,Kei Nishikori,Novak Djokovic,,,,,,,,,,,1602,,K Nishikori,N Djokovic
+85,2018-usopen-1701,2018,usopen,1701,Juan Martin Del Potro,Novak Djokovic,,,,,,,,,,,1701,,J Martin Del Potro,N Djokovic
+0,2018-wimbledon-1101,2018,wimbledon,1101,Roger Federer,Dusan Lajovic,,,,,,,,,,,1101,,R Federer,D Lajovic
+1,2018-wimbledon-1102,2018,wimbledon,1102,Lukas Lacko,Benjamin Bonzi,,,,,,,,,,,1102,,L Lacko,B Bonzi
+2,2018-wimbledon-1103,2018,wimbledon,1103,Ivo Karlovic,Mikhail Youzhny,,,,,,,,,,,1103,,I Karlovic,M Youzhny
+3,2018-wimbledon-1104,2018,wimbledon,1104,Jan Lennard Struff,Leonardo Mayer,,,,,,,,,,,1104,,J Lennard Struff,L Mayer
+4,2018-wimbledon-1105,2018,wimbledon,1105,Adrian Mannarino,Christian Garin,,,,,,,,,,,1105,,A Mannarino,C Garin
+5,2018-wimbledon-1106,2018,wimbledon,1106,Ryan Harrison,Roberto Carballes Baena,,,,,,,,,,,1106,,R Harrison,R Carballes Baena
+6,2018-wimbledon-1107,2018,wimbledon,1107,Guillermo Garcia Lopez,Gastao Elias,,,,,,,,,,,1107,,G Garcia Lopez,G Elias
+7,2018-wimbledon-1108,2018,wimbledon,1108,Daniil Medvedev,Borna Coric,,,,,,,,,,,1108,,D Medvedev,B Coric
+8,2018-wimbledon-1109,2018,wimbledon,1109,Sam Querrey,Jordan Thompson,,,,,,,,,,,1109,,S Querrey,J Thompson
+9,2018-wimbledon-1110,2018,wimbledon,1110,Sergiy Stakhovsky,Joao Sousa,,,,,,,,,,,1110,,S Stakhovsky,J Sousa
+10,2018-wimbledon-1111,2018,wimbledon,1111,Laslo Djere,Paolo Lorenzi,,,,,,,,,,,1111,,L Djere,P Lorenzi
+11,2018-wimbledon-1112,2018,wimbledon,1112,Gael Monfils,Richard Gasquet,,,,,,,,,,,1112,,G Monfils,R Gasquet
+12,2018-wimbledon-1113,2018,wimbledon,1113,Philipp Kohlschreiber,Evgeny Donskoy,,,,,,,,,,,1113,,P Kohlschreiber,E Donskoy
+13,2018-wimbledon-1114,2018,wimbledon,1114,Gilles Muller,Michael Mmoh,,,,,,,,,,,1114,,G Muller,M Mmoh
+14,2018-wimbledon-1115,2018,wimbledon,1115,John Patrick Smith,Andreas Seppi,,,,,,,,,,,1115,,J Patrick Smith,A Seppi
+15,2018-wimbledon-1116,2018,wimbledon,1116,Norbert Gombos,Kevin Anderson,,,,,,,,,,,1116,,N Gombos,K Anderson
+16,2018-wimbledon-1117,2018,wimbledon,1117,Marin Cilic,Yoshihito Nishioka,,,,,,,,,,,1117,,M Cilic,Y Nishioka
+17,2018-wimbledon-1118,2018,wimbledon,1118,Jason Kubler,Guido Pella,,,,,,,,,,,1118,,J Kubler,G Pella
+18,2018-wimbledon-1119,2018,wimbledon,1119,Ricardas Berankis,Mackenzie McDonald,,,,,,,,,,,1119,,R Berankis,M McDonald
+19,2018-wimbledon-1120,2018,wimbledon,1120,Nicolas Jarry,Filip Krajinovic,,,,,,,,,,,1120,,N Jarry,F Krajinovic
+20,2018-wimbledon-1121,2018,wimbledon,1121,Lucas Pouille,Denis Kudla,,,,,,,,,,,1121,,L Pouille,D Kudla
+21,2018-wimbledon-1122,2018,wimbledon,1122,Peter Polansky,Dennis Novak,,,,,,,,,,,1122,,P Polansky,D Novak
+22,2018-wimbledon-1123,2018,wimbledon,1123,John Millman,Stefano Travaglia,,,,,,,,,,,1123,,J Millman,S Travaglia
+23,2018-wimbledon-1124,2018,wimbledon,1124,Liam Broady,Milos Raonic,,,,,,,,,,,1124,,L Broady,M Raonic
+24,2018-wimbledon-1125,2018,wimbledon,1125,John Isner,Yannick Maden,,,,,,,,,,,1125,,J Isner,Y Maden
+25,2018-wimbledon-1126,2018,wimbledon,1126,Steve Johnson,Ruben Bemelmans,,,,,,,,,,,1126,,S Johnson,R Bemelmans
+26,2018-wimbledon-1127,2018,wimbledon,1127,Aljaz Bedene,Cameron Norrie,,,,,,,,,,,1127,,A Bedene,C Norrie
+27,2018-wimbledon-1128,2018,wimbledon,1128,Radu Albot,Pablo Carreno Busta,,,,,,,,,,,1128,,R Albot,P Carreno Busta
+28,2018-wimbledon-1129,2018,wimbledon,1129,Stefanos Tsitsipas,Gregoire Barrere,,,,,,,,,,,1129,,S Tsitsipas,G Barrere
+29,2018-wimbledon-1130,2018,wimbledon,1130,Malek Jaziri,Jared Donaldson,,,,,,,,,,,1130,,M Jaziri,J Donaldson
+30,2018-wimbledon-1131,2018,wimbledon,1131,Yuki Bhambri,Thomas Fabbiano,,,,,,,,,,,1131,,Y Bhambri,T Fabbiano
+31,2018-wimbledon-1132,2018,wimbledon,1132,Stan Wawrinka,Grigor Dimitrov,,,,,,,,,,,1132,,S Wawrinka,G Dimitrov
+32,2018-wimbledon-1133,2018,wimbledon,1133,Dominic Thiem,Marcos Baghdatis,,,,,,,,,,,1133,,D Thiem,M Baghdatis
+33,2018-wimbledon-1134,2018,wimbledon,1134,David Ferrer,Karen Khachanov,,,,,,,,,,,1134,,D Ferrer,K Khachanov
+34,2018-wimbledon-1135,2018,wimbledon,1135,Julien Benneteau,Marton Fucsovics,,,,,,,,,,,1135,,J Benneteau,M Fucsovics
+35,2018-wimbledon-1136,2018,wimbledon,1136,Frances Tiafoe,Fernando Verdasco,,,,,,,,,,,1136,,F Tiafoe,F Verdasco
+36,2018-wimbledon-1137,2018,wimbledon,1137,Kyle Edmund,Alex Bolt,,,,,,,,,,,1137,,K Edmund,A Bolt
+37,2018-wimbledon-1138,2018,wimbledon,1138,Yuichi Sugita,Bradley Klahn,,,,,,,,,,,1138,,Y Sugita,B Klahn
+38,2018-wimbledon-1139,2018,wimbledon,1139,Guido Andreozzi,Horacio Zeballos,,,,,,,,,,,1139,,G Andreozzi,H Zeballos
+39,2018-wimbledon-1140,2018,wimbledon,1140,Tennys Sandgren,Novak Djokovic,,,,,,,,,,,1140,,T Sandgren,N Djokovic
+40,2018-wimbledon-1141,2018,wimbledon,1141,Nick Kyrgios,Denis Istomin,,,,,,,,,,,1141,,N Kyrgios,D Istomin
+41,2018-wimbledon-1142,2018,wimbledon,1142,Marius Copil,Robin Haase,,,,,,,,,,,1142,,M Copil,R Haase
+42,2018-wimbledon-1143,2018,wimbledon,1143,Bernard Tomic,Hubert Hurkacz,,,,,,,,,,,1143,,B Tomic,H Hurkacz
+43,2018-wimbledon-1144,2018,wimbledon,1144,Christian Harrison,Kei Nishikori,,,,,,,,,,,1144,,C Harrison,K Nishikori
+44,2018-wimbledon-1145,2018,wimbledon,1145,Damir Dzumhur,Maximilian Marterer,,,,,,,,,,,1145,,D Dzumhur,M Marterer
+45,2018-wimbledon-1146,2018,wimbledon,1146,Ernests Gulbis,Jay Clarke,,,,,,,,,,,1146,,E Gulbis,J Clarke
+46,2018-wimbledon-1147,2018,wimbledon,1147,Lorenzo Sonego,Taylor Fritz,,,,,,,,,,,1147,,L Sonego,T Fritz
+47,2018-wimbledon-1148,2018,wimbledon,1148,James Duckworth,Alexander Zverev,,,,,,,,,,,1148,,J Duckworth,A Zverev
+48,2018-wimbledon-1149,2018,wimbledon,1149,Juan Martin Del Potro,Peter Gojowczyk,,,,,,,,,,,1149,,J Martin Del Potro,P Gojowczyk
+49,2018-wimbledon-1150,2018,wimbledon,1150,Feliciano Lopez,Federico Delbonis,,,,,,,,,,,1150,,F Lopez,F Delbonis
+50,2018-wimbledon-1151,2018,wimbledon,1151,Benoit Paire,Jason Jung,,,,,,,,,,,1151,,B Paire,J Jung
+51,2018-wimbledon-1152,2018,wimbledon,1152,Jeremy Chardy,Denis Shapovalov,,,,,,,,,,,1152,,J Chardy,D Shapovalov
+52,2018-wimbledon-1153,2018,wimbledon,1153,Jack Sock,Matteo Berrettini,,,,,,,,,,,1153,,J Sock,M Berrettini
+53,2018-wimbledon-1154,2018,wimbledon,1154,Gilles Simon,Nikoloz Basilashvili,,,,,,,,,,,1154,,G Simon,N Basilashvili
+54,2018-wimbledon-1155,2018,wimbledon,1155,Albert Ramos Vinolas,Stephane Robert,,,,,,,,,,,1155,,A Ramos Vinolas,S Robert
+55,2018-wimbledon-1156,2018,wimbledon,1156,Matthew Ebden,David Goffin,,,,,,,,,,,1156,,M Ebden,D Goffin
+56,2018-wimbledon-1157,2018,wimbledon,1157,Diego Schwartzman,Mirza Basic,,,,,,,,,,,1157,,D Schwartzman,M Basic
+57,2018-wimbledon-1158,2018,wimbledon,1158,Jiri Vesely,Florian Mayer,,,,,,,,,,,1158,,J Vesely,F Mayer
+58,2018-wimbledon-1159,2018,wimbledon,1159,Pablo Cuevas,Simone Bolelli,,,,,,,,,,,1159,,P Cuevas,S Bolelli
+59,2018-wimbledon-1160,2018,wimbledon,1160,Taro Daniel,Fabio Fognini,,,,,,,,,,,1160,,T Daniel,F Fognini
+60,2018-wimbledon-1161,2018,wimbledon,1161,Marco Cecchinato,Alex De Minaur,,,,,,,,,,,1161,,M Cecchinato,A De Minaur
+61,2018-wimbledon-1162,2018,wimbledon,1162,Pierre Hugues Herbert,Mischa Zverev,,,,,,,,,,,1162,,P Hugues Herbert,M Zverev
+62,2018-wimbledon-1163,2018,wimbledon,1163,Vasek Pospisil,Mikhail Kukushkin,,,,,,,,,,,1163,,V Pospisil,M Kukushkin
+63,2018-wimbledon-1164,2018,wimbledon,1164,Dudi Sela,Rafael Nadal,,,,,,,,,,,1164,,D Sela,R Nadal
+64,2018-wimbledon-1201,2018,wimbledon,1201,Roger Federer,Lukas Lacko,,,,,,,,,,,1201,,R Federer,L Lacko
+65,2018-wimbledon-1202,2018,wimbledon,1202,Ivo Karlovic,Jan Lennard Struff,,,,,,,,,,,1202,,I Karlovic,J Lennard Struff
+66,2018-wimbledon-1203,2018,wimbledon,1203,Adrian Mannarino,Ryan Harrison,,,,,,,,,,,1203,,A Mannarino,R Harrison
+67,2018-wimbledon-1204,2018,wimbledon,1204,Guillermo Garcia Lopez,Daniil Medvedev,,,,,,,,,,,1204,,G Garcia Lopez,D Medvedev
+68,2018-wimbledon-1205,2018,wimbledon,1205,Sam Querrey,Sergiy Stakhovsky,,,,,,,,,,,1205,,S Querrey,S Stakhovsky
+69,2018-wimbledon-1206,2018,wimbledon,1206,Paolo Lorenzi,Gael Monfils,,,,,,,,,,,1206,,P Lorenzi,G Monfils
+70,2018-wimbledon-1207,2018,wimbledon,1207,Philipp Kohlschreiber,Gilles Muller,,,,,,,,,,,1207,,P Kohlschreiber,G Muller
+71,2018-wimbledon-1208,2018,wimbledon,1208,Andreas Seppi,Kevin Anderson,,,,,,,,,,,1208,,A Seppi,K Anderson
+72,2018-wimbledon-1209,2018,wimbledon,1209,Marin Cilic,Guido Pella,,,,,,,,,,,1209,,M Cilic,G Pella
+73,2018-wimbledon-1210,2018,wimbledon,1210,Mackenzie McDonald,Nicolas Jarry,,,,,,,,,,,1210,,M McDonald,N Jarry
+74,2018-wimbledon-1211,2018,wimbledon,1211,Lucas Pouille,Dennis Novak,,,,,,,,,,,1211,,L Pouille,D Novak
+75,2018-wimbledon-1212,2018,wimbledon,1212,John Millman,Milos Raonic,,,,,,,,,,,1212,,J Millman,M Raonic
+76,2018-wimbledon-1213,2018,wimbledon,1213,John Isner,Ruben Bemelmans,,,,,,,,,,,1213,,J Isner,R Bemelmans
+77,2018-wimbledon-1214,2018,wimbledon,1214,Aljaz Bedene,Radu Albot,,,,,,,,,,,1214,,A Bedene,R Albot
+78,2018-wimbledon-1215,2018,wimbledon,1215,Stefanos Tsitsipas,Jared Donaldson,,,,,,,,,,,1215,,S Tsitsipas,J Donaldson
+79,2018-wimbledon-1216,2018,wimbledon,1216,Thomas Fabbiano,Stan Wawrinka,,,,,,,,,,,1216,,T Fabbiano,S Wawrinka
+80,2018-wimbledon-1217,2018,wimbledon,1217,Marcos Baghdatis,Karen Khachanov,,,,,,,,,,,1217,,M Baghdatis,K Khachanov
+81,2018-wimbledon-1218,2018,wimbledon,1218,Julien Benneteau,Frances Tiafoe,,,,,,,,,,,1218,,J Benneteau,F Tiafoe
+82,2018-wimbledon-1219,2018,wimbledon,1219,Kyle Edmund,Bradley Klahn,,,,,,,,,,,1219,,K Edmund,B Klahn
+83,2018-wimbledon-1220,2018,wimbledon,1220,Horacio Zeballos,Novak Djokovic,,,,,,,,,,,1220,,H Zeballos,N Djokovic
+84,2018-wimbledon-1221,2018,wimbledon,1221,Nick Kyrgios,Robin Haase,,,,,,,,,,,1221,,N Kyrgios,R Haase
+85,2018-wimbledon-1222,2018,wimbledon,1222,Bernard Tomic,Kei Nishikori,,,,,,,,,,,1222,,B Tomic,K Nishikori
+86,2018-wimbledon-1223,2018,wimbledon,1223,Damir Dzumhur,Ernests Gulbis,,,,,,,,,,,1223,,D Dzumhur,E Gulbis
+87,2018-wimbledon-1224,2018,wimbledon,1224,Taylor Fritz,Alexander Zverev,,,,,,,,,,,1224,,T Fritz,A Zverev
+88,2018-wimbledon-1225,2018,wimbledon,1225,Juan Martin Del Potro,Feliciano Lopez,,,,,,,,,,,1225,,J Martin Del Potro,F Lopez
+89,2018-wimbledon-1226,2018,wimbledon,1226,Benoit Paire,Denis Shapovalov,,,,,,,,,,,1226,,B Paire,D Shapovalov
+90,2018-wimbledon-1227,2018,wimbledon,1227,Matteo Berrettini,Gilles Simon,,,,,,,,,,,1227,,M Berrettini,G Simon
+91,2018-wimbledon-1228,2018,wimbledon,1228,Stephane Robert,Matthew Ebden,,,,,,,,,,,1228,,S Robert,M Ebden
+92,2018-wimbledon-1229,2018,wimbledon,1229,Diego Schwartzman,Jiri Vesely,,,,,,,,,,,1229,,D Schwartzman,J Vesely
+93,2018-wimbledon-1230,2018,wimbledon,1230,Simone Bolelli,Fabio Fognini,,,,,,,,,,,1230,,S Bolelli,F Fognini
+94,2018-wimbledon-1231,2018,wimbledon,1231,Alex De Minaur,Pierre Hugues Herbert,,,,,,,,,,,1231,,A De Minaur,P Hugues Herbert
+95,2018-wimbledon-1232,2018,wimbledon,1232,Mikhail Kukushkin,Rafael Nadal,,,,,,,,,,,1232,,M Kukushkin,R Nadal
+96,2018-wimbledon-1301,2018,wimbledon,1301,Roger Federer,Jan Lennard Struff,,,,,,,,,,,1301,,R Federer,J Lennard Struff
+97,2018-wimbledon-1302,2018,wimbledon,1302,Adrian Mannarino,Daniil Medvedev,,,,,,,,,,,1302,,A Mannarino,D Medvedev
+98,2018-wimbledon-1303,2018,wimbledon,1303,Sam Querrey,Gael Monfils,,,,,,,,,,,1303,,S Querrey,G Monfils
+99,2018-wimbledon-1304,2018,wimbledon,1304,Philipp Kohlschreiber,Kevin Anderson,,,,,,,,,,,1304,,P Kohlschreiber,K Anderson
+100,2018-wimbledon-1305,2018,wimbledon,1305,Guido Pella,Mackenzie McDonald,,,,,,,,,,,1305,,G Pella,M McDonald
+101,2018-wimbledon-1306,2018,wimbledon,1306,Dennis Novak,Milos Raonic,,,,,,,,,,,1306,,D Novak,M Raonic
+102,2018-wimbledon-1307,2018,wimbledon,1307,John Isner,Radu Albot,,,,,,,,,,,1307,,J Isner,R Albot
+103,2018-wimbledon-1308,2018,wimbledon,1308,Stefanos Tsitsipas,Thomas Fabbiano,,,,,,,,,,,1308,,S Tsitsipas,T Fabbiano
+104,2018-wimbledon-1309,2018,wimbledon,1309,Karen Khachanov,Frances Tiafoe,,,,,,,,,,,1309,,K Khachanov,F Tiafoe
+105,2018-wimbledon-1310,2018,wimbledon,1310,Kyle Edmund,Novak Djokovic,,,,,,,,,,,1310,,K Edmund,N Djokovic
+106,2018-wimbledon-1311,2018,wimbledon,1311,Nick Kyrgios,Kei Nishikori,,,,,,,,,,,1311,,N Kyrgios,K Nishikori
+107,2018-wimbledon-1312,2018,wimbledon,1312,Ernests Gulbis,Alexander Zverev,,,,,,,,,,,1312,,E Gulbis,A Zverev
+108,2018-wimbledon-1313,2018,wimbledon,1313,Juan Martin Del Potro,Benoit Paire,,,,,,,,,,,1313,,J Martin Del Potro,B Paire
+109,2018-wimbledon-1314,2018,wimbledon,1314,Gilles Simon,Matthew Ebden,,,,,,,,,,,1314,,G Simon,M Ebden
+110,2018-wimbledon-1315,2018,wimbledon,1315,Jiri Vesely,Fabio Fognini,,,,,,,,,,,1315,,J Vesely,F Fognini
+111,2018-wimbledon-1316,2018,wimbledon,1316,Alex De Minaur,Rafael Nadal,,,,,,,,,,,1316,,A De Minaur,R Nadal
+112,2018-wimbledon-1401,2018,wimbledon,1401,Roger Federer,Adrian Mannarino,,,,,,,,,,,1401,,R Federer,A Mannarino
+113,2018-wimbledon-1402,2018,wimbledon,1402,Gael Monfils,Kevin Anderson,,,,,,,,,,,1402,,G Monfils,K Anderson
+114,2018-wimbledon-1403,2018,wimbledon,1403,Mackenzie McDonald,Milos Raonic,,,,,,,,,,,1403,,M McDonald,M Raonic
+115,2018-wimbledon-1404,2018,wimbledon,1404,John Isner,Stefanos Tsitsipas,,,,,,,,,,,1404,,J Isner,S Tsitsipas
+116,2018-wimbledon-1405,2018,wimbledon,1405,Karen Khachanov,Novak Djokovic,,,,,,,,,,,1405,,K Khachanov,N Djokovic
+117,2018-wimbledon-1406,2018,wimbledon,1406,Kei Nishikori,Ernests Gulbis,,,,,,,,,,,1406,,K Nishikori,E Gulbis
+118,2018-wimbledon-1407,2018,wimbledon,1407,Juan Martin Del Potro,Gilles Simon,,,,,,,,,,,1407,,J Martin Del Potro,G Simon
+119,2018-wimbledon-1408,2018,wimbledon,1408,Jiri Vesely,Rafael Nadal,,,,,,,,,,,1408,,J Vesely,R Nadal
+120,2018-wimbledon-1501,2018,wimbledon,1501,Roger Federer,Kevin Anderson,,,,,,,,,,,1501,,R Federer,K Anderson
+121,2018-wimbledon-1502,2018,wimbledon,1502,Milos Raonic,John Isner,,,,,,,,,,,1502,,M Raonic,J Isner
+122,2018-wimbledon-1503,2018,wimbledon,1503,Novak Djokovic,Kei Nishikori,,,,,,,,,,,1503,,N Djokovic,K Nishikori
+123,2018-wimbledon-1504,2018,wimbledon,1504,Juan Martin Del Potro,Rafael Nadal,,,,,,,,,,,1504,,J Martin Del Potro,R Nadal
+124,2018-wimbledon-1601,2018,wimbledon,1601,Kevin Anderson,John Isner,,,,,,,,,,,1601,,K Anderson,J Isner
+125,2018-wimbledon-1602,2018,wimbledon,1602,Novak Djokovic,Rafael Nadal,,,,,,,,,,,1602,,N Djokovic,R Nadal
+126,2018-wimbledon-1701,2018,wimbledon,1701,Kevin Anderson,Novak Djokovic,,,,,,,,,,,1701,,K Anderson,N Djokovic
