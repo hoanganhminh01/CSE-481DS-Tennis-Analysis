@@ -1,15 +1,15 @@
 ,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num,player1_new,player2_new
 0,2017-ausopen-1101,2017,ausopen,1101,Andy Murray,Illya Marchenko,,,,,,,,,,,1101,A Murray,I Marchenko
-1,2017-ausopen-1102,2017,ausopen,1102,Andrey Rublev,Yen Hsun Lu,,,,,,,,,,,1102,A Rublev,Y Hsun Lu
+1,2017-ausopen-1102,2017,ausopen,1102,Andrey Rublev,Yen Hsun Lu,,,,,,,,,,,1102,A Rublev,Y Lu
 2,2017-ausopen-1103,2017,ausopen,1103,Alex De Minaur,Gerald Melzer,,,,,,,,,,,1103,A De Minaur,G Melzer
 3,2017-ausopen-1104,2017,ausopen,1104,Quentin Halys,Sam Querrey,,,,,,,,,,,1104,Q Halys,S Querrey
 4,2017-ausopen-1105,2017,ausopen,1105,John Isner,Konstantin Kravchuk,,,,,,,,,,,1105,J Isner,K Kravchuk
-5,2017-ausopen-1106,2017,ausopen,1106,Guillermo Garcia Lopez,Mischa Zverev,,,,,,,,,,,1106,G Garcia Lopez,M Zverev
+5,2017-ausopen-1106,2017,ausopen,1106,Guillermo Garcia-Lopez,Mischa Zverev,,,,,,,,,,,1106,G Garcia-Lopez,M Zverev
 6,2017-ausopen-1108,2017,ausopen,1108,Alexander Bublik,Lucas Pouille,,,,,,,,,,,1108,A Bublik,L Pouille
 7,2017-ausopen-1109,2017,ausopen,1109,Tomas Berdych,Luca Vanni,,,,,,,,,,,1109,T Berdych,L Vanni
 8,2017-ausopen-1110,2017,ausopen,1110,Ryan Harrison,Nicolas Mahut,,,,,,,,,,,1110,R Harrison,N Mahut
 9,2017-ausopen-1112,2017,ausopen,1112,Jurgen Melzer,Roger Federer,,,,,,,,,,,1112,J Melzer,R Federer
-10,2017-ausopen-1113,2017,ausopen,1113,Albert Ramos Vinolas,Lukas Lacko,,,,,,,,,,,1113,A Ramos Vinolas,L Lacko
+10,2017-ausopen-1113,2017,ausopen,1113,Albert Ramos-Vinolas,Lukas Lacko,,,,,,,,,,,1113,A Ramos-Vinolas,L Lacko
 11,2017-ausopen-1116,2017,ausopen,1116,Andrey Kuznetsov,Kei Nishikori,,,,,,,,,,,1116,A Kuznetsov,K Nishikori
 12,2017-ausopen-1117,2017,ausopen,1117,Stan Wawrinka,Martin Klizan,,,,,,,,,,,1117,S Wawrinka,M Klizan
 13,2017-ausopen-1118,2017,ausopen,1118,Federico Delbonis,Steve Johnson,,,,,,,,,,,1118,F Delbonis,S Johnson
@@ -17,12 +17,12 @@
 15,2017-ausopen-1120,2017,ausopen,1120,Damir Dzumhur,Viktor Troicki,,,,,,,,,,,1120,D Dzumhur,V Troicki
 16,2017-ausopen-1121,2017,ausopen,1121,Pablo Cuevas,Diego Schwartzman,,,,,,,,,,,1121,P Cuevas,D Schwartzman
 17,2017-ausopen-1122,2017,ausopen,1122,Steve Darcis,Sam Groth,,,,,,,,,,,1122,S Darcis,S Groth
-18,2017-ausopen-1123,2017,ausopen,1123,Paul Henri Mathieu,Andreas Seppi,,,,,,,,,,,1123,P Henri Mathieu,A Seppi
+18,2017-ausopen-1123,2017,ausopen,1123,Paul Henri Mathieu,Andreas Seppi,,,,,,,,,,,1123,P Mathieu,A Seppi
 19,2017-ausopen-1124,2017,ausopen,1124,Gastao Elias,Nick Kyrgios,,,,,,,,,,,1124,G Elias,N Kyrgios
 20,2017-ausopen-1125,2017,ausopen,1125,Jo Wilfried Tsonga,Thiago Monteiro,,,,,,,,,,,1125,J Wilfried Tsonga,T Monteiro
 21,2017-ausopen-1126,2017,ausopen,1126,Dusan Lajovic,Stephane Robert,,,,,,,,,,,1126,D Lajovic,S Robert
 22,2017-ausopen-1127,2017,ausopen,1127,Karen Khachanov,Adrian Mannarino,,,,,,,,,,,1127,K Khachanov,A Mannarino
-23,2017-ausopen-1128,2017,ausopen,1128,Pierre Hugues Herbert,Jack Sock,,,,,,,,,,,1128,P Hugues Herbert,J Sock
+23,2017-ausopen-1128,2017,ausopen,1128,Pierre Hugues Herbert,Jack Sock,,,,,,,,,,,1128,P Herbert,J Sock
 24,2017-ausopen-1129,2017,ausopen,1129,Bernard Tomic,Thomaz Bellucci,,,,,,,,,,,1129,B Tomic,T Bellucci
 25,2017-ausopen-1130,2017,ausopen,1130,Victor Estrella Burgos,Aljaz Bedene,,,,,,,,,,,1130,V Estrella Burgos,A Bedene
 26,2017-ausopen-1131,2017,ausopen,1131,Facundo Bagnis,Daniel Evans,,,,,,,,,,,1131,F Bagnis,D Evans
@@ -125,7 +125,7 @@
 5,2017-frenchopen-1107,2017,frenchopen,1107,Karen Khachanov,Nicolas Jarry,,,,,,,,,,,1107,K Khachanov,N Jarry
 6,2017-frenchopen-1108,2017,frenchopen,1108,Jan Lennard Struff,Tomas Berdych,,,,,,,,,,,1108,J Lennard Struff,T Berdych
 7,2017-frenchopen-1109,2017,frenchopen,1109,Alexander Zverev,Fernando Verdasco,,,,,,,,,,,1109,A Zverev,F Verdasco
-8,2017-frenchopen-1110,2017,frenchopen,1110,Pierre Hugues Herbert,Jared Donaldson,,,,,,,,,,,1110,P Hugues Herbert,J Donaldson
+8,2017-frenchopen-1110,2017,frenchopen,1110,Pierre Hugues Herbert,Jared Donaldson,,,,,,,,,,,1110,P Herbert,J Donaldson
 9,2017-frenchopen-1111,2017,frenchopen,1111,Damir Dzumhur,Nicolas Kicker,,,,,,,,,,,1111,D Dzumhur,N Kicker
 10,2017-frenchopen-1112,2017,frenchopen,1112,Maxime Hamou,Pablo Cuevas,,,,,,,,,,,1112,M Hamou,P Cuevas
 11,2017-frenchopen-1113,2017,frenchopen,1113,Sam Querrey,Hyeon Chung,,,,,,,,,,,1113,S Querrey,H Chung
@@ -149,7 +149,7 @@
 29,2017-frenchopen-1133,2017,frenchopen,1133,Milos Raonic,Steve Darcis,,,,,,,,,,,1133,M Raonic,S Darcis
 30,2017-frenchopen-1134,2017,frenchopen,1134,Rogerio Dutra Silva,Mikhail Youzhny,,,,,,,,,,,1134,R Dutra Silva,M Youzhny
 31,2017-frenchopen-1135,2017,frenchopen,1135,Marco Trungelliti,Quentin Halys,,,,,,,,,,,1135,M Trungelliti,Q Halys
-32,2017-frenchopen-1136,2017,frenchopen,1136,Guillermo Garcia Lopez,Gilles Muller,,,,,,,,,,,1136,G Garcia Lopez,G Muller
+32,2017-frenchopen-1136,2017,frenchopen,1136,Guillermo Garcia-Lopez,Gilles Muller,,,,,,,,,,,1136,G Garcia-Lopez,G Muller
 33,2017-frenchopen-1137,2017,frenchopen,1137,Pablo Carreno Busta,Florian Mayer,,,,,,,,,,,1137,P Carreno Busta,F Mayer
 34,2017-frenchopen-1138,2017,frenchopen,1138,Taro Daniel,Jerzy Janowicz,,,,,,,,,,,1138,T Daniel,J Janowicz
 35,2017-frenchopen-1139,2017,frenchopen,1139,Tommy Robredo,Daniel Evans,,,,,,,,,,,1139,T Robredo,D Evans
@@ -168,11 +168,11 @@
 48,2017-frenchopen-1152,2017,frenchopen,1152,Yuichi Sugita,Steve Johnson,,,,,,,,,,,1152,Y Sugita,S Johnson
 49,2017-frenchopen-1153,2017,frenchopen,1153,Ivo Karlovic,Stefanos Tsitsipas,,,,,,,,,,,1153,I Karlovic,S Tsitsipas
 50,2017-frenchopen-1154,2017,frenchopen,1154,Horacio Zeballos,Adrian Mannarino,,,,,,,,,,,1154,H Zeballos,A Mannarino
-51,2017-frenchopen-1156,2017,frenchopen,1156,Paul Henri Mathieu,David Goffin,,,,,,,,,,,1156,P Henri Mathieu,D Goffin
+51,2017-frenchopen-1156,2017,frenchopen,1156,Paul Henri Mathieu,David Goffin,,,,,,,,,,,1156,P Mathieu,D Goffin
 52,2017-frenchopen-1157,2017,frenchopen,1157,Lucas Pouille,Julien Benneteau,,,,,,,,,,,1157,L Pouille,J Benneteau
 53,2017-frenchopen-1158,2017,frenchopen,1158,Thomaz Bellucci,Dusan Lajovic,,,,,,,,,,,1158,T Bellucci,D Lajovic
 54,2017-frenchopen-1159,2017,frenchopen,1159,Benjamin Bonzi,Daniil Medvedev,,,,,,,,,,,1159,B Bonzi,D Medvedev
-55,2017-frenchopen-1160,2017,frenchopen,1160,Marius Copil,Albert Ramos Vinolas,,,,,,,,,,,1160,M Copil,A Ramos Vinolas
+55,2017-frenchopen-1160,2017,frenchopen,1160,Marius Copil,Albert Ramos-Vinolas,,,,,,,,,,,1160,M Copil,A Ramos-Vinolas
 56,2017-frenchopen-1161,2017,frenchopen,1161,Mischa Zverev,Stefano Napolitano,,,,,,,,,,,1161,M Zverev,S Napolitano
 57,2017-frenchopen-1162,2017,frenchopen,1162,Andrey Rublev,Diego Schwartzman,,,,,,,,,,,1162,A Rublev,D Schwartzman
 58,2017-frenchopen-1163,2017,frenchopen,1163,Joao Sousa,Janko Tipsarevic,,,,,,,,,,,1163,J Sousa,J Tipsarevic
@@ -181,7 +181,7 @@
 61,2017-frenchopen-1202,2017,frenchopen,1202,Nicolas Almagro,Juan Martin Del Potro,,,,,,,,,,,1202,N Almagro,J Martin Del Potro
 62,2017-frenchopen-1203,2017,frenchopen,1203,John Isner,Paolo Lorenzi,,,,,,,,,,,1203,J Isner,P Lorenzi
 63,2017-frenchopen-1204,2017,frenchopen,1204,Karen Khachanov,Tomas Berdych,,,,,,,,,,,1204,K Khachanov,T Berdych
-64,2017-frenchopen-1205,2017,frenchopen,1205,Fernando Verdasco,Pierre Hugues Herbert,,,,,,,,,,,1205,F Verdasco,P Hugues Herbert
+64,2017-frenchopen-1205,2017,frenchopen,1205,Fernando Verdasco,Pierre Hugues Herbert,,,,,,,,,,,1205,F Verdasco,P Herbert
 65,2017-frenchopen-1206,2017,frenchopen,1206,Nicolas Kicker,Pablo Cuevas,,,,,,,,,,,1206,N Kicker,P Cuevas
 66,2017-frenchopen-1207,2017,frenchopen,1207,Hyeon Chung,Denis Istomin,,,,,,,,,,,1207,H Chung,D Istomin
 67,2017-frenchopen-1208,2017,frenchopen,1208,Jeremy Chardy,Kei Nishikori,,,,,,,,,,,1208,J Chardy,K Nishikori
@@ -194,7 +194,7 @@
 74,2017-frenchopen-1215,2017,frenchopen,1215,David Ferrer,Feliciano Lopez,,,,,,,,,,,1215,D Ferrer,F Lopez
 75,2017-frenchopen-1216,2017,frenchopen,1216,Konstantin Kravchuk,Marin Cilic,,,,,,,,,,,1216,K Kravchuk,M Cilic
 76,2017-frenchopen-1217,2017,frenchopen,1217,Milos Raonic,Rogerio Dutra Silva,,,,,,,,,,,1217,M Raonic,R Dutra Silva
-77,2017-frenchopen-1218,2017,frenchopen,1218,Marco Trungelliti,Guillermo Garcia Lopez,,,,,,,,,,,1218,M Trungelliti,G Garcia Lopez
+77,2017-frenchopen-1218,2017,frenchopen,1218,Marco Trungelliti,Guillermo Garcia-Lopez,,,,,,,,,,,1218,M Trungelliti,G Garcia-Lopez
 78,2017-frenchopen-1219,2017,frenchopen,1219,Pablo Carreno Busta,Taro Daniel,,,,,,,,,,,1219,P Carreno Busta,T Daniel
 79,2017-frenchopen-1220,2017,frenchopen,1220,Tommy Robredo,Grigor Dimitrov,,,,,,,,,,,1220,T Robredo,G Dimitrov
 80,2017-frenchopen-1221,2017,frenchopen,1221,Jiri Vesely,Aljaz Bedene,,,,,,,,,,,1221,J Vesely,A Bedene
@@ -206,7 +206,7 @@
 86,2017-frenchopen-1227,2017,frenchopen,1227,Ivo Karlovic,Horacio Zeballos,,,,,,,,,,,1227,I Karlovic,H Zeballos
 87,2017-frenchopen-1228,2017,frenchopen,1228,Sergiy Stakhovsky,David Goffin,,,,,,,,,,,1228,S Stakhovsky,D Goffin
 88,2017-frenchopen-1229,2017,frenchopen,1229,Lucas Pouille,Thomaz Bellucci,,,,,,,,,,,1229,L Pouille,T Bellucci
-89,2017-frenchopen-1230,2017,frenchopen,1230,Benjamin Bonzi,Albert Ramos Vinolas,,,,,,,,,,,1230,B Bonzi,A Ramos Vinolas
+89,2017-frenchopen-1230,2017,frenchopen,1230,Benjamin Bonzi,Albert Ramos-Vinolas,,,,,,,,,,,1230,B Bonzi,A Ramos-Vinolas
 90,2017-frenchopen-1231,2017,frenchopen,1231,Stefano Napolitano,Diego Schwartzman,,,,,,,,,,,1231,S Napolitano,D Schwartzman
 91,2017-frenchopen-1232,2017,frenchopen,1232,Joao Sousa,Novak Djokovic,,,,,,,,,,,1232,J Sousa,N Djokovic
 92,2017-frenchopen-1301,2017,frenchopen,1301,Andy Murray,Juan Martin Del Potro,,,,,,,,,,,1301,A Murray,J Martin Del Potro
@@ -217,13 +217,13 @@
 97,2017-frenchopen-1306,2017,frenchopen,1306,Richard Gasquet,Gael Monfils,,,,,,,,,,,1306,R Gasquet,G Monfils
 98,2017-frenchopen-1307,2017,frenchopen,1307,Kyle Edmund,Kevin Anderson,,,,,,,,,,,1307,K Edmund,K Anderson
 99,2017-frenchopen-1308,2017,frenchopen,1308,Feliciano Lopez,Marin Cilic,,,,,,,,,,,1308,F Lopez,M Cilic
-100,2017-frenchopen-1309,2017,frenchopen,1309,Milos Raonic,Guillermo Garcia Lopez,,,,,,,,,,,1309,M Raonic,G Garcia Lopez
+100,2017-frenchopen-1309,2017,frenchopen,1309,Milos Raonic,Guillermo Garcia-Lopez,,,,,,,,,,,1309,M Raonic,G Garcia-Lopez
 101,2017-frenchopen-1310,2017,frenchopen,1310,Pablo Carreno Busta,Grigor Dimitrov,,,,,,,,,,,1310,P Carreno Busta,G Dimitrov
 102,2017-frenchopen-1311,2017,frenchopen,1311,Jiri Vesely,Roberto Bautista Agut,,,,,,,,,,,1311,J Vesely,R Bautista Agut
 103,2017-frenchopen-1312,2017,frenchopen,1312,Nikoloz Basilashvili,Rafael Nadal,,,,,,,,,,,1312,N Basilashvili,R Nadal
 104,2017-frenchopen-1313,2017,frenchopen,1313,Dominic Thiem,Steve Johnson,,,,,,,,,,,1313,D Thiem,S Johnson
 105,2017-frenchopen-1314,2017,frenchopen,1314,Horacio Zeballos,David Goffin,,,,,,,,,,,1314,H Zeballos,D Goffin
-106,2017-frenchopen-1315,2017,frenchopen,1315,Lucas Pouille,Albert Ramos Vinolas,,,,,,,,,,,1315,L Pouille,A Ramos Vinolas
+106,2017-frenchopen-1315,2017,frenchopen,1315,Lucas Pouille,Albert Ramos-Vinolas,,,,,,,,,,,1315,L Pouille,A Ramos-Vinolas
 107,2017-frenchopen-1316,2017,frenchopen,1316,Diego Schwartzman,Novak Djokovic,,,,,,,,,,,1316,D Schwartzman,N Djokovic
 108,2017-frenchopen-1401,2017,frenchopen,1401,Andy Murray,Karen Khachanov,,,,,,,,,,,1401,A Murray,K Khachanov
 109,2017-frenchopen-1402,2017,frenchopen,1402,Fernando Verdasco,Kei Nishikori,,,,,,,,,,,1402,F Verdasco,K Nishikori
@@ -232,7 +232,7 @@
 112,2017-frenchopen-1405,2017,frenchopen,1405,Milos Raonic,Pablo Carreno Busta,,,,,,,,,,,1405,M Raonic,P Carreno Busta
 113,2017-frenchopen-1406,2017,frenchopen,1406,Roberto Bautista Agut,Rafael Nadal,,,,,,,,,,,1406,R Bautista Agut,R Nadal
 114,2017-frenchopen-1407,2017,frenchopen,1407,Dominic Thiem,Horacio Zeballos,,,,,,,,,,,1407,D Thiem,H Zeballos
-115,2017-frenchopen-1408,2017,frenchopen,1408,Albert Ramos Vinolas,Novak Djokovic,,,,,,,,,,,1408,A Ramos Vinolas,N Djokovic
+115,2017-frenchopen-1408,2017,frenchopen,1408,Albert Ramos-Vinolas,Novak Djokovic,,,,,,,,,,,1408,A Ramos-Vinolas,N Djokovic
 116,2017-frenchopen-1501,2017,frenchopen,1501,Andy Murray,Kei Nishikori,,,,,,,,,,,1501,A Murray,K Nishikori
 117,2017-frenchopen-1502,2017,frenchopen,1502,Stan Wawrinka,Marin Cilic,,,,,,,,,,,1502,S Wawrinka,M Cilic
 118,2017-frenchopen-1503,2017,frenchopen,1503,Pablo Carreno Busta,Rafael Nadal,,,,,,,,,,,1503,P Carreno Busta,R Nadal
@@ -250,13 +250,13 @@
 7,2017-usopen-1117,2017,usopen,1117,Roger Federer,Frances Tiafoe,,,,,,,,,,,1117,R Federer,F Tiafoe
 8,2017-usopen-1120,2017,usopen,1120,Andrey Kuznetsov,Feliciano Lopez,,,,,,,,,,,1120,A Kuznetsov,F Lopez
 9,2017-usopen-1124,2017,usopen,1124,John Millman,Nick Kyrgios,,,,,,,,,,,1124,J Millman,N Kyrgios
-10,2017-usopen-1128,2017,usopen,1128,Henri Laaksonen,Juan Martin del Potro,,,,,,,,,,,1128,H Laaksonen,J Martin del Potro
+10,2017-usopen-1128,2017,usopen,1128,Henri Laaksonen,Juan Martin Del Potro,,,,,,,,,,,1128,H Laaksonen,J Martin Del Potro
 11,2017-usopen-1131,2017,usopen,1131,Marcos Baghdatis,Taylor Fritz,,,,,,,,,,,1131,M Baghdatis,T Fritz
-12,2017-usopen-1132,2017,usopen,1132,Alex de Minaur,Dominic Thiem,,,,,,,,,,,1132,A de Minaur,D Thiem
+12,2017-usopen-1132,2017,usopen,1132,Alex De Minaur,Dominic Thiem,,,,,,,,,,,1132,A De Minaur,D Thiem
 13,2017-usopen-1133,2017,usopen,1133,Sam Querrey,Gilles Simon,,,,,,,,,,,1133,S Querrey,G Simon
-14,2017-usopen-1136,2017,usopen,1136,Yen Hsun Lu,Karen Khachanov,,,,,,,,,,,1136,Y Hsun Lu,K Khachanov
+14,2017-usopen-1136,2017,usopen,1136,Yen Hsun Lu,Karen Khachanov,,,,,,,,,,,1136,Y Lu,K Khachanov
 15,2017-usopen-1139,2017,usopen,1139,Horacio Zeballos,Hyeon Chung,,,,,,,,,,,1139,H Zeballos,H Chung
-16,2017-usopen-1140,2017,usopen,1140,Pierre Hugues Herbert,John Isner,,,,,,,,,,,1140,P Hugues Herbert,J Isner
+16,2017-usopen-1140,2017,usopen,1140,Pierre Hugues Herbert,John Isner,,,,,,,,,,,1140,P Herbert,J Isner
 17,2017-usopen-1141,2017,usopen,1141,Jack Sock,Jordan Thompson,,,,,,,,,,,1141,J Sock,J Thompson
 18,2017-usopen-1144,2017,usopen,1144,Bernard Tomic,Gilles Muller,,,,,,,,,,,1144,B Tomic,G Muller
 19,2017-usopen-1145,2017,usopen,1145,Kevin Anderson,JC Aragone,,,,,,,,,,,1145,K Anderson,J Aragone
@@ -278,7 +278,7 @@
 35,2017-usopen-1210,2017,usopen,1210,Fernando Verdasco,Feliciano Lopez,,,,,,,,,,,1210,F Verdasco,F Lopez
 36,2017-usopen-1211,2017,usopen,1211,Philipp Kohlschreiber,Santiago Giraldo,,,,,,,,,,,1211,P Kohlschreiber,S Giraldo
 37,2017-usopen-1212,2017,usopen,1212,Malek Jaziri,John Millman,,,,,,,,,,,1212,M Jaziri,J Millman
-38,2017-usopen-1214,2017,usopen,1214,Adrian Menendez Maceiras,Juan Martin del Potro,,,,,,,,,,,1214,A Menendez Maceiras,J Martin del Potro
+38,2017-usopen-1214,2017,usopen,1214,Adrian Menendez Maceiras,Juan Martin Del Potro,,,,,,,,,,,1214,A Menendez Maceiras,J Martin Del Potro
 39,2017-usopen-1215,2017,usopen,1215,Adrian Mannarino,Bjorn Fratangelo,,,,,,,,,,,1215,A Mannarino,B Fratangelo
 40,2017-usopen-1216,2017,usopen,1216,Taylor Fritz,Dominic Thiem,,,,,,,,,,,1216,T Fritz,D Thiem
 41,2017-usopen-1217,2017,usopen,1217,Sam Querrey,Dudi Sela,,,,,,,,,,,1217,S Querrey,D Sela
@@ -294,7 +294,7 @@
 51,2017-usopen-1304,2017,usopen,1304,Damir Dzumhur,Andrey Rublev,,,,,,,,,,,1304,D Dzumhur,A Rublev
 52,2017-usopen-1305,2017,usopen,1305,Roger Federer,Feliciano Lopez,,,,,,,,,,,1305,R Federer,F Lopez
 53,2017-usopen-1306,2017,usopen,1306,Philipp Kohlschreiber,John Millman,,,,,,,,,,,1306,P Kohlschreiber,J Millman
-54,2017-usopen-1307,2017,usopen,1307,Roberto Bautista Agut,Juan Martin del Potro,,,,,,,,,,,1307,R Bautista Agut,J Martin del Potro
+54,2017-usopen-1307,2017,usopen,1307,Roberto Bautista Agut,Juan Martin Del Potro,,,,,,,,,,,1307,R Bautista Agut,J Martin Del Potro
 55,2017-usopen-1308,2017,usopen,1308,Adrian Mannarino,Dominic Thiem,,,,,,,,,,,1308,A Mannarino,D Thiem
 56,2017-usopen-1309,2017,usopen,1309,Sam Querrey,Radu Albot,,,,,,,,,,,1309,S Querrey,R Albot
 57,2017-usopen-1310,2017,usopen,1310,Mischa Zverev,John Isner,,,,,,,,,,,1310,M Zverev,J Isner
@@ -307,28 +307,28 @@
 64,2017-usopen-1401,2017,usopen,1401,Rafael Nadal,Alexandr Dolgopolov,,,,,,,,,,,1401,R Nadal,A Dolgopolov
 65,2017-usopen-1402,2017,usopen,1402,David Goffin,Andrey Rublev,,,,,,,,,,,1402,D Goffin,A Rublev
 66,2017-usopen-1403,2017,usopen,1403,Roger Federer,Philipp Kohlschreiber,,,,,,,,,,,1403,R Federer,P Kohlschreiber
-67,2017-usopen-1404,2017,usopen,1404,Juan Martin del Potro,Dominic Thiem,,,,,,,,,,,1404,J Martin del Potro,D Thiem
+67,2017-usopen-1404,2017,usopen,1404,Juan Martin Del Potro,Dominic Thiem,,,,,,,,,,,1404,J Martin Del Potro,D Thiem
 68,2017-usopen-1405,2017,usopen,1405,Sam Querrey,Mischa Zverev,,,,,,,,,,,1405,S Querrey,M Zverev
 69,2017-usopen-1406,2017,usopen,1406,Paolo Lorenzi,Kevin Anderson,,,,,,,,,,,1406,P Lorenzi,K Anderson
 70,2017-usopen-1407,2017,usopen,1407,Denis Shapovalov,Pablo Carreno Busta,,,,,,,,,,,1407,D Shapovalov,P Carreno Busta
 71,2017-usopen-1408,2017,usopen,1408,Lucas Pouille,Diego Schwartzman,,,,,,,,,,,1408,L Pouille,D Schwartzman
 72,2017-usopen-1501,2017,usopen,1501,Rafael Nadal,Andrey Rublev,,,,,,,,,,,1501,R Nadal,A Rublev
-73,2017-usopen-1502,2017,usopen,1502,Roger Federer,Juan Martin del Potro,,,,,,,,,,,1502,R Federer,J Martin del Potro
+73,2017-usopen-1502,2017,usopen,1502,Roger Federer,Juan Martin Del Potro,,,,,,,,,,,1502,R Federer,J Martin Del Potro
 74,2017-usopen-1503,2017,usopen,1503,Sam Querrey,Kevin Anderson,,,,,,,,,,,1503,S Querrey,K Anderson
 75,2017-usopen-1504,2017,usopen,1504,Pablo Carreno Busta,Diego Schwartzman,,,,,,,,,,,1504,P Carreno Busta,D Schwartzman
-76,2017-usopen-1601,2017,usopen,1601,Rafael Nadal,Juan Martin del Potro,,,,,,,,,,,1601,R Nadal,J Martin del Potro
+76,2017-usopen-1601,2017,usopen,1601,Rafael Nadal,Juan Martin Del Potro,,,,,,,,,,,1601,R Nadal,J Martin Del Potro
 77,2017-usopen-1602,2017,usopen,1602,Kevin Anderson,Pablo Carreno Busta,,,,,,,,,,,1602,K Anderson,P Carreno Busta
 78,2017-usopen-1701,2017,usopen,1701,Rafael Nadal,Kevin Anderson,,,,,,,,,,,1701,R Nadal,K Anderson
 0,2017-wimbledon-1101,2017,wimbledon,1101,Andy Murray,Alexander Bublik,,,,,,,,,,,1101,A Murray,A Bublik
 1,2017-wimbledon-1102,2017,wimbledon,1102,Joao Sousa,Dustin Brown,,,,,,,,,,,1102,J Sousa,D Brown
 2,2017-wimbledon-1103,2017,wimbledon,1103,Jiri Vesely,Illya Marchenko,,,,,,,,,,,1103,J Vesely,I Marchenko
 3,2017-wimbledon-1104,2017,wimbledon,1104,Dmitry Tursunov,Fabio Fognini,,,,,,,,,,,1104,D Tursunov,F Fognini
-4,2017-wimbledon-1105,2017,wimbledon,1105,Nick Kyrgios,Pierre Hugues Herbert,,,,,,,,,,,1105,N Kyrgios,P Hugues Herbert
+4,2017-wimbledon-1105,2017,wimbledon,1105,Nick Kyrgios,Pierre Hugues Herbert,,,,,,,,,,,1105,N Kyrgios,P Herbert
 5,2017-wimbledon-1106,2017,wimbledon,1106,Rogerio Dutra Silva,Benoit Paire,,,,,,,,,,,1106,R Dutra Silva,B Paire
 6,2017-wimbledon-1107,2017,wimbledon,1107,Denis Shapovalov,Jerzy Janowicz,,,,,,,,,,,1107,D Shapovalov,J Janowicz
 7,2017-wimbledon-1108,2017,wimbledon,1108,Malek Jaziri,Lucas Pouille,,,,,,,,,,,1108,M Jaziri,L Pouille
 8,2017-wimbledon-1109,2017,wimbledon,1109,Jo Wilfried Tsonga,Cameron Norrie,,,,,,,,,,,1109,J Wilfried Tsonga,C Norrie
-9,2017-wimbledon-1110,2017,wimbledon,1110,Simone Bolelli,Yen Hsun Lu,,,,,,,,,,,1110,S Bolelli,Y Hsun Lu
+9,2017-wimbledon-1110,2017,wimbledon,1110,Simone Bolelli,Yen Hsun Lu,,,,,,,,,,,1110,S Bolelli,Y Lu
 10,2017-wimbledon-1111,2017,wimbledon,1111,Carlos Berlocq,Nikoloz Basilashvili,,,,,,,,,,,1111,C Berlocq,N Basilashvili
 11,2017-wimbledon-1112,2017,wimbledon,1112,Thomas Fabbiano,Sam Querrey,,,,,,,,,,,1112,T Fabbiano,S Querrey
 12,2017-wimbledon-1113,2017,wimbledon,1113,Fernando Verdasco,Kevin Anderson,,,,,,,,,,,1113,F Verdasco,K Anderson
@@ -346,7 +346,7 @@
 24,2017-wimbledon-1125,2017,wimbledon,1125,Kei Nishikori,Marco Cecchinato,,,,,,,,,,,1125,K Nishikori,M Cecchinato
 25,2017-wimbledon-1126,2017,wimbledon,1126,Julien Benneteau,Sergiy Stakhovsky,,,,,,,,,,,1126,J Benneteau,S Stakhovsky
 26,2017-wimbledon-1127,2017,wimbledon,1127,Peter Gojowczyk,Marius Copil,,,,,,,,,,,1127,P Gojowczyk,M Copil
-27,2017-wimbledon-1128,2017,wimbledon,1128,Andreas Haider Maurer,Roberto Bautista Agut,,,,,,,,,,,1128,A Haider Maurer,R Bautista Agut
+27,2017-wimbledon-1128,2017,wimbledon,1128,Andreas Haider-Maurer,Roberto Bautista Agut,,,,,,,,,,,1128,A Haider-Maurer,R Bautista Agut
 28,2017-wimbledon-1129,2017,wimbledon,1129,Steve Johnson,Nicolas Kicker,,,,,,,,,,,1129,S Johnson,N Kicker
 29,2017-wimbledon-1130,2017,wimbledon,1130,Facundo Bagnis,Radu Albot,,,,,,,,,,,1130,F Bagnis,R Albot
 30,2017-wimbledon-1131,2017,wimbledon,1131,Viktor Troicki,Florian Mayer,,,,,,,,,,,1131,V Troicki,F Mayer
@@ -354,7 +354,7 @@
 32,2017-wimbledon-1133,2017,wimbledon,1133,Milos Raonic,Jan Lennard Struff,,,,,,,,,,,1133,M Raonic,J Lennard Struff
 33,2017-wimbledon-1134,2017,wimbledon,1134,Mikhail Youzhny,Nicolas Mahut,,,,,,,,,,,1134,M Youzhny,N Mahut
 34,2017-wimbledon-1135,2017,wimbledon,1135,Andrey Rublev,Stefano Travaglia,,,,,,,,,,,1135,A Rublev,S Travaglia
-35,2017-wimbledon-1136,2017,wimbledon,1136,Jordan Thompson,Albert Ramos Vinolas,,,,,,,,,,,1136,J Thompson,A Ramos Vinolas
+35,2017-wimbledon-1136,2017,wimbledon,1136,Jordan Thompson,Albert Ramos-Vinolas,,,,,,,,,,,1136,J Thompson,A Ramos-Vinolas
 36,2017-wimbledon-1137,2017,wimbledon,1137,Jack Sock,Christian Garin,,,,,,,,,,,1137,J Sock,C Garin
 37,2017-wimbledon-1138,2017,wimbledon,1138,Thomaz Bellucci,Sebastian Ofner,,,,,,,,,,,1138,T Bellucci,S Ofner
 38,2017-wimbledon-1139,2017,wimbledon,1139,Robin Haase,Frances Tiafoe,,,,,,,,,,,1139,R Haase,F Tiafoe
@@ -385,7 +385,7 @@
 63,2017-wimbledon-1164,2017,wimbledon,1164,Martin Klizan,Novak Djokovic,,,,,,,,,,,1164,M Klizan,N Djokovic
 64,2017-wimbledon-1201,2017,wimbledon,1201,Andy Murray,Dustin Brown,,,,,,,,,,,1201,A Murray,D Brown
 65,2017-wimbledon-1202,2017,wimbledon,1202,Jiri Vesely,Fabio Fognini,,,,,,,,,,,1202,J Vesely,F Fognini
-66,2017-wimbledon-1203,2017,wimbledon,1203,Pierre Hugues Herbert,Benoit Paire,,,,,,,,,,,1203,P Hugues Herbert,B Paire
+66,2017-wimbledon-1203,2017,wimbledon,1203,Pierre Hugues Herbert,Benoit Paire,,,,,,,,,,,1203,P Herbert,B Paire
 67,2017-wimbledon-1204,2017,wimbledon,1204,Jerzy Janowicz,Lucas Pouille,,,,,,,,,,,1204,J Janowicz,L Pouille
 68,2017-wimbledon-1205,2017,wimbledon,1205,Jo Wilfried Tsonga,Simone Bolelli,,,,,,,,,,,1205,J Wilfried Tsonga,S Bolelli
 69,2017-wimbledon-1206,2017,wimbledon,1206,Nikoloz Basilashvili,Sam Querrey,,,,,,,,,,,1206,N Basilashvili,S Querrey
@@ -400,7 +400,7 @@
 78,2017-wimbledon-1215,2017,wimbledon,1215,Steve Johnson,Radu Albot,,,,,,,,,,,1215,S Johnson,R Albot
 79,2017-wimbledon-1216,2017,wimbledon,1216,Florian Mayer,Marin Cilic,,,,,,,,,,,1216,F Mayer,M Cilic
 80,2017-wimbledon-1217,2017,wimbledon,1217,Milos Raonic,Mikhail Youzhny,,,,,,,,,,,1217,M Raonic,M Youzhny
-81,2017-wimbledon-1218,2017,wimbledon,1218,Andrey Rublev,Albert Ramos Vinolas,,,,,,,,,,,1218,A Rublev,A Ramos Vinolas
+81,2017-wimbledon-1218,2017,wimbledon,1218,Andrey Rublev,Albert Ramos-Vinolas,,,,,,,,,,,1218,A Rublev,A Ramos-Vinolas
 82,2017-wimbledon-1219,2017,wimbledon,1219,Jack Sock,Sebastian Ofner,,,,,,,,,,,1219,J Sock,S Ofner
 83,2017-wimbledon-1220,2017,wimbledon,1220,Frances Tiafoe,Alexander Zverev,,,,,,,,,,,1220,F Tiafoe,A Zverev
 84,2017-wimbledon-1221,2017,wimbledon,1221,Grigor Dimitrov,Marcos Baghdatis,,,,,,,,,,,1221,G Dimitrov,M Baghdatis
@@ -423,7 +423,7 @@
 101,2017-wimbledon-1306,2017,wimbledon,1306,Aljaz Bedene,Gilles Muller,,,,,,,,,,,1306,A Bedene,G Muller
 102,2017-wimbledon-1307,2017,wimbledon,1307,Kei Nishikori,Roberto Bautista Agut,,,,,,,,,,,1307,K Nishikori,R Bautista Agut
 103,2017-wimbledon-1308,2017,wimbledon,1308,Steve Johnson,Marin Cilic,,,,,,,,,,,1308,S Johnson,M Cilic
-104,2017-wimbledon-1309,2017,wimbledon,1309,Milos Raonic,Albert Ramos Vinolas,,,,,,,,,,,1309,M Raonic,A Ramos Vinolas
+104,2017-wimbledon-1309,2017,wimbledon,1309,Milos Raonic,Albert Ramos-Vinolas,,,,,,,,,,,1309,M Raonic,A Ramos-Vinolas
 105,2017-wimbledon-1310,2017,wimbledon,1310,Sebastian Ofner,Alexander Zverev,,,,,,,,,,,1310,S Ofner,A Zverev
 106,2017-wimbledon-1311,2017,wimbledon,1311,Grigor Dimitrov,Dudi Sela,,,,,,,,,,,1311,G Dimitrov,D Sela
 107,2017-wimbledon-1312,2017,wimbledon,1312,Mischa Zverev,Roger Federer,,,,,,,,,,,1312,M Zverev,R Federer
