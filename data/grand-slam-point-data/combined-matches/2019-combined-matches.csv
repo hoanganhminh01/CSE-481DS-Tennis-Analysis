@@ -1,6 +1,6 @@
 ,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num,,player1_new,player2_new
 0,2019-ausopen-1101,2019,ausopen,1101,N. Djokovic,M. Krueger,,,,,,,,,SRB,USA,1101,,N Djokovic,M Krueger
-1,2019-ausopen-1102,2019,ausopen,1102,J. Wilfired Tsonga,M. Klizan,,,,,,,,,FRA,SVK,1102,,J Wilfired Tsonga,M Klizan
+1,2019-ausopen-1102,2019,ausopen,1102,J. Wilfired Tsonga,M. Klizan,,,,,,,,,FRA,SVK,1102,,J Wilfried Tsonga,M Klizan
 2,2019-ausopen-1103,2019,ausopen,1103,T. Daniel,T. Kokkinakis,,,,,,,,,JPN,AUS,1103,,T Daniel,T Kokkinakis
 3,2019-ausopen-1104,2019,ausopen,1104,P. Andujar,D. Shapovalov,,,,,,,,,ESP,CAN,1104,,P Andujar,D Shapovalov
 4,2019-ausopen-1105,2019,ausopen,1105,D. Goffin,C. Garin,,,,,,,,,BEL,CHI,1105,,D Goffin,C Garin
@@ -32,7 +32,7 @@
 30,2019-ausopen-1131,2019,ausopen,1131,A. Popyrin,M. Zverev,,,,,,,,,AUS,GER,1131,,A Popyrin,M Zverev
 31,2019-ausopen-1132,2019,ausopen,1132,B. Paire,D. Thiem,,,,,,,,,FRA,AUT,1132,,B Paire,D Thiem
 32,2019-ausopen-1133,2019,ausopen,1133,M. Cilic,B. Tomic,,,,,,,,,CRO,AUS,1133,,M Cilic,B Tomic
-33,2019-ausopen-1134,2019,ausopen,1134,A. Rublev,M. Mcdonald,,,,,,,,,RUS,USA,1134,,A Rublev,M Mcdonald
+33,2019-ausopen-1134,2019,ausopen,1134,A. Rublev,M. McDonald,,,,,,,,,RUS,USA,1134,,A Rublev,M McDonald
 34,2019-ausopen-1135,2019,ausopen,1135,M. Mmoh,R. Albot,,,,,,,,,USA,MDA,1135,,M Mmoh,R Albot
 35,2019-ausopen-1136,2019,ausopen,1136,M. Kecmanovic,F. Verdasco,,,,,,,,,SRB,ESP,1136,,M Kecmanovic,F Verdasco
 36,2019-ausopen-1137,2019,ausopen,1137,R. Bautista Agut,A. Murray,,,,,,,,,ESP,GBR,1137,,R Bautista Agut,A Murray
@@ -63,7 +63,7 @@
 61,2019-ausopen-1162,2019,ausopen,1162,M. Basic,H. Laaksonen,,,,,,,,,BIH,SUI,1162,,M Basic,H Laaksonen
 62,2019-ausopen-1163,2019,ausopen,1163,M. Ebden,J. Struff,,,,,,,,,AUS,GER,1163,,M Ebden,J Struff
 63,2019-ausopen-1164,2019,ausopen,1164,J. Duckworth,R. Nadal,,,,,,,,,AUS,ESP,1164,,J Duckworth,R Nadal
-64,2019-ausopen-1201,2019,ausopen,1201,N. Djokovic,J. Wilfired Tsonga,,,,,,,,,SRB,FRA,1201,,N Djokovic,J Wilfired Tsonga
+64,2019-ausopen-1201,2019,ausopen,1201,N. Djokovic,J. Wilfired Tsonga,,,,,,,,,SRB,FRA,1201,,N Djokovic,J Wilfried Tsonga
 65,2019-ausopen-1202,2019,ausopen,1202,T. Daniel,D. Shapovalov,,,,,,,,,JPN,CAN,1202,,T Daniel,D Shapovalov
 66,2019-ausopen-1203,2019,ausopen,1203,D. Goffin,M. Copil,,,,,,,,,BEL,ROU,1203,,D Goffin,M Copil
 67,2019-ausopen-1204,2019,ausopen,1204,R. Harrison,D. Medvedev,,,,,,,,,USA,RUS,1204,,R Harrison,D Medvedev
@@ -79,7 +79,7 @@
 77,2019-ausopen-1214,2019,ausopen,1214,E. Donskoy,F. Krajinovic,,,,,,,,,RUS,SRB,1214,,E Donskoy,F Krajinovic
 78,2019-ausopen-1215,2019,ausopen,1215,L. Pouille,M. Marterer,,,,,,,,,FRA,GER,1215,,L Pouille,M Marterer
 79,2019-ausopen-1216,2019,ausopen,1216,A. Popyrin,D. Thiem,,,,,,,,,AUS,AUT,1216,,A Popyrin,D Thiem
-80,2019-ausopen-1217,2019,ausopen,1217,M. Cilic,M. Mcdonald,,,,,,,,,CRO,USA,1217,,M Cilic,M Mcdonald
+80,2019-ausopen-1217,2019,ausopen,1217,M. Cilic,M. McDonald,,,,,,,,,CRO,USA,1217,,M Cilic,M McDonald
 81,2019-ausopen-1218,2019,ausopen,1218,R. Albot,F. Verdasco,,,,,,,,,MDA,ESP,1218,,R Albot,F Verdasco
 82,2019-ausopen-1219,2019,ausopen,1219,R. Bautista Agut,J. Millman,,,,,,,,,ESP,AUS,1219,,R Bautista Agut,J Millman
 83,2019-ausopen-1220,2019,ausopen,1220,Y. Nishioka,K. Khachanov,,,,,,,,,JPN,RUS,1220,,Y Nishioka,K Khachanov
@@ -156,7 +156,7 @@
 27,2019-frenchopen-1128,2019,frenchopen,1128,S. Bolelli,L. Pouille,,,,,,,,,ITA,FRA,1128,,S Bolelli,L Pouille
 28,2019-frenchopen-1129,2019,frenchopen,1129,A. Davidovich Fokina,J. Thompson,,,,,,,,,ESP,AUS,1129,,A Davidovich Fokina,J Thompson
 29,2019-frenchopen-1130,2019,frenchopen,1130,I. Karlovic,F. Lopez,,,,,,,,,CRO,ESP,1130,,I Karlovic,F Lopez
-30,2019-frenchopen-1131,2019,frenchopen,1131,Y. Nishioka,M. Mcdonald,,,,,,,,,JPN,USA,1131,,Y Nishioka,M Mcdonald
+30,2019-frenchopen-1131,2019,frenchopen,1131,Y. Nishioka,M. McDonald,,,,,,,,,JPN,USA,1131,,Y Nishioka,M McDonald
 31,2019-frenchopen-1132,2019,frenchopen,1132,N. Jarry,J. Del Potro,,,,,,,,,CHI,ARG,1132,,N Jarry,J Martin Del Potro
 32,2019-frenchopen-1133,2019,frenchopen,1133,S. Tsitsipas,M. Marterer,,,,,,,,,GRE,GER,1133,,S Tsitsipas,M Marterer
 33,2019-frenchopen-1134,2019,frenchopen,1134,P. Gunneswaran,H. Dellien,,,,,,,,,IND,BOL,1134,,P Gunneswaran,H Dellien
@@ -175,7 +175,7 @@
 46,2019-frenchopen-1147,2019,frenchopen,1147,M. Jaziri,O. Otte,,,,,,,,,TUN,GER,1147,,M Jaziri,O Otte
 47,2019-frenchopen-1148,2019,frenchopen,1148,L. Sonego,R. Federer,,,,,,,,,ITA,SUI,1148,,L Sonego,R Federer
 48,2019-frenchopen-1149,2019,frenchopen,1149,K. Nishikori,Q. Halys,,,,,,,,,JPN,FRA,1149,,K Nishikori,Q Halys
-49,2019-frenchopen-1150,2019,frenchopen,1150,J. Wilfired Tsonga,P. Gojowczyk,,,,,,,,,FRA,GER,1150,,J Wilfired Tsonga,P Gojowczyk
+49,2019-frenchopen-1150,2019,frenchopen,1150,J. Wilfired Tsonga,P. Gojowczyk,,,,,,,,,FRA,GER,1150,,J Wilfried Tsonga,P Gojowczyk
 50,2019-frenchopen-1151,2019,frenchopen,1151,A. Popyrin,U. Humbert,,,,,,,,,AUS,FRA,1151,,A Popyrin,U Humbert
 51,2019-frenchopen-1152,2019,frenchopen,1152,A. Ramos-Vinolas,L. Djere,,,,,,,,,ESP,SRB,1152,,A Ramos-Vinolas,L Djere
 52,2019-frenchopen-1153,2019,frenchopen,1153,A. De Minaur,B. Klahn,,,,,,,,,AUS,USA,1153,,A De Minaur,B Klahn
@@ -214,7 +214,7 @@
 85,2019-frenchopen-1222,2019,frenchopen,1222,L. Mayer,D. Schwartzman,,,,,,,,,ARG,ARG,1222,,L Mayer,D Schwartzman
 86,2019-frenchopen-1223,2019,frenchopen,1223,M. Berrettini,C. Ruud,,,,,,,,,ITA,NOR,1223,,M Berrettini,C Ruud
 87,2019-frenchopen-1224,2019,frenchopen,1224,O. Otte,R. Federer,,,,,,,,,GER,SUI,1224,,O Otte,R Federer
-88,2019-frenchopen-1225,2019,frenchopen,1225,K. Nishikori,J. Wilfired Tsonga,,,,,,,,,JPN,FRA,1225,,K Nishikori,J Wilfired Tsonga
+88,2019-frenchopen-1225,2019,frenchopen,1225,K. Nishikori,J. Wilfired Tsonga,,,,,,,,,JPN,FRA,1225,,K Nishikori,J Wilfried Tsonga
 89,2019-frenchopen-1226,2019,frenchopen,1226,A. Popyrin,L. Djere,,,,,,,,,AUS,SRB,1226,,A Popyrin,L Djere
 90,2019-frenchopen-1227,2019,frenchopen,1227,A. De Minaur,P. Carreno Busta,,,,,,,,,AUS,ESP,1227,,A De Minaur,P Carreno Busta
 91,2019-frenchopen-1228,2019,frenchopen,1228,B. Paire,P. Herbert,,,,,,,,,FRA,FRA,1228,,B Paire,P Herbert

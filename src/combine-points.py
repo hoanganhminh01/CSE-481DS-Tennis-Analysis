@@ -11,8 +11,7 @@ for year in range(11):
     ausopen = pd.read_csv(f"data/grand-slam-point-data/{current_year}-ausopen-points.csv", low_memory=False)
     frenchopen = pd.read_csv(f"data/grand-slam-point-data/{current_year}-frenchopen-points.csv", low_memory=False)
     usopen = pd.read_csv(f"data/grand-slam-point-data/{current_year}-usopen-points.csv", low_memory=False)
-    if current_year != 2020:
-        wimbledon = pd.read_csv(f"data/grand-slam-point-data/{current_year}-wimbledon-points.csv", low_memory=False)
+    wimbledon = pd.read_csv(f"data/grand-slam-point-data/{current_year}-wimbledon-points.csv", low_memory=False)
 
     grand_slams = [ausopen, frenchopen, usopen, wimbledon]
     result = pd.concat(grand_slams, axis=0)

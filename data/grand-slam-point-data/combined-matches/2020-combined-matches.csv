@@ -18,7 +18,7 @@
 16,2020-ausopen-1117,2020,ausopen,1117,D. Medvedev,F. Tiafoe,,,,,,,,,RUS,USA,1117,D Medvedev,F Tiafoe
 17,2020-ausopen-1118,2020,ausopen,1118,D. Koepfer,P. Martinez,,,,,,,,,GER,ESP,1118,D Koepfer,P Martinez
 18,2020-ausopen-1119,2020,ausopen,1119,H. Gaston,J. Munar,,,,,,,,,FRA,ESP,1119,H Gaston,J Munar
-19,2020-ausopen-1120,2020,ausopen,1120,A. Popyrin,J. Tsonga,,,,,,,,,AUS,FRA,1120,A Popyrin,J Tsonga
+19,2020-ausopen-1120,2020,ausopen,1120,A. Popyrin,J. Tsonga,,,,,,,,,AUS,FRA,1120,A Popyrin,J Wilfried Tsonga
 20,2020-ausopen-1121,2020,ausopen,1121,J. Isner,T. Monteiro,,,,,,,,,USA,BRA,1121,J Isner,T Monteiro
 21,2020-ausopen-1122,2020,ausopen,1122,A. Tabilo,D. Galan,,,,,,,,,CHI,COL,1122,A Tabilo,D Galan
 22,2020-ausopen-1123,2020,ausopen,1123,M. Kecmanovic,A. Seppi,,,,,,,,,SRB,ITA,1123,M Kecmanovic,A Seppi
@@ -187,7 +187,7 @@
 59,2020-frenchopen-1160,2020,frenchopen,1160,E Benchetrit,J Isner,,,,,,,,,,,1160,E Benchetrit,J Isner
 60,2020-frenchopen-1161,2020,frenchopen,1161,D Evans,K Nishikori,,,,,,,,,,,1161,D Evans,K Nishikori
 61,2020-frenchopen-1162,2020,frenchopen,1162,P Andujar,S Travaglia,,,,,,,,,,,1162,P Andujar,S Travaglia
-62,2020-frenchopen-1163,2020,frenchopen,1163,S Diez,M Mcdonald,,,,,,,,,,,1163,S Diez,M Mcdonald
+62,2020-frenchopen-1163,2020,frenchopen,1163,S Diez,M McDonald,,,,,,,,,,,1163,S Diez,M McDonald
 63,2020-frenchopen-1164,2020,frenchopen,1164,E Gerasimov,R Nadal,,,,,,,,,,,1164,E Gerasimov,R Nadal
 64,2020-frenchopen-1201,2020,frenchopen,1201,N Djokovic,R Berankis,,,,,,,,,,,1201,N Djokovic,R Berankis
 65,2020-frenchopen-1202,2020,frenchopen,1202,De Galan,T Sandgren,,,,,,,,,,,1202,D Galan,T Sandgren
@@ -220,7 +220,7 @@
 92,2020-frenchopen-1229,2020,frenchopen,1229,M Kukushkin,P Martinez,,,,,,,,,,,1229,M Kukushkin,P Martinez
 93,2020-frenchopen-1230,2020,frenchopen,1230,S Korda,J Isner,,,,,,,,,,,1230,S Korda,J Isner
 94,2020-frenchopen-1231,2020,frenchopen,1231,K Nishikori,S Travaglia,,,,,,,,,,,1231,K Nishikori,S Travaglia
-95,2020-frenchopen-1232,2020,frenchopen,1232,M Mcdonald,R Nadal,,,,,,,,,,,1232,M Mcdonald,R Nadal
+95,2020-frenchopen-1232,2020,frenchopen,1232,M McDonald,R Nadal,,,,,,,,,,,1232,M McDonald,R Nadal
 96,2020-frenchopen-1301,2020,frenchopen,1301,N Djokovic,De Galan,,,,,,,,,,,1301,N Djokovic,D Galan
 97,2020-frenchopen-1302,2020,frenchopen,1302,C Garin,K Khachanov,,,,,,,,,,,1302,C Garin,K Khachanov
 98,2020-frenchopen-1303,2020,frenchopen,1303,R Bautista Agut,P Carreno Busta,,,,,,,,,,,1303,R Bautista Agut,P Carreno Busta
@@ -270,7 +270,7 @@
 15,2020-usopen-1116,2020,usopen,1116,Reilly Opelka,David Goffin,,,,,,,,,,,1116,R Opelka,D Goffin
 16,2020-usopen-1117,2020,usopen,1117,Stefanos Tsitsipas,Albert Ramos-Vinolas,,,,,,,,,,,1117,S Tsitsipas,A Ramos-Vinolas
 17,2020-usopen-1118,2020,usopen,1118,Maxime Cressy,Jozef Kovalik,,,,,,,,,,,1118,M Cressy,J Kovalik
-18,2020-usopen-1119,2020,usopen,1119,Juan Londero,Evgeny Donskoy,,,,,,,,,,,1119,J Londero,E Donskoy
+18,2020-usopen-1119,2020,usopen,1119,Juan Ignacio Londero,Evgeny Donskoy,,,,,,,,,,,1119,J Londero,E Donskoy
 19,2020-usopen-1120,2020,usopen,1120,Pablo Andujar,Borna Coric,,,,,,,,,,,1120,P Andujar,B Coric
 20,2020-usopen-1121,2020,usopen,1121,Dusan Lajovic,Egor Gerasimov,,,,,,,,,,,1121,D Lajovic,E Gerasimov
 21,2020-usopen-1122,2020,usopen,1122,Stefano Travaglia,Jordan Thompson,,,,,,,,,,,1122,S Travaglia,J Thompson
@@ -303,7 +303,7 @@
 48,2020-usopen-1149,2020,usopen,1149,Roberto Bautista Agut,Tennys Sandgren,,,,,,,,,,,1149,R Bautista Agut,T Sandgren
 49,2020-usopen-1151,2020,usopen,1151,Vasek Pospisil,Philipp Kohlschreiber,,,,,,,,,,,1151,V Pospisil,P Kohlschreiber
 50,2020-usopen-1152,2020,usopen,1152,Leonardo Mayer,Milos Raonic,,,,,,,,,,,1152,L Mayer,M Raonic
-51,2020-usopen-1153,2020,usopen,1153,Alex De Minaur,Andrej Martin,,,,,,,,,,,1153,A De Minaur,A Martin
+51,2020-usopen-1153,2020,usopen,1153,Alex de Minaur,Andrej Martin,,,,,,,,,,,1153,A de Minaur,A Martin
 52,2020-usopen-1154,2020,usopen,1154,Ivo Karlovic,Richard Gasquet,,,,,,,,,,,1154,I Karlovic,R Gasquet
 53,2020-usopen-1155,2020,usopen,1155,Andrey Kuznetsov,Sam Querrey,,,,,,,,,,,1155,A Kuznetsov,S Querrey
 54,2020-usopen-1156,2020,usopen,1156,Jannik Sinner,Karen Khachanov,,,,,,,,,,,1156,J Sinner,K Khachanov
@@ -339,7 +339,7 @@
 84,2020-usopen-1224,2020,usopen,1224,Christopher O'Connell,Daniil Medvedev,,,,,,,,,,,1224,C O'Connell,D Medvedev
 85,2020-usopen-1225,2020,usopen,1225,Roberto Bautista Agut,Miomir Kecmanovic,,,,,,,,,,,1225,R Bautista Agut,M Kecmanovic
 86,2020-usopen-1226,2020,usopen,1226,Vasek Pospisil,Milos Raonic,,,,,,,,,,,1226,V Pospisil,M Raonic
-87,2020-usopen-1227,2020,usopen,1227,Alex De Minaur,Richard Gasquet,,,,,,,,,,,1227,A De Minaur,R Gasquet
+87,2020-usopen-1227,2020,usopen,1227,Alex de Minaur,Richard Gasquet,,,,,,,,,,,1227,A de Minaur,R Gasquet
 88,2020-usopen-1228,2020,usopen,1228,Andrey Kuznetsov,Karen Khachanov,,,,,,,,,,,1228,A Kuznetsov,K Khachanov
 89,2020-usopen-1229,2020,usopen,1229,Felix Auger Aliassime,Andy Murray,,,,,,,,,,,1229,F Auger Aliassime,A Murray
 90,2020-usopen-1230,2020,usopen,1230,Corentin Moutet,Daniel Evans,,,,,,,,,,,1230,C Moutet,D Evans
@@ -358,7 +358,7 @@
 103,2020-usopen-1311,2020,usopen,1311,Marton Fucsovics,Frances Tiafoe,,,,,,,,,,,1311,M Fucsovics,F Tiafoe
 104,2020-usopen-1312,2020,usopen,1312,J.J. Wolf,Daniil Medvedev,,,,,,,,,,,1312,J Wolf,D Medvedev
 105,2020-usopen-1313,2020,usopen,1313,Roberto Bautista Agut,Vasek Pospisil,,,,,,,,,,,1313,R Bautista Agut,V Pospisil
-106,2020-usopen-1314,2020,usopen,1314,Alex De Minaur,Karen Khachanov,,,,,,,,,,,1314,A De Minaur,K Khachanov
+106,2020-usopen-1314,2020,usopen,1314,Alex de Minaur,Karen Khachanov,,,,,,,,,,,1314,A de Minaur,K Khachanov
 107,2020-usopen-1315,2020,usopen,1315,Felix Auger Aliassime,Corentin Moutet,,,,,,,,,,,1315,F Auger Aliassime,C Moutet
 108,2020-usopen-1316,2020,usopen,1316,Marin Cilic,Dominic Thiem,,,,,,,,,,,1316,M Cilic,D Thiem
 109,2020-usopen-1401,2020,usopen,1401,Novak Djokovic,Pablo Carreno Busta,,,,,,,,,,,1401,N Djokovic,P Carreno Busta
@@ -367,139 +367,12 @@
 112,2020-usopen-1404,2020,usopen,1404,Alejandro Davidovich Fokina,Alexander Zverev,,,,,,,,,,,1404,A Davidovich Fokina,A Zverev
 113,2020-usopen-1405,2020,usopen,1405,Matteo Berrettini,Andrey Rublev,,,,,,,,,,,1405,M Berrettini,A Rublev
 114,2020-usopen-1406,2020,usopen,1406,Frances Tiafoe,Daniil Medvedev,,,,,,,,,,,1406,F Tiafoe,D Medvedev
-115,2020-usopen-1407,2020,usopen,1407,Vasek Pospisil,Alex De Minaur,,,,,,,,,,,1407,V Pospisil,A De Minaur
+115,2020-usopen-1407,2020,usopen,1407,Vasek Pospisil,Alex de Minaur,,,,,,,,,,,1407,V Pospisil,A de Minaur
 116,2020-usopen-1408,2020,usopen,1408,Felix Auger Aliassime,Dominic Thiem,,,,,,,,,,,1408,F Auger Aliassime,D Thiem
 117,2020-usopen-1501,2020,usopen,1501,Pablo Carreno Busta,Denis Shapovalov,,,,,,,,,,,1501,P Carreno Busta,D Shapovalov
 118,2020-usopen-1502,2020,usopen,1502,Borna Coric,Alexander Zverev,,,,,,,,,,,1502,B Coric,A Zverev
 119,2020-usopen-1503,2020,usopen,1503,Andrey Rublev,Daniil Medvedev,,,,,,,,,,,1503,A Rublev,D Medvedev
-120,2020-usopen-1504,2020,usopen,1504,Alex De Minaur,Dominic Thiem,,,,,,,,,,,1504,A De Minaur,D Thiem
+120,2020-usopen-1504,2020,usopen,1504,Alex de Minaur,Dominic Thiem,,,,,,,,,,,1504,A de Minaur,D Thiem
 121,2020-usopen-1601,2020,usopen,1601,Pablo Carreno Busta,Alexander Zverev,,,,,,,,,,,1601,P Carreno Busta,A Zverev
 122,2020-usopen-1602,2020,usopen,1602,Daniil Medvedev,Dominic Thiem,,,,,,,,,,,1602,D Medvedev,D Thiem
 123,2020-usopen-1701,2020,usopen,1701,Alexander Zverev,Dominic Thiem,,,,,,,,,,,1701,A Zverev,D Thiem
-0,2019-wimbledon-1101,2019,wimbledon,1101,Novak Djokovic,Philipp Kohlschreiber,,,,,,,,,,,1101,N Djokovic,P Kohlschreiber
-1,2019-wimbledon-1102,2019,wimbledon,1102,Denis Kudla,Malek Jaziri,,,,,,,,,,,1102,D Kudla,M Jaziri
-2,2019-wimbledon-1103,2019,wimbledon,1103,Ernests Gulbis,Leonardo Mayer,,,,,,,,,,,1103,E Gulbis,L Mayer
-3,2019-wimbledon-1104,2019,wimbledon,1104,Hubert Hurkacz,Dusan Lajovic,,,,,,,,,,,1104,H Hurkacz,D Lajovic
-4,2019-wimbledon-1105,2019,wimbledon,1105,Felix Auger Aliassime,Vasek Pospisil,,,,,,,,,,,1105,F Auger Aliassime,V Pospisil
-5,2019-wimbledon-1106,2019,wimbledon,1106,Grigor Dimitrov,Corentin Moutet,,,,,,,,,,,1106,G Dimitrov,C Moutet
-6,2019-wimbledon-1107,2019,wimbledon,1107,Lorenzo Sonego,Marcel Granollers,,,,,,,,,,,1107,L Sonego,M Granollers
-7,2019-wimbledon-1108,2019,wimbledon,1108,Ugo Humbert,Gael Monfils,,,,,,,,,,,1108,U Humbert,G Monfils
-8,2019-wimbledon-1109,2019,wimbledon,1109,Daniil Medvedev,Paolo Lorenzi,,,,,,,,,,,1109,D Medvedev,P Lorenzi
-9,2019-wimbledon-1110,2019,wimbledon,1110,Pablo Carreno Busta,Alexei Popyrin,,,,,,,,,,,1110,P Carreno Busta,A Popyrin
-10,2019-wimbledon-1111,2019,wimbledon,1111,Jeremy Chardy,Martin Klizan,,,,,,,,,,,1111,J Chardy,M Klizan
-11,2019-wimbledon-1112,2019,wimbledon,1112,Bradley Klahn,David Goffin,,,,,,,,,,,1112,B Klahn,D Goffin
-12,2019-wimbledon-1113,2019,wimbledon,1113,Kyle Edmund,Jaume Munar,,,,,,,,,,,1113,K Edmund,J Munar
-13,2019-wimbledon-1114,2019,wimbledon,1114,Kamil Majchrzak,Fernando Verdasco,,,,,,,,,,,1114,K Majchrzak,F Verdasco
-14,2019-wimbledon-1115,2019,wimbledon,1115,Andrea Arnaboldi,Ivo Karlovic,,,,,,,,,,,1115,A Arnaboldi,I Karlovic
-15,2019-wimbledon-1116,2019,wimbledon,1116,Thomas Fabbiano,Stefanos Tsitsipas,,,,,,,,,,,1116,T Fabbiano,S Tsitsipas
-16,2019-wimbledon-1117,2019,wimbledon,1117,Kevin Anderson,Pierre Hugues Herbert,,,,,,,,,,,1117,K Anderson,P Herbert
-17,2019-wimbledon-1118,2019,wimbledon,1118,Janko Tipsarevic,Yoshihito Nishioka,,,,,,,,,,,1118,J Tipsarevic,Y Nishioka
-18,2019-wimbledon-1119,2019,wimbledon,1119,Andreas Seppi,Nicolas Jarry,,,,,,,,,,,1119,A Seppi,N Jarry
-19,2019-wimbledon-1120,2019,wimbledon,1120,Marius Copil,Guido Pella,,,,,,,,,,,1120,M Copil,G Pella
-20,2019-wimbledon-1121,2019,wimbledon,1121,Stan Wawrinka,Ruben Bemelmans,,,,,,,,,,,1121,S Wawrinka,R Bemelmans
-21,2019-wimbledon-1122,2019,wimbledon,1122,Cedrik-Marcel Stebe,Reilly Opelka,,,,,,,,,,,1122,C Stebe,R Opelka
-22,2019-wimbledon-1123,2019,wimbledon,1123,Jozef Kovalik,Robin Haase,,,,,,,,,,,1123,J Kovalik,R Haase
-23,2019-wimbledon-1124,2019,wimbledon,1124,Prajnesh Gunneswaran,Milos Raonic,,,,,,,,,,,1124,P Gunneswaran,M Raonic
-24,2019-wimbledon-1125,2019,wimbledon,1125,Karen Khachanov,Soonwoo Kwon,,,,,,,,,,,1125,K Khachanov,S Kwon
-25,2019-wimbledon-1126,2019,wimbledon,1126,Marcos Giron,Feliciano Lopez,,,,,,,,,,,1126,M Giron,F Lopez
-26,2019-wimbledon-1127,2019,wimbledon,1127,Steve Darcis,Mischa Zverev,,,,,,,,,,,1127,S Darcis,M Zverev
-27,2019-wimbledon-1128,2019,wimbledon,1128,Peter Gojowczyk,Roberto Bautista Agut,,,,,,,,,,,1128,P Gojowczyk,R Bautista Agut
-28,2019-wimbledon-1129,2019,wimbledon,1129,Benoit Paire,Juan Londero,,,,,,,,,,,1129,B Paire,J Londero
-29,2019-wimbledon-1130,2019,wimbledon,1130,Roberto Carballes Baena,Miomir Kecmanovic,,,,,,,,,,,1130,R Carballes Baena,M Kecmanovic
-30,2019-wimbledon-1131,2019,wimbledon,1131,Pablo Cuevas,Damir Dzumhur,,,,,,,,,,,1131,P Cuevas,D Dzumhur
-31,2019-wimbledon-1132,2019,wimbledon,1132,Jiri Vesely,Alexander Zverev,,,,,,,,,,,1132,J Vesely,A Zverev
-32,2019-wimbledon-1133,2019,wimbledon,1133,Dominic Thiem,Sam Querrey,,,,,,,,,,,1133,D Thiem,S Querrey
-33,2019-wimbledon-1134,2019,wimbledon,1134,Cristian Garin,Andrey Rublev,,,,,,,,,,,1134,C Garin,A Rublev
-34,2019-wimbledon-1135,2019,wimbledon,1135,Hugo Dellien,John Millman,,,,,,,,,,,1135,H Dellien,J Millman
-35,2019-wimbledon-1136,2019,wimbledon,1136,Guido Andreozzi,Laslo Djere,,,,,,,,,,,1136,G Andreozzi,L Djere
-36,2019-wimbledon-1137,2019,wimbledon,1137,Gilles Simon,Salvatore Caruso,,,,,,,,,,,1137,G Simon,S Caruso
-37,2019-wimbledon-1138,2019,wimbledon,1138,Yasutaka Uchiyama,Tennys Sandgren,,,,,,,,,,,1138,Y Uchiyama,T Sandgren
-38,2019-wimbledon-1139,2019,wimbledon,1139,Marton Fucsovics,Dennis Novak,,,,,,,,,,,1139,M Fucsovics,D Novak
-39,2019-wimbledon-1140,2019,wimbledon,1140,Frances Tiafoe,Fabio Fognini,,,,,,,,,,,1140,F Tiafoe,F Fognini
-40,2019-wimbledon-1141,2019,wimbledon,1141,Marin Cilic,Adrian Mannarino,,,,,,,,,,,1141,M Cilic,A Mannarino
-41,2019-wimbledon-1142,2019,wimbledon,1142,Joao Sousa,Paul Jubb,,,,,,,,,,,1142,J Sousa,P Jubb
-42,2019-wimbledon-1143,2019,wimbledon,1143,Federico Delbonis,Daniel Evans,,,,,,,,,,,1143,F Delbonis,D Evans
-43,2019-wimbledon-1144,2019,wimbledon,1144,James Ward,Nikoloz Basilashvili,,,,,,,,,,,1144,J Ward,N Basilashvili
-44,2019-wimbledon-1145,2019,wimbledon,1145,Denis Shapovalov,Ricardas Berankis,,,,,,,,,,,1145,D Shapovalov,R Berankis
-45,2019-wimbledon-1146,2019,wimbledon,1146,Bernard Tomic,Jo Wilfried Tsonga,,,,,,,,,,,1146,B Tomic,J Wilfried Tsonga
-46,2019-wimbledon-1147,2019,wimbledon,1147,Nick Kyrgios,Jordan Thompson,,,,,,,,,,,1147,N Kyrgios,J Thompson
-47,2019-wimbledon-1148,2019,wimbledon,1148,Yuichi Sugita,Rafael Nadal,,,,,,,,,,,1148,Y Sugita,R Nadal
-48,2019-wimbledon-1149,2019,wimbledon,1149,Kei Nishikori,Thiago Monteiro,,,,,,,,,,,1149,K Nishikori,T Monteiro
-49,2019-wimbledon-1150,2019,wimbledon,1150,Denis Istomin,Cameron Norrie,,,,,,,,,,,1150,D Istomin,C Norrie
-50,2019-wimbledon-1151,2019,wimbledon,1151,Steve Johnson,Albert Ramos-Vinolas,,,,,,,,,,,1151,S Johnson,A Ramos-Vinolas
-51,2019-wimbledon-1152,2019,wimbledon,1152,Marco Cecchinato,Alex De Minaur,,,,,,,,,,,1152,M Cecchinato,A De Minaur
-52,2019-wimbledon-1153,2019,wimbledon,1153,Jan Lennard Struff,Radu Albot,,,,,,,,,,,1153,J Lennard Struff,R Albot
-53,2019-wimbledon-1154,2019,wimbledon,1154,Taylor Fritz,Tomas Berdych,,,,,,,,,,,1154,T Fritz,T Berdych
-54,2019-wimbledon-1155,2019,wimbledon,1155,Pablo Andujar,Mikhail Kukushkin,,,,,,,,,,,1155,P Andujar,M Kukushkin
-55,2019-wimbledon-1156,2019,wimbledon,1156,Casper Ruud,John Isner,,,,,,,,,,,1156,C Ruud,J Isner
-56,2019-wimbledon-1157,2019,wimbledon,1157,Matteo Berrettini,Aljaz Bedene,,,,,,,,,,,1157,M Berrettini,A Bedene
-57,2019-wimbledon-1158,2019,wimbledon,1158,Brayden Schnur,Marcos Baghdatis,,,,,,,,,,,1158,B Schnur,M Baghdatis
-58,2019-wimbledon-1159,2019,wimbledon,1159,Dominik Koepfer,Filip Krajinovic,,,,,,,,,,,1159,D Koepfer,F Krajinovic
-59,2019-wimbledon-1160,2019,wimbledon,1160,Matthew Ebden,Diego Schwartzman,,,,,,,,,,,1160,M Ebden,D Schwartzman
-60,2019-wimbledon-1161,2019,wimbledon,1161,Lucas Pouille,Richard Gasquet,,,,,,,,,,,1161,L Pouille,R Gasquet
-61,2019-wimbledon-1162,2019,wimbledon,1162,Alexander Bublik,Gregoire Barrere,,,,,,,,,,,1162,A Bublik,G Barrere
-62,2019-wimbledon-1163,2019,wimbledon,1163,Jay Clarke,Noah Rubin,,,,,,,,,,,1163,J Clarke,N Rubin
-63,2019-wimbledon-1164,2019,wimbledon,1164,Lloyd Harris,Roger Federer,,,,,,,,,,,1164,L Harris,R Federer
-64,2019-wimbledon-1201,2019,wimbledon,1201,Novak Djokovic,Denis Kudla,,,,,,,,,,,1201,N Djokovic,D Kudla
-65,2019-wimbledon-1202,2019,wimbledon,1202,Leonardo Mayer,Hubert Hurkacz,,,,,,,,,,,1202,L Mayer,H Hurkacz
-66,2019-wimbledon-1203,2019,wimbledon,1203,Felix Auger Aliassime,Corentin Moutet,,,,,,,,,,,1203,F Auger Aliassime,C Moutet
-67,2019-wimbledon-1204,2019,wimbledon,1204,Marcel Granollers,Ugo Humbert,,,,,,,,,,,1204,M Granollers,U Humbert
-68,2019-wimbledon-1205,2019,wimbledon,1205,Daniil Medvedev,Alexei Popyrin,,,,,,,,,,,1205,D Medvedev,A Popyrin
-69,2019-wimbledon-1206,2019,wimbledon,1206,Jeremy Chardy,David Goffin,,,,,,,,,,,1206,J Chardy,D Goffin
-70,2019-wimbledon-1207,2019,wimbledon,1207,Kyle Edmund,Fernando Verdasco,,,,,,,,,,,1207,K Edmund,F Verdasco
-71,2019-wimbledon-1208,2019,wimbledon,1208,Ivo Karlovic,Thomas Fabbiano,,,,,,,,,,,1208,I Karlovic,T Fabbiano
-72,2019-wimbledon-1209,2019,wimbledon,1209,Kevin Anderson,Janko Tipsarevic,,,,,,,,,,,1209,K Anderson,J Tipsarevic
-73,2019-wimbledon-1210,2019,wimbledon,1210,Andreas Seppi,Guido Pella,,,,,,,,,,,1210,A Seppi,G Pella
-74,2019-wimbledon-1211,2019,wimbledon,1211,Stan Wawrinka,Reilly Opelka,,,,,,,,,,,1211,S Wawrinka,R Opelka
-75,2019-wimbledon-1212,2019,wimbledon,1212,Robin Haase,Milos Raonic,,,,,,,,,,,1212,R Haase,M Raonic
-76,2019-wimbledon-1213,2019,wimbledon,1213,Karen Khachanov,Feliciano Lopez,,,,,,,,,,,1213,K Khachanov,F Lopez
-77,2019-wimbledon-1214,2019,wimbledon,1214,Steve Darcis,Roberto Bautista Agut,,,,,,,,,,,1214,S Darcis,R Bautista Agut
-78,2019-wimbledon-1215,2019,wimbledon,1215,Benoit Paire,Miomir Kecmanovic,,,,,,,,,,,1215,B Paire,M Kecmanovic
-79,2019-wimbledon-1216,2019,wimbledon,1216,Pablo Cuevas,Jiri Vesely,,,,,,,,,,,1216,P Cuevas,J Vesely
-80,2019-wimbledon-1217,2019,wimbledon,1217,Sam Querrey,Andrey Rublev,,,,,,,,,,,1217,S Querrey,A Rublev
-81,2019-wimbledon-1218,2019,wimbledon,1218,John Millman,Laslo Djere,,,,,,,,,,,1218,J Millman,L Djere
-82,2019-wimbledon-1219,2019,wimbledon,1219,Gilles Simon,Tennys Sandgren,,,,,,,,,,,1219,G Simon,T Sandgren
-83,2019-wimbledon-1220,2019,wimbledon,1220,Marton Fucsovics,Fabio Fognini,,,,,,,,,,,1220,M Fucsovics,F Fognini
-84,2019-wimbledon-1221,2019,wimbledon,1221,Marin Cilic,Joao Sousa,,,,,,,,,,,1221,M Cilic,J Sousa
-85,2019-wimbledon-1222,2019,wimbledon,1222,Daniel Evans,Nikoloz Basilashvili,,,,,,,,,,,1222,D Evans,N Basilashvili
-86,2019-wimbledon-1223,2019,wimbledon,1223,Ricardas Berankis,Jo Wilfried Tsonga,,,,,,,,,,,1223,R Berankis,J Wilfried Tsonga
-87,2019-wimbledon-1224,2019,wimbledon,1224,Nick Kyrgios,Rafael Nadal,,,,,,,,,,,1224,N Kyrgios,R Nadal
-88,2019-wimbledon-1225,2019,wimbledon,1225,Kei Nishikori,Cameron Norrie,,,,,,,,,,,1225,K Nishikori,C Norrie
-89,2019-wimbledon-1226,2019,wimbledon,1226,Steve Johnson,Alex De Minaur,,,,,,,,,,,1226,S Johnson,A De Minaur
-90,2019-wimbledon-1227,2019,wimbledon,1227,Jan Lennard Struff,Taylor Fritz,,,,,,,,,,,1227,J Lennard Struff,T Fritz
-91,2019-wimbledon-1228,2019,wimbledon,1228,Mikhail Kukushkin,John Isner,,,,,,,,,,,1228,M Kukushkin,J Isner
-92,2019-wimbledon-1229,2019,wimbledon,1229,Matteo Berrettini,Marcos Baghdatis,,,,,,,,,,,1229,M Berrettini,M Baghdatis
-93,2019-wimbledon-1230,2019,wimbledon,1230,Dominik Koepfer,Diego Schwartzman,,,,,,,,,,,1230,D Koepfer,D Schwartzman
-94,2019-wimbledon-1231,2019,wimbledon,1231,Lucas Pouille,Gregoire Barrere,,,,,,,,,,,1231,L Pouille,G Barrere
-95,2019-wimbledon-1232,2019,wimbledon,1232,Jay Clarke,Roger Federer,,,,,,,,,,,1232,J Clarke,R Federer
-96,2019-wimbledon-1301,2019,wimbledon,1301,Novak Djokovic,Hubert Hurkacz,,,,,,,,,,,1301,N Djokovic,H Hurkacz
-97,2019-wimbledon-1302,2019,wimbledon,1302,Felix Auger Aliassime,Ugo Humbert,,,,,,,,,,,1302,F Auger Aliassime,U Humbert
-98,2019-wimbledon-1303,2019,wimbledon,1303,Daniil Medvedev,David Goffin,,,,,,,,,,,1303,D Medvedev,D Goffin
-99,2019-wimbledon-1304,2019,wimbledon,1304,Fernando Verdasco,Thomas Fabbiano,,,,,,,,,,,1304,F Verdasco,T Fabbiano
-100,2019-wimbledon-1305,2019,wimbledon,1305,Kevin Anderson,Guido Pella,,,,,,,,,,,1305,K Anderson,G Pella
-101,2019-wimbledon-1306,2019,wimbledon,1306,Reilly Opelka,Milos Raonic,,,,,,,,,,,1306,R Opelka,M Raonic
-102,2019-wimbledon-1307,2019,wimbledon,1307,Karen Khachanov,Roberto Bautista Agut,,,,,,,,,,,1307,K Khachanov,R Bautista Agut
-103,2019-wimbledon-1308,2019,wimbledon,1308,Benoit Paire,Jiri Vesely,,,,,,,,,,,1308,B Paire,J Vesely
-104,2019-wimbledon-1309,2019,wimbledon,1309,Sam Querrey,John Millman,,,,,,,,,,,1309,S Querrey,J Millman
-105,2019-wimbledon-1310,2019,wimbledon,1310,Tennys Sandgren,Fabio Fognini,,,,,,,,,,,1310,T Sandgren,F Fognini
-106,2019-wimbledon-1311,2019,wimbledon,1311,Joao Sousa,Daniel Evans,,,,,,,,,,,1311,J Sousa,D Evans
-107,2019-wimbledon-1312,2019,wimbledon,1312,Jo Wilfried Tsonga,Rafael Nadal,,,,,,,,,,,1312,J Wilfried Tsonga,R Nadal
-108,2019-wimbledon-1313,2019,wimbledon,1313,Kei Nishikori,Steve Johnson,,,,,,,,,,,1313,K Nishikori,S Johnson
-109,2019-wimbledon-1314,2019,wimbledon,1314,Jan Lennard Struff,Mikhail Kukushkin,,,,,,,,,,,1314,J Lennard Struff,M Kukushkin
-110,2019-wimbledon-1315,2019,wimbledon,1315,Matteo Berrettini,Diego Schwartzman,,,,,,,,,,,1315,M Berrettini,D Schwartzman
-111,2019-wimbledon-1316,2019,wimbledon,1316,Lucas Pouille,Roger Federer,,,,,,,,,,,1316,L Pouille,R Federer
-112,2019-wimbledon-1401,2019,wimbledon,1401,Novak Djokovic,Ugo Humbert,,,,,,,,,,,1401,N Djokovic,U Humbert
-113,2019-wimbledon-1402,2019,wimbledon,1402,David Goffin,Fernando Verdasco,,,,,,,,,,,1402,D Goffin,F Verdasco
-114,2019-wimbledon-1403,2019,wimbledon,1403,Guido Pella,Milos Raonic,,,,,,,,,,,1403,G Pella,M Raonic
-115,2019-wimbledon-1404,2019,wimbledon,1404,Roberto Bautista Agut,Benoit Paire,,,,,,,,,,,1404,R Bautista Agut,B Paire
-116,2019-wimbledon-1405,2019,wimbledon,1405,Sam Querrey,Tennys Sandgren,,,,,,,,,,,1405,S Querrey,T Sandgren
-117,2019-wimbledon-1406,2019,wimbledon,1406,Joao Sousa,Rafael Nadal,,,,,,,,,,,1406,J Sousa,R Nadal
-118,2019-wimbledon-1407,2019,wimbledon,1407,Kei Nishikori,Mikhail Kukushkin,,,,,,,,,,,1407,K Nishikori,M Kukushkin
-119,2019-wimbledon-1408,2019,wimbledon,1408,Matteo Berrettini,Roger Federer,,,,,,,,,,,1408,M Berrettini,R Federer
-120,2019-wimbledon-1501,2019,wimbledon,1501,Novak Djokovic,David Goffin,,,,,,,,,,,1501,N Djokovic,D Goffin
-121,2019-wimbledon-1502,2019,wimbledon,1502,Guido Pella,Roberto Bautista Agut,,,,,,,,,,,1502,G Pella,R Bautista Agut
-122,2019-wimbledon-1503,2019,wimbledon,1503,Sam Querrey,Rafael Nadal,,,,,,,,,,,1503,S Querrey,R Nadal
-123,2019-wimbledon-1504,2019,wimbledon,1504,Kei Nishikori,Roger Federer,,,,,,,,,,,1504,K Nishikori,R Federer
-124,2019-wimbledon-1601,2019,wimbledon,1601,Novak Djokovic,Roberto Bautista Agut,,,,,,,,,,,1601,N Djokovic,R Bautista Agut
-125,2019-wimbledon-1602,2019,wimbledon,1602,Rafael Nadal,Roger Federer,,,,,,,,,,,1602,R Nadal,R Federer
-126,2019-wimbledon-1701,2019,wimbledon,1701,Novak Djokovic,Roger Federer,,,,,,,,,,,1701,N Djokovic,R Federer
