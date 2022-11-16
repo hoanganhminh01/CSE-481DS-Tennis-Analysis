@@ -1,0 +1,1233 @@
+,match_id,year,slam,match_num,player1,player2,status,winner,event_name,round,court_name,court_id,player1id,player2id,nation1,nation2,match_id_num
+0,2011-frenchopen-1101,2011,frenchopen,1101,Rafael Nadal,John Isner,Complete,1.0,event_MS,round_1,Court Philippe Chatrier,A,atpn409,atpi186,ESP,USA,1101
+1,2011-frenchopen-1104,2011,frenchopen,1104,Denis Gremelmayr,Nikolay Davydenko,Complete,2.0,event_MS,round_1,Court 6,H,atpg512,atpd402,GER,RUS,1104
+2,2011-frenchopen-1105,2011,frenchopen,1105,Sam Querrey,Philipp Kohlschreiber,Complete,1.0,event_MS,round_1,Court 7,I,atpq927,atpk435,USA,GER,1105
+3,2011-frenchopen-1106,2011,frenchopen,1106,Ivan Ljubicic,Somdev Devvarman,Complete,1.0,event_MS,round_1,Court 3,E,atpl360,atpd616,CRO,IND,1106
+4,2011-frenchopen-1108,2011,frenchopen,1108,Juan Monaco,Fernando Verdasco,Complete,2.0,event_MS,round_1,Court 2,D,atpma21,atpv306,ARG,ESP,1108
+5,2011-frenchopen-1109,2011,frenchopen,1109,Mardy Fish,Ricardo Mello,Complete,1.0,event_MS,round_1,Court 7,I,atpf339,atpm708,USA,BRA,1109
+6,2011-frenchopen-1111,2011,frenchopen,1111,Jeremy Chardy,Grigor DiMitrov,Complete,1.0,event_MS,round_1,Court 1,C,atpca12,atpd875,FRA,BUL,1111
+7,2011-frenchopen-1112,2011,frenchopen,1112,Michael Russell,Gilles Simon,Complete,2.0,event_MS,round_1,Court Philippe Chatrier,A,atpr368,atpsd32,USA,FRA,1112
+8,2011-frenchopen-1113,2011,frenchopen,1113,Marcos Baghdatis,Frederico Gil,Complete,1.0,event_MS,round_1,Court 2,D,atpb837,atpg717,CYP,POR,1113
+9,2011-frenchopen-1116,2011,frenchopen,1116,Ryan Harrison,Robin Soderling,Complete,2.0,event_MS,round_1,Court Suzanne Lenglen,B,atph940,atpsa49,USA,SWE,1116
+10,2011-frenchopen-1117,2011,frenchopen,1117,Andy Murray,Eric Prodon,Complete,1.0,event_MS,round_1,Court Suzanne Lenglen,B,atpmc10,atpp487,GBR,FRA,1117
+11,2011-frenchopen-1119,2011,frenchopen,1119,Arnaud Clement,Filippo Volandri,Complete,1.0,event_MS,round_1,Court 2,D,atpc487,atpv254,FRA,ITA,1119
+12,2011-frenchopen-1121,2011,frenchopen,1121,Alexandr Dolgopolov,Rainer Schuettler,Complete,1.0,event_MS,round_1,Court 6,H,atpd801,atps636,UKR,GER,1121
+13,2011-frenchopen-1124,2011,frenchopen,1124,Julian Reister,Viktor Troicki,Complete,2.0,event_MS,round_1,Court 6,H,atpr782,atpt840,GER,SRB,1124
+14,2011-frenchopen-1125,2011,frenchopen,1125,Nicolas Almagro,Lukasz Kubot,Complete,2.0,event_MS,round_1,Court 6,H,atpa479,atpk540,ESP,POL,1125
+15,2011-frenchopen-1129,2011,frenchopen,1129,Kevin Anderson,Nicolas Mahut,Complete,1.0,event_MS,round_1,Court 7,I,atpa678,atpm873,RSA,FRA,1129
+16,2011-frenchopen-1131,2011,frenchopen,1131,Edouard Roger-Vasselin,Lukas Rosol,Complete,2.0,event_MS,round_1,Court 3,E,atpr613,atpr685,FRA,CZE,1131
+17,2011-frenchopen-1132,2011,frenchopen,1132,Andreas Beck,Jurgen Melzer,Complete,2.0,event_MS,round_1,Court 1,C,atpba86,atpm762,GER,AUT,1132
+18,2011-frenchopen-1133,2011,frenchopen,1133,David Ferrer,Jarkko Nieminen,Complete,1.0,event_MS,round_1,Court Philippe Chatrier,A,atpf401,atpn289,ESP,FIN,1133
+19,2011-frenchopen-1134,2011,frenchopen,1134,Julien Benneteau,Rui Machado,Complete,1.0,event_MS,round_1,Court Suzanne Lenglen,B,atpb747,atpma49,FRA,POR,1134
+20,2011-frenchopen-1135,2011,frenchopen,1135,Kei Nishikori,Yen-Hsun Lu,Complete,1.0,event_MS,round_1,Court 2,D,atpn552,atpl575,JPN,TPE,1135
+21,2011-frenchopen-1136,2011,frenchopen,1136,David Guez,Sergiy Stakhovsky,Complete,2.0,event_MS,round_1,Court 1,C,atpg753,atpsc77,FRA,UKR,1136
+22,2011-frenchopen-1137,2011,frenchopen,1137,Michael Llodra,Steve Darcis,Complete,2.0,event_MS,round_1,Court 1,C,atpl428,atpd632,FRA,BEL,1137
+23,2011-frenchopen-1139,2011,frenchopen,1139,Adrian Mannarino,Guillaume Rufin,Complete,2.0,event_MS,round_1,Court 2,D,atpme82,atpra17,FRA,FRA,1139
+24,2011-frenchopen-1140,2011,frenchopen,1140,Bjorn Phau,Gael Monfils,Complete,2.0,event_MS,round_1,Court Suzanne Lenglen,B,atpp436,atpmc65,GER,FRA,1140
+25,2011-frenchopen-1141,2011,frenchopen,1141,Stanislas Wawrinka,Augustin Gensse,Complete,1.0,event_MS,round_1,Court 1,C,atpw367,atpg695,SUI,FRA,1141
+26,2011-frenchopen-1143,2011,frenchopen,1143,Florent Serra,Igor Andreev,Complete,2.0,event_MS,round_1,Court 3,E,atps963,atpa511,FRA,RUS,1143
+27,2011-frenchopen-1144,2011,frenchopen,1144,Jan Hajek,Jo-Wilfried Tsonga,Complete,2.0,event_MS,round_1,Court Philippe Chatrier,A,atph571,atpt786,CZE,FRA,1144
+28,2011-frenchopen-1147,2011,frenchopen,1147,Vincent Millot,Maxime Teixeira,Complete,2.0,event_MS,round_1,Court 3,E,atpme31,atpt999,FRA,FRA,1147
+29,2011-frenchopen-1148,2011,frenchopen,1148,Feliciano Lopez,Roger Federer,Complete,2.0,event_MS,round_1,Court Philippe Chatrier,A,atpl397,atpf324,ESP,SUI,1148
+30,2011-frenchopen-1149,2011,frenchopen,1149,Tomas Berdych,Stephane Robert,Complete,2.0,event_MS,round_1,Court 2,D,atpba47,atpr612,CZE,FRA,1149
+31,2011-frenchopen-1150,2011,frenchopen,1150,Fabio Fognini,Denis Istomin,Complete,1.0,event_MS,round_1,Court 6,H,atpf510,atpi165,ITA,UZB,1150
+32,2011-frenchopen-1152,2011,frenchopen,1152,Robert Kendrick,Guillermo Garcia-Lopez,Complete,2.0,event_MS,round_1,Court 6,H,atpk448,atpg476,USA,ESP,1152
+33,2011-frenchopen-1153,2011,frenchopen,1153,Marin Cilic,Ruben Ramirez Hidalgo,Complete,2.0,event_MS,round_1,Court 7,I,atpc977,atpr383,CRO,ESP,1153
+34,2011-frenchopen-1154,2011,frenchopen,1154,Marc Gicquel,Albert Montanes,Complete,2.0,event_MS,round_1,Court Suzanne Lenglen,B,atpg436,atpm824,FRA,ESP,1154
+35,2011-frenchopen-1156,2011,frenchopen,1156,Go Soeda,Mikhail Youzhny,Complete,2.0,event_MS,round_1,Court 3,E,atpsc47,atpy061,JPN,RUS,1156
+36,2011-frenchopen-1157,2011,frenchopen,1157,Richard Gasquet,Radek Stepanek,Complete,1.0,event_MS,round_1,Court Suzanne Lenglen,B,atpg628,atps694,FRA,CZE,1157
+37,2011-frenchopen-1159,2011,frenchopen,1159,Teymuraz Gabashvili,Andreas Seppi,Complete,2.0,event_MS,round_1,Court 3,E,atpg681,atpsa93,RUS,ITA,1159
+38,2011-frenchopen-1161,2011,frenchopen,1161,Juan Martin Del Potro,Ivo Karlovic,Complete,1.0,event_MS,round_1,Court 1,C,atpd683,atpk336,ARG,CRO,1161
+39,2011-frenchopen-1162,2011,frenchopen,1162,Ernests Gulbis,Blaz Kavcic,Complete,2.0,event_MS,round_1,Court 7,I,atpg858,atpk834,LAT,SLO,1162
+40,2011-frenchopen-1163,2011,frenchopen,1163,Benoit Paire,Victor Hanescu,Complete,2.0,event_MS,round_1,Court 7,I,atppd31,atph528,FRA,ROU,1163
+41,2011-frenchopen-1164,2011,frenchopen,1164,Thiemo De Bakker,Novak Djokovic,Complete,2.0,event_MS,round_1,Court Philippe Chatrier,A,atpd776,atpd643,NED,SRB,1164
+42,2011-frenchopen-1201,2011,frenchopen,1201,Rafael Nadal,Pablo Andujar,Complete,1.0,event_MS,round_2,Court Suzanne Lenglen,B,atpn409,atpa596,ESP,ESP,1201
+43,2011-frenchopen-1202,2011,frenchopen,1202,Antonio Veic,Nikolay Davydenko,Complete,1.0,event_MS,round_2,Court 6,H,atpv564,atpd402,CRO,RUS,1202
+44,2011-frenchopen-1203,2011,frenchopen,1203,Sam Querrey,Ivan Ljubicic,Complete,2.0,event_MS,round_2,Court 7,I,atpq927,atpl360,USA,CRO,1203
+45,2011-frenchopen-1204,2011,frenchopen,1204,Xavier Malisse,Fernando Verdasco,Complete,2.0,event_MS,round_2,Court 1,C,atpm680,atpv306,BEL,ESP,1204
+46,2011-frenchopen-1205,2011,frenchopen,1205,Mardy Fish,Robin Haase,Complete,1.0,event_MS,round_2,Court 2,D,atpf339,atph756,USA,NED,1205
+47,2011-frenchopen-1206,2011,frenchopen,1206,Jeremy Chardy,Gilles Simon,Complete,2.0,event_MS,round_2,Court Philippe Chatrier,A,atpca12,atpsd32,FRA,FRA,1206
+48,2011-frenchopen-1207,2011,frenchopen,1207,Marcos Baghdatis,Leonardo Mayer,Complete,2.0,event_MS,round_2,Court 3,E,atpb837,atpmd56,CYP,ARG,1207
+49,2011-frenchopen-1208,2011,frenchopen,1208,Albert Ramos,Robin Soderling,Complete,2.0,event_MS,round_2,Court Suzanne Lenglen,B,atpr772,atpsa49,ESP,SWE,1208
+50,2011-frenchopen-1209,2011,frenchopen,1209,Andy Murray,Simone Bolelli,Complete,1.0,event_MS,round_2,Court Philippe Chatrier,A,atpmc10,atpba98,GBR,ITA,1209
+51,2011-frenchopen-1210,2011,frenchopen,1210,Arnaud Clement,Michael Berrer,Complete,2.0,event_MS,round_2,Court 1,C,atpc487,atpb678,FRA,GER,1210
+52,2011-frenchopen-1211,2011,frenchopen,1211,Alexandr Dolgopolov,Andreas Haider-Maurer,Complete,1.0,event_MS,round_2,Court 6,H,atpd801,atph804,UKR,AUT,1211
+53,2011-frenchopen-1212,2011,frenchopen,1212,Tobias Kamke,Viktor Troicki,Complete,2.0,event_MS,round_2,Court 7,I,atpk839,atpt840,GER,SRB,1212
+54,2011-frenchopen-1214,2011,frenchopen,1214,Alejandro Falla,Florian Mayer,Complete,1.0,event_MS,round_2,Court 3,E,atpf444,atpmb02,COL,GER,1214
+55,2011-frenchopen-1216,2011,frenchopen,1216,Lukas Rosol,Jurgen Melzer,Complete,1.0,event_MS,round_2,Court 2,D,atpr685,atpm762,CZE,AUT,1216
+56,2011-frenchopen-1218,2011,frenchopen,1218,Kei Nishikori,Sergiy Stakhovsky,Complete,2.0,event_MS,round_2,Court 6,H,atpn552,atpsc77,JPN,UKR,1218
+57,2011-frenchopen-1219,2011,frenchopen,1219,Steve Darcis,Philipp Petzschner,Complete,1.0,event_MS,round_2,Court 7,I,atpd632,atpp624,BEL,GER,1219
+58,2011-frenchopen-1220,2011,frenchopen,1220,Guillaume Rufin,Gael Monfils,Complete,2.0,event_MS,round_2,Court Philippe Chatrier,A,atpra17,atpmc65,FRA,FRA,1220
+59,2011-frenchopen-1221,2011,frenchopen,1221,Stanislas Wawrinka,Thomas Schoorel,Complete,1.0,event_MS,round_2,Court 3,E,atpw367,atpsj63,SUI,NED,1221
+60,2011-frenchopen-1222,2011,frenchopen,1222,Igor Andreev,Jo-Wilfried Tsonga,Complete,2.0,event_MS,round_2,Court Suzanne Lenglen,B,atpa511,atpt786,RUS,FRA,1222
+61,2011-frenchopen-1223,2011,frenchopen,1223,Janko Tipsarevic,Pere Riba,Complete,1.0,event_MS,round_2,Court 7,I,atpt742,atpr750,SRB,ESP,1223
+62,2011-frenchopen-1224,2011,frenchopen,1224,Maxime Teixeira,Roger Federer,Complete,2.0,event_MS,round_2,Court Suzanne Lenglen,B,atpt999,atpf324,FRA,SUI,1224
+63,2011-frenchopen-1225,2011,frenchopen,1225,Stephane Robert,Fabio Fognini,Complete,2.0,event_MS,round_2,Court 2,D,atpr612,atpf510,FRA,ITA,1225
+64,2011-frenchopen-1228,2011,frenchopen,1228,Mikhail Kukushkin,Mikhail Youzhny,Complete,2.0,event_MS,round_2,Court 3,E,atpk926,atpy061,KAZ,RUS,1228
+65,2011-frenchopen-1229,2011,frenchopen,1229,Richard Gasquet,Marcel Granollers,Complete,1.0,event_MS,round_2,Court 1,C,atpg628,atpg710,FRA,ESP,1229
+66,2011-frenchopen-1230,2011,frenchopen,1230,Andreas Seppi,Thomaz Bellucci,Complete,2.0,event_MS,round_2,Court 6,H,atpsa93,atpbd20,ITA,BRA,1230
+67,2011-frenchopen-1231,2011,frenchopen,1231,Juan Martin Del Potro,Blaz Kavcic,Complete,1.0,event_MS,round_2,Court 2,D,atpd683,atpk834,ARG,SLO,1231
+68,2011-frenchopen-1232,2011,frenchopen,1232,Victor Hanescu,Novak Djokovic,Retired,2.0,event_MS,round_2,Court Philippe Chatrier,A,atph528,atpd643,ROU,SRB,1232
+69,2011-frenchopen-1301,2011,frenchopen,1301,Rafael Nadal,Antonio Veic,Complete,1.0,event_MS,round_3,Court Philippe Chatrier,A,atpn409,atpv564,ESP,CRO,1301
+70,2011-frenchopen-1302,2011,frenchopen,1302,Ivan Ljubicic,Fernando Verdasco,Complete,1.0,event_MS,round_3,Court 1,C,atpl360,atpv306,CRO,ESP,1302
+71,2011-frenchopen-1303,2011,frenchopen,1303,Mardy Fish,Gilles Simon,Complete,2.0,event_MS,round_3,Court Philippe Chatrier,A,atpf339,atpsd32,USA,FRA,1303
+72,2011-frenchopen-1304,2011,frenchopen,1304,Leonardo Mayer,Robin Soderling,Complete,2.0,event_MS,round_3,Court Suzanne Lenglen,B,atpmd56,atpsa49,ARG,SWE,1304
+73,2011-frenchopen-1305,2011,frenchopen,1305,Andy Murray,Michael Berrer,Complete,1.0,event_MS,round_3,Court Suzanne Lenglen,B,atpmc10,atpb678,GBR,GER,1305
+74,2011-frenchopen-1306,2011,frenchopen,1306,Alexandr Dolgopolov,Viktor Troicki,Complete,2.0,event_MS,round_3,Court 1,C,atpd801,atpt840,UKR,SRB,1306
+75,2011-frenchopen-1307,2011,frenchopen,1307,Lukasz Kubot,Alejandro Falla,Complete,2.0,event_MS,round_3,Court 2,D,atpk540,atpf444,POL,COL,1307
+76,2011-frenchopen-1308,2011,frenchopen,1308,Juan Ignacio Chela,Lukas Rosol,Complete,1.0,event_MS,round_3,Court 7,I,atpc514,atpr685,ARG,CZE,1308
+77,2011-frenchopen-1309,2011,frenchopen,1309,David Ferrer,Sergiy Stakhovsky,Complete,1.0,event_MS,round_3,Court 1,C,atpf401,atpsc77,ESP,UKR,1309
+78,2011-frenchopen-1310,2011,frenchopen,1310,Steve Darcis,Gael Monfils,Complete,2.0,event_MS,round_3,Court 1,C,atpd632,atpmc65,BEL,FRA,1310
+79,2011-frenchopen-1311,2011,frenchopen,1311,Stanislas Wawrinka,Jo-Wilfried Tsonga,Complete,1.0,event_MS,round_3,Court Philippe Chatrier,A,atpw367,atpt786,SUI,FRA,1311
+80,2011-frenchopen-1312,2011,frenchopen,1312,Janko Tipsarevic,Roger Federer,Complete,2.0,event_MS,round_3,Court Suzanne Lenglen,B,atpt742,atpf324,SRB,SUI,1312
+81,2011-frenchopen-1313,2011,frenchopen,1313,Fabio Fognini,Guillermo Garcia-Lopez,Complete,1.0,event_MS,round_3,Court 7,I,atpf510,atpg476,ITA,ESP,1313
+82,2011-frenchopen-1314,2011,frenchopen,1314,Albert Montanes,Mikhail Youzhny,Complete,1.0,event_MS,round_3,Court 2,D,atpm824,atpy061,ESP,RUS,1314
+83,2011-frenchopen-1315,2011,frenchopen,1315,Richard Gasquet,Thomaz Bellucci,Complete,1.0,event_MS,round_3,Court Suzanne Lenglen,B,atpg628,atpbd20,FRA,BRA,1315
+84,2011-frenchopen-1316,2011,frenchopen,1316,Juan Martin Del Potro,Novak Djokovic,Complete,2.0,event_MS,round_3,Court Suzanne Lenglen,B,atpd683,atpd643,ARG,SRB,1316
+85,2011-frenchopen-1401,2011,frenchopen,1401,Rafael Nadal,Ivan Ljubicic,Complete,1.0,event_MS,round_4,Court Philippe Chatrier,A,atpn409,atpl360,ESP,CRO,1401
+86,2011-frenchopen-1402,2011,frenchopen,1402,Gilles Simon,Robin Soderling,Complete,2.0,event_MS,round_4,Court Philippe Chatrier,A,atpsd32,atpsa49,FRA,SWE,1402
+87,2011-frenchopen-1403,2011,frenchopen,1403,Andy Murray,Viktor Troicki,Complete,1.0,event_MS,round_4,Court Suzanne Lenglen,B,atpmc10,atpt840,GBR,SRB,1403
+88,2011-frenchopen-1404,2011,frenchopen,1404,Alejandro Falla,Juan Ignacio Chela,Complete,2.0,event_MS,round_4,Court Suzanne Lenglen,B,atpf444,atpc514,COL,ARG,1404
+89,2011-frenchopen-1405,2011,frenchopen,1405,David Ferrer,Gael Monfils,Complete,2.0,event_MS,round_4,Court Suzanne Lenglen,B,atpf401,atpmc65,ESP,FRA,1405
+90,2011-frenchopen-1406,2011,frenchopen,1406,Stanislas Wawrinka,Roger Federer,Complete,2.0,event_MS,round_4,Court Philippe Chatrier,A,atpw367,atpf324,SUI,SUI,1406
+91,2011-frenchopen-1407,2011,frenchopen,1407,Fabio Fognini,Albert Montanes,Complete,1.0,event_MS,round_4,Court Suzanne Lenglen,B,atpf510,atpm824,ITA,ESP,1407
+92,2011-frenchopen-1408,2011,frenchopen,1408,Richard Gasquet,Novak Djokovic,Complete,2.0,event_MS,round_4,Court Philippe Chatrier,A,atpg628,atpd643,FRA,SRB,1408
+93,2011-frenchopen-1501,2011,frenchopen,1501,Rafael Nadal,Robin Soderling,Complete,1.0,event_MS,round_5,Court Philippe Chatrier,A,atpn409,atpsa49,ESP,SWE,1501
+94,2011-frenchopen-1502,2011,frenchopen,1502,Andy Murray,Juan Ignacio Chela,Complete,1.0,event_MS,round_5,Court Suzanne Lenglen,B,atpmc10,atpc514,GBR,ARG,1502
+95,2011-frenchopen-1503,2011,frenchopen,1503,Gael Monfils,Roger Federer,Complete,2.0,event_MS,round_5,Court Philippe Chatrier,A,atpmc65,atpf324,FRA,SUI,1503
+96,2011-frenchopen-1601,2011,frenchopen,1601,Rafael Nadal,Andy Murray,Complete,1.0,event_MS,round_6,Court Philippe Chatrier,A,atpn409,atpmc10,ESP,GBR,1601
+97,2011-frenchopen-1602,2011,frenchopen,1602,Roger Federer,Novak Djokovic,Complete,1.0,event_MS,round_6,Court Philippe Chatrier,A,atpf324,atpd643,SUI,SRB,1602
+98,2011-frenchopen-1701,2011,frenchopen,1701,Rafael Nadal,Roger Federer,Complete,1.0,event_MS,round_7,Court Philippe Chatrier,A,atpn409,atpf324,ESP,SUI,1701
+0,2012-frenchopen-1101,2012,frenchopen,1101,Novak Djokovic,Potito Starace,,,,,,,,,,,1101
+1,2012-frenchopen-1102,2012,frenchopen,1102,Blaz Kavcic,Lleyton Hewitt,,,,,,,,,,,1102
+2,2012-frenchopen-1104,2012,frenchopen,1104,Michael Berrer,Jurgen Melzer,,,,,,,,,,,1104
+3,2012-frenchopen-1109,2012,frenchopen,1109,Gilles Simon,Ryan Harrison,,,,,,,,,,,1109
+4,2012-frenchopen-1110,2012,frenchopen,1110,Xavier Malisse,Brian Baker,,,,,,,,,,,1110
+5,2012-frenchopen-1113,2012,frenchopen,1113,Viktor Troicki,Thomaz Bellucci,,,,,,,,,,,1113
+6,2012-frenchopen-1117,2012,frenchopen,1117,Roger Federer,Tobias Kamke,,,,,,,,,,,1117
+7,2012-frenchopen-1122,2012,frenchopen,1122,Arnaud Clement,Alex Bogomolov Jr.,,,,,,,,,,,1122
+8,2012-frenchopen-1124,2012,frenchopen,1124,Florent Serra,Feliciano Lopez,,,,,,,,,,,1124
+9,2012-frenchopen-1129,2012,frenchopen,1129,Kevin Anderson,Rui Machado,,,,,,,,,,,1129
+10,2012-frenchopen-1131,2012,frenchopen,1131,Michael Llodra,Guillermo Garcia-Lopez,,,,,,,,,,,1131
+11,2012-frenchopen-1132,2012,frenchopen,1132,Dudi Sela,Tomas Berdych,,,,,,,,,,,1132
+12,2012-frenchopen-1133,2012,frenchopen,1133,David Ferrer,Lukas Lacko,,,,,,,,,,,1133
+13,2012-frenchopen-1134,2012,frenchopen,1134,Benoit Paire,Albert Ramos,,,,,,,,,,,1134
+14,2012-frenchopen-1135,2012,frenchopen,1135,Ivan Dodig,Robin Haase,,,,,,,,,,,1135
+15,2012-frenchopen-1136,2012,frenchopen,1136,James Blake,Mikhail Youzhny,,,,,,,,,,,1136
+16,2012-frenchopen-1139,2012,frenchopen,1139,Paul-Henri Mathieu,Bjorn Phau,,,,,,,,,,,1139
+17,2012-frenchopen-1140,2012,frenchopen,1140,Rogerio Dutra Silva,John Isner,,,,,,,,,,,1140
+18,2012-frenchopen-1142,2012,frenchopen,1142,Filippo Volandri,Tommy Haas,,,,,,,,,,,1142
+19,2012-frenchopen-1143,2012,frenchopen,1143,Donald Young,Grigor DiMitrov,,,,,,,,,,,1143
+20,2012-frenchopen-1144,2012,frenchopen,1144,Jurgen Zopp,Richard Gasquet,,,,,,,,,,,1144
+21,2012-frenchopen-1148,2012,frenchopen,1148,Tatsuma Ito,Andy Murray,,,,,,,,,,,1148
+22,2012-frenchopen-1149,2012,frenchopen,1149,Janko Tipsarevic,Sam Querrey,,,,,,,,,,,1149
+23,2012-frenchopen-1150,2012,frenchopen,1150,Jeremy Chardy,Yen-Hsun Lu,,,,,,,,,,,1150
+24,2012-frenchopen-1152,2012,frenchopen,1152,Mischa Zverev,Julien Benneteau,,,,,,,,,,,1152
+25,2012-frenchopen-1155,2012,frenchopen,1155,Juan Ignacio Chela,Marcos Baghdatis,,,,,,,,,,,1155
+26,2012-frenchopen-1156,2012,frenchopen,1156,Paolo Lorenzi,Nicolas Almagro,,,,,,,,,,,1156
+27,2012-frenchopen-1157,2012,frenchopen,1157,Juan Monaco,Guillaume Rufin,,,,,,,,,,,1157
+28,2012-frenchopen-1164,2012,frenchopen,1164,Simone Bolelli,Rafael Nadal,,,,,,,,,,,1164
+29,2012-frenchopen-1201,2012,frenchopen,1201,Novak Djokovic,Blaz Kavcic,,,,,,,,,,,1201
+30,2012-frenchopen-1202,2012,frenchopen,1202,Nicolas Devilder,Michael Berrer,,,,,,,,,,,1202
+31,2012-frenchopen-1204,2012,frenchopen,1204,Gilles Muller,Fernando Verdasco,,,,,,,,,,,1204
+32,2012-frenchopen-1205,2012,frenchopen,1205,Gilles Simon,Brian Baker,,,,,,,,,,,1205
+33,2012-frenchopen-1206,2012,frenchopen,1206,Pablo Andujar,Stanislas Wawrinka,,,,,,,,,,,1206
+34,2012-frenchopen-1207,2012,frenchopen,1207,Viktor Troicki,Fabio Fognini,,,,,,,,,,,1207
+35,2012-frenchopen-1208,2012,frenchopen,1208,Cedrik-Marcel Stebe,Jo-Wilfried Tsonga,,,,,,,,,,,1208
+36,2012-frenchopen-1209,2012,frenchopen,1209,Roger Federer,Adrian Ungur,,,,,,,,,,,1209
+37,2012-frenchopen-1210,2012,frenchopen,1210,Martin Klizan,Nicolas Mahut,,,,,,,,,,,1210
+38,2012-frenchopen-1211,2012,frenchopen,1211,David Goffin,Arnaud Clement,,,,,,,,,,,1211
+39,2012-frenchopen-1212,2012,frenchopen,1212,Lukasz Kubot,Florent Serra,,,,,,,,,,,1212
+40,2012-frenchopen-1213,2012,frenchopen,1213,Juan Martin Del Potro,Edouard Roger-Vasselin,,,,,,,,,,,1213
+41,2012-frenchopen-1214,2012,frenchopen,1214,Juan Carlos Ferrero,Marin Cilic,,,,,,,,,,,1214
+42,2012-frenchopen-1216,2012,frenchopen,1216,Michael Llodra,Tomas Berdych,,,,,,,,,,,1216
+43,2012-frenchopen-1217,2012,frenchopen,1217,David Ferrer,Benoit Paire,,,,,,,,,,,1217
+44,2012-frenchopen-1219,2012,frenchopen,1219,Marcel Granollers,Malek Jaziri,,,,,,,,,,,1219
+45,2012-frenchopen-1220,2012,frenchopen,1220,Paul-Henri Mathieu,John Isner,,,,,,,,,,,1220
+46,2012-frenchopen-1221,2012,frenchopen,1221,Sergiy Stakhovsky,Tommy Haas,,,,,,,,,,,1221
+47,2012-frenchopen-1222,2012,frenchopen,1222,Grigor DiMitrov,Richard Gasquet,,,,,,,,,,,1222
+48,2012-frenchopen-1223,2012,frenchopen,1223,Bernard Tomic,Santiago Giraldo,,,,,,,,,,,1223
+49,2012-frenchopen-1224,2012,frenchopen,1224,Jarkko Nieminen,Andy Murray,,,,,,,,,,,1224
+50,2012-frenchopen-1225,2012,frenchopen,1225,Janko Tipsarevic,Jeremy Chardy,,,,,,,,,,,1225
+51,2012-frenchopen-1226,2012,frenchopen,1226,Dmitry Tursunov,Julien Benneteau,,,,,,,,,,,1226
+52,2012-frenchopen-1227,2012,frenchopen,1227,Philipp Kohlschreiber,Leonardo Mayer,,,,,,,,,,,1227
+53,2012-frenchopen-1228,2012,frenchopen,1228,Marcos Baghdatis,Nicolas Almagro,,,,,,,,,,,1228
+54,2012-frenchopen-1229,2012,frenchopen,1229,Juan Monaco,Lukas Rosol,,,,,,,,,,,1229
+55,2012-frenchopen-1230,2012,frenchopen,1230,Jesse Levine,Milos Raonic,,,,,,,,,,,1230
+56,2012-frenchopen-1232,2012,frenchopen,1232,Denis Istomin,Rafael Nadal,,,,,,,,,,,1232
+57,2012-frenchopen-1301,2012,frenchopen,1301,Novak Djokovic,Nicolas Devilder,,,,,,,,,,,1301
+58,2012-frenchopen-1302,2012,frenchopen,1302,Andreas Seppi,Fernando Verdasco,,,,,,,,,,,1302
+59,2012-frenchopen-1303,2012,frenchopen,1303,Gilles Simon,Stanislas Wawrinka,,,,,,,,,,,1303
+60,2012-frenchopen-1304,2012,frenchopen,1304,Fabio Fognini,Jo-Wilfried Tsonga,,,,,,,,,,,1304
+61,2012-frenchopen-1305,2012,frenchopen,1305,Roger Federer,Nicolas Mahut,,,,,,,,,,,1305
+62,2012-frenchopen-1306,2012,frenchopen,1306,David Goffin,Lukasz Kubot,,,,,,,,,,,1306
+63,2012-frenchopen-1307,2012,frenchopen,1307,Juan Martin Del Potro,Marin Cilic,,,,,,,,,,,1307
+64,2012-frenchopen-1308,2012,frenchopen,1308,Kevin Anderson,Tomas Berdych,,,,,,,,,,,1308
+65,2012-frenchopen-1309,2012,frenchopen,1309,David Ferrer,Mikhail Youzhny,,,,,,,,,,,1309
+66,2012-frenchopen-1310,2012,frenchopen,1310,Marcel Granollers,Paul-Henri Mathieu,,,,,,,,,,,1310
+67,2012-frenchopen-1311,2012,frenchopen,1311,Tommy Haas,Richard Gasquet,,,,,,,,,,,1311
+68,2012-frenchopen-1312,2012,frenchopen,1312,Santiago Giraldo,Andy Murray,,,,,,,,,,,1312
+69,2012-frenchopen-1313,2012,frenchopen,1313,Janko Tipsarevic,Julien Benneteau,,,,,,,,,,,1313
+70,2012-frenchopen-1314,2012,frenchopen,1314,Leonardo Mayer,Nicolas Almagro,,,,,,,,,,,1314
+71,2012-frenchopen-1315,2012,frenchopen,1315,Juan Monaco,Milos Raonic,,,,,,,,,,,1315
+72,2012-frenchopen-1316,2012,frenchopen,1316,Eduardo Schwank,Rafael Nadal,,,,,,,,,,,1316
+73,2012-frenchopen-1401,2012,frenchopen,1401,Novak Djokovic,Andreas Seppi,,,,,,,,,,,1401
+74,2012-frenchopen-1402,2012,frenchopen,1402,Stanislas Wawrinka,Jo-Wilfried Tsonga,,,,,,,,,,,1402
+75,2012-frenchopen-1403,2012,frenchopen,1403,Roger Federer,David Goffin,,,,,,,,,,,1403
+76,2012-frenchopen-1404,2012,frenchopen,1404,Juan Martin Del Potro,Tomas Berdych,,,,,,,,,,,1404
+77,2012-frenchopen-1406,2012,frenchopen,1406,Richard Gasquet,Andy Murray,,,,,,,,,,,1406
+78,2012-frenchopen-1407,2012,frenchopen,1407,Janko Tipsarevic,Nicolas Almagro,,,,,,,,,,,1407
+79,2012-frenchopen-1408,2012,frenchopen,1408,Juan Monaco,Rafael Nadal,,,,,,,,,,,1408
+80,2012-frenchopen-1501,2012,frenchopen,1501,Novak Djokovic,Jo-Wilfried Tsonga,,,,,,,,,,,1501
+81,2012-frenchopen-1502,2012,frenchopen,1502,Roger Federer,Juan Martin Del Potro,,,,,,,,,,,1502
+82,2012-frenchopen-1503,2012,frenchopen,1503,David Ferrer,Andy Murray,,,,,,,,,,,1503
+83,2012-frenchopen-1504,2012,frenchopen,1504,Nicolas Almagro,Rafael Nadal,,,,,,,,,,,1504
+84,2012-frenchopen-1601,2012,frenchopen,1601,Novak Djokovic,Roger Federer,,,,,,,,,,,1601
+85,2012-frenchopen-1602,2012,frenchopen,1602,David Ferrer,Rafael Nadal,,,,,,,,,,,1602
+86,2012-frenchopen-1701,2012,frenchopen,1701,Novak Djokovic,Rafael Nadal,,,,,,,,,,,1701
+0,2013-frenchopen-1101,2013,frenchopen,1101,Novak Djokovic,David Goffin,,,,,,,,,,,1101
+1,2013-frenchopen-1103,2013,frenchopen,1103,Alex Kuznetsov,Lucas Pouille,,,,,,,,,,,1103
+2,2013-frenchopen-1106,2013,frenchopen,1106,Bernard Tomic,Victor Hanescu,,,,,,,,,,,1106
+3,2013-frenchopen-1108,2013,frenchopen,1108,Jiri Vesely,Philipp Kohlschreiber,,,,,,,,,,,1108
+4,2013-frenchopen-1109,2013,frenchopen,1109,Tommy Haas,Guillaume Rufin,,,,,,,,,,,1109
+5,2013-frenchopen-1110,2013,frenchopen,1110,Jack Sock,Guillermo Garcia-Lopez,,,,,,,,,,,1110
+6,2013-frenchopen-1112,2013,frenchopen,1112,Carlos Berlocq,John Isner,,,,,,,,,,,1112
+7,2013-frenchopen-1115,2013,frenchopen,1115,Fernando Verdasco,Marc Gicquel,,,,,,,,,,,1115
+8,2013-frenchopen-1116,2013,frenchopen,1116,Nicolas Mahut,Janko Tipsarevic,,,,,,,,,,,1116
+9,2013-frenchopen-1117,2013,frenchopen,1117,Rafael Nadal,Daniel Brands,,,,,,,,,,,1117
+10,2013-frenchopen-1121,2013,frenchopen,1121,Benoit Paire,Marcos Baghdatis,,,,,,,,,,,1121
+11,2013-frenchopen-1122,2013,frenchopen,1122,Lukasz Kubot,Maxime Teixeira,,,,,,,,,,,1122
+12,2013-frenchopen-1124,2013,frenchopen,1124,Jesse Levine,Kei Nishikori,,,,,,,,,,,1124
+13,2013-frenchopen-1125,2013,frenchopen,1125,Stanislas Wawrinka,Thiemo De Bakker,,,,,,,,,,,1125
+14,2013-frenchopen-1128,2013,frenchopen,1128,Albert Ramos,Jerzy Janowicz,,,,,,,,,,,1128
+15,2013-frenchopen-1129,2013,frenchopen,1129,Florian Mayer,Denis Istomin,,,,,,,,,,,1129
+16,2013-frenchopen-1130,2013,frenchopen,1130,Florent Serra,Nikolay Davydenko,,,,,,,,,,,1130
+17,2013-frenchopen-1132,2013,frenchopen,1132,Sergiy Stakhovsky,Richard Gasquet,,,,,,,,,,,1132
+18,2013-frenchopen-1133,2013,frenchopen,1133,Tomas Berdych,Gael Monfils,,,,,,,,,,,1133
+19,2013-frenchopen-1134,2013,frenchopen,1134,Ernests Gulbis,Rogerio Dutra Silva,,,,,,,,,,,1134
+20,2013-frenchopen-1137,2013,frenchopen,1137,Andreas Seppi,Leonardo Mayer,,,,,,,,,,,1137
+21,2013-frenchopen-1138,2013,frenchopen,1138,Blaz Kavcic,James Duckworth,,,,,,,,,,,1138
+22,2013-frenchopen-1139,2013,frenchopen,1139,Martin Alund,Edouard Roger-Vasselin,,,,,,,,,,,1139
+23,2013-frenchopen-1140,2013,frenchopen,1140,Andreas Haider-Maurer,Nicolas Almagro,,,,,,,,,,,1140
+24,2013-frenchopen-1141,2013,frenchopen,1141,Milos Raonic,Xavier Malisse,,,,,,,,,,,1141
+25,2013-frenchopen-1142,2013,frenchopen,1142,Steve Darcis,Michael Llodra,,,,,,,,,,,1142
+26,2013-frenchopen-1144,2013,frenchopen,1144,Illya Marchenko,Kevin Anderson,,,,,,,,,,,1144
+27,2013-frenchopen-1145,2013,frenchopen,1145,Marcel Granollers,Feliciano Lopez,,,,,,,,,,,1145
+28,2013-frenchopen-1146,2013,frenchopen,1146,Joao Sousa,Go Soeda,,,,,,,,,,,1146
+29,2013-frenchopen-1148,2013,frenchopen,1148,Marinko Matosevic,David Ferrer,,,,,,,,,,,1148
+30,2013-frenchopen-1149,2013,frenchopen,1149,Jo-Wilfried Tsonga,Aljaz Bedene,,,,,,,,,,,1149
+31,2013-frenchopen-1150,2013,frenchopen,1150,Jarkko Nieminen,Paul-Henri Mathieu,,,,,,,,,,,1150
+32,2013-frenchopen-1152,2013,frenchopen,1152,Benjamin Becker,Jeremy Chardy,,,,,,,,,,,1152
+33,2013-frenchopen-1154,2013,frenchopen,1154,Viktor Troicki,James Blake,,,,,,,,,,,1154
+34,2013-frenchopen-1156,2013,frenchopen,1156,Philipp Petzschner,Marin Cilic,,,,,,,,,,,1156
+35,2013-frenchopen-1157,2013,frenchopen,1157,Gilles Simon,Lleyton Hewitt,,,,,,,,,,,1157
+36,2013-frenchopen-1158,2013,frenchopen,1158,Adrian Mannarino,Pablo Cuevas,,,,,,,,,,,1158
+37,2013-frenchopen-1160,2013,frenchopen,1160,Lukas Lacko,Sam Querrey,,,,,,,,,,,1160
+38,2013-frenchopen-1161,2013,frenchopen,1161,Julien Benneteau,Ricardas Berankis,,,,,,,,,,,1161
+39,2013-frenchopen-1163,2013,frenchopen,1163,Somdev Devvarman,Daniel Munoz-De La Nava,,,,,,,,,,,1163
+40,2013-frenchopen-1164,2013,frenchopen,1164,Pablo Carreno-Busta,Roger Federer,,,,,,,,,,,1164
+41,2013-frenchopen-1201,2013,frenchopen,1201,Novak Djokovic,Guido Pella,,,,,,,,,,,1201
+42,2013-frenchopen-1202,2013,frenchopen,1202,Lucas Pouille,Grigor Dimitrov,,,,,,,,,,,1202
+43,2013-frenchopen-1205,2013,frenchopen,1205,Tommy Haas,Jack Sock,,,,,,,,,,,1205
+44,2013-frenchopen-1206,2013,frenchopen,1206,Ryan Harrison,John Isner,,,,,,,,,,,1206
+45,2013-frenchopen-1208,2013,frenchopen,1208,Fernando Verdasco,Janko Tipsarevic,,,,,,,,,,,1208
+46,2013-frenchopen-1209,2013,frenchopen,1209,Rafael Nadal,Martin Klizan,,,,,,,,,,,1209
+47,2013-frenchopen-1210,2013,frenchopen,1210,Lukas Rosol,Fabio Fognini,,,,,,,,,,,1210
+48,2013-frenchopen-1211,2013,frenchopen,1211,Benoit Paire,Lukasz Kubot,,,,,,,,,,,1211
+49,2013-frenchopen-1212,2013,frenchopen,1212,Grega Zemlja,Kei Nishikori,,,,,,,,,,,1212
+50,2013-frenchopen-1213,2013,frenchopen,1213,Stanislas Wawrinka,Horacio Zeballos,,,,,,,,,,,1213
+51,2013-frenchopen-1215,2013,frenchopen,1215,Denis Istomin,Nikolay Davydenko,,,,,,,,,,,1215
+52,2013-frenchopen-1216,2013,frenchopen,1216,Michal Przysiezny,Richard Gasquet,,,,,,,,,,,1216
+53,2013-frenchopen-1217,2013,frenchopen,1217,Gael Monfils,Ernests Gulbis,,,,,,,,,,,1217
+54,2013-frenchopen-1219,2013,frenchopen,1219,Andreas Seppi,Blaz Kavcic,,,,,,,,,,,1219
+55,2013-frenchopen-1220,2013,frenchopen,1220,Edouard Roger-Vasselin,Nicolas Almagro,,,,,,,,,,,1220
+56,2013-frenchopen-1221,2013,frenchopen,1221,Milos Raonic,Michael Llodra,,,,,,,,,,,1221
+57,2013-frenchopen-1224,2013,frenchopen,1224,Albert Montanes,David Ferrer,,,,,,,,,,,1224
+58,2013-frenchopen-1225,2013,frenchopen,1225,Jo-Wilfried Tsonga,Jarkko Nieminen,,,,,,,,,,,1225
+59,2013-frenchopen-1226,2013,frenchopen,1226,Roberto Bautista Agut,Jeremy Chardy,,,,,,,,,,,1226
+60,2013-frenchopen-1228,2013,frenchopen,1228,Nick Kyrgios,Marin Cilic,,,,,,,,,,,1228
+61,2013-frenchopen-1229,2013,frenchopen,1229,Gilles Simon,Pablo Cuevas,,,,,,,,,,,1229
+62,2013-frenchopen-1230,2013,frenchopen,1230,Jan Hajek,Sam Querrey,,,,,,,,,,,1230
+63,2013-frenchopen-1231,2013,frenchopen,1231,Julien Benneteau,Tobias Kamke,,,,,,,,,,,1231
+64,2013-frenchopen-1232,2013,frenchopen,1232,Somdev Devvarman,Roger Federer,,,,,,,,,,,1232
+65,2013-frenchopen-1301,2013,frenchopen,1301,Novak Djokovic,Grigor Dimitrov,,,,,,,,,,,1301
+66,2013-frenchopen-1302,2013,frenchopen,1302,Victor Hanescu,Philipp Kohlschreiber,,,,,,,,,,,1302
+67,2013-frenchopen-1303,2013,frenchopen,1303,Tommy Haas,John Isner,,,,,,,,,,,1303
+68,2013-frenchopen-1304,2013,frenchopen,1304,Mikhail Youzhny,Janko Tipsarevic,,,,,,,,,,,1304
+69,2013-frenchopen-1305,2013,frenchopen,1305,Rafael Nadal,Fabio Fognini,,,,,,,,,,,1305
+70,2013-frenchopen-1306,2013,frenchopen,1306,Benoit Paire,Kei Nishikori,,,,,,,,,,,1306
+71,2013-frenchopen-1307,2013,frenchopen,1307,Stanislas Wawrinka,Jerzy Janowicz,,,,,,,,,,,1307
+72,2013-frenchopen-1308,2013,frenchopen,1308,Nikolay Davydenko,Richard Gasquet,,,,,,,,,,,1308
+73,2013-frenchopen-1309,2013,frenchopen,1309,Gael Monfils,Tommy Robredo,,,,,,,,,,,1309
+74,2013-frenchopen-1311,2013,frenchopen,1311,Milos Raonic,Kevin Anderson,,,,,,,,,,,1311
+75,2013-frenchopen-1312,2013,frenchopen,1312,Feliciano Lopez,David Ferrer,,,,,,,,,,,1312
+76,2013-frenchopen-1313,2013,frenchopen,1313,Jo-Wilfried Tsonga,Jeremy Chardy,,,,,,,,,,,1313
+77,2013-frenchopen-1314,2013,frenchopen,1314,Viktor Troicki,Marin Cilic,,,,,,,,,,,1314
+78,2013-frenchopen-1315,2013,frenchopen,1315,Gilles Simon,Sam Querrey,,,,,,,,,,,1315
+79,2013-frenchopen-1316,2013,frenchopen,1316,Julien Benneteau,Roger Federer,,,,,,,,,,,1316
+80,2013-frenchopen-1401,2013,frenchopen,1401,Novak Djokovic,Philipp Kohlschreiber,,,,,,,,,,,1401
+81,2013-frenchopen-1402,2013,frenchopen,1402,Tommy Haas,Mikhail Youzhny,,,,,,,,,,,1402
+82,2013-frenchopen-1403,2013,frenchopen,1403,Rafael Nadal,Kei Nishikori,,,,,,,,,,,1403
+83,2013-frenchopen-1404,2013,frenchopen,1404,Stanislas Wawrinka,Richard Gasquet,,,,,,,,,,,1404
+84,2013-frenchopen-1405,2013,frenchopen,1405,Tommy Robredo,Nicolas Almagro,,,,,,,,,,,1405
+85,2013-frenchopen-1406,2013,frenchopen,1406,Kevin Anderson,David Ferrer,,,,,,,,,,,1406
+86,2013-frenchopen-1407,2013,frenchopen,1407,Jo-Wilfried Tsonga,Viktor Troicki,,,,,,,,,,,1407
+87,2013-frenchopen-1408,2013,frenchopen,1408,Gilles Simon,Roger Federer,,,,,,,,,,,1408
+88,2013-frenchopen-1501,2013,frenchopen,1501,Novak Djokovic,Tommy Haas,,,,,,,,,,,1501
+89,2013-frenchopen-1503,2013,frenchopen,1503,Tommy Robredo,David Ferrer,,,,,,,,,,,1503
+90,2013-frenchopen-1504,2013,frenchopen,1504,Jo-Wilfried Tsonga,Roger Federer,,,,,,,,,,,1504
+91,2013-frenchopen-1601,2013,frenchopen,1601,Novak Djokovic,Rafael Nadal,,,,,,,,,,,1601
+92,2013-frenchopen-1602,2013,frenchopen,1602,David Ferrer,Jo-Wilfried Tsonga,,,,,,,,,,,1602
+93,2013-frenchopen-1701,2013,frenchopen,1701,Rafael Nadal,David Ferrer,,,,,,,,,,,1701
+0,2014-frenchopen-1101,2014,frenchopen,1101,Rafael Nadal,Robby Ginepri,,,,,,,,,,,1101
+1,2014-frenchopen-1102,2014,frenchopen,1102,Paul-Henri Mathieu,Dominic Thiem,,,,,,,,,,,1102
+2,2014-frenchopen-1103,2014,frenchopen,1103,James Duckworth,Leonardo Mayer,,,,,,,,,,,1103
+3,2014-frenchopen-1104,2014,frenchopen,1104,Teymuraz Gabashvili,Vasek Pospisil,,,,,,,,,,,1104
+4,2014-frenchopen-1105,2014,frenchopen,1105,Nicolas Almagro,Jack Sock,,,,,,,,,,,1105
+5,2014-frenchopen-1106,2014,frenchopen,1106,Steve Johnson,Laurent Lokoli,,,,,,,,,,,1106
+6,2014-frenchopen-1107,2014,frenchopen,1107,Dusan Lajovic,Federico Delbonis,,,,,,,,,,,1107
+7,2014-frenchopen-1108,2014,frenchopen,1108,Jurgen Zopp,Tommy Haas,,,,,,,,,,,1108
+8,2014-frenchopen-1109,2014,frenchopen,1109,Grigor Dimitrov,Ivo Karlovic,,,,,,,,,,,1109
+9,2014-frenchopen-1110,2014,frenchopen,1110,Andreas Haider-Maurer,Daniel Brands,,,,,,,,,,,1110
+10,2014-frenchopen-1111,2014,frenchopen,1111,Axel Michon,Bradley Klahn,,,,,,,,,,,1111
+11,2014-frenchopen-1112,2014,frenchopen,1112,Stephane Robert,Kevin Anderson,,,,,,,,,,,1112
+12,2014-frenchopen-1113,2014,frenchopen,1113,Andreas Seppi,Santiago Giraldo,,,,,,,,,,,1113
+13,2014-frenchopen-1114,2014,frenchopen,1114,Juan Monaco,Lucas Pouille,,,,,,,,,,,1114
+14,2014-frenchopen-1115,2014,frenchopen,1115,Simone Bolelli,Andrea Arnaboldi,,,,,,,,,,,1115
+15,2014-frenchopen-1116,2014,frenchopen,1116,Igor Sijsling,David Ferrer,,,,,,,,,,,1116
+16,2014-frenchopen-1117,2014,frenchopen,1117,Stan Wawrinka,Guillermo Garcia-Lopez,,,,,,,,,,,1117
+17,2014-frenchopen-1118,2014,frenchopen,1118,Adrian Mannarino,Yen-Hsun Lu,,,,,,,,,,,1118
+18,2014-frenchopen-1119,2014,frenchopen,1119,Donald Young,Dudi Sela,,,,,,,,,,,1119
+19,2014-frenchopen-1120,2014,frenchopen,1120,Damir Dzumhur,Feliciano Lopez,,,,,,,,,,,1120
+20,2014-frenchopen-1121,2014,frenchopen,1121,Gael Monfils,Victor Hanescu,,,,,,,,,,,1121
+21,2014-frenchopen-1122,2014,frenchopen,1122,Albano Olivetti,Jan-Lennard Struff,,,,,,,,,,,1122
+22,2014-frenchopen-1123,2014,frenchopen,1123,Benjamin Becker,Thomaz Bellucci,,,,,,,,,,,1123
+23,2014-frenchopen-1124,2014,frenchopen,1124,Andreas Beck,Fabio Fognini,,,,,,,,,,,1124
+24,2014-frenchopen-1125,2014,frenchopen,1125,Richard Gasquet,Bernard Tomic,,,,,,,,,,,1125
+25,2014-frenchopen-1126,2014,frenchopen,1126,Lleyton Hewitt,Carlos Berlocq,,,,,,,,,,,1126
+26,2014-frenchopen-1127,2014,frenchopen,1127,Matthew Ebden,Pablo Cuevas,,,,,,,,,,,1127
+27,2014-frenchopen-1128,2014,frenchopen,1128,Michael Llodra,Fernando Verdasco,,,,,,,,,,,1128
+28,2014-frenchopen-1129,2014,frenchopen,1129,Philipp Kohlschreiber,Pere Riba,,,,,,,,,,,1129
+29,2014-frenchopen-1130,2014,frenchopen,1130,Sergiy Stakhovsky,Denis Istomin,,,,,,,,,,,1130
+30,2014-frenchopen-1131,2014,frenchopen,1131,Marinko Matosevic,Dustin Brown,,,,,,,,,,,1131
+31,2014-frenchopen-1132,2014,frenchopen,1132,Andrey Golubev,Andy Murray,,,,,,,,,,,1132
+32,2014-frenchopen-1133,2014,frenchopen,1133,Tomas Berdych,Peter Polansky,,,,,,,,,,,1133
+33,2014-frenchopen-1134,2014,frenchopen,1134,Somdev Devvarman,Aleksandr Nedovyesov,,,,,,,,,,,1134
+34,2014-frenchopen-1135,2014,frenchopen,1135,Alejandro Falla,Benoit Paire,,,,,,,,,,,1135
+35,2014-frenchopen-1136,2014,frenchopen,1136,Paolo Lorenzi,Roberto Bautista Agut,,,,,,,,,,,1136
+36,2014-frenchopen-1137,2014,frenchopen,1137,Tommy Robredo,James Ward,,,,,,,,,,,1137
+37,2014-frenchopen-1138,2014,frenchopen,1138,Albert Montanes,Kenny De Schepper,,,,,,,,,,,1138
+38,2014-frenchopen-1139,2014,frenchopen,1139,Nicolas Mahut,Mikhail Kukushkin,,,,,,,,,,,1139
+39,2014-frenchopen-1140,2014,frenchopen,1140,Pierre-Hugues Herbert,John Isner,,,,,,,,,,,1140
+40,2014-frenchopen-1141,2014,frenchopen,1141,Mikhail Youzhny,Pablo Carreno Busta,,,,,,,,,,,1141
+41,2014-frenchopen-1142,2014,frenchopen,1142,Radek Stepanek,Facundo Arguello,,,,,,,,,,,1142
+42,2014-frenchopen-1143,2014,frenchopen,1143,Facundo Bagnis,Julien Benneteau,,,,,,,,,,,1143
+43,2014-frenchopen-1144,2014,frenchopen,1144,Lukasz Kubot,Ernests Gulbis,,,,,,,,,,,1144
+44,2014-frenchopen-1145,2014,frenchopen,1145,Dmitry Tursunov,Potito Starace,,,,,,,,,,,1145
+45,2014-frenchopen-1146,2014,frenchopen,1146,Filippo Volandri,Sam Querrey,,,,,,,,,,,1146
+46,2014-frenchopen-1147,2014,frenchopen,1147,Gastao Elias,Ds.Schwartzman,,,,,,,,,,,1147
+47,2014-frenchopen-1148,2014,frenchopen,1148,Lukas Lacko,Roger Federer,,,,,,,,,,,1148
+48,2014-frenchopen-1149,2014,frenchopen,1149,Milos Raonic,Nick Kyrgios,,,,,,,,,,,1149
+49,2014-frenchopen-1150,2014,frenchopen,1150,Lukas Rosol,Jiri Vesely,,,,,,,,,,,1150
+50,2014-frenchopen-1151,2014,frenchopen,1151,Michael Russell,Alejandro Gonzalez,,,,,,,,,,,1151
+51,2014-frenchopen-1152,2014,frenchopen,1152,Ante Pavic,Gilles Simon,,,,,,,,,,,1152
+52,2014-frenchopen-1153,2014,frenchopen,1153,Alexandr Dolgopolov,Albert Ramos,,,,,,,,,,,1153
+53,2014-frenchopen-1154,2014,frenchopen,1154,Ivan Dodig,Marcel Granollers,,,,,,,,,,,1154
+54,2014-frenchopen-1155,2014,frenchopen,1155,Robin Haase,Nikolay Davydenko,,,,,,,,,,,1155
+55,2014-frenchopen-1156,2014,frenchopen,1156,Martin Klizan,Kei Nishikori,,,,,,,,,,,1156
+56,2014-frenchopen-1157,2014,frenchopen,1157,Jo-Wilfried Tsonga,Edouard Roger-Vasselin,,,,,,,,,,,1157
+57,2014-frenchopen-1158,2014,frenchopen,1158,David Goffin,Jurgen Melzer,,,,,,,,,,,1158
+58,2014-frenchopen-1159,2014,frenchopen,1159,Jarkko Nieminen,Michal Przysiezny,,,,,,,,,,,1159
+59,2014-frenchopen-1160,2014,frenchopen,1160,Victor Estrella Burgos,Jerzy Janowicz,,,,,,,,,,,1160
+60,2014-frenchopen-1161,2014,frenchopen,1161,Marin Cilic,Pablo Andujar,,,,,,,,,,,1161
+61,2014-frenchopen-1162,2014,frenchopen,1162,Miloslav Mecir,Tobias Kamke,,,,,,,,,,,1162
+62,2014-frenchopen-1163,2014,frenchopen,1163,Jeremy Chardy,Daniel Gimeno-Traver,,,,,,,,,,,1163
+63,2014-frenchopen-1164,2014,frenchopen,1164,Joao Sousa,Novak Djokovic,,,,,,,,,,,1164
+64,2014-frenchopen-1201,2014,frenchopen,1201,Rafael Nadal,Dominic Thiem,,,,,,,,,,,1201
+65,2014-frenchopen-1202,2014,frenchopen,1202,Leonardo Mayer,Teymuraz Gabashvili,,,,,,,,,,,1202
+66,2014-frenchopen-1203,2014,frenchopen,1203,Jack Sock,Steve Johnson,,,,,,,,,,,1203
+67,2014-frenchopen-1204,2014,frenchopen,1204,Dusan Lajovic,Jurgen Zopp,,,,,,,,,,,1204
+68,2014-frenchopen-1205,2014,frenchopen,1205,Ivo Karlovic,Andreas Haider-Maurer,,,,,,,,,,,1205
+69,2014-frenchopen-1206,2014,frenchopen,1206,Axel Michon,Kevin Anderson,,,,,,,,,,,1206
+70,2014-frenchopen-1207,2014,frenchopen,1207,Andreas Seppi,Juan Monaco,,,,,,,,,,,1207
+71,2014-frenchopen-1208,2014,frenchopen,1208,Simone Bolelli,David Ferrer,,,,,,,,,,,1208
+72,2014-frenchopen-1209,2014,frenchopen,1209,Guillermo Garcia-Lopez,Adrian Mannarino,,,,,,,,,,,1209
+73,2014-frenchopen-1210,2014,frenchopen,1210,Donald Young,Feliciano Lopez,,,,,,,,,,,1210
+74,2014-frenchopen-1211,2014,frenchopen,1211,Gael Monfils,Jan-Lennard Struff,,,,,,,,,,,1211
+75,2014-frenchopen-1212,2014,frenchopen,1212,Thomaz Bellucci,Fabio Fognini,,,,,,,,,,,1212
+76,2014-frenchopen-1213,2014,frenchopen,1213,Richard Gasquet,Carlos Berlocq,,,,,,,,,,,1213
+77,2014-frenchopen-1214,2014,frenchopen,1214,Pablo Cuevas,Fernando Verdasco,,,,,,,,,,,1214
+78,2014-frenchopen-1215,2014,frenchopen,1215,Philipp Kohlschreiber,Denis Istomin,,,,,,,,,,,1215
+79,2014-frenchopen-1216,2014,frenchopen,1216,Marinko Matosevic,Andy Murray,,,,,,,,,,,1216
+80,2014-frenchopen-1217,2014,frenchopen,1217,Tomas Berdych,Aleksandr Nedovyesov,,,,,,,,,,,1217
+81,2014-frenchopen-1218,2014,frenchopen,1218,Benoit Paire,Roberto Bautista Agut,,,,,,,,,,,1218
+82,2014-frenchopen-1219,2014,frenchopen,1219,Tommy Robredo,Kenny De Schepper,,,,,,,,,,,1219
+83,2014-frenchopen-1220,2014,frenchopen,1220,Mikhail Kukushkin,John Isner,,,,,,,,,,,1220
+84,2014-frenchopen-1221,2014,frenchopen,1221,Mikhail Youzhny,Radek Stepanek,,,,,,,,,,,1221
+85,2014-frenchopen-1222,2014,frenchopen,1222,Facundo Bagnis,Ernests Gulbis,,,,,,,,,,,1222
+86,2014-frenchopen-1223,2014,frenchopen,1223,Dmitry Tursunov,Sam Querrey,,,,,,,,,,,1223
+87,2014-frenchopen-1224,2014,frenchopen,1224,Ds.Schwartzman,Roger Federer,,,,,,,,,,,1224
+88,2014-frenchopen-1225,2014,frenchopen,1225,Milos Raonic,Jiri Vesely,,,,,,,,,,,1225
+89,2014-frenchopen-1226,2014,frenchopen,1226,Alejandro Gonzalez,Gilles Simon,,,,,,,,,,,1226
+90,2014-frenchopen-1227,2014,frenchopen,1227,Alexandr Dolgopolov,Marcel Granollers,,,,,,,,,,,1227
+91,2014-frenchopen-1228,2014,frenchopen,1228,Robin Haase,Martin Klizan,,,,,,,,,,,1228
+92,2014-frenchopen-1229,2014,frenchopen,1229,Jo-Wilfried Tsonga,Jurgen Melzer,,,,,,,,,,,1229
+93,2014-frenchopen-1230,2014,frenchopen,1230,Jarkko Nieminen,Jerzy Janowicz,,,,,,,,,,,1230
+94,2014-frenchopen-1231,2014,frenchopen,1231,Marin Cilic,Tobias Kamke,,,,,,,,,,,1231
+95,2014-frenchopen-1232,2014,frenchopen,1232,Jeremy Chardy,Novak Djokovic,,,,,,,,,,,1232
+96,2014-frenchopen-1301,2014,frenchopen,1301,Rafael Nadal,Leonardo Mayer,,,,,,,,,,,1301
+97,2014-frenchopen-1302,2014,frenchopen,1302,Jack Sock,Dusan Lajovic,,,,,,,,,,,1302
+98,2014-frenchopen-1303,2014,frenchopen,1303,Ivo Karlovic,Kevin Anderson,,,,,,,,,,,1303
+99,2014-frenchopen-1304,2014,frenchopen,1304,Andreas Seppi,David Ferrer,,,,,,,,,,,1304
+100,2014-frenchopen-1305,2014,frenchopen,1305,Guillermo Garcia-Lopez,Donald Young,,,,,,,,,,,1305
+101,2014-frenchopen-1306,2014,frenchopen,1306,Gael Monfils,Fabio Fognini,,,,,,,,,,,1306
+102,2014-frenchopen-1307,2014,frenchopen,1307,Richard Gasquet,Fernando Verdasco,,,,,,,,,,,1307
+103,2014-frenchopen-1308,2014,frenchopen,1308,Philipp Kohlschreiber,Andy Murray,,,,,,,,,,,1308
+104,2014-frenchopen-1309,2014,frenchopen,1309,Tomas Berdych,Roberto Bautista Agut,,,,,,,,,,,1309
+105,2014-frenchopen-1310,2014,frenchopen,1310,Tommy Robredo,John Isner,,,,,,,,,,,1310
+106,2014-frenchopen-1311,2014,frenchopen,1311,Radek Stepanek,Ernests Gulbis,,,,,,,,,,,1311
+107,2014-frenchopen-1312,2014,frenchopen,1312,Dmitry Tursunov,Roger Federer,,,,,,,,,,,1312
+108,2014-frenchopen-1313,2014,frenchopen,1313,Milos Raonic,Gilles Simon,,,,,,,,,,,1313
+109,2014-frenchopen-1314,2014,frenchopen,1314,Marcel Granollers,Martin Klizan,,,,,,,,,,,1314
+110,2014-frenchopen-1315,2014,frenchopen,1315,Jo-Wilfried Tsonga,Jerzy Janowicz,,,,,,,,,,,1315
+111,2014-frenchopen-1316,2014,frenchopen,1316,Marin Cilic,Novak Djokovic,,,,,,,,,,,1316
+112,2014-frenchopen-1401,2014,frenchopen,1401,Rafael Nadal,Dusan Lajovic,,,,,,,,,,,1401
+113,2014-frenchopen-1402,2014,frenchopen,1402,Kevin Anderson,David Ferrer,,,,,,,,,,,1402
+114,2014-frenchopen-1403,2014,frenchopen,1403,Guillermo Garcia-Lopez,Gael Monfils,,,,,,,,,,,1403
+115,2014-frenchopen-1404,2014,frenchopen,1404,Fernando Verdasco,Andy Murray,,,,,,,,,,,1404
+116,2014-frenchopen-1405,2014,frenchopen,1405,Tomas Berdych,John Isner,,,,,,,,,,,1405
+117,2014-frenchopen-1406,2014,frenchopen,1406,Ernests Gulbis,Roger Federer,,,,,,,,,,,1406
+118,2014-frenchopen-1407,2014,frenchopen,1407,Milos Raonic,Marcel Granollers,,,,,,,,,,,1407
+119,2014-frenchopen-1408,2014,frenchopen,1408,Jo-Wilfried Tsonga,Novak Djokovic,,,,,,,,,,,1408
+120,2014-frenchopen-1501,2014,frenchopen,1501,Rafael Nadal,David Ferrer,,,,,,,,,,,1501
+121,2014-frenchopen-1502,2014,frenchopen,1502,Gael Monfils,Andy Murray,,,,,,,,,,,1502
+122,2014-frenchopen-1503,2014,frenchopen,1503,Tomas Berdych,Ernests Gulbis,,,,,,,,,,,1503
+123,2014-frenchopen-1504,2014,frenchopen,1504,Milos Raonic,Novak Djokovic,,,,,,,,,,,1504
+124,2014-frenchopen-1601,2014,frenchopen,1601,Rafael Nadal,Andy Murray,,,,,,,,,,,1601
+125,2014-frenchopen-1602,2014,frenchopen,1602,Ernests Gulbis,Novak Djokovic,,,,,,,,,,,1602
+126,2014-frenchopen-1701,2014,frenchopen,1701,Rafael Nadal,Novak Djokovic,,,,,,,,,,,1701
+0,2015-frenchopen-1101,2015,frenchopen,1101,Novak Djokovic,Jarkko Nieminen,,,,,,,,,,,1101
+1,2015-frenchopen-1102,2015,frenchopen,1102,Gilles Muller,Paolo Lorenzi,,,,,,,,,,,1102
+2,2015-frenchopen-1104,2015,frenchopen,1104,Luca Vanni,Bernard Tomic,,,,,,,,,,,1104
+3,2015-frenchopen-1105,2015,frenchopen,1105,Richard Gasquet,Germain Gigounon,,,,,,,,,,,1105
+4,2015-frenchopen-1108,2015,frenchopen,1108,Tim Smyczek,Kevin Anderson,,,,,,,,,,,1108
+5,2015-frenchopen-1109,2015,frenchopen,1109,Grigor Dimitrov,Jack Sock,,,,,,,,,,,1109
+6,2015-frenchopen-1111,2015,frenchopen,1111,Borna Coric,Sam Querrey,,,,,,,,,,,1111
+7,2015-frenchopen-1113,2015,frenchopen,1113,Adrian Mannarino,Jurgen Melzer,,,,,,,,,,,1113
+8,2015-frenchopen-1115,2015,frenchopen,1115,Nicolas Almagro,Alexandr Dolgopolov,,,,,,,,,,,1115
+9,2015-frenchopen-1116,2015,frenchopen,1116,Quentin Halys,Rafael Nadal,,,,,,,,,,,1116
+10,2015-frenchopen-1117,2015,frenchopen,1117,Andy Murray,Facundo Arguello,,,,,,,,,,,1117
+11,2015-frenchopen-1118,2015,frenchopen,1118,Vasek Pospisil,Joao Sousa,,,,,,,,,,,1118
+12,2015-frenchopen-1119,2015,frenchopen,1119,Kyle Edmund,Stephane Robert,,,,,,,,,,,1119
+13,2015-frenchopen-1120,2015,frenchopen,1120,Denis Istomin,Nick Kyrgios,,,,,,,,,,,1120
+14,2015-frenchopen-1121,2015,frenchopen,1121,David Goffin,Filip Krajinovic,,,,,,,,,,,1121
+15,2015-frenchopen-1123,2015,frenchopen,1123,Jeremy Chardy,Michael Berrer,,,,,,,,,,,1123
+16,2015-frenchopen-1124,2015,frenchopen,1124,Andreas Seppi,John Isner,,,,,,,,,,,1124
+17,2015-frenchopen-1125,2015,frenchopen,1125,Marin Cilic,Robin Haase,,,,,,,,,,,1125
+18,2015-frenchopen-1126,2015,frenchopen,1126,James Duckworth,Andrea Arnaboldi,,,,,,,,,,,1126
+19,2015-frenchopen-1127,2015,frenchopen,1127,Jerzy Janowicz,Maxime Hamou,,,,,,,,,,,1127
+20,2015-frenchopen-1128,2015,frenchopen,1128,Jiri Vesely,Leonardo Mayer,,,,,,,,,,,1128
+21,2015-frenchopen-1132,2015,frenchopen,1132,Lukas Lacko,David Ferrer,,,,,,,,,,,1132
+22,2015-frenchopen-1133,2015,frenchopen,1133,Kei Nishikori,Paul Henri Mathieu,,,,,,,,,,,1133
+23,2015-frenchopen-1137,2015,frenchopen,1137,Roberto Bautista Agut,Florian Mayer,,,,,,,,,,,1137
+24,2015-frenchopen-1138,2015,frenchopen,1138,Elias Ymer,Lukas Rosol,,,,,,,,,,,1138
+25,2015-frenchopen-1140,2015,frenchopen,1140,Teymuraz Gabashvili,Feliciano Lopez,,,,,,,,,,,1140
+26,2015-frenchopen-1141,2015,frenchopen,1141,Jo Wilfried Tsonga,Christian Lindell,,,,,,,,,,,1141
+27,2015-frenchopen-1142,2015,frenchopen,1142,Mikhail Kukushkin,Dudi Sela,,,,,,,,,,,1142
+28,2015-frenchopen-1144,2015,frenchopen,1144,Go Soeda,Philipp Kohlschreiber,,,,,,,,,,,1144
+29,2015-frenchopen-1145,2015,frenchopen,1145,Fabio Fognini,Tatsuma Ito,,,,,,,,,,,1145
+30,2015-frenchopen-1146,2015,frenchopen,1146,Gastao Elias,Benoit Paire,,,,,,,,,,,1146
+31,2015-frenchopen-1148,2015,frenchopen,1148,Yoshihito Nishioka,Tomas Berdych,,,,,,,,,,,1148
+32,2015-frenchopen-1149,2015,frenchopen,1149,Stan Wawrinka,Marsel Ilhan,,,,,,,,,,,1149
+33,2015-frenchopen-1152,2015,frenchopen,1152,Steve Johnson,Guillermo Garcia Lopez,,,,,,,,,,,1152
+34,2015-frenchopen-1153,2015,frenchopen,1153,Ernests Gulbis,Igor Sijsling,,,,,,,,,,,1153
+35,2015-frenchopen-1154,2015,frenchopen,1154,Nicolas Mahut,Kimmer Coppejans,,,,,,,,,,,1154
+36,2015-frenchopen-1155,2015,frenchopen,1155,Frances Tiafoe,Martin Klizan,,,,,,,,,,,1155
+37,2015-frenchopen-1156,2015,frenchopen,1156,Lucas Pouille,Gilles Simon,,,,,,,,,,,1156
+38,2015-frenchopen-1157,2015,frenchopen,1157,Gael Monfils,Edouard Roger Vasselin,,,,,,,,,,,1157
+39,2015-frenchopen-1159,2015,frenchopen,1159,Dominic Thiem,Aljaz Bedene,,,,,,,,,,,1159
+40,2015-frenchopen-1160,2015,frenchopen,1160,Sam Groth,Pablo Cuevas,,,,,,,,,,,1160
+41,2015-frenchopen-1161,2015,frenchopen,1161,Ivo Karlovic,Marcos Baghdatis,,,,,,,,,,,1161
+42,2015-frenchopen-1162,2015,frenchopen,1162,Damir Dzumhur,Mikhail Youzhny,,,,,,,,,,,1162
+43,2015-frenchopen-1163,2015,frenchopen,1163,Marcel Granollers,Matthias Bachinger,,,,,,,,,,,1163
+44,2015-frenchopen-1164,2015,frenchopen,1164,Alejandro Falla,Roger Federer,,,,,,,,,,,1164
+45,2015-frenchopen-1201,2015,frenchopen,1201,Novak Djokovic,Gilles Muller,,,,,,,,,,,1201
+46,2015-frenchopen-1202,2015,frenchopen,1202,Thanasi Kokkinakis,Bernard Tomic,,,,,,,,,,,1202
+47,2015-frenchopen-1203,2015,frenchopen,1203,Richard Gasquet,Carlos Berlocq,,,,,,,,,,,1203
+48,2015-frenchopen-1204,2015,frenchopen,1204,Yen Hsun Lu,Kevin Anderson,,,,,,,,,,,1204
+49,2015-frenchopen-1205,2015,frenchopen,1205,Jack Sock,Pablo Carreno Busta,,,,,,,,,,,1205
+50,2015-frenchopen-1206,2015,frenchopen,1206,Borna Coric,Tommy Robredo,,,,,,,,,,,1206
+51,2015-frenchopen-1207,2015,frenchopen,1207,Jurgen Melzer,Andrey Kuznetsov,,,,,,,,,,,1207
+52,2015-frenchopen-1208,2015,frenchopen,1208,Nicolas Almagro,Rafael Nadal,,,,,,,,,,,1208
+53,2015-frenchopen-1209,2015,frenchopen,1209,Andy Murray,Joao Sousa,,,,,,,,,,,1209
+54,2015-frenchopen-1211,2015,frenchopen,1211,David Goffin,Santiago Giraldo,,,,,,,,,,,1211
+55,2015-frenchopen-1212,2015,frenchopen,1212,Jeremy Chardy,John Isner,,,,,,,,,,,1212
+56,2015-frenchopen-1213,2015,frenchopen,1213,Marin Cilic,Andrea Arnaboldi,,,,,,,,,,,1213
+57,2015-frenchopen-1216,2015,frenchopen,1216,Daniel Gimeno Traver,David Ferrer,,,,,,,,,,,1216
+58,2015-frenchopen-1217,2015,frenchopen,1217,Kei Nishikori,Thomaz Bellucci,,,,,,,,,,,1217
+59,2015-frenchopen-1218,2015,frenchopen,1218,Benjamin Becker,Fernando Verdasco,,,,,,,,,,,1218
+60,2015-frenchopen-1220,2015,frenchopen,1220,Juan Monaco,Teymuraz Gabashvili,,,,,,,,,,,1220
+61,2015-frenchopen-1221,2015,frenchopen,1221,Jo Wilfried Tsonga,Dudi Sela,,,,,,,,,,,1221
+62,2015-frenchopen-1222,2015,frenchopen,1222,Pablo Andujar,Philipp Kohlschreiber,,,,,,,,,,,1222
+63,2015-frenchopen-1223,2015,frenchopen,1223,Fabio Fognini,Benoit Paire,,,,,,,,,,,1223
+64,2015-frenchopen-1224,2015,frenchopen,1224,Radek Stepanek,Tomas Berdych,,,,,,,,,,,1224
+65,2015-frenchopen-1225,2015,frenchopen,1225,Stan Wawrinka,Dusan Lajovic,,,,,,,,,,,1225
+66,2015-frenchopen-1227,2015,frenchopen,1227,Ernests Gulbis,Nicolas Mahut,,,,,,,,,,,1227
+67,2015-frenchopen-1228,2015,frenchopen,1228,Martin Klizan,Gilles Simon,,,,,,,,,,,1228
+68,2015-frenchopen-1229,2015,frenchopen,1229,Gael Monfils,Diego Schwartzman,,,,,,,,,,,1229
+69,2015-frenchopen-1230,2015,frenchopen,1230,Dominic Thiem,Pablo Cuevas,,,,,,,,,,,1230
+70,2015-frenchopen-1231,2015,frenchopen,1231,Marcos Baghdatis,Damir Dzumhur,,,,,,,,,,,1231
+71,2015-frenchopen-1232,2015,frenchopen,1232,Marcel Granollers,Roger Federer,,,,,,,,,,,1232
+72,2015-frenchopen-1301,2015,frenchopen,1301,Novak Djokovic,Thanasi Kokkinakis,,,,,,,,,,,1301
+73,2015-frenchopen-1302,2015,frenchopen,1302,Richard Gasquet,Kevin Anderson,,,,,,,,,,,1302
+74,2015-frenchopen-1303,2015,frenchopen,1303,Jack Sock,Borna Coric,,,,,,,,,,,1303
+75,2015-frenchopen-1304,2015,frenchopen,1304,Andrey Kuznetsov,Rafael Nadal,,,,,,,,,,,1304
+76,2015-frenchopen-1305,2015,frenchopen,1305,Andy Murray,Nick Kyrgios,,,,,,,,,,,1305
+77,2015-frenchopen-1306,2015,frenchopen,1306,David Goffin,Jeremy Chardy,,,,,,,,,,,1306
+78,2015-frenchopen-1307,2015,frenchopen,1307,Marin Cilic,Leonardo Mayer,,,,,,,,,,,1307
+79,2015-frenchopen-1308,2015,frenchopen,1308,Simone Bolelli,David Ferrer,,,,,,,,,,,1308
+80,2015-frenchopen-1310,2015,frenchopen,1310,Lukas Rosol,Teymuraz Gabashvili,,,,,,,,,,,1310
+81,2015-frenchopen-1311,2015,frenchopen,1311,Jo Wilfried Tsonga,Pablo Andujar,,,,,,,,,,,1311
+82,2015-frenchopen-1312,2015,frenchopen,1312,Benoit Paire,Tomas Berdych,,,,,,,,,,,1312
+83,2015-frenchopen-1313,2015,frenchopen,1313,Stan Wawrinka,Steve Johnson,,,,,,,,,,,1313
+84,2015-frenchopen-1314,2015,frenchopen,1314,Nicolas Mahut,Gilles Simon,,,,,,,,,,,1314
+85,2015-frenchopen-1315,2015,frenchopen,1315,Gael Monfils,Pablo Cuevas,,,,,,,,,,,1315
+86,2015-frenchopen-1316,2015,frenchopen,1316,Damir Dzumhur,Roger Federer,,,,,,,,,,,1316
+87,2015-frenchopen-1401,2015,frenchopen,1401,Novak Djokovic,Richard Gasquet,,,,,,,,,,,1401
+88,2015-frenchopen-1402,2015,frenchopen,1402,Jack Sock,Rafael Nadal,,,,,,,,,,,1402
+89,2015-frenchopen-1403,2015,frenchopen,1403,Andy Murray,Jeremy Chardy,,,,,,,,,,,1403
+90,2015-frenchopen-1404,2015,frenchopen,1404,Marin Cilic,David Ferrer,,,,,,,,,,,1404
+91,2015-frenchopen-1405,2015,frenchopen,1405,Kei Nishikori,Teymuraz Gabashvili,,,,,,,,,,,1405
+92,2015-frenchopen-1406,2015,frenchopen,1406,Jo Wilfried Tsonga,Tomas Berdych,,,,,,,,,,,1406
+93,2015-frenchopen-1407,2015,frenchopen,1407,Stan Wawrinka,Gilles Simon,,,,,,,,,,,1407
+94,2015-frenchopen-1408,2015,frenchopen,1408,Gael Monfils,Roger Federer,,,,,,,,,,,1408
+95,2015-frenchopen-1501,2015,frenchopen,1501,Novak Djokovic,Rafael Nadal,,,,,,,,,,,1501
+96,2015-frenchopen-1502,2015,frenchopen,1502,Andy Murray,David Ferrer,,,,,,,,,,,1502
+97,2015-frenchopen-1503,2015,frenchopen,1503,Kei Nishikori,Jo Wilfried Tsonga,,,,,,,,,,,1503
+98,2015-frenchopen-1504,2015,frenchopen,1504,Stan Wawrinka,Roger Federer,,,,,,,,,,,1504
+99,2015-frenchopen-1601,2015,frenchopen,1601,Novak Djokovic,Andy Murray,,,,,,,,,,,1601
+100,2015-frenchopen-1602,2015,frenchopen,1602,Jo Wilfried Tsonga,Stan Wawrinka,,,,,,,,,,,1602
+101,2015-frenchopen-1701,2015,frenchopen,1701,Novak Djokovic,Stan Wawrinka,,,,,,,,,,,1701
+0,2016-frenchopen-1101,2016,frenchopen,1101,Novak Djokovic,Yen Hsun Lu,,,,,,,,,,,1101
+1,2016-frenchopen-1103,2016,frenchopen,1103,Gerald Melzer,Aljaz Bedene,,,,,,,,,,,1103
+2,2016-frenchopen-1105,2016,frenchopen,1105,Bernard Tomic,Brian Baker,,,,,,,,,,,1105
+3,2016-frenchopen-1107,2016,frenchopen,1107,Paul Henri Mathieu,Santiago Giraldo,,,,,,,,,,,1107
+4,2016-frenchopen-1109,2016,frenchopen,1109,David Ferrer,Evgeny Donskoy,,,,,,,,,,,1109
+5,2016-frenchopen-1114,2016,frenchopen,1114,Hyeon Chung,Quentin Halys,,,,,,,,,,,1114
+6,2016-frenchopen-1116,2016,frenchopen,1116,Vasek Pospisil,Tomas Berdych,,,,,,,,,,,1116
+7,2016-frenchopen-1117,2016,frenchopen,1117,Rafael Nadal,Sam Groth,,,,,,,,,,,1117
+8,2016-frenchopen-1119,2016,frenchopen,1119,Nicolas Mahut,Ricardas Berankis,,,,,,,,,,,1119
+9,2016-frenchopen-1121,2016,frenchopen,1121,Kevin Anderson,Stephane Robert,,,,,,,,,,,1121
+10,2016-frenchopen-1124,2016,frenchopen,1124,Inigo Cervantes,Dominic Thiem,,,,,,,,,,,1124
+11,2016-frenchopen-1125,2016,frenchopen,1125,David Goffin,Gregoire Barrere,,,,,,,,,,,1125
+12,2016-frenchopen-1128,2016,frenchopen,1128,Nicolas Almagro,Philipp Kohlschreiber,,,,,,,,,,,1128
+13,2016-frenchopen-1132,2016,frenchopen,1132,Jan Lennard Struff,Jo Wilfried Tsonga,,,,,,,,,,,1132
+14,2016-frenchopen-1133,2016,frenchopen,1133,Milos Raonic,Janko Tipsarevic,,,,,,,,,,,1133
+15,2016-frenchopen-1134,2016,frenchopen,1134,Mikhail Kukushkin,Adrian Mannarino,,,,,,,,,,,1134
+16,2016-frenchopen-1136,2016,frenchopen,1136,Julien Benneteau,Lucas Pouille,,,,,,,,,,,1136
+17,2016-frenchopen-1137,2016,frenchopen,1137,Jack Sock,Robin Haase,,,,,,,,,,,1137
+18,2016-frenchopen-1138,2016,frenchopen,1138,Dudi Sela,Dustin Brown,,,,,,,,,,,1138
+19,2016-frenchopen-1140,2016,frenchopen,1140,Marco Trungelliti,Marin Cilic,,,,,,,,,,,1140
+20,2016-frenchopen-1141,2016,frenchopen,1141,Gilles Simon,Rogerio Dutra Silva,,,,,,,,,,,1141
+21,2016-frenchopen-1144,2016,frenchopen,1144,Grigor Dimitrov,Viktor Troicki,,,,,,,,,,,1144
+22,2016-frenchopen-1145,2016,frenchopen,1145,Jeremy Chardy,Leonardo Mayer,,,,,,,,,,,1145
+23,2016-frenchopen-1148,2016,frenchopen,1148,Lukas Rosol,Stan Wawrinka,,,,,,,,,,,1148
+24,2016-frenchopen-1149,2016,frenchopen,1149,Kei Nishikori,Simone Bolelli,,,,,,,,,,,1149
+25,2016-frenchopen-1150,2016,frenchopen,1150,Andrey Kuznetsov,Benjamin Becker,,,,,,,,,,,1150
+26,2016-frenchopen-1152,2016,frenchopen,1152,Fernando Verdasco,Steve Johnson,,,,,,,,,,,1152
+27,2016-frenchopen-1153,2016,frenchopen,1153,Nick Kyrgios,Marco Cecchinato,,,,,,,,,,,1153
+28,2016-frenchopen-1155,2016,frenchopen,1155,Sam Querrey,Bjorn Fratangelo,,,,,,,,,,,1155
+29,2016-frenchopen-1156,2016,frenchopen,1156,Thomaz Bellucci,Richard Gasquet,,,,,,,,,,,1156
+30,2016-frenchopen-1157,2016,frenchopen,1157,John Isner,John Millman,,,,,,,,,,,1157
+31,2016-frenchopen-1158,2016,frenchopen,1158,Nikoloz Basilashvili,Kyle Edmund,,,,,,,,,,,1158
+32,2016-frenchopen-1159,2016,frenchopen,1159,Teymuraz Gabashvili,Donald Young,,,,,,,,,,,1159
+33,2016-frenchopen-1160,2016,frenchopen,1160,Radu Albot,Benoit Paire,,,,,,,,,,,1160
+34,2016-frenchopen-1164,2016,frenchopen,1164,Radek Stepanek,Andy Murray,,,,,,,,,,,1164
+35,2016-frenchopen-1201,2016,frenchopen,1201,Novak Djokovic,Steve Darcis,,,,,,,,,,,1201
+36,2016-frenchopen-1202,2016,frenchopen,1202,Aljaz Bedene,Pablo Carreno Busta,,,,,,,,,,,1202
+37,2016-frenchopen-1203,2016,frenchopen,1203,Bernard Tomic,Borna Coric,,,,,,,,,,,1203
+38,2016-frenchopen-1204,2016,frenchopen,1204,Paul Henri Mathieu,Roberto Bautista Agut,,,,,,,,,,,1204
+39,2016-frenchopen-1205,2016,frenchopen,1205,David Ferrer,Juan Monaco,,,,,,,,,,,1205
+40,2016-frenchopen-1206,2016,frenchopen,1206,Victor Estrella Burgos,Feliciano Lopez,,,,,,,,,,,1206
+41,2016-frenchopen-1207,2016,frenchopen,1207,Pablo Cuevas,Quentin Halys,,,,,,,,,,,1207
+42,2016-frenchopen-1208,2016,frenchopen,1208,Malek Jaziri,Tomas Berdych,,,,,,,,,,,1208
+43,2016-frenchopen-1209,2016,frenchopen,1209,Rafael Nadal,Facundo Bagnis,,,,,,,,,,,1209
+44,2016-frenchopen-1210,2016,frenchopen,1210,Nicolas Mahut,Marcel Granollers,,,,,,,,,,,1210
+45,2016-frenchopen-1211,2016,frenchopen,1211,Stephane Robert,Alexander Zverev,,,,,,,,,,,1211
+46,2016-frenchopen-1212,2016,frenchopen,1212,Guillermo Garcia Lopez,Dominic Thiem,,,,,,,,,,,1212
+47,2016-frenchopen-1213,2016,frenchopen,1213,David Goffin,Carlos Berlocq,,,,,,,,,,,1213
+48,2016-frenchopen-1216,2016,frenchopen,1216,Marcos Baghdatis,Jo Wilfried Tsonga,,,,,,,,,,,1216
+49,2016-frenchopen-1217,2016,frenchopen,1217,Milos Raonic,Adrian Mannarino,,,,,,,,,,,1217
+50,2016-frenchopen-1218,2016,frenchopen,1218,Andrej Martin,Lucas Pouille,,,,,,,,,,,1218
+51,2016-frenchopen-1219,2016,frenchopen,1219,Jack Sock,Dustin Brown,,,,,,,,,,,1219
+52,2016-frenchopen-1221,2016,frenchopen,1221,Gilles Simon,Guido Pella,,,,,,,,,,,1221
+53,2016-frenchopen-1223,2016,frenchopen,1223,Jeremy Chardy,Adam Pavlasek,,,,,,,,,,,1223
+54,2016-frenchopen-1224,2016,frenchopen,1224,Taro Daniel,Stan Wawrinka,,,,,,,,,,,1224
+55,2016-frenchopen-1225,2016,frenchopen,1225,Kei Nishikori,Andrey Kuznetsov,,,,,,,,,,,1225
+56,2016-frenchopen-1227,2016,frenchopen,1227,Nick Kyrgios,Igor Sijsling,,,,,,,,,,,1227
+57,2016-frenchopen-1228,2016,frenchopen,1228,Bjorn Fratangelo,Richard Gasquet,,,,,,,,,,,1228
+58,2016-frenchopen-1229,2016,frenchopen,1229,John Isner,Kyle Edmund,,,,,,,,,,,1229
+59,2016-frenchopen-1230,2016,frenchopen,1230,Teymuraz Gabashvili,Benoit Paire,,,,,,,,,,,1230
+60,2016-frenchopen-1231,2016,frenchopen,1231,Ivo Karlovic,Jordan Thompson,,,,,,,,,,,1231
+61,2016-frenchopen-1232,2016,frenchopen,1232,Mathias Bourgue,Andy Murray,,,,,,,,,,,1232
+62,2016-frenchopen-1301,2016,frenchopen,1301,Novak Djokovic,Aljaz Bedene,,,,,,,,,,,1301
+63,2016-frenchopen-1302,2016,frenchopen,1302,Borna Coric,Roberto Bautista Agut,,,,,,,,,,,1302
+64,2016-frenchopen-1303,2016,frenchopen,1303,David Ferrer,Feliciano Lopez,,,,,,,,,,,1303
+65,2016-frenchopen-1304,2016,frenchopen,1304,Pablo Cuevas,Tomas Berdych,,,,,,,,,,,1304
+66,2016-frenchopen-1306,2016,frenchopen,1306,Alexander Zverev,Dominic Thiem,,,,,,,,,,,1306
+67,2016-frenchopen-1307,2016,frenchopen,1307,David Goffin,Nicolas Almagro,,,,,,,,,,,1307
+68,2016-frenchopen-1308,2016,frenchopen,1308,Ernests Gulbis,Jo Wilfried Tsonga,,,,,,,,,,,1308
+69,2016-frenchopen-1309,2016,frenchopen,1309,Milos Raonic,Andrej Martin,,,,,,,,,,,1309
+70,2016-frenchopen-1310,2016,frenchopen,1310,Jack Sock,Albert Ramos Vinolas,,,,,,,,,,,1310
+71,2016-frenchopen-1311,2016,frenchopen,1311,Gilles Simon,Viktor Troicki,,,,,,,,,,,1311
+72,2016-frenchopen-1312,2016,frenchopen,1312,Jeremy Chardy,Stan Wawrinka,,,,,,,,,,,1312
+73,2016-frenchopen-1313,2016,frenchopen,1313,Kei Nishikori,Fernando Verdasco,,,,,,,,,,,1313
+74,2016-frenchopen-1314,2016,frenchopen,1314,Nick Kyrgios,Richard Gasquet,,,,,,,,,,,1314
+75,2016-frenchopen-1315,2016,frenchopen,1315,John Isner,Teymuraz Gabashvili,,,,,,,,,,,1315
+76,2016-frenchopen-1316,2016,frenchopen,1316,Ivo Karlovic,Andy Murray,,,,,,,,,,,1316
+77,2016-frenchopen-1401,2016,frenchopen,1401,Novak Djokovic,Roberto Bautista Agut,,,,,,,,,,,1401
+78,2016-frenchopen-1402,2016,frenchopen,1402,David Ferrer,Tomas Berdych,,,,,,,,,,,1402
+79,2016-frenchopen-1403,2016,frenchopen,1403,Marcel Granollers,Dominic Thiem,,,,,,,,,,,1403
+80,2016-frenchopen-1404,2016,frenchopen,1404,David Goffin,Ernests Gulbis,,,,,,,,,,,1404
+81,2016-frenchopen-1405,2016,frenchopen,1405,Milos Raonic,Albert Ramos Vinolas,,,,,,,,,,,1405
+82,2016-frenchopen-1406,2016,frenchopen,1406,Viktor Troicki,Stan Wawrinka,,,,,,,,,,,1406
+83,2016-frenchopen-1407,2016,frenchopen,1407,Kei Nishikori,Richard Gasquet,,,,,,,,,,,1407
+84,2016-frenchopen-1408,2016,frenchopen,1408,John Isner,Andy Murray,,,,,,,,,,,1408
+85,2016-frenchopen-1501,2016,frenchopen,1501,Novak Djokovic,Tomas Berdych,,,,,,,,,,,1501
+86,2016-frenchopen-1502,2016,frenchopen,1502,Dominic Thiem,David Goffin,,,,,,,,,,,1502
+87,2016-frenchopen-1503,2016,frenchopen,1503,Albert Ramos Vinolas,Stan Wawrinka,,,,,,,,,,,1503
+88,2016-frenchopen-1504,2016,frenchopen,1504,Richard Gasquet,Andy Murray,,,,,,,,,,,1504
+89,2016-frenchopen-1601,2016,frenchopen,1601,Novak Djokovic,Dominic Thiem,,,,,,,,,,,1601
+90,2016-frenchopen-1602,2016,frenchopen,1602,Stan Wawrinka,Andy Murray,,,,,,,,,,,1602
+91,2016-frenchopen-1701,2016,frenchopen,1701,Novak Djokovic,Andy Murray,,,,,,,,,,,1701
+0,2017-frenchopen-1101,2017,frenchopen,1101,Andy Murray,Andrey Kuznetsov,,,,,,,,,,,1101
+1,2017-frenchopen-1102,2017,frenchopen,1102,Laurent Lokoli,Martin Klizan,,,,,,,,,,,1102
+2,2017-frenchopen-1103,2017,frenchopen,1103,Marcos Baghdatis,Nicolas Almagro,,,,,,,,,,,1103
+3,2017-frenchopen-1104,2017,frenchopen,1104,Guido Pella,Juan Martin Del Potro,,,,,,,,,,,1104
+4,2017-frenchopen-1105,2017,frenchopen,1105,John Isner,Jordan Thompson,,,,,,,,,,,1105
+5,2017-frenchopen-1107,2017,frenchopen,1107,Karen Khachanov,Nicolas Jarry,,,,,,,,,,,1107
+6,2017-frenchopen-1108,2017,frenchopen,1108,Jan Lennard Struff,Tomas Berdych,,,,,,,,,,,1108
+7,2017-frenchopen-1109,2017,frenchopen,1109,Alexander Zverev,Fernando Verdasco,,,,,,,,,,,1109
+8,2017-frenchopen-1110,2017,frenchopen,1110,Pierre Hugues Herbert,Jared Donaldson,,,,,,,,,,,1110
+9,2017-frenchopen-1111,2017,frenchopen,1111,Damir Dzumhur,Nicolas Kicker,,,,,,,,,,,1111
+10,2017-frenchopen-1112,2017,frenchopen,1112,Maxime Hamou,Pablo Cuevas,,,,,,,,,,,1112
+11,2017-frenchopen-1113,2017,frenchopen,1113,Sam Querrey,Hyeon Chung,,,,,,,,,,,1113
+12,2017-frenchopen-1114,2017,frenchopen,1114,Ernesto Escobedo,Denis Istomin,,,,,,,,,,,1114
+13,2017-frenchopen-1115,2017,frenchopen,1115,Radu Albot,Jeremy Chardy,,,,,,,,,,,1115
+14,2017-frenchopen-1116,2017,frenchopen,1116,Thanasi Kokkinakis,Kei Nishikori,,,,,,,,,,,1116
+15,2017-frenchopen-1117,2017,frenchopen,1117,Stan Wawrinka,Jozef Kovalik,,,,,,,,,,,1117
+16,2017-frenchopen-1119,2017,frenchopen,1119,Santiago Giraldo,Andreas Seppi,,,,,,,,,,,1119
+17,2017-frenchopen-1120,2017,frenchopen,1120,Frances Tiafoe,Fabio Fognini,,,,,,,,,,,1120
+18,2017-frenchopen-1121,2017,frenchopen,1121,Richard Gasquet,Arthur De Greef,,,,,,,,,,,1121
+19,2017-frenchopen-1122,2017,frenchopen,1122,Teymuraz Gabashvili,Victor Estrella Burgos,,,,,,,,,,,1122
+20,2017-frenchopen-1123,2017,frenchopen,1123,Thiago Monteiro,Alexandre Muller,,,,,,,,,,,1123
+21,2017-frenchopen-1124,2017,frenchopen,1124,Dustin Brown,Gael Monfils,,,,,,,,,,,1124
+22,2017-frenchopen-1125,2017,frenchopen,1125,Jo Wilfried Tsonga,Renzo Olivo,,,,,,,,,,,1125
+23,2017-frenchopen-1126,2017,frenchopen,1126,Kyle Edmund,Gastao Elias,,,,,,,,,,,1126
+24,2017-frenchopen-1127,2017,frenchopen,1127,Kevin Anderson,Malek Jaziri,,,,,,,,,,,1127
+25,2017-frenchopen-1128,2017,frenchopen,1128,Philipp Kohlschreiber,Nick Kyrgios,,,,,,,,,,,1128
+26,2017-frenchopen-1129,2017,frenchopen,1129,David Ferrer,Donald Young,,,,,,,,,,,1129
+27,2017-frenchopen-1131,2017,frenchopen,1131,Konstantin Kravchuk,Federico Delbonis,,,,,,,,,,,1131
+28,2017-frenchopen-1132,2017,frenchopen,1132,Ernests Gulbis,Marin Cilic,,,,,,,,,,,1132
+29,2017-frenchopen-1133,2017,frenchopen,1133,Milos Raonic,Steve Darcis,,,,,,,,,,,1133
+30,2017-frenchopen-1134,2017,frenchopen,1134,Rogerio Dutra Silva,Mikhail Youzhny,,,,,,,,,,,1134
+31,2017-frenchopen-1135,2017,frenchopen,1135,Marco Trungelliti,Quentin Halys,,,,,,,,,,,1135
+32,2017-frenchopen-1136,2017,frenchopen,1136,Guillermo Garcia Lopez,Gilles Muller,,,,,,,,,,,1136
+33,2017-frenchopen-1137,2017,frenchopen,1137,Pablo Carreno Busta,Florian Mayer,,,,,,,,,,,1137
+34,2017-frenchopen-1138,2017,frenchopen,1138,Taro Daniel,Jerzy Janowicz,,,,,,,,,,,1138
+35,2017-frenchopen-1139,2017,frenchopen,1139,Tommy Robredo,Daniel Evans,,,,,,,,,,,1139
+36,2017-frenchopen-1140,2017,frenchopen,1140,Stephane Robert,Grigor Dimitrov,,,,,,,,,,,1140
+37,2017-frenchopen-1141,2017,frenchopen,1141,Jack Sock,Jiri Vesely,,,,,,,,,,,1141
+38,2017-frenchopen-1142,2017,frenchopen,1142,Aljaz Bedene,Ryan Harrison,,,,,,,,,,,1142
+39,2017-frenchopen-1143,2017,frenchopen,1143,Mikhail Kukushkin,Tennys Sandgren,,,,,,,,,,,1143
+40,2017-frenchopen-1144,2017,frenchopen,1144,John Millman,Roberto Bautista Agut,,,,,,,,,,,1144
+41,2017-frenchopen-1145,2017,frenchopen,1145,Gilles Simon,Nikoloz Basilashvili,,,,,,,,,,,1145
+42,2017-frenchopen-1146,2017,frenchopen,1146,Viktor Troicki,Evgeny Donskoy,,,,,,,,,,,1146
+43,2017-frenchopen-1147,2017,frenchopen,1147,Robin Haase,Alex De Minaur,,,,,,,,,,,1147
+44,2017-frenchopen-1148,2017,frenchopen,1148,Benoit Paire,Rafael Nadal,,,,,,,,,,,1148
+45,2017-frenchopen-1149,2017,frenchopen,1149,Dominic Thiem,Bernard Tomic,,,,,,,,,,,1149
+46,2017-frenchopen-1150,2017,frenchopen,1150,Simone Bolelli,Nicolas Mahut,,,,,,,,,,,1150
+47,2017-frenchopen-1151,2017,frenchopen,1151,Mathias Bourgue,Borna Coric,,,,,,,,,,,1151
+48,2017-frenchopen-1152,2017,frenchopen,1152,Yuichi Sugita,Steve Johnson,,,,,,,,,,,1152
+49,2017-frenchopen-1153,2017,frenchopen,1153,Ivo Karlovic,Stefanos Tsitsipas,,,,,,,,,,,1153
+50,2017-frenchopen-1154,2017,frenchopen,1154,Horacio Zeballos,Adrian Mannarino,,,,,,,,,,,1154
+51,2017-frenchopen-1156,2017,frenchopen,1156,Paul Henri Mathieu,David Goffin,,,,,,,,,,,1156
+52,2017-frenchopen-1157,2017,frenchopen,1157,Lucas Pouille,Julien Benneteau,,,,,,,,,,,1157
+53,2017-frenchopen-1158,2017,frenchopen,1158,Thomaz Bellucci,Dusan Lajovic,,,,,,,,,,,1158
+54,2017-frenchopen-1159,2017,frenchopen,1159,Benjamin Bonzi,Daniil Medvedev,,,,,,,,,,,1159
+55,2017-frenchopen-1160,2017,frenchopen,1160,Marius Copil,Albert Ramos Vinolas,,,,,,,,,,,1160
+56,2017-frenchopen-1161,2017,frenchopen,1161,Mischa Zverev,Stefano Napolitano,,,,,,,,,,,1161
+57,2017-frenchopen-1162,2017,frenchopen,1162,Andrey Rublev,Diego Schwartzman,,,,,,,,,,,1162
+58,2017-frenchopen-1163,2017,frenchopen,1163,Joao Sousa,Janko Tipsarevic,,,,,,,,,,,1163
+59,2017-frenchopen-1164,2017,frenchopen,1164,Marcel Granollers,Novak Djokovic,,,,,,,,,,,1164
+60,2017-frenchopen-1201,2017,frenchopen,1201,Andy Murray,Martin Klizan,,,,,,,,,,,1201
+61,2017-frenchopen-1202,2017,frenchopen,1202,Nicolas Almagro,Juan Martin Del Potro,,,,,,,,,,,1202
+62,2017-frenchopen-1203,2017,frenchopen,1203,John Isner,Paolo Lorenzi,,,,,,,,,,,1203
+63,2017-frenchopen-1204,2017,frenchopen,1204,Karen Khachanov,Tomas Berdych,,,,,,,,,,,1204
+64,2017-frenchopen-1205,2017,frenchopen,1205,Fernando Verdasco,Pierre Hugues Herbert,,,,,,,,,,,1205
+65,2017-frenchopen-1206,2017,frenchopen,1206,Nicolas Kicker,Pablo Cuevas,,,,,,,,,,,1206
+66,2017-frenchopen-1207,2017,frenchopen,1207,Hyeon Chung,Denis Istomin,,,,,,,,,,,1207
+67,2017-frenchopen-1208,2017,frenchopen,1208,Jeremy Chardy,Kei Nishikori,,,,,,,,,,,1208
+68,2017-frenchopen-1209,2017,frenchopen,1209,Stan Wawrinka,Alexandr Dolgopolov,,,,,,,,,,,1209
+69,2017-frenchopen-1210,2017,frenchopen,1210,Andreas Seppi,Fabio Fognini,,,,,,,,,,,1210
+70,2017-frenchopen-1211,2017,frenchopen,1211,Richard Gasquet,Victor Estrella Burgos,,,,,,,,,,,1211
+71,2017-frenchopen-1212,2017,frenchopen,1212,Thiago Monteiro,Gael Monfils,,,,,,,,,,,1212
+72,2017-frenchopen-1213,2017,frenchopen,1213,Renzo Olivo,Kyle Edmund,,,,,,,,,,,1213
+73,2017-frenchopen-1214,2017,frenchopen,1214,Kevin Anderson,Nick Kyrgios,,,,,,,,,,,1214
+74,2017-frenchopen-1215,2017,frenchopen,1215,David Ferrer,Feliciano Lopez,,,,,,,,,,,1215
+75,2017-frenchopen-1216,2017,frenchopen,1216,Konstantin Kravchuk,Marin Cilic,,,,,,,,,,,1216
+76,2017-frenchopen-1217,2017,frenchopen,1217,Milos Raonic,Rogerio Dutra Silva,,,,,,,,,,,1217
+77,2017-frenchopen-1218,2017,frenchopen,1218,Marco Trungelliti,Guillermo Garcia Lopez,,,,,,,,,,,1218
+78,2017-frenchopen-1219,2017,frenchopen,1219,Pablo Carreno Busta,Taro Daniel,,,,,,,,,,,1219
+79,2017-frenchopen-1220,2017,frenchopen,1220,Tommy Robredo,Grigor Dimitrov,,,,,,,,,,,1220
+80,2017-frenchopen-1221,2017,frenchopen,1221,Jiri Vesely,Aljaz Bedene,,,,,,,,,,,1221
+81,2017-frenchopen-1222,2017,frenchopen,1222,Mikhail Kukushkin,Roberto Bautista Agut,,,,,,,,,,,1222
+82,2017-frenchopen-1223,2017,frenchopen,1223,Nikoloz Basilashvili,Viktor Troicki,,,,,,,,,,,1223
+83,2017-frenchopen-1224,2017,frenchopen,1224,Robin Haase,Rafael Nadal,,,,,,,,,,,1224
+84,2017-frenchopen-1225,2017,frenchopen,1225,Dominic Thiem,Simone Bolelli,,,,,,,,,,,1225
+85,2017-frenchopen-1226,2017,frenchopen,1226,Borna Coric,Steve Johnson,,,,,,,,,,,1226
+86,2017-frenchopen-1227,2017,frenchopen,1227,Ivo Karlovic,Horacio Zeballos,,,,,,,,,,,1227
+87,2017-frenchopen-1228,2017,frenchopen,1228,Sergiy Stakhovsky,David Goffin,,,,,,,,,,,1228
+88,2017-frenchopen-1229,2017,frenchopen,1229,Lucas Pouille,Thomaz Bellucci,,,,,,,,,,,1229
+89,2017-frenchopen-1230,2017,frenchopen,1230,Benjamin Bonzi,Albert Ramos Vinolas,,,,,,,,,,,1230
+90,2017-frenchopen-1231,2017,frenchopen,1231,Stefano Napolitano,Diego Schwartzman,,,,,,,,,,,1231
+91,2017-frenchopen-1232,2017,frenchopen,1232,Joao Sousa,Novak Djokovic,,,,,,,,,,,1232
+92,2017-frenchopen-1301,2017,frenchopen,1301,Andy Murray,Juan Martin Del Potro,,,,,,,,,,,1301
+93,2017-frenchopen-1302,2017,frenchopen,1302,John Isner,Karen Khachanov,,,,,,,,,,,1302
+94,2017-frenchopen-1303,2017,frenchopen,1303,Fernando Verdasco,Pablo Cuevas,,,,,,,,,,,1303
+95,2017-frenchopen-1304,2017,frenchopen,1304,Hyeon Chung,Kei Nishikori,,,,,,,,,,,1304
+96,2017-frenchopen-1305,2017,frenchopen,1305,Stan Wawrinka,Fabio Fognini,,,,,,,,,,,1305
+97,2017-frenchopen-1306,2017,frenchopen,1306,Richard Gasquet,Gael Monfils,,,,,,,,,,,1306
+98,2017-frenchopen-1307,2017,frenchopen,1307,Kyle Edmund,Kevin Anderson,,,,,,,,,,,1307
+99,2017-frenchopen-1308,2017,frenchopen,1308,Feliciano Lopez,Marin Cilic,,,,,,,,,,,1308
+100,2017-frenchopen-1309,2017,frenchopen,1309,Milos Raonic,Guillermo Garcia Lopez,,,,,,,,,,,1309
+101,2017-frenchopen-1310,2017,frenchopen,1310,Pablo Carreno Busta,Grigor Dimitrov,,,,,,,,,,,1310
+102,2017-frenchopen-1311,2017,frenchopen,1311,Jiri Vesely,Roberto Bautista Agut,,,,,,,,,,,1311
+103,2017-frenchopen-1312,2017,frenchopen,1312,Nikoloz Basilashvili,Rafael Nadal,,,,,,,,,,,1312
+104,2017-frenchopen-1313,2017,frenchopen,1313,Dominic Thiem,Steve Johnson,,,,,,,,,,,1313
+105,2017-frenchopen-1314,2017,frenchopen,1314,Horacio Zeballos,David Goffin,,,,,,,,,,,1314
+106,2017-frenchopen-1315,2017,frenchopen,1315,Lucas Pouille,Albert Ramos Vinolas,,,,,,,,,,,1315
+107,2017-frenchopen-1316,2017,frenchopen,1316,Diego Schwartzman,Novak Djokovic,,,,,,,,,,,1316
+108,2017-frenchopen-1401,2017,frenchopen,1401,Andy Murray,Karen Khachanov,,,,,,,,,,,1401
+109,2017-frenchopen-1402,2017,frenchopen,1402,Fernando Verdasco,Kei Nishikori,,,,,,,,,,,1402
+110,2017-frenchopen-1403,2017,frenchopen,1403,Stan Wawrinka,Gael Monfils,,,,,,,,,,,1403
+111,2017-frenchopen-1404,2017,frenchopen,1404,Kevin Anderson,Marin Cilic,,,,,,,,,,,1404
+112,2017-frenchopen-1405,2017,frenchopen,1405,Milos Raonic,Pablo Carreno Busta,,,,,,,,,,,1405
+113,2017-frenchopen-1406,2017,frenchopen,1406,Roberto Bautista Agut,Rafael Nadal,,,,,,,,,,,1406
+114,2017-frenchopen-1407,2017,frenchopen,1407,Dominic Thiem,Horacio Zeballos,,,,,,,,,,,1407
+115,2017-frenchopen-1408,2017,frenchopen,1408,Albert Ramos Vinolas,Novak Djokovic,,,,,,,,,,,1408
+116,2017-frenchopen-1501,2017,frenchopen,1501,Andy Murray,Kei Nishikori,,,,,,,,,,,1501
+117,2017-frenchopen-1502,2017,frenchopen,1502,Stan Wawrinka,Marin Cilic,,,,,,,,,,,1502
+118,2017-frenchopen-1503,2017,frenchopen,1503,Pablo Carreno Busta,Rafael Nadal,,,,,,,,,,,1503
+119,2017-frenchopen-1504,2017,frenchopen,1504,Dominic Thiem,Novak Djokovic,,,,,,,,,,,1504
+120,2017-frenchopen-1601,2017,frenchopen,1601,Andy Murray,Stan Wawrinka,,,,,,,,,,,1601
+121,2017-frenchopen-1602,2017,frenchopen,1602,Rafael Nadal,Dominic Thiem,,,,,,,,,,,1602
+122,2017-frenchopen-1701,2017,frenchopen,1701,Stan Wawrinka,Rafael Nadal,,,,,,,,,,,1701
+0,2018-frenchopen-1101,2018,frenchopen,1101,R. Nadal,S. Bolelli,,,,,,,,,ESP,ITA,1101
+1,2018-frenchopen-1102,2018,frenchopen,1102,J. Sousa,G. Pella,,,,,,,,,POR,ARG,1102
+2,2018-frenchopen-1103,2018,frenchopen,1103,M. Jaziri,M. Youzhny,,,,,,,,,TUN,RUS,1103
+3,2018-frenchopen-1104,2018,frenchopen,1104,A. Seppi,R. Gasquet,,,,,,,,,ITA,FRA,1104
+4,2018-frenchopen-1105,2018,frenchopen,1105,D. Shapovalov,J. Millman,,,,,,,,,CAN,AUS,1105
+5,2018-frenchopen-1106,2018,frenchopen,1106,R. Harrison,M. Marterer,,,,,,,,,USA,GER,1106
+6,2018-frenchopen-1107,2018,frenchopen,1107,Y. Bhambri,R. Bemelmans,,,,,,,,,IND,BEL,1107
+7,2018-frenchopen-1108,2018,frenchopen,1108,J. Zopp,J. Sock,,,,,,,,,EST,USA,1108
+8,2018-frenchopen-1109,2018,frenchopen,1109,D. Schwartzman,C. Hemery,,,,,,,,,ARG,FRA,1109
+9,2018-frenchopen-1110,2018,frenchopen,1110,M. Basic,A. Pavlasek,,,,,,,,,BIH,CZE,1110
+10,2018-frenchopen-1111,2018,frenchopen,1111,M. Ebden,T. Fabbiano,,,,,,,,,AUS,ITA,1111
+11,2018-frenchopen-1112,2018,frenchopen,1112,B. Coric,P. Kohlschreiber,,,,,,,,,CRO,GER,1112
+12,2018-frenchopen-1113,2018,frenchopen,1113,F. Lopez,S. Stakhovsky,,,,,,,,,ESP,UKR,1113
+13,2018-frenchopen-1114,2018,frenchopen,1114,M. Zverev,F. Mayer,,,,,,,,,GER,GER,1114
+14,2018-frenchopen-1115,2018,frenchopen,1115,A. Bedene,P. Cuevas,,,,,,,,,SLO,URU,1115
+15,2018-frenchopen-1116,2018,frenchopen,1116,P. Lorenzi,K. Anderson,,,,,,,,,ITA,RSA,1116
+16,2018-frenchopen-1117,2018,frenchopen,1117,M. Cilic,J. Duckworth,,,,,,,,,CRO,AUS,1117
+17,2018-frenchopen-1118,2018,frenchopen,1118,H. Hurkacz,T. Sandgren,,,,,,,,,POL,USA,1118
+18,2018-frenchopen-1119,2018,frenchopen,1119,E. Donskoy,J. Struff,,,,,,,,,RUS,GER,1119
+19,2018-frenchopen-1120,2018,frenchopen,1120,S. Johnson,A. Mannarino,,,,,,,,,USA,FRA,1120
+20,2018-frenchopen-1121,2018,frenchopen,1121,F. Fognini,P. Andujar,,,,,,,,,ITA,ESP,1121
+21,2018-frenchopen-1122,2018,frenchopen,1122,D. Sela,E. Ymer,,,,,,,,,ISR,SWE,1122
+22,2018-frenchopen-1123,2018,frenchopen,1123,V. Pospisil,M. Fucsovics,,,,,,,,,CAN,HUN,1123
+23,2018-frenchopen-1124,2018,frenchopen,1124,A. De Minaur,K. Edmund,,,,,,,,,AUS,GBR,1124
+24,2018-frenchopen-1125,2018,frenchopen,1125,J. Isner,N. Rubin,,,,,,,,,USA,USA,1125
+25,2018-frenchopen-1126,2018,frenchopen,1126,H. Zeballos,Y. Sugita,,,,,,,,,ARG,JPN,1126
+26,2018-frenchopen-1127,2018,frenchopen,1127,P. Polansky,P. Herbert,,,,,,,,,CAN,FRA,1127
+27,2018-frenchopen-1128,2018,frenchopen,1128,J. Chardy,T. Berdych,,,,,,,,,FRA,CZE,1128
+28,2018-frenchopen-1129,2018,frenchopen,1129,A. Ramos-Vinolas,M. Kukushkin,,,,,,,,,ESP,KAZ,1129
+29,2018-frenchopen-1130,2018,frenchopen,1130,J. Thompson,C. Ruud,,,,,,,,,AUS,NOR,1130
+30,2018-frenchopen-1131,2018,frenchopen,1131,L. Mayer,J. Benneteau,,,,,,,,,ARG,FRA,1131
+31,2018-frenchopen-1132,2018,frenchopen,1132,N. Mahut,J. Del Potro,,,,,,,,,FRA,ARG,1132
+32,2018-frenchopen-1133,2018,frenchopen,1133,D. Goffin,R. Haase,,,,,,,,,BEL,NED,1133
+33,2018-frenchopen-1134,2018,frenchopen,1134,I. Karlovic,C. Moutet,,,,,,,,,CRO,FRA,1134
+34,2018-frenchopen-1135,2018,frenchopen,1135,M. Klizan,L. Djere,,,,,,,,,SVK,SRB,1135
+35,2018-frenchopen-1136,2018,frenchopen,1136,E. Benchetrit,G. Monfils,,,,,,,,,FRA,FRA,1136
+36,2018-frenchopen-1137,2018,frenchopen,1137,M. Trungelliti,B. Tomic,,,,,,,,,ARG,AUS,1137
+37,2018-frenchopen-1138,2018,frenchopen,1138,M. Cecchinato,M. Copil,,,,,,,,,ITA,ROU,1138
+38,2018-frenchopen-1139,2018,frenchopen,1139,F. Delbonis,T. Bellucci,,,,,,,,,ARG,BRA,1139
+39,2018-frenchopen-1140,2018,frenchopen,1140,J. Kovalik,P. Carreno Busta,,,,,,,,,SVK,ESP,1140
+40,2018-frenchopen-1141,2018,frenchopen,1141,R. Bautista Agut,D. Istomin,,,,,,,,,ESP,UZB,1141
+41,2018-frenchopen-1142,2018,frenchopen,1142,M. Baghdatis,S. Giraldo,,,,,,,,,CYP,COL,1142
+42,2018-frenchopen-1143,2018,frenchopen,1143,J. Munar,D. Ferrer,,,,,,,,,ESP,ESP,1143
+43,2018-frenchopen-1144,2018,frenchopen,1144,R. Dutra Silva,N. Djokovic,,,,,,,,,BRA,SRB,1144
+44,2018-frenchopen-1145,2018,frenchopen,1145,F. Verdasco,Y. Nishioka,,,,,,,,,ESP,JPN,1145
+45,2018-frenchopen-1146,2018,frenchopen,1146,G. Andreozzi,T. Fritz,,,,,,,,,ARG,USA,1146
+46,2018-frenchopen-1147,2018,frenchopen,1147,N. Jarry,J. Donaldson,,,,,,,,,CHI,USA,1147
+47,2018-frenchopen-1148,2018,frenchopen,1148,M. Safwat,G. Dimitrov,,,,,,,,,EGY,BUL,1148
+48,2018-frenchopen-1149,2018,frenchopen,1149,D. Thiem,I. Ivashka,,,,,,,,,AUT,BLR,1149
+49,2018-frenchopen-1150,2018,frenchopen,1150,S. Tsitsipas,C. Taberner,,,,,,,,,GRE,ESP,1150
+50,2018-frenchopen-1151,2018,frenchopen,1151,O. Otte,M. Berrettini,,,,,,,,,GER,ITA,1151
+51,2018-frenchopen-1152,2018,frenchopen,1152,E. Gulbis,G. Muller,,,,,,,,,LAT,LUX,1152
+52,2018-frenchopen-1153,2018,frenchopen,1153,K. Nishikori,M. Janvier,,,,,,,,,JPN,FRA,1153
+53,2018-frenchopen-1154,2018,frenchopen,1154,B. Paire,R. Carballes Baena,,,,,,,,,FRA,ESP,1154
+54,2018-frenchopen-1155,2018,frenchopen,1155,N. Basilashvili,G. Simon,,,,,,,,,GEO,FRA,1155
+55,2018-frenchopen-1156,2018,frenchopen,1156,F. Tiafoe,S. Querrey,,,,,,,,,USA,USA,1156
+56,2018-frenchopen-1157,2018,frenchopen,1157,L. Pouille,D. Medvedev,,,,,,,,,FRA,RUS,1157
+57,2018-frenchopen-1158,2018,frenchopen,1158,P. Gojowczyk,C. Norrie,,,,,,,,,GER,GBR,1158
+58,2018-frenchopen-1159,2018,frenchopen,1159,K. Khachanov,A. Haider-Maurer,,,,,,,,,RUS,AUT,1159
+59,2018-frenchopen-1160,2018,frenchopen,1160,G. Garcia-Lopez,S. Wawrinka,,,,,,,,,ESP,SUI,1160
+60,2018-frenchopen-1161,2018,frenchopen,1161,D. Dzumhur,D. Kudla,,,,,,,,,BIH,USA,1161
+61,2018-frenchopen-1162,2018,frenchopen,1162,G. Barrere,R. Albot,,,,,,,,,FRA,MDA,1162
+62,2018-frenchopen-1163,2018,frenchopen,1163,J. Vesely,D. Lajovic,,,,,,,,,CZE,SRB,1163
+63,2018-frenchopen-1164,2018,frenchopen,1164,R. Berankis,A. Zverev,,,,,,,,,LTU,GER,1164
+64,2018-frenchopen-1201,2018,frenchopen,1201,R. Nadal,G. Pella,,,,,,,,,ESP,ARG,1201
+65,2018-frenchopen-1202,2018,frenchopen,1202,M. Jaziri,R. Gasquet,,,,,,,,,TUN,FRA,1202
+66,2018-frenchopen-1203,2018,frenchopen,1203,D. Shapovalov,M. Marterer,,,,,,,,,CAN,GER,1203
+67,2018-frenchopen-1204,2018,frenchopen,1204,R. Bemelmans,J. Zopp,,,,,,,,,BEL,EST,1204
+68,2018-frenchopen-1205,2018,frenchopen,1205,D. Schwartzman,A. Pavlasek,,,,,,,,,ARG,CZE,1205
+69,2018-frenchopen-1206,2018,frenchopen,1206,T. Fabbiano,B. Coric,,,,,,,,,ITA,CRO,1206
+70,2018-frenchopen-1207,2018,frenchopen,1207,S. Stakhovsky,M. Zverev,,,,,,,,,UKR,GER,1207
+71,2018-frenchopen-1208,2018,frenchopen,1208,P. Cuevas,K. Anderson,,,,,,,,,URU,RSA,1208
+72,2018-frenchopen-1209,2018,frenchopen,1209,M. Cilic,H. Hurkacz,,,,,,,,,CRO,POL,1209
+73,2018-frenchopen-1210,2018,frenchopen,1210,J. Struff,S. Johnson,,,,,,,,,GER,USA,1210
+74,2018-frenchopen-1211,2018,frenchopen,1211,F. Fognini,E. Ymer,,,,,,,,,ITA,SWE,1211
+75,2018-frenchopen-1212,2018,frenchopen,1212,M. Fucsovics,K. Edmund,,,,,,,,,HUN,GBR,1212
+76,2018-frenchopen-1213,2018,frenchopen,1213,J. Isner,H. Zeballos,,,,,,,,,USA,ARG,1213
+77,2018-frenchopen-1214,2018,frenchopen,1214,P. Herbert,J. Chardy,,,,,,,,,FRA,FRA,1214
+78,2018-frenchopen-1215,2018,frenchopen,1215,A. Ramos-Vinolas,C. Ruud,,,,,,,,,ESP,NOR,1215
+79,2018-frenchopen-1216,2018,frenchopen,1216,J. Benneteau,J. Del Potro,,,,,,,,,FRA,ARG,1216
+80,2018-frenchopen-1217,2018,frenchopen,1217,D. Goffin,C. Moutet,,,,,,,,,BEL,FRA,1217
+81,2018-frenchopen-1218,2018,frenchopen,1218,M. Klizan,G. Monfils,,,,,,,,,SVK,FRA,1218
+82,2018-frenchopen-1219,2018,frenchopen,1219,M. Trungelliti,M. Cecchinato,,,,,,,,,ARG,ITA,1219
+83,2018-frenchopen-1220,2018,frenchopen,1220,F. Delbonis,P. Carreno Busta,,,,,,,,,ARG,ESP,1220
+84,2018-frenchopen-1221,2018,frenchopen,1221,R. Bautista Agut,S. Giraldo,,,,,,,,,ESP,COL,1221
+85,2018-frenchopen-1222,2018,frenchopen,1222,J. Munar,N. Djokovic,,,,,,,,,ESP,SRB,1222
+86,2018-frenchopen-1223,2018,frenchopen,1223,F. Verdasco,G. Andreozzi,,,,,,,,,ESP,ARG,1223
+87,2018-frenchopen-1224,2018,frenchopen,1224,J. Donaldson,G. Dimitrov,,,,,,,,,USA,BUL,1224
+88,2018-frenchopen-1225,2018,frenchopen,1225,D. Thiem,S. Tsitsipas,,,,,,,,,AUT,GRE,1225
+89,2018-frenchopen-1226,2018,frenchopen,1226,M. Berrettini,E. Gulbis,,,,,,,,,ITA,LAT,1226
+90,2018-frenchopen-1227,2018,frenchopen,1227,K. Nishikori,B. Paire,,,,,,,,,JPN,FRA,1227
+91,2018-frenchopen-1228,2018,frenchopen,1228,G. Simon,S. Querrey,,,,,,,,,FRA,USA,1228
+92,2018-frenchopen-1229,2018,frenchopen,1229,L. Pouille,C. Norrie,,,,,,,,,FRA,GBR,1229
+93,2018-frenchopen-1230,2018,frenchopen,1230,K. Khachanov,G. Garcia-Lopez,,,,,,,,,RUS,ESP,1230
+94,2018-frenchopen-1231,2018,frenchopen,1231,D. Dzumhur,R. Albot,,,,,,,,,BIH,MDA,1231
+95,2018-frenchopen-1232,2018,frenchopen,1232,D. Lajovic,A. Zverev,,,,,,,,,SRB,GER,1232
+96,2018-frenchopen-1301,2018,frenchopen,1301,R. Nadal,R. Gasquet,,,,,,,,,ESP,FRA,1301
+97,2018-frenchopen-1302,2018,frenchopen,1302,M. Marterer,J. Zopp,,,,,,,,,GER,EST,1302
+98,2018-frenchopen-1303,2018,frenchopen,1303,D. Schwartzman,B. Coric,,,,,,,,,ARG,CRO,1303
+99,2018-frenchopen-1304,2018,frenchopen,1304,M. Zverev,K. Anderson,,,,,,,,,GER,RSA,1304
+100,2018-frenchopen-1305,2018,frenchopen,1305,M. Cilic,S. Johnson,,,,,,,,,CRO,USA,1305
+101,2018-frenchopen-1306,2018,frenchopen,1306,F. Fognini,K. Edmund,,,,,,,,,ITA,GBR,1306
+102,2018-frenchopen-1307,2018,frenchopen,1307,J. Isner,P. Herbert,,,,,,,,,USA,FRA,1307
+103,2018-frenchopen-1308,2018,frenchopen,1308,A. Ramos-Vinolas,J. Del Potro,,,,,,,,,ESP,ARG,1308
+104,2018-frenchopen-1309,2018,frenchopen,1309,D. Goffin,G. Monfils,,,,,,,,,BEL,FRA,1309
+105,2018-frenchopen-1310,2018,frenchopen,1310,M. Cecchinato,P. Carreno Busta,,,,,,,,,ITA,ESP,1310
+106,2018-frenchopen-1311,2018,frenchopen,1311,R. Bautista Agut,N. Djokovic,,,,,,,,,ESP,SRB,1311
+107,2018-frenchopen-1312,2018,frenchopen,1312,F. Verdasco,G. Dimitrov,,,,,,,,,ESP,BUL,1312
+108,2018-frenchopen-1313,2018,frenchopen,1313,D. Thiem,M. Berrettini,,,,,,,,,AUT,ITA,1313
+109,2018-frenchopen-1314,2018,frenchopen,1314,K. Nishikori,G. Simon,,,,,,,,,JPN,FRA,1314
+110,2018-frenchopen-1315,2018,frenchopen,1315,L. Pouille,K. Khachanov,,,,,,,,,FRA,RUS,1315
+111,2018-frenchopen-1316,2018,frenchopen,1316,D. Dzumhur,A. Zverev,,,,,,,,,BIH,GER,1316
+112,2018-frenchopen-1401,2018,frenchopen,1401,R. Nadal,M. Marterer,,,,,,,,,ESP,GER,1401
+113,2018-frenchopen-1402,2018,frenchopen,1402,D. Schwartzman,K. Anderson,,,,,,,,,ARG,RSA,1402
+114,2018-frenchopen-1403,2018,frenchopen,1403,M. Cilic,F. Fognini,,,,,,,,,CRO,ITA,1403
+115,2018-frenchopen-1404,2018,frenchopen,1404,J. Isner,J. Del Potro,,,,,,,,,USA,ARG,1404
+116,2018-frenchopen-1405,2018,frenchopen,1405,D. Goffin,M. Cecchinato,,,,,,,,,BEL,ITA,1405
+117,2018-frenchopen-1406,2018,frenchopen,1406,N. Djokovic,F. Verdasco,,,,,,,,,SRB,ESP,1406
+118,2018-frenchopen-1407,2018,frenchopen,1407,D. Thiem,K. Nishikori,,,,,,,,,AUT,JPN,1407
+119,2018-frenchopen-1408,2018,frenchopen,1408,K. Khachanov,A. Zverev,,,,,,,,,RUS,GER,1408
+120,2018-frenchopen-1501,2018,frenchopen,1501,R. Nadal,D. Schwartzman,,,,,,,,,ESP,ARG,1501
+121,2018-frenchopen-1502,2018,frenchopen,1502,M. Cilic,J. Del Potro,,,,,,,,,CRO,ARG,1502
+122,2018-frenchopen-1503,2018,frenchopen,1503,M. Cecchinato,N. Djokovic,,,,,,,,,ITA,SRB,1503
+123,2018-frenchopen-1504,2018,frenchopen,1504,D. Thiem,A. Zverev,,,,,,,,,AUT,GER,1504
+124,2018-frenchopen-1601,2018,frenchopen,1601,R. Nadal,J. Del Potro,,,,,,,,,ESP,ARG,1601
+125,2018-frenchopen-1602,2018,frenchopen,1602,M. Cecchinato,D. Thiem,,,,,,,,,ITA,AUT,1602
+126,2018-frenchopen-1701,2018,frenchopen,1701,R. Nadal,D. Thiem,,,,,,,,,ESP,AUT,1701
+0,2019-frenchopen-1101,2019,frenchopen,1101,N. Djokovic,H. Hurkacz,,,,,,,,,SRB,POL,1101
+1,2019-frenchopen-1102,2019,frenchopen,1102,H. Laaksonen,P. Martinez,,,,,,,,,SUI,ESP,1102
+2,2019-frenchopen-1103,2019,frenchopen,1103,J. Munar,S. Caruso,,,,,,,,,ESP,ITA,1103
+3,2019-frenchopen-1104,2019,frenchopen,1104,S. Stakhovsky,G. Simon,,,,,,,,,UKR,FRA,1104
+4,2019-frenchopen-1105,2019,frenchopen,1105,D. Shapovalov,J. Struff,,,,,,,,,CAN,GER,1105
+5,2019-frenchopen-1106,2019,frenchopen,1106,R. Albot,T. Sandgren,,,,,,,,,MDA,USA,1106
+6,2019-frenchopen-1107,2019,frenchopen,1107,L. Harris,L. Rosol,,,,,,,,,RSA,CZE,1107
+7,2019-frenchopen-1108,2019,frenchopen,1108,A. Bedene,B. Coric,,,,,,,,,SLO,CRO,1108
+8,2019-frenchopen-1109,2019,frenchopen,1109,F. Fognini,A. Seppi,,,,,,,,,ITA,ITA,1109
+9,2019-frenchopen-1110,2019,frenchopen,1110,G. Garcia-Lopez,F. Delbonis,,,,,,,,,ESP,ARG,1110
+10,2019-frenchopen-1111,2019,frenchopen,1111,T. Fritz,B. Tomic,,,,,,,,,USA,AUS,1111
+11,2019-frenchopen-1112,2019,frenchopen,1112,S. Johnson,R. Bautista Agut,,,,,,,,,USA,ESP,1112
+12,2019-frenchopen-1113,2019,frenchopen,1113,D. Lajovic,T. Monteiro,,,,,,,,,SRB,BRA,1113
+13,2019-frenchopen-1114,2019,frenchopen,1114,C. Norrie,E. Benchetrit,,,,,,,,,GBR,FRA,1114
+14,2019-frenchopen-1115,2019,frenchopen,1115,M. Ymer,B. Rola,,,,,,,,,SWE,SLO,1115
+15,2019-frenchopen-1116,2019,frenchopen,1116,J. Millman,A. Zverev,,,,,,,,,AUS,GER,1116
+16,2019-frenchopen-1117,2019,frenchopen,1117,D. Thiem,T. Paul,,,,,,,,,AUT,USA,1117
+17,2019-frenchopen-1118,2019,frenchopen,1118,R. Molleker,A. Bublik,,,,,,,,,GER,KAZ,1118
+18,2019-frenchopen-1119,2019,frenchopen,1119,M. Janvier,P. Cuevas,,,,,,,,,FRA,URU,1119
+19,2019-frenchopen-1120,2019,frenchopen,1120,J. Chardy,K. Edmund,,,,,,,,,FRA,GBR,1120
+20,2019-frenchopen-1121,2019,frenchopen,1121,F. Verdasco,D. Evans,,,,,,,,,ESP,GBR,1121
+21,2019-frenchopen-1122,2019,frenchopen,1122,A. Hoang,D. Dzumhur,,,,,,,,,FRA,BIH,1122
+22,2019-frenchopen-1123,2019,frenchopen,1123,S. Travaglia,A. Mannarino,,,,,,,,,ITA,FRA,1123
+23,2019-frenchopen-1124,2019,frenchopen,1124,T. Daniel,G. Monfils,,,,,,,,,JPN,FRA,1124
+24,2019-frenchopen-1125,2019,frenchopen,1125,K. Khachanov,C. Stebe,,,,,,,,,RUS,GER,1125
+25,2019-frenchopen-1126,2019,frenchopen,1126,G. Barrere,M. Ebden,,,,,,,,,FRA,AUS,1126
+26,2019-frenchopen-1127,2019,frenchopen,1127,M. Klizan,M. Kukushkin,,,,,,,,,SVK,KAZ,1127
+27,2019-frenchopen-1128,2019,frenchopen,1128,S. Bolelli,L. Pouille,,,,,,,,,ITA,FRA,1128
+28,2019-frenchopen-1129,2019,frenchopen,1129,A. Davidovich Fokina,J. Thompson,,,,,,,,,ESP,AUS,1129
+29,2019-frenchopen-1130,2019,frenchopen,1130,I. Karlovic,F. Lopez,,,,,,,,,CRO,ESP,1130
+30,2019-frenchopen-1131,2019,frenchopen,1131,Y. Nishioka,M. Mcdonald,,,,,,,,,JPN,USA,1131
+31,2019-frenchopen-1132,2019,frenchopen,1132,N. Jarry,J. Del Potro,,,,,,,,,CHI,ARG,1132
+32,2019-frenchopen-1133,2019,frenchopen,1133,S. Tsitsipas,M. Marterer,,,,,,,,,GRE,GER,1133
+33,2019-frenchopen-1134,2019,frenchopen,1134,P. Gunneswaran,H. Dellien,,,,,,,,,IND,BOL,1134
+34,2019-frenchopen-1135,2019,frenchopen,1135,R. Carballes Baena,A. Muller,,,,,,,,,ESP,FRA,1135
+35,2019-frenchopen-1136,2019,frenchopen,1136,F. Krajinovic,F. Tiafoe,,,,,,,,,SRB,USA,1136
+36,2019-frenchopen-1137,2019,frenchopen,1137,S. Wawrinka,J. Kovalik,,,,,,,,,SUI,SVK,1137
+37,2019-frenchopen-1138,2019,frenchopen,1138,R. Opelka,C. Garin,,,,,,,,,USA,CHI,1138
+38,2019-frenchopen-1139,2019,frenchopen,1139,J. Tipsarevic,G. Dimitrov,,,,,,,,,SRB,BUL,1139
+39,2019-frenchopen-1140,2019,frenchopen,1140,T. Fabbiano,M. Cilic,,,,,,,,,ITA,CRO,1140
+40,2019-frenchopen-1141,2019,frenchopen,1141,M. Cecchinato,N. Mahut,,,,,,,,,ITA,FRA,1141
+41,2019-frenchopen-1142,2019,frenchopen,1142,R. Haase,P. Kohlschreiber,,,,,,,,,NED,GER,1142
+42,2019-frenchopen-1143,2019,frenchopen,1143,J. Vesely,L. Mayer,,,,,,,,,CZE,ARG,1143
+43,2019-frenchopen-1144,2019,frenchopen,1144,M. Fucsovics,D. Schwartzman,,,,,,,,,HUN,ARG,1144
+44,2019-frenchopen-1145,2019,frenchopen,1145,M. Berrettini,P. Andujar,,,,,,,,,ITA,ESP,1145
+45,2019-frenchopen-1146,2019,frenchopen,1146,C. Ruud,E. Gulbis,,,,,,,,,NOR,LAT,1146
+46,2019-frenchopen-1147,2019,frenchopen,1147,M. Jaziri,O. Otte,,,,,,,,,TUN,GER,1147
+47,2019-frenchopen-1148,2019,frenchopen,1148,L. Sonego,R. Federer,,,,,,,,,ITA,SUI,1148
+48,2019-frenchopen-1149,2019,frenchopen,1149,K. Nishikori,Q. Halys,,,,,,,,,JPN,FRA,1149
+49,2019-frenchopen-1150,2019,frenchopen,1150,J. Tsonga,P. Gojowczyk,,,,,,,,,FRA,GER,1150
+50,2019-frenchopen-1151,2019,frenchopen,1151,A. Popyrin,U. Humbert,,,,,,,,,AUS,FRA,1151
+51,2019-frenchopen-1152,2019,frenchopen,1152,A. Ramos-Vinolas,L. Djere,,,,,,,,,ESP,SRB,1152
+52,2019-frenchopen-1153,2019,frenchopen,1153,A. De Minaur,B. Klahn,,,,,,,,,AUS,USA,1153
+53,2019-frenchopen-1154,2019,frenchopen,1154,P. Carreno Busta,J. Sousa,,,,,,,,,ESP,POR,1154
+54,2019-frenchopen-1155,2019,frenchopen,1155,B. Paire,M. Copil,,,,,,,,,FRA,ROU,1155
+55,2019-frenchopen-1156,2019,frenchopen,1156,P. Herbert,D. Medvedev,,,,,,,,,FRA,RUS,1156
+56,2019-frenchopen-1157,2019,frenchopen,1157,N. Basilashvili,J. Londero,,,,,,,,,GEO,ARG,1157
+57,2019-frenchopen-1158,2019,frenchopen,1158,M. Zverev,R. Gasquet,,,,,,,,,GER,FRA,1158
+58,2019-frenchopen-1159,2019,frenchopen,1159,A. Vatutin,C. Moutet,,,,,,,,,RUS,FRA,1159
+59,2019-frenchopen-1160,2019,frenchopen,1160,G. Andreozzi,G. Pella,,,,,,,,,ARG,ARG,1160
+60,2019-frenchopen-1161,2019,frenchopen,1161,D. Goffin,R. Berankis,,,,,,,,,BEL,LTU,1161
+61,2019-frenchopen-1162,2019,frenchopen,1162,M. Kecmanovic,D. Kudla,,,,,,,,,SRB,USA,1162
+62,2019-frenchopen-1163,2019,frenchopen,1163,Y. Maden,K. Coppejans,,,,,,,,,GER,BEL,1163
+63,2019-frenchopen-1164,2019,frenchopen,1164,Y. Hanfmann,R. Nadal,,,,,,,,,GER,ESP,1164
+64,2019-frenchopen-1201,2019,frenchopen,1201,N. Djokovic,H. Laaksonen,,,,,,,,,SRB,SUI,1201
+65,2019-frenchopen-1202,2019,frenchopen,1202,S. Caruso,G. Simon,,,,,,,,,ITA,FRA,1202
+66,2019-frenchopen-1203,2019,frenchopen,1203,J. Struff,R. Albot,,,,,,,,,GER,MDA,1203
+67,2019-frenchopen-1204,2019,frenchopen,1204,L. Harris,B. Coric,,,,,,,,,RSA,CRO,1204
+68,2019-frenchopen-1205,2019,frenchopen,1205,F. Fognini,F. Delbonis,,,,,,,,,ITA,ARG,1205
+69,2019-frenchopen-1206,2019,frenchopen,1206,T. Fritz,R. Bautista Agut,,,,,,,,,USA,ESP,1206
+70,2019-frenchopen-1207,2019,frenchopen,1207,D. Lajovic,E. Benchetrit,,,,,,,,,SRB,FRA,1207
+71,2019-frenchopen-1208,2019,frenchopen,1208,M. Ymer,A. Zverev,,,,,,,,,SWE,GER,1208
+72,2019-frenchopen-1209,2019,frenchopen,1209,D. Thiem,A. Bublik,,,,,,,,,AUT,KAZ,1209
+73,2019-frenchopen-1210,2019,frenchopen,1210,P. Cuevas,K. Edmund,,,,,,,,,URU,GBR,1210
+74,2019-frenchopen-1211,2019,frenchopen,1211,F. Verdasco,A. Hoang,,,,,,,,,ESP,FRA,1211
+75,2019-frenchopen-1212,2019,frenchopen,1212,A. Mannarino,G. Monfils,,,,,,,,,FRA,FRA,1212
+76,2019-frenchopen-1213,2019,frenchopen,1213,K. Khachanov,G. Barrere,,,,,,,,,RUS,FRA,1213
+77,2019-frenchopen-1214,2019,frenchopen,1214,M. Klizan,L. Pouille,,,,,,,,,SVK,FRA,1214
+78,2019-frenchopen-1215,2019,frenchopen,1215,J. Thompson,I. Karlovic,,,,,,,,,AUS,CRO,1215
+79,2019-frenchopen-1216,2019,frenchopen,1216,Y. Nishioka,J. Del Potro,,,,,,,,,JPN,ARG,1216
+80,2019-frenchopen-1217,2019,frenchopen,1217,S. Tsitsipas,H. Dellien,,,,,,,,,GRE,BOL,1217
+81,2019-frenchopen-1218,2019,frenchopen,1218,R. Carballes Baena,F. Krajinovic,,,,,,,,,ESP,SRB,1218
+82,2019-frenchopen-1219,2019,frenchopen,1219,S. Wawrinka,C. Garin,,,,,,,,,SUI,CHI,1219
+83,2019-frenchopen-1220,2019,frenchopen,1220,G. Dimitrov,M. Cilic,,,,,,,,,BUL,CRO,1220
+84,2019-frenchopen-1221,2019,frenchopen,1221,N. Mahut,P. Kohlschreiber,,,,,,,,,FRA,GER,1221
+85,2019-frenchopen-1222,2019,frenchopen,1222,L. Mayer,D. Schwartzman,,,,,,,,,ARG,ARG,1222
+86,2019-frenchopen-1223,2019,frenchopen,1223,M. Berrettini,C. Ruud,,,,,,,,,ITA,NOR,1223
+87,2019-frenchopen-1224,2019,frenchopen,1224,O. Otte,R. Federer,,,,,,,,,GER,SUI,1224
+88,2019-frenchopen-1225,2019,frenchopen,1225,K. Nishikori,J. Tsonga,,,,,,,,,JPN,FRA,1225
+89,2019-frenchopen-1226,2019,frenchopen,1226,A. Popyrin,L. Djere,,,,,,,,,AUS,SRB,1226
+90,2019-frenchopen-1227,2019,frenchopen,1227,A. De Minaur,P. Carreno Busta,,,,,,,,,AUS,ESP,1227
+91,2019-frenchopen-1228,2019,frenchopen,1228,B. Paire,P. Herbert,,,,,,,,,FRA,FRA,1228
+92,2019-frenchopen-1229,2019,frenchopen,1229,J. Londero,R. Gasquet,,,,,,,,,ARG,FRA,1229
+93,2019-frenchopen-1230,2019,frenchopen,1230,C. Moutet,G. Pella,,,,,,,,,FRA,ARG,1230
+94,2019-frenchopen-1231,2019,frenchopen,1231,D. Goffin,M. Kecmanovic,,,,,,,,,BEL,SRB,1231
+95,2019-frenchopen-1232,2019,frenchopen,1232,Y. Maden,R. Nadal,,,,,,,,,GER,ESP,1232
+96,2019-frenchopen-1301,2019,frenchopen,1301,N. Djokovic,S. Caruso,,,,,,,,,SRB,ITA,1301
+97,2019-frenchopen-1302,2019,frenchopen,1302,J. Struff,B. Coric,,,,,,,,,GER,CRO,1302
+98,2019-frenchopen-1303,2019,frenchopen,1303,F. Fognini,R. Bautista Agut,,,,,,,,,ITA,ESP,1303
+99,2019-frenchopen-1304,2019,frenchopen,1304,D. Lajovic,A. Zverev,,,,,,,,,SRB,GER,1304
+100,2019-frenchopen-1305,2019,frenchopen,1305,D. Thiem,P. Cuevas,,,,,,,,,AUT,URU,1305
+101,2019-frenchopen-1306,2019,frenchopen,1306,A. Hoang,G. Monfils,,,,,,,,,FRA,FRA,1306
+102,2019-frenchopen-1307,2019,frenchopen,1307,K. Khachanov,M. Klizan,,,,,,,,,RUS,SVK,1307
+103,2019-frenchopen-1308,2019,frenchopen,1308,J. Thompson,J. Del Potro,,,,,,,,,AUS,ARG,1308
+104,2019-frenchopen-1309,2019,frenchopen,1309,S. Tsitsipas,F. Krajinovic,,,,,,,,,GRE,SRB,1309
+105,2019-frenchopen-1310,2019,frenchopen,1310,S. Wawrinka,G. Dimitrov,,,,,,,,,SUI,BUL,1310
+106,2019-frenchopen-1311,2019,frenchopen,1311,N. Mahut,L. Mayer,,,,,,,,,FRA,ARG,1311
+107,2019-frenchopen-1312,2019,frenchopen,1312,C. Ruud,R. Federer,,,,,,,,,NOR,SUI,1312
+108,2019-frenchopen-1313,2019,frenchopen,1313,K. Nishikori,L. Djere,,,,,,,,,JPN,SRB,1313
+109,2019-frenchopen-1314,2019,frenchopen,1314,P. Carreno Busta,B. Paire,,,,,,,,,ESP,FRA,1314
+110,2019-frenchopen-1315,2019,frenchopen,1315,J. Londero,C. Moutet,,,,,,,,,ARG,FRA,1315
+111,2019-frenchopen-1316,2019,frenchopen,1316,D. Goffin,R. Nadal,,,,,,,,,BEL,ESP,1316
+112,2019-frenchopen-1401,2019,frenchopen,1401,N. Djokovic,J. Struff,,,,,,,,,SRB,GER,1401
+113,2019-frenchopen-1402,2019,frenchopen,1402,F. Fognini,A. Zverev,,,,,,,,,ITA,GER,1402
+114,2019-frenchopen-1403,2019,frenchopen,1403,D. Thiem,G. Monfils,,,,,,,,,AUT,FRA,1403
+115,2019-frenchopen-1404,2019,frenchopen,1404,K. Khachanov,J. Del Potro,,,,,,,,,RUS,ARG,1404
+116,2019-frenchopen-1405,2019,frenchopen,1405,S. Tsitsipas,S. Wawrinka,,,,,,,,,GRE,SUI,1405
+117,2019-frenchopen-1406,2019,frenchopen,1406,L. Mayer,R. Federer,,,,,,,,,ARG,SUI,1406
+118,2019-frenchopen-1407,2019,frenchopen,1407,K. Nishikori,B. Paire,,,,,,,,,JPN,FRA,1407
+119,2019-frenchopen-1408,2019,frenchopen,1408,J. Londero,R. Nadal,,,,,,,,,ARG,ESP,1408
+120,2019-frenchopen-1501,2019,frenchopen,1501,N. Djokovic,A. Zverev,,,,,,,,,SRB,GER,1501
+121,2019-frenchopen-1502,2019,frenchopen,1502,D. Thiem,K. Khachanov,,,,,,,,,AUT,RUS,1502
+122,2019-frenchopen-1503,2019,frenchopen,1503,S. Wawrinka,R. Federer,,,,,,,,,SUI,SUI,1503
+123,2019-frenchopen-1504,2019,frenchopen,1504,K. Nishikori,R. Nadal,,,,,,,,,JPN,ESP,1504
+124,2019-frenchopen-1601,2019,frenchopen,1601,N. Djokovic,D. Thiem,,,,,,,,,SRB,AUT,1601
+125,2019-frenchopen-1602,2019,frenchopen,1602,R. Federer,R. Nadal,,,,,,,,,SUI,ESP,1602
+126,2019-frenchopen-1701,2019,frenchopen,1701,D. Thiem,R. Nadal,,,,,,,,,AUT,ESP,1701
+0,2020-frenchopen-1101,2020,frenchopen,1101,N Djokovic,M Ymer,,,,,,,,,,,1101
+1,2020-frenchopen-1102,2020,frenchopen,1102,H Dellien,R Berankis,,,,,,,,,,,1102
+2,2020-frenchopen-1103,2020,frenchopen,1103,De Galan,C Norrie,,,,,,,,,,,1103
+3,2020-frenchopen-1104,2020,frenchopen,1104,T Sandgren,H Hurkacz,,,,,,,,,,,1104
+4,2020-frenchopen-1105,2020,frenchopen,1105,C Garin,P Kohlschreiber,,,,,,,,,,,1105
+5,2020-frenchopen-1106,2020,frenchopen,1106,U Humbert,M Polmans,,,,,,,,,,,1106
+6,2020-frenchopen-1107,2020,frenchopen,1107,J Vesely,L Broady,,,,,,,,,,,1107
+7,2020-frenchopen-1108,2020,frenchopen,1108,K Majchrzak,K Khachanov,,,,,,,,,,,1108
+8,2020-frenchopen-1109,2020,frenchopen,1109,R Bautista Agut,R Gasquet,,,,,,,,,,,1109
+9,2020-frenchopen-1110,2020,frenchopen,1110,Y Uchiyama,A Balazs,,,,,,,,,,,1110
+10,2020-frenchopen-1111,2020,frenchopen,1111,G Pella,S Caruso,,,,,,,,,,,1111
+11,2020-frenchopen-1112,2020,frenchopen,1112,J Millman,P Carreno Busta,,,,,,,,,,,1112
+12,2020-frenchopen-1113,2020,frenchopen,1113,Jl Struff,F Tiafoe,,,,,,,,,,,1113
+13,2020-frenchopen-1114,2020,frenchopen,1114,D Altmaier,F Lopez,,,,,,,,,,,1114
+14,2020-frenchopen-1115,2020,frenchopen,1115,L Harris,A Popyrin,,,,,,,,,,,1115
+15,2020-frenchopen-1116,2020,frenchopen,1116,V Pospisil,M Berrettini,,,,,,,,,,,1116
+16,2020-frenchopen-1117,2020,frenchopen,1117,D Medvedev,M Fucsovics,,,,,,,,,,,1117
+17,2020-frenchopen-1118,2020,frenchopen,1118,A Mannarino,A Ramos-Vinolas,,,,,,,,,,,1118
+18,2020-frenchopen-1119,2020,frenchopen,1119,Q Halys,M Giron,,,,,,,,,,,1119
+19,2020-frenchopen-1120,2020,frenchopen,1120,T Monteiro,N Basilashvili,,,,,,,,,,,1120
+20,2020-frenchopen-1121,2020,frenchopen,1121,D Lajovic,G Mager,,,,,,,,,,,1121
+21,2020-frenchopen-1122,2020,frenchopen,1122,L Djere,K Anderson,,,,,,,,,,,1122
+22,2020-frenchopen-1123,2020,frenchopen,1123,H Mayot,A Davidovich Fokina,,,,,,,,,,,1123
+23,2020-frenchopen-1124,2020,frenchopen,1124,S Querrey,A Rublev,,,,,,,,,,,1124
+24,2020-frenchopen-1125,2020,frenchopen,1125,D Shapovalov,G Simon,,,,,,,,,,,1125
+25,2020-frenchopen-1126,2020,frenchopen,1126,S Johnson,R Carballes Baena,,,,,,,,,,,1126
+26,2020-frenchopen-1127,2020,frenchopen,1127,A Martin,J Sousa,,,,,,,,,,,1127
+27,2020-frenchopen-1128,2020,frenchopen,1128,G Barrere,G Dimitrov,,,,,,,,,,,1128
+28,2020-frenchopen-1129,2020,frenchopen,1129,F Krajinovic,N Milojevic,,,,,,,,,,,1129
+29,2020-frenchopen-1130,2020,frenchopen,1130,A Bedene,A Rinderknech,,,,,,,,,,,1130
+30,2020-frenchopen-1131,2020,frenchopen,1131,H Laaksonen,P Cuevas,,,,,,,,,,,1131
+31,2020-frenchopen-1132,2020,frenchopen,1132,J Munar,S Tsitsipas,,,,,,,,,,,1132
+32,2020-frenchopen-1133,2020,frenchopen,1133,G Monfils,A Bublik,,,,,,,,,,,1133
+33,2020-frenchopen-1134,2020,frenchopen,1134,E Gomez,L Sonego,,,,,,,,,,,1134
+34,2020-frenchopen-1135,2020,frenchopen,1135,J Thompson,R Albot,,,,,,,,,,,1135
+35,2020-frenchopen-1136,2020,frenchopen,1136,T Machac,T Fritz,,,,,,,,,,,1136
+36,2020-frenchopen-1137,2020,frenchopen,1137,B Coric,N Gombos,,,,,,,,,,,1137
+37,2020-frenchopen-1138,2020,frenchopen,1138,J Rodionov,J Chardy,,,,,,,,,,,1138
+38,2020-frenchopen-1139,2020,frenchopen,1139,C Moutet,L Giustino,,,,,,,,,,,1139
+39,2020-frenchopen-1140,2020,frenchopen,1140,M Kecmanovic,D Schwartzman,,,,,,,,,,,1140
+40,2020-frenchopen-1141,2020,frenchopen,1141,S Wawrinka,A Murray,,,,,,,,,,,1141
+41,2020-frenchopen-1142,2020,frenchopen,1142,D Koepfer,A Hoang,,,,,,,,,,,1142
+42,2020-frenchopen-1143,2020,frenchopen,1143,H Gaston,M Janvier,,,,,,,,,,,1143
+43,2020-frenchopen-1144,2020,frenchopen,1144,Y Nishioka,F Auger-Aliassime,,,,,,,,,,,1144
+44,2020-frenchopen-1145,2020,frenchopen,1145,C Ruud,Y Sugita,,,,,,,,,,,1145
+45,2020-frenchopen-1146,2020,frenchopen,1146,T Paul,J Duckworth,,,,,,,,,,,1146
+46,2020-frenchopen-1147,2020,frenchopen,1147,R Opelka,J Sock,,,,,,,,,,,1147
+47,2020-frenchopen-1148,2020,frenchopen,1148,M Cilic,D Thiem,,,,,,,,,,,1148
+48,2020-frenchopen-1149,2020,frenchopen,1149,A Zverev,D Novak,,,,,,,,,,,1149
+49,2020-frenchopen-1150,2020,frenchopen,1150,M Mmoh,Ph Herbert,,,,,,,,,,,1150
+50,2020-frenchopen-1151,2020,frenchopen,1151,F Delbonis,Ji Londero,,,,,,,,,,,1151
+51,2020-frenchopen-1152,2020,frenchopen,1152,M Cecchinato,A De Minaur,,,,,,,,,,,1152
+52,2020-frenchopen-1153,2020,frenchopen,1153,B Paire,S Kwon,,,,,,,,,,,1153
+53,2020-frenchopen-1154,2020,frenchopen,1154,F Coria,J Jung,,,,,,,,,,,1154
+54,2020-frenchopen-1155,2020,frenchopen,1155,B Bonzi,E Ruusuvuori,,,,,,,,,,,1155
+55,2020-frenchopen-1156,2020,frenchopen,1156,J Sinner,D Goffin,,,,,,,,,,,1156
+56,2020-frenchopen-1157,2020,frenchopen,1157,F Fognini,M Kukushkin,,,,,,,,,,,1157
+57,2020-frenchopen-1158,2020,frenchopen,1158,P Martinez,A Vukic,,,,,,,,,,,1158
+58,2020-frenchopen-1159,2020,frenchopen,1159,S Korda,A Seppi,,,,,,,,,,,1159
+59,2020-frenchopen-1160,2020,frenchopen,1160,E Benchetrit,J Isner,,,,,,,,,,,1160
+60,2020-frenchopen-1161,2020,frenchopen,1161,D Evans,K Nishikori,,,,,,,,,,,1161
+61,2020-frenchopen-1162,2020,frenchopen,1162,P Andujar,S Travaglia,,,,,,,,,,,1162
+62,2020-frenchopen-1163,2020,frenchopen,1163,S Diez,M Mcdonald,,,,,,,,,,,1163
+63,2020-frenchopen-1164,2020,frenchopen,1164,E Gerasimov,R Nadal,,,,,,,,,,,1164
+64,2020-frenchopen-1201,2020,frenchopen,1201,N Djokovic,R Berankis,,,,,,,,,,,1201
+65,2020-frenchopen-1202,2020,frenchopen,1202,De Galan,T Sandgren,,,,,,,,,,,1202
+66,2020-frenchopen-1203,2020,frenchopen,1203,C Garin,M Polmans,,,,,,,,,,,1203
+67,2020-frenchopen-1204,2020,frenchopen,1204,J Vesely,K Khachanov,,,,,,,,,,,1204
+68,2020-frenchopen-1205,2020,frenchopen,1205,R Bautista Agut,A Balazs,,,,,,,,,,,1205
+69,2020-frenchopen-1206,2020,frenchopen,1206,G Pella,P Carreno Busta,,,,,,,,,,,1206
+70,2020-frenchopen-1207,2020,frenchopen,1207,Jl Struff,D Altmaier,,,,,,,,,,,1207
+71,2020-frenchopen-1208,2020,frenchopen,1208,L Harris,M Berrettini,,,,,,,,,,,1208
+72,2020-frenchopen-1209,2020,frenchopen,1209,M Fucsovics,A Ramos-Vinolas,,,,,,,,,,,1209
+73,2020-frenchopen-1210,2020,frenchopen,1210,M Giron,T Monteiro,,,,,,,,,,,1210
+74,2020-frenchopen-1211,2020,frenchopen,1211,D Lajovic,K Anderson,,,,,,,,,,,1211
+75,2020-frenchopen-1212,2020,frenchopen,1212,A Davidovich Fokina,A Rublev,,,,,,,,,,,1212
+76,2020-frenchopen-1213,2020,frenchopen,1213,D Shapovalov,R Carballes Baena,,,,,,,,,,,1213
+77,2020-frenchopen-1214,2020,frenchopen,1214,A Martin,G Dimitrov,,,,,,,,,,,1214
+78,2020-frenchopen-1215,2020,frenchopen,1215,N Milojevic,A Bedene,,,,,,,,,,,1215
+79,2020-frenchopen-1216,2020,frenchopen,1216,P Cuevas,S Tsitsipas,,,,,,,,,,,1216
+80,2020-frenchopen-1217,2020,frenchopen,1217,A Bublik,L Sonego,,,,,,,,,,,1217
+81,2020-frenchopen-1218,2020,frenchopen,1218,R Albot,T Fritz,,,,,,,,,,,1218
+82,2020-frenchopen-1219,2020,frenchopen,1219,N Gombos,J Rodionov,,,,,,,,,,,1219
+83,2020-frenchopen-1220,2020,frenchopen,1220,L Giustino,D Schwartzman,,,,,,,,,,,1220
+84,2020-frenchopen-1221,2020,frenchopen,1221,S Wawrinka,D Koepfer,,,,,,,,,,,1221
+85,2020-frenchopen-1222,2020,frenchopen,1222,H Gaston,Y Nishioka,,,,,,,,,,,1222
+86,2020-frenchopen-1223,2020,frenchopen,1223,C Ruud,T Paul,,,,,,,,,,,1223
+87,2020-frenchopen-1224,2020,frenchopen,1224,J Sock,D Thiem,,,,,,,,,,,1224
+88,2020-frenchopen-1225,2020,frenchopen,1225,A Zverev,Ph Herbert,,,,,,,,,,,1225
+89,2020-frenchopen-1226,2020,frenchopen,1226,Ji Londero,M Cecchinato,,,,,,,,,,,1226
+90,2020-frenchopen-1227,2020,frenchopen,1227,B Paire,F Coria,,,,,,,,,,,1227
+91,2020-frenchopen-1228,2020,frenchopen,1228,B Bonzi,J Sinner,,,,,,,,,,,1228
+92,2020-frenchopen-1229,2020,frenchopen,1229,M Kukushkin,P Martinez,,,,,,,,,,,1229
+93,2020-frenchopen-1230,2020,frenchopen,1230,S Korda,J Isner,,,,,,,,,,,1230
+94,2020-frenchopen-1231,2020,frenchopen,1231,K Nishikori,S Travaglia,,,,,,,,,,,1231
+95,2020-frenchopen-1232,2020,frenchopen,1232,M Mcdonald,R Nadal,,,,,,,,,,,1232
+96,2020-frenchopen-1301,2020,frenchopen,1301,N Djokovic,De Galan,,,,,,,,,,,1301
+97,2020-frenchopen-1302,2020,frenchopen,1302,C Garin,K Khachanov,,,,,,,,,,,1302
+98,2020-frenchopen-1303,2020,frenchopen,1303,R Bautista Agut,P Carreno Busta,,,,,,,,,,,1303
+99,2020-frenchopen-1304,2020,frenchopen,1304,D Altmaier,M Berrettini,,,,,,,,,,,1304
+100,2020-frenchopen-1305,2020,frenchopen,1305,M Fucsovics,T Monteiro,,,,,,,,,,,1305
+101,2020-frenchopen-1306,2020,frenchopen,1306,K Anderson,A Rublev,,,,,,,,,,,1306
+102,2020-frenchopen-1307,2020,frenchopen,1307,R Carballes Baena,G Dimitrov,,,,,,,,,,,1307
+103,2020-frenchopen-1308,2020,frenchopen,1308,A Bedene,S Tsitsipas,,,,,,,,,,,1308
+104,2020-frenchopen-1309,2020,frenchopen,1309,L Sonego,T Fritz,,,,,,,,,,,1309
+105,2020-frenchopen-1310,2020,frenchopen,1310,N Gombos,D Schwartzman,,,,,,,,,,,1310
+106,2020-frenchopen-1311,2020,frenchopen,1311,S Wawrinka,H Gaston,,,,,,,,,,,1311
+107,2020-frenchopen-1312,2020,frenchopen,1312,C Ruud,D Thiem,,,,,,,,,,,1312
+108,2020-frenchopen-1313,2020,frenchopen,1313,A Zverev,M Cecchinato,,,,,,,,,,,1313
+109,2020-frenchopen-1314,2020,frenchopen,1314,F Coria,J Sinner,,,,,,,,,,,1314
+110,2020-frenchopen-1315,2020,frenchopen,1315,P Martinez,S Korda,,,,,,,,,,,1315
+111,2020-frenchopen-1316,2020,frenchopen,1316,S Travaglia,R Nadal,,,,,,,,,,,1316
+112,2020-frenchopen-1401,2020,frenchopen,1401,N Djokovic,K Khachanov,,,,,,,,,,,1401
+113,2020-frenchopen-1402,2020,frenchopen,1402,P Carreno Busta,D Altmaier,,,,,,,,,,,1402
+114,2020-frenchopen-1403,2020,frenchopen,1403,M Fucsovics,A Rublev,,,,,,,,,,,1403
+115,2020-frenchopen-1404,2020,frenchopen,1404,G Dimitrov,S Tsitsipas,,,,,,,,,,,1404
+116,2020-frenchopen-1405,2020,frenchopen,1405,L Sonego,D Schwartzman,,,,,,,,,,,1405
+117,2020-frenchopen-1406,2020,frenchopen,1406,H Gaston,D Thiem,,,,,,,,,,,1406
+118,2020-frenchopen-1407,2020,frenchopen,1407,A Zverev,J Sinner,,,,,,,,,,,1407
+119,2020-frenchopen-1408,2020,frenchopen,1408,S Korda,R Nadal,,,,,,,,,,,1408
+120,2020-frenchopen-1501,2020,frenchopen,1501,N Djokovic,P Carreno Busta,,,,,,,,,,,1501
+121,2020-frenchopen-1502,2020,frenchopen,1502,A Rublev,S Tsitsipas,,,,,,,,,,,1502
+122,2020-frenchopen-1503,2020,frenchopen,1503,D Schwartzman,D Thiem,,,,,,,,,,,1503
+123,2020-frenchopen-1504,2020,frenchopen,1504,J Sinner,R Nadal,,,,,,,,,,,1504
+124,2020-frenchopen-1601,2020,frenchopen,1601,N Djokovic,S Tsitsipas,,,,,,,,,,,1601
+125,2020-frenchopen-1602,2020,frenchopen,1602,D Schwartzman,R Nadal,,,,,,,,,,,1602
+126,2020-frenchopen-1701,2020,frenchopen,1701,N Djokovic,R Nadal,,,,,,,,,,,1701
+0,2021-frenchopen-1101,2021,frenchopen,1101,N Djokovic,T Sandgren,,,,,,,,,,,1101
+1,2021-frenchopen-1102,2021,frenchopen,1102,L Pouille,P Cuevas,,,,,,,,,,,1102
+2,2021-frenchopen-1103,2021,frenchopen,1103,S Caruso,J Duckworth,,,,,,,,,,,1103
+3,2021-frenchopen-1104,2021,frenchopen,1104,R Berankis,U Humbert,,,,,,,,,,,1104
+4,2021-frenchopen-1105,2021,frenchopen,1105,A De Minaur,S Travaglia,,,,,,,,,,,1105
+5,2021-frenchopen-1106,2021,frenchopen,1106,Y Uchiyama,M Cecchinato,,,,,,,,,,,1106
+6,2021-frenchopen-1107,2021,frenchopen,1107,Jw Tsonga,Y Nishioka,,,,,,,,,,,1107
+7,2021-frenchopen-1108,2021,frenchopen,1108,L Musetti,D Goffin,,,,,,,,,,,1108
+8,2021-frenchopen-1109,2021,frenchopen,1109,M Berrettini,T Daniel,,,,,,,,,,,1109
+9,2021-frenchopen-1110,2021,frenchopen,1110,F Coria,F Lopez,,,,,,,,,,,1110
+10,2021-frenchopen-1111,2021,frenchopen,1111,K Anderson,S Kwon,,,,,,,,,,,1111
+11,2021-frenchopen-1112,2021,frenchopen,1112,A Seppi,F Auger-Aliassime,,,,,,,,,,,1112
+12,2021-frenchopen-1113,2021,frenchopen,1113,T Fritz,J Sousa,,,,,,,,,,,1113
+13,2021-frenchopen-1114,2021,frenchopen,1114,M Bourgue,D Koepfer,,,,,,,,,,,1114
+14,2021-frenchopen-1115,2021,frenchopen,1115,M Cilic,A Rinderknech,,,,,,,,,,,1115
+15,2021-frenchopen-1116,2021,frenchopen,1116,D Istomin,R Federer,,,,,,,,,,,1116
+16,2021-frenchopen-1117,2021,frenchopen,1117,R Nadal,A Popyrin,,,,,,,,,,,1117
+17,2021-frenchopen-1118,2021,frenchopen,1118,H Gaston,R Gasquet,,,,,,,,,,,1118
+18,2021-frenchopen-1119,2021,frenchopen,1119,C Norrie,B Fratangelo,,,,,,,,,,,1119
+19,2021-frenchopen-1120,2021,frenchopen,1120,L Harris,L Sonego,,,,,,,,,,,1120
+20,2021-frenchopen-1121,2021,frenchopen,1121,J Sinner,Ph Herbert,,,,,,,,,,,1121
+21,2021-frenchopen-1122,2021,frenchopen,1122,G Mager,P Gojowczyk,,,,,,,,,,,1122
+22,2021-frenchopen-1123,2021,frenchopen,1123,M Ymer,R Carballes Baena,,,,,,,,,,,1123
+23,2021-frenchopen-1124,2021,frenchopen,1124,A Ramos-Vinolas,G Monfils,,,,,,,,,,,1124
+24,2021-frenchopen-1125,2021,frenchopen,1125,D Schwartzman,Yh Lu,,,,,,,,,,,1125
+25,2021-frenchopen-1126,2021,frenchopen,1126,A Mannarino,A Bedene,,,,,,,,,,,1126
+26,2021-frenchopen-1127,2021,frenchopen,1127,P Kohlschreiber,F Verdasco,,,,,,,,,,,1127
+27,2021-frenchopen-1128,2021,frenchopen,1128,J Brooksby,A Karatsev,,,,,,,,,,,1128
+28,2021-frenchopen-1129,2021,frenchopen,1129,N Basilashvili,D Lajovic,,,,,,,,,,,1129
+29,2021-frenchopen-1130,2021,frenchopen,1130,C Alcaraz,B Zapata Miralles,,,,,,,,,,,1130
+30,2021-frenchopen-1131,2021,frenchopen,1131,F Bagnis,B Bonzi,,,,,,,,,,,1131
+31,2021-frenchopen-1132,2021,frenchopen,1132,Jl Struff,A Rublev,,,,,,,,,,,1132
+32,2021-frenchopen-1133,2021,frenchopen,1133,A Zverev,O Otte,,,,,,,,,,,1133
+33,2021-frenchopen-1134,2021,frenchopen,1134,R Safiullin,C Taberner,,,,,,,,,,,1134
+34,2021-frenchopen-1135,2021,frenchopen,1135,C Moutet,L Djere,,,,,,,,,,,1135
+35,2021-frenchopen-1136,2021,frenchopen,1136,M Kecmanovic,D Evans,,,,,,,,,,,1136
+36,2021-frenchopen-1137,2021,frenchopen,1137,K Khachanov,J Vesely,,,,,,,,,,,1137
+37,2021-frenchopen-1138,2021,frenchopen,1138,K Nishikori,A Giannessi,,,,,,,,,,,1138
+38,2021-frenchopen-1139,2021,frenchopen,1139,Y Hanfmann,H Laaksonen,,,,,,,,,,,1139
+39,2021-frenchopen-1140,2021,frenchopen,1140,M Vilella Martinez,R Bautista Agut,,,,,,,,,,,1140
+40,2021-frenchopen-1141,2021,frenchopen,1141,C Ruud,B Paire,,,,,,,,,,,1141
+41,2021-frenchopen-1142,2021,frenchopen,1142,K Majchrzak,A Cazaux,,,,,,,,,,,1142
+42,2021-frenchopen-1143,2021,frenchopen,1143,A Davidovich Fokina,M Kukushkin,,,,,,,,,,,1143
+43,2021-frenchopen-1144,2021,frenchopen,1144,B Van De Zandschulp,H Hurkacz,,,,,,,,,,,1144
+44,2021-frenchopen-1145,2021,frenchopen,1145,F Fognini,G Barrere,,,,,,,,,,,1145
+45,2021-frenchopen-1146,2021,frenchopen,1146,M Fucsovics,G Simon,,,,,,,,,,,1146
+46,2021-frenchopen-1147,2021,frenchopen,1147,R Albot,F Delbonis,,,,,,,,,,,1147
+47,2021-frenchopen-1148,2021,frenchopen,1148,P Andujar,D Thiem,,,,,,,,,,,1148
+48,2021-frenchopen-1149,2021,frenchopen,1149,S Tsitsipas,J Chardy,,,,,,,,,,,1149
+49,2021-frenchopen-1150,2021,frenchopen,1150,S Korda,P Martinez,,,,,,,,,,,1150
+50,2021-frenchopen-1151,2021,frenchopen,1151,M Marterer,F Krajinovic,,,,,,,,,,,1151
+51,2021-frenchopen-1152,2021,frenchopen,1152,S Querrey,J Isner,,,,,,,,,,,1152
+52,2021-frenchopen-1153,2021,frenchopen,1153,F Cerundolo,T Monteiro,,,,,,,,,,,1153
+53,2021-frenchopen-1154,2021,frenchopen,1154,S Johnson,F Tiafoe,,,,,,,,,,,1154
+54,2021-frenchopen-1155,2021,frenchopen,1155,E Gerasimov,E Couacaud,,,,,,,,,,,1155
+55,2021-frenchopen-1156,2021,frenchopen,1156,N Gombos,P Carreno Busta,,,,,,,,,,,1156
+56,2021-frenchopen-1157,2021,frenchopen,1157,G Dimitrov,M Giron,,,,,,,,,,,1157
+57,2021-frenchopen-1158,2021,frenchopen,1158,G Pella,De Galan,,,,,,,,,,,1158
+58,2021-frenchopen-1159,2021,frenchopen,1159,E Ruusuvuori,M Mcdonald,,,,,,,,,,,1159
+59,2021-frenchopen-1160,2021,frenchopen,1160,Ji Londero,C Garin,,,,,,,,,,,1160
+60,2021-frenchopen-1161,2021,frenchopen,1161,R Opelka,A Martin,,,,,,,,,,,1161
+61,2021-frenchopen-1162,2021,frenchopen,1162,J Munar,J Thompson,,,,,,,,,,,1162
+62,2021-frenchopen-1163,2021,frenchopen,1163,T Paul,C O'Connell,,,,,,,,,,,1163
+63,2021-frenchopen-1164,2021,frenchopen,1164,A Bublik,D Medvedev,,,,,,,,,,,1164
+64,2021-frenchopen-1201,2021,frenchopen,1201,N Djokovic,P Cuevas,,,,,,,,,,,1201
+65,2021-frenchopen-1202,2021,frenchopen,1202,J Duckworth,R Berankis,,,,,,,,,,,1202
+66,2021-frenchopen-1203,2021,frenchopen,1203,A De Minaur,M Cecchinato,,,,,,,,,,,1203
+67,2021-frenchopen-1204,2021,frenchopen,1204,Y Nishioka,L Musetti,,,,,,,,,,,1204
+68,2021-frenchopen-1205,2021,frenchopen,1205,M Berrettini,F Coria,,,,,,,,,,,1205
+69,2021-frenchopen-1206,2021,frenchopen,1206,S Kwon,A Seppi,,,,,,,,,,,1206
+70,2021-frenchopen-1207,2021,frenchopen,1207,T Fritz,D Koepfer,,,,,,,,,,,1207
+71,2021-frenchopen-1208,2021,frenchopen,1208,M Cilic,R Federer,,,,,,,,,,,1208
+72,2021-frenchopen-1209,2021,frenchopen,1209,R Nadal,R Gasquet,,,,,,,,,,,1209
+73,2021-frenchopen-1210,2021,frenchopen,1210,C Norrie,L Harris,,,,,,,,,,,1210
+74,2021-frenchopen-1211,2021,frenchopen,1211,J Sinner,G Mager,,,,,,,,,,,1211
+75,2021-frenchopen-1212,2021,frenchopen,1212,M Ymer,G Monfils,,,,,,,,,,,1212
+76,2021-frenchopen-1213,2021,frenchopen,1213,D Schwartzman,A Bedene,,,,,,,,,,,1213
+77,2021-frenchopen-1214,2021,frenchopen,1214,P Kohlschreiber,A Karatsev,,,,,,,,,,,1214
+78,2021-frenchopen-1215,2021,frenchopen,1215,N Basilashvili,C Alcaraz,,,,,,,,,,,1215
+79,2021-frenchopen-1216,2021,frenchopen,1216,F Bagnis,Jl Struff,,,,,,,,,,,1216
+80,2021-frenchopen-1217,2021,frenchopen,1217,A Zverev,R Safiullin,,,,,,,,,,,1217
+81,2021-frenchopen-1218,2021,frenchopen,1218,L Djere,M Kecmanovic,,,,,,,,,,,1218
+82,2021-frenchopen-1219,2021,frenchopen,1219,K Khachanov,K Nishikori,,,,,,,,,,,1219
+83,2021-frenchopen-1220,2021,frenchopen,1220,H Laaksonen,R Bautista Agut,,,,,,,,,,,1220
+84,2021-frenchopen-1221,2021,frenchopen,1221,C Ruud,K Majchrzak,,,,,,,,,,,1221
+85,2021-frenchopen-1222,2021,frenchopen,1222,A Davidovich Fokina,B Van De Zandschulp,,,,,,,,,,,1222
+86,2021-frenchopen-1223,2021,frenchopen,1223,F Fognini,M Fucsovics,,,,,,,,,,,1223
+87,2021-frenchopen-1224,2021,frenchopen,1224,F Delbonis,P Andujar,,,,,,,,,,,1224
+88,2021-frenchopen-1225,2021,frenchopen,1225,S Tsitsipas,P Martinez,,,,,,,,,,,1225
+89,2021-frenchopen-1226,2021,frenchopen,1226,F Krajinovic,J Isner,,,,,,,,,,,1226
+90,2021-frenchopen-1227,2021,frenchopen,1227,T Monteiro,S Johnson,,,,,,,,,,,1227
+91,2021-frenchopen-1228,2021,frenchopen,1228,E Couacaud,P Carreno Busta,,,,,,,,,,,1228
+92,2021-frenchopen-1229,2021,frenchopen,1229,M Giron,G Pella,,,,,,,,,,,1229
+93,2021-frenchopen-1230,2021,frenchopen,1230,M Mcdonald,C Garin,,,,,,,,,,,1230
+94,2021-frenchopen-1231,2021,frenchopen,1231,R Opelka,J Munar,,,,,,,,,,,1231
+95,2021-frenchopen-1232,2021,frenchopen,1232,T Paul,D Medvedev,,,,,,,,,,,1232
+96,2021-frenchopen-1301,2021,frenchopen,1301,N Djokovic,R Berankis,,,,,,,,,,,1301
+97,2021-frenchopen-1302,2021,frenchopen,1302,M Cecchinato,L Musetti,,,,,,,,,,,1302
+98,2021-frenchopen-1303,2021,frenchopen,1303,M Berrettini,S Kwon,,,,,,,,,,,1303
+99,2021-frenchopen-1304,2021,frenchopen,1304,D Koepfer,R Federer,,,,,,,,,,,1304
+100,2021-frenchopen-1305,2021,frenchopen,1305,R Nadal,C Norrie,,,,,,,,,,,1305
+101,2021-frenchopen-1306,2021,frenchopen,1306,J Sinner,M Ymer,,,,,,,,,,,1306
+102,2021-frenchopen-1307,2021,frenchopen,1307,D Schwartzman,P Kohlschreiber,,,,,,,,,,,1307
+103,2021-frenchopen-1308,2021,frenchopen,1308,C Alcaraz,Jl Struff,,,,,,,,,,,1308
+104,2021-frenchopen-1309,2021,frenchopen,1309,A Zverev,L Djere,,,,,,,,,,,1309
+105,2021-frenchopen-1310,2021,frenchopen,1310,K Nishikori,H Laaksonen,,,,,,,,,,,1310
+106,2021-frenchopen-1311,2021,frenchopen,1311,C Ruud,A Davidovich Fokina,,,,,,,,,,,1311
+107,2021-frenchopen-1312,2021,frenchopen,1312,F Fognini,F Delbonis,,,,,,,,,,,1312
+108,2021-frenchopen-1313,2021,frenchopen,1313,S Tsitsipas,J Isner,,,,,,,,,,,1313
+109,2021-frenchopen-1314,2021,frenchopen,1314,S Johnson,P Carreno Busta,,,,,,,,,,,1314
+110,2021-frenchopen-1315,2021,frenchopen,1315,M Giron,C Garin,,,,,,,,,,,1315
+111,2021-frenchopen-1316,2021,frenchopen,1316,R Opelka,D Medvedev,,,,,,,,,,,1316
+112,2021-frenchopen-1401,2021,frenchopen,1401,N Djokovic,L Musetti,,,,,,,,,,,1401
+113,2021-frenchopen-1402,2021,frenchopen,1402,M Berrettini,R Federer,,,,,,,,,,,1402
+114,2021-frenchopen-1403,2021,frenchopen,1403,R Nadal,J Sinner,,,,,,,,,,,1403
+115,2021-frenchopen-1404,2021,frenchopen,1404,D Schwartzman,Jl Struff,,,,,,,,,,,1404
+116,2021-frenchopen-1405,2021,frenchopen,1405,A Zverev,K Nishikori,,,,,,,,,,,1405
+117,2021-frenchopen-1406,2021,frenchopen,1406,A Davidovich Fokina,F Delbonis,,,,,,,,,,,1406
+118,2021-frenchopen-1407,2021,frenchopen,1407,S Tsitsipas,P Carreno Busta,,,,,,,,,,,1407
+119,2021-frenchopen-1408,2021,frenchopen,1408,C Garin,D Medvedev,,,,,,,,,,,1408
+120,2021-frenchopen-1501,2021,frenchopen,1501,N Djokovic,M Berrettini,,,,,,,,,,,1501
+121,2021-frenchopen-1502,2021,frenchopen,1502,R Nadal,D Schwartzman,,,,,,,,,,,1502
+122,2021-frenchopen-1503,2021,frenchopen,1503,A Zverev,A Davidovich Fokina,,,,,,,,,,,1503
+123,2021-frenchopen-1504,2021,frenchopen,1504,S Tsitsipas,D Medvedev,,,,,,,,,,,1504
+124,2021-frenchopen-1601,2021,frenchopen,1601,N Djokovic,R Nadal,,,,,,,,,,,1601
+125,2021-frenchopen-1602,2021,frenchopen,1602,A Zverev,S Tsitsipas,,,,,,,,,,,1602
+126,2021-frenchopen-1701,2021,frenchopen,1701,N Djokovic,S Tsitsipas,,,,,,,,,,,1701
