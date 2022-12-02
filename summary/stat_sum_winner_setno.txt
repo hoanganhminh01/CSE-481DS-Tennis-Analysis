@@ -1,0 +1,69 @@
+$playerID
+Importance of components:
+                         [,1]
+Standard deviation     0.1198
+Proportion of Variance 1.0000
+Cumulative Proportion  1.0000
+
+> #how many principal components? can it be simplified? Are they all explaining additional variance
+> 
+> #####reporting stuff#######
+> summary(int_model_full2)
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: winners ~ Setno * Post.error + (1 | playerID)
+   Data: final.set
+
+      AIC       BIC    logLik  deviance  df.resid 
+1197511.7 1197644.8 -598744.9 1197489.7   1317641 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-0.5543 -0.4667 -0.4422 -0.4141  2.6568 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ playerID (Intercept) 0.01435  0.1198  
+Number of obs: 1317652, groups:  playerID, 254
+
+Fixed effects:
+                    Estimate Std. Error  z value Pr(>|z|)    
+(Intercept)        -1.661140   0.008925 -186.113  < 2e-16 ***
+Setno2              0.048863   0.006806    7.179 7.02e-13 ***
+Setno3              0.072214   0.006840   10.558  < 2e-16 ***
+Setno4              0.067406   0.008425    8.001 1.23e-15 ***
+Setno5              0.069699   0.011942    5.836 5.33e-09 ***
+Post.error1         0.134418   0.011394   11.798  < 2e-16 ***
+Setno2:Post.error1 -0.003560   0.016238   -0.219    0.826    
+Setno3:Post.error1  0.001354   0.016463    0.082    0.934    
+Setno4:Post.error1 -0.001121   0.020025   -0.056    0.955    
+Setno5:Post.error1 -0.012002   0.028179   -0.426    0.670    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) Setno2 Setno3 Setno4 Setno5 Pst.r1 S2:P.1 S3:P.1 S4:P.1
+Setno2      -0.383                                                        
+Setno3      -0.381  0.499                                                 
+Setno4      -0.309  0.403  0.400                                          
+Setno5      -0.212  0.277  0.276  0.227                                   
+Post.error1 -0.213  0.271  0.271  0.213  0.136                            
+Stn2:Pst.r1  0.146 -0.388 -0.184 -0.144 -0.090 -0.683                     
+Stn3:Pst.r1  0.143 -0.185 -0.390 -0.142 -0.091 -0.679  0.465              
+Stn4:Pst.r1  0.115 -0.147 -0.145 -0.388 -0.076 -0.537  0.367  0.361       
+Stn5:Pst.r1  0.076 -0.097 -0.097 -0.075 -0.371 -0.351  0.237  0.236  0.188
+> #summary(int_model_full2)
+> tab_model(int_model_full2)
+> anova(int_model_full2)
+Analysis of Variance Table
+                 npar Sum Sq Mean Sq  F value
+Setno               4 150.67   37.67  37.6663
+Post.error          1 445.15  445.15 445.1500
+Setno:Post.error    4   0.24    0.06   0.0604
+> anova_stats(int_model_full2)
+term             | npar |     sumsq |  meansq | statistic |      df | etasq | partial.etasq | omegasq | partial.omegasq | epsilonsq | cohens.f | power
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Setno            |    4 |   150.665 |  37.666 |    37.666 |         |     0 |             0 |         |                 |           |    0.011 |      
+Post.error       |    1 |   445.150 | 445.150 |   445.150 |         |     0 |             0 |         |                 |           |    0.019 |      
+Setno:Post.error |    4 |     0.242 |   0.060 |     0.060 |         |     0 |             0 |         |                 |           |    0.000 |      
+Residuals        |      | 1.197e+06 |   0.141 |           | 1317652 |       |               |         |                 |           |          |     

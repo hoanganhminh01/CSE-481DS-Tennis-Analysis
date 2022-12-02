@@ -1,0 +1,69 @@
+$playerID
+Importance of components:
+                          [,1]
+Standard deviation     0.09075
+Proportion of Variance 1.00000
+Cumulative Proportion  1.00000
+
+> #how many principal components? can it be simplified? Are they all explaining additional variance
+> 
+> #####reporting stuff#######
+> summary(int_model_full2)
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: ChokingPercentage ~ Pressure * Post.error + (1 | playerID)
+   Data: final.set
+
+      AIC       BIC    logLik  deviance  df.resid 
+1115932.6 1116065.6 -557955.3 1115910.6   1317641 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-0.7266 -0.4295 -0.4104 -0.3910  2.7233 
+
+Random effects:
+ Groups   Name        Variance Std.Dev.
+ playerID (Intercept) 0.008235 0.09075 
+Number of obs: 1317652, groups:  playerID, 254
+
+Fixed effects:
+                       Estimate Std. Error  z value Pr(>|z|)    
+(Intercept)           -1.787641   0.006586 -271.438  < 2e-16 ***
+Pressure1              0.007403   0.006269    1.181  0.23765    
+Pressure2              0.138602   0.008938   15.507  < 2e-16 ***
+Pressure3              0.465355   0.019281   24.136  < 2e-16 ***
+Pressure4              0.535451   0.050199   10.667  < 2e-16 ***
+Post.error1            0.199430   0.008055   24.758  < 2e-16 ***
+Pressure1:Post.error1  0.061609   0.014579    4.226 2.38e-05 ***
+Pressure2:Post.error1  0.099193   0.019708    5.033 4.83e-07 ***
+Pressure3:Post.error1  0.245973   0.035046    7.019 2.24e-12 ***
+Pressure4:Post.error1  0.229129   0.088260    2.596  0.00943 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) Prssr1 Prssr2 Prssr3 Prssr4 Pst.r1 P1:P.1 P2:P.1 P3:P.1
+Pressure1   -0.263                                                        
+Pressure2   -0.181  0.193                                                 
+Pressure3   -0.078  0.076  0.062                                          
+Pressure4   -0.008  0.013  0.021  0.054                                   
+Post.error1 -0.195  0.199  0.134  0.038  0.009                            
+Prssr1:Ps.1  0.104 -0.409 -0.076 -0.022 -0.012 -0.533                     
+Prssr2:Ps.1  0.072 -0.071 -0.406 -0.029 -0.022 -0.374  0.201              
+Prssr3:Ps.1  0.027 -0.025 -0.026 -0.403 -0.077 -0.165  0.092  0.085       
+Prssr4:Ps.1  0.006 -0.006 -0.023 -0.023 -0.114 -0.053  0.024  0.049  0.029
+> #summary(int_model_full2)
+> #tab_model(int_model_full3)
+> anova(int_model_full2)
+Analysis of Variance Table
+                    npar  Sum Sq Mean Sq  F value
+Pressure               4 1281.37  320.34  320.343
+Post.error             1 1308.69 1308.69 1308.689
+Pressure:Post.error    4   60.63   15.16   15.156
+> anova_stats(int_model_full2)
+term                | npar |     sumsq |   meansq | statistic |      df | etasq | partial.etasq | omegasq | partial.omegasq | epsilonsq | cohens.f | power
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Pressure            |    4 |  1281.372 |  320.343 |   320.343 |         | 0.001 |         0.001 |         |                 |           |    0.034 |      
+Post.error          |    1 |  1308.689 | 1308.689 |  1308.689 |         | 0.001 |         0.001 |         |                 |           |    0.034 |      
+Pressure:Post.error |    4 |    60.626 |   15.156 |    15.156 |         | 0.000 |         0.000 |         |                 |           |    0.007 |      
+Residuals           |      | 1.115e+06 |    0.128 |           | 1317652 |       |               |         |                 |
